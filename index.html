@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CINÉDLE</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Archivo:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #12131a; --bg-raised: #1b1d28; --bg-cell: #22242f; --ivory: #f2ede2; --muted: #8b8ea3;
+    --gold: #e7b44e; --gold-dim: #6b5427; --green: #3f9e6d; --green-dim: #1f4a35;
+    --amber: #d98a3d; --amber-dim: #4a3520; --wrong: #3d1f24; --wrong-text: #c7707a;
+    --blue: #4a90d9; --blue-dim: #204a6b;
+    --red: #d9524a; --red-dim: #6b2420;
+    --border: #2c2e3c; --shadow: rgba(0,0,0,0.45);
+    --accent: var(--gold); --accent-dim: var(--gold-dim); --accent-rgb: 231,180,78;
+  }
+  body[data-theme="series"]{ --accent: var(--blue); --accent-dim: var(--blue-dim); --accent-rgb: 74,144,217; }
+  body[data-theme="animes"]{ --accent: var(--red); --accent-dim: var(--red-dim); --accent-rgb: 217,82,74; }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{
+    background: radial-gradient(ellipse at 20% -10%, rgba(var(--accent-rgb),0.06), transparent 55%), radial-gradient(ellipse at 100% 0%, rgba(63,158,109,0.05), transparent 50%), var(--bg);
+    color: var(--ivory); font-family: 'Archivo', sans-serif; min-height: 100vh;
+  }
+  #app{ max-width: 640px; margin: 0 auto; padding: 32px 16px 80px; }
+  .eyebrow{ font-size: 11px; letter-spacing: 0.28em; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
+  h1.logo{ font-family: 'Bebas Neue', sans-serif; font-size: 52px; letter-spacing: 0.04em; line-height: 1; background: linear-gradient(180deg, var(--ivory) 0%, var(--accent) 120%); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  .subtitle{ color: var(--muted); font-size: 14px; margin-top: 8px; }
+  header.home-header{ text-align:center; margin-bottom: 28px; }
+
+  .theme-row{ display:flex; gap:10px; margin-bottom: 30px; }
+  .theme-btn{ flex:1; padding: 14px 8px; border-radius: 10px; border: 1.5px solid var(--border); background: var(--bg-raised); color: var(--muted); font-family:'Archivo'; font-weight:700; font-size: 13px; letter-spacing:0.03em; cursor:pointer; text-align:center; position:relative; }
+  .theme-btn.active{ border-color: var(--accent-dim); color: var(--accent); background: rgba(var(--accent-rgb),0.07); }
+  .theme-btn.disabled{ cursor:not-allowed; opacity:0.5; }
+  .theme-btn .soon{ display:block; font-size:9px; letter-spacing:0.08em; text-transform:uppercase; margin-top:3px; color: var(--muted); }
+
+  .allin-btn{ width:100%; padding: 18px; border-radius: 14px; border: 1px solid var(--accent-dim); background: linear-gradient(135deg, rgba(var(--accent-rgb),0.14), rgba(var(--accent-rgb),0.04)); color: var(--accent); font-family:'Bebas Neue'; font-size: 24px; letter-spacing:0.05em; cursor:pointer; margin-bottom: 26px; text-align:center; }
+  .allin-btn .sub{ display:block; font-family:'Archivo'; font-size:11px; text-transform:uppercase; letter-spacing:0.1em; color:var(--muted); font-weight:600; margin-top:4px; }
+
+  .section-label{ font-size:11px; letter-spacing:0.14em; text-transform:uppercase; color:var(--muted); margin-bottom:12px; }
+
+  .cards-grid{ display:grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .defi-card{ background: var(--bg-raised); border: 1px solid var(--border); border-radius: 12px; padding: 18px 16px; cursor:pointer; transition: border-color 0.15s ease; }
+  .defi-card:hover{ border-color: var(--accent-dim); }
+  .defi-card .icon{ font-size: 26px; margin-bottom: 10px; }
+  .defi-card .name{ font-family:'Bebas Neue'; font-size: 20px; letter-spacing:0.03em; color: var(--ivory); }
+  .defi-card .desc{ font-size: 11.5px; color: var(--muted); margin-top: 3px; line-height:1.4; }
+  .defi-card .status{ margin-top:10px; font-size:10px; letter-spacing:0.06em; text-transform:uppercase; color: var(--green); font-weight:700; }
+
+  .back-btn{ display:inline-flex; align-items:center; gap:6px; color: var(--muted); font-size:13px; font-weight:600; cursor:pointer; margin-bottom: 18px; background:none; border:none; font-family:'Archivo'; }
+  .back-btn:hover{ color: var(--accent); }
+
+  .progress-dots{ display:flex; gap:6px; justify-content:center; margin-bottom: 18px; }
+  .dot{ width:8px; height:8px; border-radius:50%; background: var(--border); }
+  .dot.done{ background: var(--green); }
+  .dot.current{ background: var(--accent); }
+
+  header.defi-header{ text-align:center; margin-bottom: 22px; }
+  .defi-eyebrow{ font-size: 11px; letter-spacing: 0.24em; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
+  h2.defi-title{ font-family: 'Bebas Neue', sans-serif; font-size: 42px; letter-spacing: 0.03em; color: var(--accent); }
+
+  .search-wrap{ position: relative; margin-bottom: 14px; }
+  input[type="text"]{ width: 100%; background: var(--bg-raised); border: 1.5px solid var(--border); color: var(--ivory); font-family: 'Archivo', sans-serif; font-size: 16px; font-weight: 500; padding: 15px 18px; border-radius: 10px; outline: none; transition: border-color 0.15s ease; }
+  input[type="text"]:focus{ border-color: var(--accent-dim); }
+  input[type="text"]:disabled{ opacity: 0.45; }
+  .suggestions{ position:absolute; top: calc(100% + 6px); left:0; right:0; background: var(--bg-raised); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; z-index: 10; box-shadow: 0 12px 28px var(--shadow); display:none; }
+  .suggestions.open{ display:block; }
+  .suggestion-item{ padding: 12px 16px; font-size: 14px; font-weight: 500; cursor:pointer; border-bottom: 1px solid var(--border); }
+  .suggestion-item:last-child{ border-bottom:none; }
+  .suggestion-item:hover{ background: var(--bg-cell); color: var(--accent); }
+
+  .grid-header, .guess-row{ display:grid; gap: 6px; }
+  .grid-header{ margin-bottom: 8px; }
+  .grid-header .label{ font-size: 9.5px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); text-align:center; padding: 0 2px; }
+  .grid-header .label:first-child{ text-align:left; }
+  .guesses{ display:flex; flex-direction: column; gap: 8px; margin-bottom: 16px; }
+  .cell{ background: var(--wrong); border-radius: 8px; min-height: 66px; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; font-size: 12px; font-weight: 600; padding: 6px 4px; color: var(--wrong-text); border: 1px solid rgba(199,112,122,0.35); opacity: 0; transform: translateY(6px) scale(0.96); animation: reveal 0.35s ease forwards; }
+  .cell.title{ align-items:flex-start; text-align:left; font-size: 13px; background: var(--bg-cell); color: var(--ivory); justify-content:center; border:none; }
+  .cell .arrow{ font-size: 15px; margin-top: 2px; }
+  .cell.correct{ background: var(--green-dim); color: var(--green); border: 1px solid var(--green); }
+  .cell.close{ background: var(--amber-dim); color: var(--amber); border: 1px solid var(--amber); }
+  @keyframes reveal{ to{ opacity:1; transform: translateY(0) scale(1); } }
+  .guess-row.settled .cell{ animation: none; opacity: 1; transform: none; }
+  .guess-row.animating .cell:nth-child(1){ animation-delay: 0.00s; }
+  .guess-row.animating .cell:nth-child(2){ animation-delay: 0.15s; }
+  .guess-row.animating .cell:nth-child(3){ animation-delay: 0.30s; }
+  .guess-row.animating .cell:nth-child(4){ animation-delay: 0.45s; }
+  .guess-row.animating .cell:nth-child(5){ animation-delay: 0.60s; }
+  .guess-row.animating .cell:nth-child(6){ animation-delay: 0.75s; }
+  .guess-row.animating .cell:nth-child(7){ animation-delay: 0.90s; }
+  .guess-row.animating .cell:nth-child(8){ animation-delay: 1.05s; }
+
+  .poster-frame{ position: relative; width: 100%; max-width: 280px; margin: 0 auto 18px; aspect-ratio: 2/3; border-radius: 14px; overflow: hidden; border: 1px solid var(--border); box-shadow: 0 20px 50px var(--shadow); background:#000; }
+  .poster-placeholder{ width:100%; height:100%; display:flex; align-items:center; justify-content:center; background: radial-gradient(circle at 30% 20%, rgba(var(--accent-rgb),0.35), transparent 55%), radial-gradient(circle at 70% 80%, rgba(63,158,109,0.25), transparent 55%), linear-gradient(160deg, #1c1830 0%, #0e0d16 100%); filter: blur(24px) saturate(1.1); transform: scale(1.15); transition: filter 0.6s ease; font-size:34px; }
+  .attempts-badge{ position:absolute; top: 10px; right: 10px; background: rgba(18,19,26,0.85); border: 1px solid var(--border); color: var(--accent); font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; padding: 4px 10px; border-radius: 100px; z-index: 2; }
+
+  .replique-box{ background: var(--bg-raised); border: 1px solid var(--border); border-radius: 12px; padding: 22px; text-align:center; font-size: 17px; font-style: italic; color: var(--ivory); margin-bottom: 16px; line-height:1.5; }
+  .voice-hint{ display:flex; align-items:center; justify-content:center; gap:8px; margin-bottom:14px; padding: 12px; border-radius: 10px; background: rgba(var(--accent-rgb),0.06); border: 1px dashed var(--accent-dim); color: var(--accent); font-size: 13px; font-weight:600; }
+  .locked-hint{ text-align:center; color: var(--muted); font-size: 12px; margin-bottom: 14px; }
+  audio{ width:100%; margin-bottom:16px; }
+
+  .images-row{ display:flex; gap:10px; margin-bottom:16px; }
+  .img-slot{ flex:1; aspect-ratio: 1/1; border-radius: 10px; display:flex; flex-direction:column; align-items:center; justify-content:center; background: var(--bg-cell); border: 1px solid var(--border); font-size:11px; color: var(--muted); text-align:center; gap:6px; }
+  .img-slot.unlocked{ background: linear-gradient(160deg, #1c1830 0%, #0e0d16 100%); border-color: var(--accent-dim); color: var(--ivory); }
+  .img-slot .lock-icon{ font-size: 20px; }
+
+  .wrong-list{ display:flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+  .wrong-chip{ font-size: 12px; font-weight: 600; color: var(--wrong-text); background: var(--wrong); border: 1px solid rgba(199,112,122,0.35); padding: 5px 10px; border-radius: 100px; }
+
+  .result{ margin-top: 12px; padding: 20px; border-radius: 12px; background: var(--bg-raised); border: 1px solid var(--accent-dim); text-align:center; }
+  .result .film-title{ font-family: 'Bebas Neue', sans-serif; font-size: 26px; letter-spacing: 0.03em; color: var(--accent); margin-bottom: 4px; }
+  .result .meta{ color: var(--muted); font-size: 13px; margin-bottom: 14px; }
+  .primary-btn{ background: var(--accent); color: #1a1500; border:none; font-family: 'Archivo', sans-serif; font-weight: 700; font-size: 13px; letter-spacing: 0.04em; text-transform: uppercase; padding: 12px 24px; border-radius: 100px; cursor:pointer; }
+
+  .recap-line{ display:flex; justify-content:space-between; padding: 12px 4px; border-bottom: 1px solid var(--border); font-size: 14px; }
+  .recap-line:last-child{ border-bottom:none; }
+  .recap-line .name{ color: var(--ivory); font-weight:600; }
+  .recap-line .count{ color: var(--accent); font-weight:700; }
+
+  @media (max-width: 420px){
+    h1.logo{ font-size: 42px; }
+    .cards-grid{ grid-template-columns: 1fr; }
+    .grid-header .label{ font-size: 8px; }
+    .cell{ font-size: 10px; min-height: 56px; }
+    .cell.title{ font-size: 11px; }
+  }
+</style>
+</head>
+<body>
+<div id="app"></div>
+
+<script>
+/* =========================================================
+   DONNÉES — CINÉMA
+   ========================================================= */
+/* =========================================================
+   DONNÉES — chargées via fetch() depuis les fichiers JSON
+   ========================================================= */
+let FILMS, PERSONNAGES, SERIES, PERSONNAGES_SERIES, ANIMES, PERSONNAGES_ANIMES;
+let DAILY_CINEMA, DAILY_SERIES, DAILY_ANIMES;
+
+/* =========================================================
+   TIRAGE DU JOUR (déterministe par date, distinct par défi, par thème)
+   ========================================================= */
+function hashStr(str){ let h=0; for(let i=0;i<str.length;i++){ h=(h<<5)-h+str.charCodeAt(i); h|=0; } return Math.abs(h); }
+const TODAY_SEED = new Date().toISOString().slice(0,10);
+
+function pickDistinct(pool, labels, themeKey){
+  const used = new Set(); const result = {};
+  labels.forEach(label => {
+    let idx = hashStr(TODAY_SEED + themeKey + label) % pool.length;
+    let tries = 0;
+    while(used.has(idx) && tries < pool.length){ idx = (idx+1) % pool.length; tries++; }
+    used.add(idx);
+    result[label] = pool[idx];
+  });
+  return result;
+}
+
+
+/* =========================================================
+   COMPARATEURS GÉNÉRIQUES
+   ========================================================= */
+function compareTextRaw(g,t){ return g===t ? {cls:'correct',arrow:''} : {cls:'wrong',arrow:''}; }
+function compareNumArrow(threshold){
+  return function(g,t){
+    if(g===t) return {cls:'correct',arrow:''};
+    const d = Math.abs(g-t);
+    const arrow = g<t ? '↑' : '↓';
+    return { cls: d<=threshold ? 'close' : 'wrong', arrow };
+  };
+}
+
+/* =========================================================
+   CONFIG COLONNES PAR DÉFI GRILLE
+   ========================================================= */
+const COLS_FILM = [
+  { label:'Réal.', get:i=>i.realisateur, compare:compareTextRaw },
+  { label:'Année', get:i=>i.annee, compare:compareNumArrow(5) },
+  { label:'Genre', get:i=>i.genre, compare:compareTextRaw },
+  { label:'Pays', get:i=>i.pays, compare:compareTextRaw },
+  { label:'Durée', get:i=>i.duree_minutes, compare:compareNumArrow(15), format:v=>v+' min' },
+  { label:'Acteur', get:i=>i.acteur_principal, compare:compareTextRaw },
+];
+const COLS_PERSO_CINEMA = [
+  { label:'Film', get:i=>i.film_origine, compare:compareTextRaw },
+  { label:'Acteur', get:i=>i.acteur, compare:compareTextRaw },
+  { label:'Statut', get:i=>i.statut, compare:compareTextRaw },
+  { label:'Genre', get:i=>i.genre_film, compare:compareTextRaw },
+  { label:'Décennie', get:i=>i.decennie_apparition, compare:compareNumArrow(10), format:v=>v+'s' },
+  { label:'Sexe', get:i=>i.sexe, compare:compareTextRaw },
+];
+const COLS_SERIE = [
+  { label:'Créateur', get:i=>i.createur, compare:compareTextRaw },
+  { label:'Début', get:i=>i.annee_debut, compare:compareNumArrow(5) },
+  { label:'Genre', get:i=>i.genre, compare:compareTextRaw },
+  { label:'Pays', get:i=>i.pays, compare:compareTextRaw },
+  { label:'Saisons', get:i=>i.nombre_saisons, compare:compareNumArrow(2) },
+  { label:'Épisodes', get:i=>i.nombre_episodes, compare:compareNumArrow(20) },
+  { label:'Statut', get:i=>i.statut, compare:compareTextRaw },
+];
+const COLS_PERSO_SERIE = [
+  { label:'Série', get:i=>i.serie_origine, compare:compareTextRaw },
+  { label:'Acteur', get:i=>i.acteur, compare:compareTextRaw },
+  { label:'Statut', get:i=>i.statut, compare:compareTextRaw },
+  { label:'Genre', get:i=>i.genre_serie, compare:compareTextRaw },
+  { label:'Décennie', get:i=>i.decennie_apparition, compare:compareNumArrow(10), format:v=>v+'s' },
+  { label:'Sexe', get:i=>i.sexe, compare:compareTextRaw },
+  { label:'Saison', get:i=>i.saison_apparition, compare:compareNumArrow(1), format:v=>'S'+v },
+];
+const COLS_ANIME = [
+  { label:'Mangaka', get:i=>i.mangaka, compare:compareTextRaw },
+  { label:'Studio', get:i=>i.studio, compare:compareTextRaw },
+  { label:'Année', get:i=>i.annee, compare:compareNumArrow(5) },
+  { label:'Genre', get:i=>i.genre, compare:compareTextRaw },
+  { label:'Épisodes', get:i=>i.nombre_episodes, compare:compareNumArrow(20) },
+];
+const COLS_PERSO_ANIME = [
+  { label:'Sexe', get:i=>i.sexe, compare:compareTextRaw },
+  { label:'Statut', get:i=>i.statut, compare:compareTextRaw },
+  { label:'Animé', get:i=>i.anime_origine, compare:compareTextRaw },
+  { label:'Genre', get:i=>i.genre, compare:compareTextRaw },
+  { label:'Pouvoir', get:i=>i.pouvoir, compare:compareTextRaw },
+];
+
+/* =========================================================
+   THÈMES : configuration des 6 défis
+   ========================================================= */
+const THEMES = {
+  cinema: {
+    label: 'Cinéma',
+    defis: [
+      { n:1, icon:'🎬', name:'Film', desc:'Grille de comparaison',
+        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine le film', itemLabel:'Film', labelKey:'titre',
+          placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi1, columns:COLS_FILM,
+          resultMeta:t=>`${t.realisateur} · ${t.annee} · ${t.genre}`, completionName:'Film' }) },
+      { n:2, icon:'🧑‍🎤', name:'Personnage', desc:'Grille de comparaison',
+        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', itemLabel:'Perso', labelKey:'nom',
+          placeholder:"Tape le nom d'un personnage...", pool:PERSONNAGES, target:DAILY_CINEMA.defi2, columns:COLS_PERSO_CINEMA,
+          resultMeta:t=>`${t.film_origine} · ${t.acteur}`, completionName:'Personnage' }) },
+      { n:3, icon:'🖼️', name:'Affiche', desc:'Se déflouille',
+        render: () => renderBlurDefi({ eyebrow:'Défi 3', title:"Devine l'affiche", labelKey:'titre',
+          placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi3,
+          resultMeta:t=>`${t.realisateur} · ${t.annee}`, completionName:'Affiche' }) },
+      { n:4, icon:'💬', name:'Réplique', desc:'+ indice vocal',
+        render: () => renderClueGuessDefi({ eyebrow:'Défi 4', title:'Devine la réplique', labelKey:'titre',
+          placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi4,
+          clueHtml: `<div class="replique-box">« ${DAILY_CINEMA.defi4.repliques_cultes[0]} »</div>`,
+          voiceHintAfter: 5, hintAudioSrc: DAILY_CINEMA.defi4.audio_replique,
+          resultMeta:t=>`${t.realisateur} · ${t.annee}`, completionName:'Réplique' }) },
+      { n:5, icon:'🎵', name:'Musique', desc:'Extrait audio',
+        render: () => renderClueGuessDefi({ eyebrow:'Défi 5', title:'Devine la musique', labelKey:'titre',
+          placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi5,
+          clueHtml: `<div class="replique-box">🎵 Extrait de « ${DAILY_CINEMA.defi5.musique.titre} » — ${DAILY_CINEMA.defi5.musique.artiste}</div>`,
+          audioSrc: DAILY_CINEMA.defi5.musique.extrait_audio,
+          resultMeta:t=>`${t.musique.titre} · ${t.musique.artiste}`, completionName:'Musique' }) },
+      { n:6, icon:'📸', name:'3 Images', desc:'Difficulté croissante',
+        render: () => renderImagesDefi({ eyebrow:'Défi 6', title:'3 images du film', labelKey:'titre',
+          placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi6,
+          resultMeta:t=>`${t.realisateur} · ${t.annee}`, completionName:'3 Images' }) },
+    ]
+  },
+  series: {
+    label: 'Séries',
+    defis: [
+      { n:1, icon:'📺', name:'Série', desc:'Grille de comparaison',
+        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine la série', itemLabel:'Série', labelKey:'titre',
+          placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi1, columns:COLS_SERIE,
+          resultMeta:t=>`${t.createur} · ${t.annee_debut} · ${t.genre}`, completionName:'Série' }) },
+      { n:2, icon:'🧑‍🎤', name:'Personnage', desc:'Grille de comparaison',
+        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', itemLabel:'Perso', labelKey:'nom',
+          placeholder:"Tape le nom d'un personnage...", pool:PERSONNAGES_SERIES, target:DAILY_SERIES.defi2, columns:COLS_PERSO_SERIE,
+          resultMeta:t=>`${t.serie_origine} · ${t.acteur}`, completionName:'Personnage' }) },
+      { n:3, icon:'📍', name:'Lieu culte', desc:'Se déflouille',
+        render: () => renderBlurDefi({ eyebrow:'Défi 3', title:'Devine le lieu culte', labelKey:'titre',
+          placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi3,
+          resultMeta:t=>`${t.createur} · ${t.annee_debut}`, completionName:'Lieu culte' }) },
+      { n:4, icon:'🎞️', name:"Titre d'épisode", desc:'Indice écrit',
+        render: () => renderClueGuessDefi({ eyebrow:'Défi 4', title:"Devine la série", labelKey:'titre',
+          placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi4,
+          clueHtml: `<div class="replique-box">📺 Titre d'épisode culte :<br><strong>« ${DAILY_SERIES.defi4.titre_episode_culte} »</strong></div>`,
+          resultMeta:t=>`${t.createur} · ${t.annee_debut}`, completionName:"Titre d'épisode" }) },
+      { n:5, icon:'🎵', name:'Générique', desc:'Extrait audio',
+        render: () => renderClueGuessDefi({ eyebrow:'Défi 5', title:'Devine le générique', labelKey:'titre',
+          placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi5,
+          clueHtml: `<div class="replique-box">🎵 Extrait de « ${DAILY_SERIES.defi5.generique.titre} » — ${DAILY_SERIES.defi5.generique.artiste}</div>`,
+          audioSrc: DAILY_SERIES.defi5.generique.extrait_audio,
+          resultMeta:t=>`${t.generique.titre} · ${t.generique.artiste}`, completionName:'Générique' }) },
+      { n:6, icon:'📸', name:'3 Images', desc:'Difficulté croissante',
+        render: () => renderImagesDefi({ eyebrow:'Défi 6', title:'3 images de la série', labelKey:'titre',
+          placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi6,
+          resultMeta:t=>`${t.createur} · ${t.annee_debut}`, completionName:'3 Images' }) },
+    ]
+  },
+  animes: {
+    label: 'Animés',
+    defis: [
+      { n:1, icon:'🈵', name:'Animé', desc:'Grille de comparaison',
+        render: () => renderGridDefi({ eyebrow:'Défi 1', title:"Devine l'animé", itemLabel:'Animé', labelKey:'titre',
+          placeholder:"Tape le titre d'un animé...", pool:ANIMES, target:DAILY_ANIMES.defi1, columns:COLS_ANIME,
+          resultMeta:t=>`${t.mangaka} · ${t.annee} · ${t.genre}`, completionName:'Animé' }) },
+      { n:2, icon:'🧑‍🎤', name:'Personnage', desc:'Grille de comparaison',
+        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', itemLabel:'Perso', labelKey:'nom',
+          placeholder:"Tape le nom d'un personnage...", pool:PERSONNAGES_ANIMES, target:DAILY_ANIMES.defi2, columns:COLS_PERSO_ANIME,
+          resultMeta:t=>`${t.anime_origine} · ${t.pouvoir}`, completionName:'Personnage' }) },
+      { n:3, icon:'📖', name:'Couverture manga', desc:'Se déflouille',
+        render: () => renderBlurDefi({ eyebrow:'Défi 3', title:'Devine la couverture', labelKey:'titre',
+          placeholder:"Tape le titre d'un animé...", pool:ANIMES, target:DAILY_ANIMES.defi3,
+          resultMeta:t=>`${t.mangaka} · ${t.annee}`, completionName:'Couverture manga' }) },
+      { n:4, icon:'💬', name:'Réplique culte', desc:'Indice écrit',
+        render: () => renderClueGuessDefi({ eyebrow:'Défi 4', title:'Devine la réplique', labelKey:'titre',
+          placeholder:"Tape le titre d'un animé...", pool:ANIMES, target:DAILY_ANIMES.defi4,
+          clueHtml: `<div class="replique-box">« ${DAILY_ANIMES.defi4.replique_culte} »</div>`,
+          resultMeta:t=>`${t.mangaka} · ${t.annee}`, completionName:'Réplique culte' }) },
+      { n:5, icon:'🎵', name:'Opening', desc:'Extrait audio',
+        render: () => renderClueGuessDefi({ eyebrow:'Défi 5', title:"Devine l'opening", labelKey:'titre',
+          placeholder:"Tape le titre d'un animé...", pool:ANIMES, target:DAILY_ANIMES.defi5,
+          clueHtml: `<div class="replique-box">🎵 Extrait de « ${DAILY_ANIMES.defi5.opening.titre} » — ${DAILY_ANIMES.defi5.opening.artiste}</div>`,
+          audioSrc: DAILY_ANIMES.defi5.opening.extrait_audio,
+          resultMeta:t=>`${t.opening.titre} · ${t.opening.artiste}`, completionName:'Opening' }) },
+      { n:6, icon:'📸', name:'3 Images', desc:'Difficulté croissante',
+        render: () => renderImagesDefi({ eyebrow:'Défi 6', title:"3 images de l'animé", labelKey:'titre',
+          placeholder:"Tape le titre d'un animé...", pool:ANIMES, target:DAILY_ANIMES.defi6,
+          resultMeta:t=>`${t.mangaka} · ${t.annee}`, completionName:'3 Images' }) },
+    ]
+  }
+};
+
+/* =========================================================
+   ÉTAT GLOBAL
+   ========================================================= */
+let state = { themeKey:'cinema', mode:null, allinIndex:0, allinResults:[] };
+const app = document.getElementById('app');
+function currentDefis(){ return THEMES[state.themeKey].defis; }
+
+/* =========================================================
+   VUE : ACCUEIL
+   ========================================================= */
+function renderHome(){
+  state.mode = null; state.allinIndex = 0; state.allinResults = [];
+  document.body.dataset.theme = state.themeKey;
+  const defis = currentDefis();
+  app.innerHTML = `
+    <header class="home-header">
+      <div class="eyebrow">Jeu défi quotidien</div>
+      <h1 class="logo">CINÉDLE</h1>
+      <div class="subtitle">Choisis un thème et devine les réponses du jour</div>
+    </header>
+
+    <div class="theme-row" id="theme-row">
+      <div class="theme-btn ${state.themeKey==='cinema'?'active':''}" data-theme="cinema">Cinéma</div>
+      <div class="theme-btn ${state.themeKey==='series'?'active':''}" data-theme="series">Séries</div>
+      <div class="theme-btn ${state.themeKey==='animes'?'active':''}" data-theme="animes">Animés</div>
+    </div>
+
+    <button class="allin-btn" id="allin-btn">ALL IN<span class="sub">Enchaîner les 6 défis</span></button>
+
+    <div class="section-label">Ou joue en indépendant</div>
+    <div class="cards-grid" id="cards-grid"></div>
+  `;
+
+  document.querySelectorAll('.theme-btn[data-theme]').forEach(btn => {
+    btn.addEventListener('click', () => { state.themeKey = btn.dataset.theme; renderHome(); });
+  });
+
+  const grid = document.getElementById('cards-grid');
+  defis.forEach(d => {
+    const card = document.createElement('div');
+    card.className = 'defi-card';
+    card.innerHTML = `<div class="icon">${d.icon}</div><div class="name">${d.name}</div><div class="desc">${d.desc}</div><div class="status">Jouer →</div>`;
+    card.addEventListener('click', () => { state.mode = 'single'; d.render(); });
+    grid.appendChild(card);
+  });
+
+  document.getElementById('allin-btn').addEventListener('click', () => {
+    state.mode = 'allin'; state.allinIndex = 0; state.allinResults = [];
+    currentDefis()[0].render();
+  });
+}
+
+/* =========================================================
+   NAVIGATION COMMUNE
+   ========================================================= */
+function onDefiComplete(defiName, attempts){
+  if(state.mode === 'allin'){
+    state.allinResults.push({ name: defiName, attempts });
+    const defis = currentDefis();
+    const nextIdx = state.allinIndex + 1;
+    if(nextIdx < defis.length){
+      state.allinIndex = nextIdx;
+      setTimeout(() => defis[nextIdx].render(), 900);
+    } else {
+      setTimeout(renderRecap, 900);
+    }
+  }
+}
+function progressDots(){
+  if(state.mode !== 'allin') return '';
+  const defis = currentDefis();
+  return `<div class="progress-dots">${defis.map((d,i) => {
+    let cls = 'dot';
+    if(i < state.allinIndex) cls += ' done'; else if(i === state.allinIndex) cls += ' current';
+    return `<div class="${cls}"></div>`;
+  }).join('')}</div>`;
+}
+function backButton(){ return `<button class="back-btn" id="back-btn">← Retour à l'accueil</button>`; }
+function wireBack(){ document.getElementById('back-btn')?.addEventListener('click', renderHome); }
+
+/* =========================================================
+   HELPERS PARTAGÉS
+   ========================================================= */
+function makeCell(text, cls, arrow){
+  const cell = document.createElement('div'); cell.className = 'cell ' + cls;
+  const span = document.createElement('div'); span.textContent = text; cell.appendChild(span);
+  if(arrow){ const a = document.createElement('div'); a.className='arrow'; a.textContent=arrow; cell.appendChild(a); }
+  return cell;
+}
+function wireAutocomplete(input, suggestionsBox, pool, labelKey, excludeList, onPick){
+  input.addEventListener('input', () => {
+    const val = input.value.trim().toLowerCase();
+    suggestionsBox.innerHTML = '';
+    if(!val){ suggestionsBox.classList.remove('open'); return; }
+    const matches = pool.filter(item => item[labelKey].toLowerCase().includes(val) && !excludeList.includes(item[labelKey])).slice(0,6);
+    if(matches.length===0){ suggestionsBox.classList.remove('open'); return; }
+    matches.forEach(item => {
+      const el = document.createElement('div'); el.className = 'suggestion-item'; el.textContent = item[labelKey];
+      el.addEventListener('click', () => onPick(item));
+      suggestionsBox.appendChild(el);
+    });
+    suggestionsBox.classList.add('open');
+  });
+  document.addEventListener('click', e => { if(!input.closest('.search-wrap')?.contains(e.target)) suggestionsBox.classList.remove('open'); });
+}
+
+/* =========================================================
+   MOTEUR GÉNÉRIQUE — DÉFI GRILLE (Film/Série + Personnage)
+   ========================================================= */
+function renderGridDefi(cfg){
+  let attempts = [];
+  const colCount = cfg.columns.length;
+  const gridStyle = `grid-template-columns:1.5fr repeat(${colCount},1fr)`;
+  app.innerHTML = `
+    ${backButton()}${progressDots()}
+    <header class="defi-header"><div class="defi-eyebrow">${cfg.eyebrow}</div><h2 class="defi-title">${cfg.title}</h2></header>
+    <div class="grid-header" style="${gridStyle}">
+      <div class="label">${cfg.itemLabel}</div>
+      ${cfg.columns.map(c=>`<div class="label">${c.label}</div>`).join('')}
+    </div>
+    <div class="guesses" id="guesses"></div>
+    <div class="search-wrap" id="search-wrap">
+      <input type="text" id="search-input" placeholder="${cfg.placeholder}" autocomplete="off">
+      <div class="suggestions" id="suggestions"></div>
+    </div>
+    <div id="result-zone"></div>
+  `;
+  wireBack();
+  const input = document.getElementById('search-input');
+  const suggestionsBox = document.getElementById('suggestions');
+  const guessesBox = document.getElementById('guesses');
+  wireAutocomplete(input, suggestionsBox, cfg.pool, cfg.labelKey, [], submit);
+
+  const ROW_ANIM_MS = 1300 + (colCount>6 ? 150 : 0);
+  function submit(item){
+    attempts.push(item);
+    input.value=''; suggestionsBox.classList.remove('open'); suggestionsBox.innerHTML=''; input.disabled = true;
+    renderGuesses();
+    setTimeout(() => {
+      if(item[cfg.labelKey] === cfg.target[cfg.labelKey]){ finish(); } else { input.disabled = false; }
+    }, ROW_ANIM_MS);
+  }
+  function renderGuesses(){
+    guessesBox.innerHTML = '';
+    attempts.forEach((item, i) => {
+      const isLast = i === attempts.length - 1;
+      const row = document.createElement('div');
+      row.className = 'guess-row ' + (isLast ? 'animating' : 'settled');
+      row.style.cssText = gridStyle;
+      const t = document.createElement('div'); t.className='cell title'; t.textContent = item[cfg.labelKey]; row.appendChild(t);
+      cfg.columns.forEach(col => {
+        const gRaw = col.get(item), tRaw = col.get(cfg.target);
+        const cmp = col.compare(gRaw, tRaw);
+        const display = col.format ? col.format(gRaw) : gRaw;
+        row.appendChild(makeCell(display, cmp.cls, cmp.arrow));
+      });
+      guessesBox.appendChild(row);
+    });
+  }
+  function finish(){
+    input.disabled = true;
+    document.getElementById('result-zone').innerHTML = `
+      <div class="result">
+        <div class="film-title">${cfg.target[cfg.labelKey]}</div>
+        <div class="meta">${cfg.resultMeta(cfg.target)}</div>
+        <div class="meta">Trouvé en ${attempts.length} tentative${attempts.length>1?'s':''}</div>
+      </div>`;
+    onDefiComplete(cfg.completionName, attempts.length);
+  }
+}
+
+/* =========================================================
+   MOTEUR GÉNÉRIQUE — DÉFI IMAGE FLOUTÉE (Affiche / Lieu culte)
+   ========================================================= */
+function renderBlurDefi(cfg){
+  let wrongGuesses = [];
+  const BLUR_START=24, BLUR_STEP=3, BLUR_FLOOR=3;
+  app.innerHTML = `
+    ${backButton()}${progressDots()}
+    <header class="defi-header"><div class="defi-eyebrow">${cfg.eyebrow}</div><h2 class="defi-title">${cfg.title}</h2></header>
+    <div class="poster-frame"><div class="attempts-badge" id="badge">0 essai</div><div class="poster-placeholder" id="poster">🎬</div></div>
+    <div class="wrong-list" id="wrong-list"></div>
+    <div class="search-wrap" id="search-wrap">
+      <input type="text" id="search-input" placeholder="${cfg.placeholder}" autocomplete="off">
+      <div class="suggestions" id="suggestions"></div>
+    </div>
+    <div id="result-zone"></div>
+  `;
+  wireBack();
+  const input = document.getElementById('search-input');
+  const suggestionsBox = document.getElementById('suggestions');
+  const poster = document.getElementById('poster');
+  const badge = document.getElementById('badge');
+  const wrongList = document.getElementById('wrong-list');
+  wireAutocomplete(input, suggestionsBox, cfg.pool, cfg.labelKey, [], submit);
+
+  function submit(item){
+    input.value=''; suggestionsBox.classList.remove('open'); suggestionsBox.innerHTML='';
+    if(item[cfg.labelKey] === cfg.target[cfg.labelKey]){ finish(); return; }
+    wrongGuesses.push(item);
+    const blur = Math.max(BLUR_FLOOR, BLUR_START - wrongGuesses.length*BLUR_STEP);
+    poster.style.filter = 'blur('+blur+'px) saturate(1.1)';
+    badge.textContent = wrongGuesses.length + (wrongGuesses.length>1?' essais':' essai');
+    wrongList.innerHTML='';
+    wrongGuesses.forEach(f => { const c=document.createElement('div'); c.className='wrong-chip'; c.textContent=f[cfg.labelKey]; wrongList.appendChild(c); });
+  }
+  function finish(){
+    input.disabled = true;
+    poster.style.filter='blur(0px)'; poster.style.transform='scale(1)'; badge.textContent='Trouvé';
+    document.getElementById('result-zone').innerHTML = `
+      <div class="result">
+        <div class="film-title">${cfg.target[cfg.labelKey]}</div>
+        <div class="meta">${cfg.resultMeta(cfg.target)}</div>
+        <div class="meta">Trouvé en ${wrongGuesses.length+1} tentative${wrongGuesses.length>0?'s':''}</div>
+      </div>`;
+    onDefiComplete(cfg.completionName, wrongGuesses.length+1);
+  }
+}
+
+/* =========================================================
+   MOTEUR GÉNÉRIQUE — DÉFI INDICE (Réplique / Titre épisode / Musique / Générique)
+   ========================================================= */
+function renderClueGuessDefi(cfg){
+  let wrongGuesses = [];
+  const audioBlock = cfg.audioSrc ? `<audio controls src="${cfg.audioSrc}"></audio>` : '';
+  app.innerHTML = `
+    ${backButton()}${progressDots()}
+    <header class="defi-header"><div class="defi-eyebrow">${cfg.eyebrow}</div><h2 class="defi-title">${cfg.title}</h2></header>
+    ${cfg.clueHtml}
+    ${audioBlock}
+    <div id="voice-zone"></div>
+    <div class="wrong-list" id="wrong-list"></div>
+    <div class="search-wrap" id="search-wrap">
+      <input type="text" id="search-input" placeholder="${cfg.placeholder}" autocomplete="off">
+      <div class="suggestions" id="suggestions"></div>
+    </div>
+    <div id="result-zone"></div>
+  `;
+  wireBack();
+  const input = document.getElementById('search-input');
+  const suggestionsBox = document.getElementById('suggestions');
+  const wrongList = document.getElementById('wrong-list');
+  const voiceZone = document.getElementById('voice-zone');
+  wireAutocomplete(input, suggestionsBox, cfg.pool, cfg.labelKey, [], submit);
+
+  if(cfg.voiceHintAfter){
+    voiceZone.innerHTML = `<div class="locked-hint">🔒 Indice vocal débloqué après ${cfg.voiceHintAfter} échec${cfg.voiceHintAfter>1?'s':''}</div>`;
+  }
+
+  function submit(item){
+    input.value=''; suggestionsBox.classList.remove('open'); suggestionsBox.innerHTML='';
+    if(item[cfg.labelKey] === cfg.target[cfg.labelKey]){ finish(); return; }
+    wrongGuesses.push(item);
+    wrongList.innerHTML='';
+    wrongGuesses.forEach(f => { const c=document.createElement('div'); c.className='wrong-chip'; c.textContent=f[cfg.labelKey]; wrongList.appendChild(c); });
+    if(cfg.voiceHintAfter){
+      if(wrongGuesses.length === cfg.voiceHintAfter){
+        voiceZone.innerHTML = `<div class="voice-hint">🔊 Indice vocal débloqué</div><audio controls src="${cfg.hintAudioSrc}"></audio>`;
+      } else if(wrongGuesses.length < cfg.voiceHintAfter){
+        voiceZone.innerHTML = `<div class="locked-hint">🔒 Indice vocal débloqué après ${cfg.voiceHintAfter - wrongGuesses.length} échec${cfg.voiceHintAfter - wrongGuesses.length>1?'s':''} de plus</div>`;
+      }
+    }
+  }
+  function finish(){
+    input.disabled = true;
+    document.getElementById('result-zone').innerHTML = `
+      <div class="result">
+        <div class="film-title">${cfg.target[cfg.labelKey]}</div>
+        <div class="meta">${cfg.resultMeta(cfg.target)}</div>
+        <div class="meta">Trouvé en ${wrongGuesses.length+1} tentative${wrongGuesses.length>0?'s':''}</div>
+      </div>`;
+    onDefiComplete(cfg.completionName, wrongGuesses.length+1);
+  }
+}
+
+/* =========================================================
+   MOTEUR GÉNÉRIQUE — DÉFI 3 IMAGES
+   ========================================================= */
+function renderImagesDefi(cfg){
+  let wrongGuesses = [];
+  app.innerHTML = `
+    ${backButton()}${progressDots()}
+    <header class="defi-header"><div class="defi-eyebrow">${cfg.eyebrow}</div><h2 class="defi-title">${cfg.title}</h2></header>
+    <div class="images-row" id="images-row"></div>
+    <div class="wrong-list" id="wrong-list"></div>
+    <div class="search-wrap" id="search-wrap">
+      <input type="text" id="search-input" placeholder="${cfg.placeholder}" autocomplete="off">
+      <div class="suggestions" id="suggestions"></div>
+    </div>
+    <div id="result-zone"></div>
+  `;
+  wireBack();
+  const input = document.getElementById('search-input');
+  const suggestionsBox = document.getElementById('suggestions');
+  const wrongList = document.getElementById('wrong-list');
+  const imagesRow = document.getElementById('images-row');
+  wireAutocomplete(input, suggestionsBox, cfg.pool, cfg.labelKey, [], submit);
+
+  renderImages();
+  function renderImages(){
+    const n = wrongGuesses.length;
+    const slots = [ { label:'Difficile', unlocked:true }, { label:'Moyenne', unlocked:n>=5 }, { label:'Facile', unlocked:n>=10 } ];
+    imagesRow.innerHTML = '';
+    slots.forEach(s => {
+      const div = document.createElement('div');
+      div.className = 'img-slot' + (s.unlocked ? ' unlocked' : '');
+      div.innerHTML = s.unlocked ? `<div>🖼️</div><div>${s.label}</div>` : `<div class="lock-icon">🔒</div><div>${s.label}</div>`;
+      imagesRow.appendChild(div);
+    });
+  }
+  function submit(item){
+    input.value=''; suggestionsBox.classList.remove('open'); suggestionsBox.innerHTML='';
+    if(item[cfg.labelKey] === cfg.target[cfg.labelKey]){ finish(); return; }
+    wrongGuesses.push(item);
+    wrongList.innerHTML='';
+    wrongGuesses.forEach(f => { const c=document.createElement('div'); c.className='wrong-chip'; c.textContent=f[cfg.labelKey]; wrongList.appendChild(c); });
+    renderImages();
+  }
+  function finish(){
+    input.disabled = true;
+    document.getElementById('result-zone').innerHTML = `
+      <div class="result">
+        <div class="film-title">${cfg.target[cfg.labelKey]}</div>
+        <div class="meta">${cfg.resultMeta(cfg.target)}</div>
+        <div class="meta">Trouvé en ${wrongGuesses.length+1} tentative${wrongGuesses.length>0?'s':''}</div>
+      </div>`;
+    onDefiComplete(cfg.completionName, wrongGuesses.length+1);
+  }
+}
+
+/* =========================================================
+   RÉCAPITULATIF "ALL IN"
+   ========================================================= */
+function renderRecap(){
+  const total = state.allinResults.reduce((sum,r) => sum + r.attempts, 0);
+  app.innerHTML = `
+    <header class="defi-header"><div class="defi-eyebrow">All In terminé · ${THEMES[state.themeKey].label}</div><h2 class="defi-title">Récapitulatif</h2></header>
+    <div class="result" style="margin-top:0;">
+      ${state.allinResults.map(r => `<div class="recap-line"><span class="name">${r.name}</span><span class="count">${r.attempts} essai${r.attempts>1?'s':''}</span></div>`).join('')}
+      <div class="recap-line" style="margin-top:8px; border-top:1px solid var(--accent-dim); padding-top:14px;"><span class="name">Total</span><span class="count">${total} essais</span></div>
+    </div>
+    <div style="text-align:center; margin-top:20px; display:flex; gap:10px; justify-content:center;">
+      <button class="primary-btn" id="share-recap">Partager</button>
+      <button class="back-btn" id="back-btn-recap" style="margin:0;">← Accueil</button>
+    </div>
+  `;
+  document.getElementById('back-btn-recap').addEventListener('click', renderHome);
+  document.getElementById('share-recap').addEventListener('click', () => {
+    const text = 'CINÉDLE — All In ' + THEMES[state.themeKey].label + '\n' + state.allinResults.map(r => r.name+': '+r.attempts).join('\n') + '\nTotal: '+total+' essais';
+    navigator.clipboard?.writeText(text);
+    const btn = document.getElementById('share-recap'); const orig = btn.textContent; btn.textContent='Copié !';
+    setTimeout(() => btn.textContent = orig, 1500);
+  });
+}
+
+/* =========================================================
+   BOOT
+   ========================================================= */
+async function boot(){
+  app.innerHTML = `
+    <div style="text-align:center; padding-top:80px; color:var(--muted);">
+      <div class="eyebrow">Chargement</div>
+      <h1 class="logo">CINÉDLE</h1>
+      <div class="subtitle">Récupération des données du jour...</div>
+    </div>
+  `;
+  try{
+    const [films, persos, series, persosSeries, animes, persosAnimes] = await Promise.all([
+      fetch('films.json').then(r => r.json()),
+      fetch('personnages.json').then(r => r.json()),
+      fetch('series.json').then(r => r.json()),
+      fetch('personnages_series.json').then(r => r.json()),
+      fetch('animes.json').then(r => r.json()),
+      fetch('personnages_animes.json').then(r => r.json()),
+    ]);
+    FILMS = films; PERSONNAGES = persos; SERIES = series; PERSONNAGES_SERIES = persosSeries; ANIMES = animes; PERSONNAGES_ANIMES = persosAnimes;
+
+    DAILY_CINEMA = pickDistinct(FILMS, ['defi1','defi3','defi4','defi5','defi6'], 'cinema');
+    DAILY_CINEMA.defi2 = PERSONNAGES[hashStr(TODAY_SEED + 'cinema' + 'defi2') % PERSONNAGES.length];
+
+    DAILY_SERIES = pickDistinct(SERIES, ['defi1','defi3','defi4','defi5','defi6'], 'series');
+    DAILY_SERIES.defi2 = PERSONNAGES_SERIES[hashStr(TODAY_SEED + 'series' + 'defi2') % PERSONNAGES_SERIES.length];
+
+    DAILY_ANIMES = pickDistinct(ANIMES, ['defi1','defi3','defi4','defi5','defi6'], 'animes');
+    DAILY_ANIMES.defi2 = PERSONNAGES_ANIMES[hashStr(TODAY_SEED + 'animes' + 'defi2') % PERSONNAGES_ANIMES.length];
+
+    renderHome();
+  } catch(err){
+    app.innerHTML = `
+      <div style="text-align:center; padding-top:80px; color:var(--wrong-text);">
+        <div class="eyebrow">Erreur de chargement</div>
+        <h1 class="logo">CINÉDLE</h1>
+        <div class="subtitle">Impossible de charger les fichiers JSON (films.json, series.json...).<br>Vérifie qu'ils sont bien présents à côté de ce fichier HTML.</div>
+      </div>
+    `;
+    console.error('Erreur de chargement des données CINÉDLE :', err);
+  }
+}
+boot();
+</script>
+</body>
+</html>

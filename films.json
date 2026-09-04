@@ -1,0 +1,2877 @@
+[
+  {
+    "id": "film_001",
+    "titre": "Pulp Fiction",
+    "realisateur": "Quentin Tarantino",
+    "annee": 1994,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "duree_minutes": 154,
+    "acteur_principal": "John Travolta",
+    "affiche": "assets/affiches/pulp_fiction.jpg",
+    "repliques_cultes": [
+      "Say 'what' again. I dare you, I double dare you!"
+    ],
+    "audio_replique": "assets/audio/repliques/pulp_fiction.mp3",
+    "musique": {
+      "titre": "Misirlou",
+      "artiste": "Dick Dale",
+      "extrait_audio": "assets/audio/musiques/pulp_fiction.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/pulp_fiction_difficile.jpg",
+      "moyenne": "assets/images/pulp_fiction_moyenne.jpg",
+      "facile": "assets/images/pulp_fiction_facile.jpg"
+    }
+  },
+  {
+    "id": "film_002",
+    "titre": "Le Seigneur des Anneaux : La Communauté de l'Anneau",
+    "realisateur": "Peter Jackson",
+    "annee": 2001,
+    "genre": "Fantastique",
+    "pays": "Nouvelle-Zélande",
+    "duree_minutes": 178,
+    "acteur_principal": "Elijah Wood",
+    "affiche": "assets/affiches/lotr_1.jpg",
+    "repliques_cultes": [
+      "You shall not pass!"
+    ],
+    "audio_replique": "assets/audio/repliques/lotr_1.mp3",
+    "musique": {
+      "titre": "Concerning Hobbits",
+      "artiste": "Howard Shore",
+      "extrait_audio": "assets/audio/musiques/lotr_1.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/lotr_1_difficile.jpg",
+      "moyenne": "assets/images/lotr_1_moyenne.jpg",
+      "facile": "assets/images/lotr_1_facile.jpg"
+    }
+  },
+  {
+    "id": "film_003",
+    "titre": "Parasite",
+    "realisateur": "Bong Joon-ho",
+    "annee": 2019,
+    "genre": "Thriller",
+    "pays": "Corée du Sud",
+    "duree_minutes": 132,
+    "acteur_principal": "Song Kang-ho",
+    "affiche": "assets/affiches/parasite.jpg",
+    "repliques_cultes": [
+      "Ce plan est infaillible."
+    ],
+    "audio_replique": "assets/audio/repliques/parasite.mp3",
+    "musique": {
+      "titre": "Soju One Glass",
+      "artiste": "Jung Jae-il",
+      "extrait_audio": "assets/audio/musiques/parasite.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/parasite_difficile.jpg",
+      "moyenne": "assets/images/parasite_moyenne.jpg",
+      "facile": "assets/images/parasite_facile.jpg"
+    }
+  },
+  {
+    "id": "film_004",
+    "titre": "Amélie Poulain",
+    "realisateur": "Jean-Pierre Jeunet",
+    "annee": 2001,
+    "genre": "Comédie dramatique",
+    "pays": "France",
+    "duree_minutes": 122,
+    "acteur_principal": "Audrey Tautou",
+    "affiche": "assets/affiches/amelie_poulain.jpg",
+    "repliques_cultes": [
+      "Les jours de grand vent, on peut s'exercer au patin à roulettes."
+    ],
+    "audio_replique": "assets/audio/repliques/amelie_poulain.mp3",
+    "musique": {
+      "titre": "Comptine d'un autre été, l'après-midi",
+      "artiste": "Yann Tiersen",
+      "extrait_audio": "assets/audio/musiques/amelie_poulain.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/amelie_poulain_difficile.jpg",
+      "moyenne": "assets/images/amelie_poulain_moyenne.jpg",
+      "facile": "assets/images/amelie_poulain_facile.jpg"
+    }
+  },
+  {
+    "id": "film_005",
+    "titre": "Fight Club",
+    "realisateur": "David Fincher",
+    "annee": 1999,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 139,
+    "acteur_principal": "Brad Pitt",
+    "affiche": "assets/affiches/fight_club.jpg",
+    "repliques_cultes": [
+      "The first rule of Fight Club is: you do not talk about Fight Club."
+    ],
+    "audio_replique": "assets/audio/repliques/fight_club.mp3",
+    "musique": {
+      "titre": "Where Is My Mind?",
+      "artiste": "Pixies",
+      "extrait_audio": "assets/audio/musiques/fight_club.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/fight_club_difficile.jpg",
+      "moyenne": "assets/images/fight_club_moyenne.jpg",
+      "facile": "assets/images/fight_club_facile.jpg"
+    }
+  },
+  {
+    "id": "film_006",
+    "titre": "La Haine",
+    "realisateur": "Mathieu Kassovitz",
+    "annee": 1995,
+    "genre": "Drame",
+    "pays": "France",
+    "duree_minutes": 98,
+    "acteur_principal": "Vincent Cassel",
+    "affiche": "assets/affiches/la_haine.jpg",
+    "repliques_cultes": [
+      "Jusqu'ici tout va bien."
+    ],
+    "audio_replique": "assets/audio/repliques/la_haine.mp3",
+    "musique": {
+      "titre": "Nique la Police",
+      "artiste": "NTM",
+      "extrait_audio": "assets/audio/musiques/la_haine.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/la_haine_difficile.jpg",
+      "moyenne": "assets/images/la_haine_moyenne.jpg",
+      "facile": "assets/images/la_haine_facile.jpg"
+    }
+  },
+  {
+    "id": "film_007",
+    "titre": "Le Voyage de Chihiro",
+    "realisateur": "Hayao Miyazaki",
+    "annee": 2001,
+    "genre": "Animation",
+    "pays": "Japon",
+    "duree_minutes": 125,
+    "acteur_principal": "Rumi Hiiragi",
+    "affiche": "assets/affiches/chihiro.jpg",
+    "repliques_cultes": [
+      "Une fois que tu as fait quelque chose, tu n'en perds jamais totalement le souvenir."
+    ],
+    "audio_replique": "assets/audio/repliques/chihiro.mp3",
+    "musique": {
+      "titre": "One Summer's Day",
+      "artiste": "Joe Hisaishi",
+      "extrait_audio": "assets/audio/musiques/chihiro.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/chihiro_difficile.jpg",
+      "moyenne": "assets/images/chihiro_moyenne.jpg",
+      "facile": "assets/images/chihiro_facile.jpg"
+    }
+  },
+  {
+    "id": "film_008",
+    "titre": "Inception",
+    "realisateur": "Christopher Nolan",
+    "annee": 2010,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 148,
+    "acteur_principal": "Leonardo DiCaprio",
+    "affiche": "assets/affiches/inception.jpg",
+    "repliques_cultes": [
+      "We need to go deeper."
+    ],
+    "audio_replique": "assets/audio/repliques/inception.mp3",
+    "musique": {
+      "titre": "Time",
+      "artiste": "Hans Zimmer",
+      "extrait_audio": "assets/audio/musiques/inception.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/inception_difficile.jpg",
+      "moyenne": "assets/images/inception_moyenne.jpg",
+      "facile": "assets/images/inception_facile.jpg"
+    }
+  },
+  {
+    "id": "film_009",
+    "titre": "Gladiator",
+    "realisateur": "Ridley Scott",
+    "annee": 2000,
+    "genre": "Péplum",
+    "pays": "États-Unis",
+    "duree_minutes": 155,
+    "acteur_principal": "Russell Crowe",
+    "affiche": "assets/affiches/gladiator.jpg",
+    "repliques_cultes": [
+      "Are you not entertained?"
+    ],
+    "audio_replique": "assets/audio/repliques/gladiator.mp3",
+    "musique": {
+      "titre": "Now We Are Free",
+      "artiste": "Hans Zimmer",
+      "extrait_audio": "assets/audio/musiques/gladiator.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/gladiator_difficile.jpg",
+      "moyenne": "assets/images/gladiator_moyenne.jpg",
+      "facile": "assets/images/gladiator_facile.jpg"
+    }
+  },
+  {
+    "id": "film_010",
+    "titre": "Titanic",
+    "realisateur": "James Cameron",
+    "annee": 1997,
+    "genre": "Romance",
+    "pays": "États-Unis",
+    "duree_minutes": 195,
+    "acteur_principal": "Leonardo DiCaprio",
+    "affiche": "assets/affiches/titanic.jpg",
+    "repliques_cultes": [
+      "I'm the king of the world!"
+    ],
+    "audio_replique": "assets/audio/repliques/titanic.mp3",
+    "musique": {
+      "titre": "My Heart Will Go On",
+      "artiste": "Céline Dion",
+      "extrait_audio": "assets/audio/musiques/titanic.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/titanic_difficile.jpg",
+      "moyenne": "assets/images/titanic_moyenne.jpg",
+      "facile": "assets/images/titanic_facile.jpg"
+    }
+  },
+  {
+    "id": "film_011",
+    "titre": "Le Roi Lion",
+    "realisateur": "Roger Allers",
+    "annee": 1994,
+    "genre": "Animation",
+    "pays": "États-Unis",
+    "duree_minutes": 88,
+    "acteur_principal": "Matthew Broderick",
+    "affiche": "assets/affiches/roi_lion.jpg",
+    "repliques_cultes": [
+      "Hakuna Matata."
+    ],
+    "audio_replique": "assets/audio/repliques/roi_lion.mp3",
+    "musique": {
+      "titre": "Circle of Life",
+      "artiste": "Elton John",
+      "extrait_audio": "assets/audio/musiques/roi_lion.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/roi_lion_difficile.jpg",
+      "moyenne": "assets/images/roi_lion_moyenne.jpg",
+      "facile": "assets/images/roi_lion_facile.jpg"
+    }
+  },
+  {
+    "id": "film_012",
+    "titre": "Retour vers le futur",
+    "realisateur": "Robert Zemeckis",
+    "annee": 1985,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 116,
+    "acteur_principal": "Michael J. Fox",
+    "affiche": "assets/affiches/retour_futur.jpg",
+    "repliques_cultes": [
+      "Roads? Where we're going, we don't need roads."
+    ],
+    "audio_replique": "assets/audio/repliques/retour_futur.mp3",
+    "musique": {
+      "titre": "The Power of Love",
+      "artiste": "Huey Lewis and the News",
+      "extrait_audio": "assets/audio/musiques/retour_futur.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/retour_futur_difficile.jpg",
+      "moyenne": "assets/images/retour_futur_moyenne.jpg",
+      "facile": "assets/images/retour_futur_facile.jpg"
+    }
+  },
+  {
+    "id": "film_013",
+    "titre": "Léon",
+    "realisateur": "Luc Besson",
+    "annee": 1994,
+    "genre": "Policier",
+    "pays": "France",
+    "duree_minutes": 110,
+    "acteur_principal": "Jean Reno",
+    "affiche": "assets/affiches/leon.jpg",
+    "repliques_cultes": [
+      "Is life always this hard, or is it just when you're a kid?"
+    ],
+    "audio_replique": "assets/audio/repliques/leon.mp3",
+    "musique": {
+      "titre": "Shape of My Heart",
+      "artiste": "Sting",
+      "extrait_audio": "assets/audio/musiques/leon.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/leon_difficile.jpg",
+      "moyenne": "assets/images/leon_moyenne.jpg",
+      "facile": "assets/images/leon_facile.jpg"
+    }
+  },
+  {
+    "id": "film_014",
+    "titre": "Old Boy",
+    "realisateur": "Park Chan-wook",
+    "annee": 2003,
+    "genre": "Thriller",
+    "pays": "Corée du Sud",
+    "duree_minutes": 120,
+    "acteur_principal": "Choi Min-sik",
+    "affiche": "assets/affiches/old_boy.jpg",
+    "repliques_cultes": [
+      "Laugh and the world laughs with you. Weep and you weep alone."
+    ],
+    "audio_replique": "assets/audio/repliques/old_boy.mp3",
+    "musique": {
+      "titre": "The Last Waltz",
+      "artiste": "Shin Joong-hyun",
+      "extrait_audio": "assets/audio/musiques/old_boy.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/old_boy_difficile.jpg",
+      "moyenne": "assets/images/old_boy_moyenne.jpg",
+      "facile": "assets/images/old_boy_facile.jpg"
+    }
+  },
+  {
+    "id": "film_015",
+    "titre": "Interstellar",
+    "realisateur": "Christopher Nolan",
+    "annee": 2014,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 169,
+    "acteur_principal": "Matthew McConaughey",
+    "affiche": "assets/affiches/interstellar.jpg",
+    "repliques_cultes": [
+      "Love is the one thing we're capable of perceiving that transcends time and space."
+    ],
+    "audio_replique": "assets/audio/repliques/interstellar.mp3",
+    "musique": {
+      "titre": "Cornfield Chase",
+      "artiste": "Hans Zimmer",
+      "extrait_audio": "assets/audio/musiques/interstellar.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/interstellar_difficile.jpg",
+      "moyenne": "assets/images/interstellar_moyenne.jpg",
+      "facile": "assets/images/interstellar_facile.jpg"
+    }
+  },
+  {
+    "id": "film_016",
+    "titre": "Forrest Gump",
+    "realisateur": "Robert Zemeckis",
+    "annee": 1994,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 142,
+    "acteur_principal": "Tom Hanks",
+    "affiche": "assets/affiches/forrest_gump.jpg",
+    "repliques_cultes": [
+      "Life is like a box of chocolates."
+    ],
+    "audio_replique": "assets/audio/repliques/forrest_gump.mp3",
+    "musique": {
+      "titre": "Feather Theme",
+      "artiste": "Alan Silvestri",
+      "extrait_audio": "assets/audio/musiques/forrest_gump.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/forrest_gump_difficile.jpg",
+      "moyenne": "assets/images/forrest_gump_moyenne.jpg",
+      "facile": "assets/images/forrest_gump_facile.jpg"
+    }
+  },
+  {
+    "id": "film_017",
+    "titre": "Le Parrain",
+    "realisateur": "Francis Ford Coppola",
+    "annee": 1972,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "duree_minutes": 175,
+    "acteur_principal": "Marlon Brando",
+    "affiche": "assets/affiches/le_parrain.jpg",
+    "repliques_cultes": [
+      "I'm gonna make him an offer he can't refuse."
+    ],
+    "audio_replique": "assets/audio/repliques/le_parrain.mp3",
+    "musique": {
+      "titre": "Speak Softly Love",
+      "artiste": "Nino Rota",
+      "extrait_audio": "assets/audio/musiques/le_parrain.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_parrain_difficile.jpg",
+      "moyenne": "assets/images/le_parrain_moyenne.jpg",
+      "facile": "assets/images/le_parrain_facile.jpg"
+    }
+  },
+  {
+    "id": "film_018",
+    "titre": "Star Wars : Un Nouvel Espoir",
+    "realisateur": "George Lucas",
+    "annee": 1977,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 121,
+    "acteur_principal": "Mark Hamill",
+    "affiche": "assets/affiches/star_wars_4.jpg",
+    "repliques_cultes": [
+      "May the Force be with you."
+    ],
+    "audio_replique": "assets/audio/repliques/star_wars_4.mp3",
+    "musique": {
+      "titre": "Main Title",
+      "artiste": "John Williams",
+      "extrait_audio": "assets/audio/musiques/star_wars_4.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/star_wars_4_difficile.jpg",
+      "moyenne": "assets/images/star_wars_4_moyenne.jpg",
+      "facile": "assets/images/star_wars_4_facile.jpg"
+    }
+  },
+  {
+    "id": "film_019",
+    "titre": "Matrix",
+    "realisateur": "Lana et Lilly Wachowski",
+    "annee": 1999,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 136,
+    "acteur_principal": "Keanu Reeves",
+    "affiche": "assets/affiches/matrix.jpg",
+    "repliques_cultes": [
+      "There is no spoon."
+    ],
+    "audio_replique": "assets/audio/repliques/matrix.mp3",
+    "musique": {
+      "titre": "Clubbed to Death",
+      "artiste": "Rob Dougan",
+      "extrait_audio": "assets/audio/musiques/matrix.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/matrix_difficile.jpg",
+      "moyenne": "assets/images/matrix_moyenne.jpg",
+      "facile": "assets/images/matrix_facile.jpg"
+    }
+  },
+  {
+    "id": "film_020",
+    "titre": "Casino Royale",
+    "realisateur": "Martin Campbell",
+    "annee": 2006,
+    "genre": "Espionnage",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 144,
+    "acteur_principal": "Daniel Craig",
+    "affiche": "assets/affiches/casino_royale.jpg",
+    "repliques_cultes": [
+      "The name's Bond. James Bond."
+    ],
+    "audio_replique": "assets/audio/repliques/casino_royale.mp3",
+    "musique": {
+      "titre": "You Know My Name",
+      "artiste": "Chris Cornell",
+      "extrait_audio": "assets/audio/musiques/casino_royale.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/casino_royale_difficile.jpg",
+      "moyenne": "assets/images/casino_royale_moyenne.jpg",
+      "facile": "assets/images/casino_royale_facile.jpg"
+    }
+  },
+  {
+    "id": "film_021",
+    "titre": "Le Silence des Agneaux",
+    "realisateur": "Jonathan Demme",
+    "annee": 1991,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 118,
+    "acteur_principal": "Jodie Foster",
+    "affiche": "assets/affiches/silence_agneaux.jpg",
+    "repliques_cultes": [
+      "Hello, Clarice."
+    ],
+    "audio_replique": "assets/audio/repliques/silence_agneaux.mp3",
+    "musique": {
+      "titre": "Main Title",
+      "artiste": "Howard Shore",
+      "extrait_audio": "assets/audio/musiques/silence_agneaux.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/silence_agneaux_difficile.jpg",
+      "moyenne": "assets/images/silence_agneaux_moyenne.jpg",
+      "facile": "assets/images/silence_agneaux_facile.jpg"
+    }
+  },
+  {
+    "id": "film_022",
+    "titre": "Django Unchained",
+    "realisateur": "Quentin Tarantino",
+    "annee": 2012,
+    "genre": "Western",
+    "pays": "États-Unis",
+    "duree_minutes": 165,
+    "acteur_principal": "Jamie Foxx",
+    "affiche": "assets/affiches/django.jpg",
+    "repliques_cultes": [
+      "The D is silent."
+    ],
+    "audio_replique": "assets/audio/repliques/django.mp3",
+    "musique": {
+      "titre": "Django",
+      "artiste": "Luis Bacalov",
+      "extrait_audio": "assets/audio/musiques/django.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/django_difficile.jpg",
+      "moyenne": "assets/images/django_moyenne.jpg",
+      "facile": "assets/images/django_facile.jpg"
+    }
+  },
+  {
+    "id": "film_023",
+    "titre": "Whiplash",
+    "realisateur": "Damien Chazelle",
+    "annee": 2014,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 106,
+    "acteur_principal": "Miles Teller",
+    "affiche": "assets/affiches/whiplash.jpg",
+    "repliques_cultes": [
+      "Not quite my tempo."
+    ],
+    "audio_replique": "assets/audio/repliques/whiplash.mp3",
+    "musique": {
+      "titre": "Whiplash",
+      "artiste": "Justin Hurwitz",
+      "extrait_audio": "assets/audio/musiques/whiplash.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/whiplash_difficile.jpg",
+      "moyenne": "assets/images/whiplash_moyenne.jpg",
+      "facile": "assets/images/whiplash_facile.jpg"
+    }
+  },
+  {
+    "id": "film_024",
+    "titre": "La La Land",
+    "realisateur": "Damien Chazelle",
+    "annee": 2016,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 128,
+    "acteur_principal": "Ryan Gosling",
+    "affiche": "assets/affiches/la_la_land.jpg",
+    "repliques_cultes": [
+      "Here's to the fools who dream."
+    ],
+    "audio_replique": "assets/audio/repliques/la_la_land.mp3",
+    "musique": {
+      "titre": "City of Stars",
+      "artiste": "Justin Hurwitz",
+      "extrait_audio": "assets/audio/musiques/la_la_land.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/la_la_land_difficile.jpg",
+      "moyenne": "assets/images/la_la_land_moyenne.jpg",
+      "facile": "assets/images/la_la_land_facile.jpg"
+    }
+  },
+  {
+    "id": "film_025",
+    "titre": "Joker",
+    "realisateur": "Todd Phillips",
+    "annee": 2019,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 122,
+    "acteur_principal": "Joaquin Phoenix",
+    "affiche": "assets/affiches/joker.jpg",
+    "repliques_cultes": [
+      "Is it just me, or is it getting crazier out there?"
+    ],
+    "audio_replique": "assets/audio/repliques/joker.mp3",
+    "musique": {
+      "titre": "Call Me Joker",
+      "artiste": "Hildur Guðnadóttir",
+      "extrait_audio": "assets/audio/musiques/joker.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/joker_difficile.jpg",
+      "moyenne": "assets/images/joker_moyenne.jpg",
+      "facile": "assets/images/joker_facile.jpg"
+    }
+  },
+  {
+    "id": "film_026",
+    "titre": "Avengers : Endgame",
+    "realisateur": "Anthony et Joe Russo",
+    "annee": 2019,
+    "genre": "Action",
+    "pays": "États-Unis",
+    "duree_minutes": 181,
+    "acteur_principal": "Robert Downey Jr.",
+    "affiche": "assets/affiches/avengers_endgame.jpg",
+    "repliques_cultes": [
+      "I am Iron Man."
+    ],
+    "audio_replique": "assets/audio/repliques/avengers_endgame.mp3",
+    "musique": {
+      "titre": "Main on End",
+      "artiste": "Alan Silvestri",
+      "extrait_audio": "assets/audio/musiques/avengers_endgame.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/avengers_endgame_difficile.jpg",
+      "moyenne": "assets/images/avengers_endgame_moyenne.jpg",
+      "facile": "assets/images/avengers_endgame_facile.jpg"
+    }
+  },
+  {
+    "id": "film_027",
+    "titre": "Blade Runner",
+    "realisateur": "Ridley Scott",
+    "annee": 1982,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 117,
+    "acteur_principal": "Harrison Ford",
+    "affiche": "assets/affiches/blade_runner.jpg",
+    "repliques_cultes": [
+      "All those moments will be lost in time, like tears in rain."
+    ],
+    "audio_replique": "assets/audio/repliques/blade_runner.mp3",
+    "musique": {
+      "titre": "Blade Runner Blues",
+      "artiste": "Vangelis",
+      "extrait_audio": "assets/audio/musiques/blade_runner.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/blade_runner_difficile.jpg",
+      "moyenne": "assets/images/blade_runner_moyenne.jpg",
+      "facile": "assets/images/blade_runner_facile.jpg"
+    }
+  },
+  {
+    "id": "film_028",
+    "titre": "Shining",
+    "realisateur": "Stanley Kubrick",
+    "annee": 1980,
+    "genre": "Horreur",
+    "pays": "États-Unis",
+    "duree_minutes": 146,
+    "acteur_principal": "Jack Nicholson",
+    "affiche": "assets/affiches/shining.jpg",
+    "repliques_cultes": [
+      "Here's Johnny!"
+    ],
+    "audio_replique": "assets/audio/repliques/shining.mp3",
+    "musique": {
+      "titre": "Main Title",
+      "artiste": "Wendy Carlos",
+      "extrait_audio": "assets/audio/musiques/shining.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/shining_difficile.jpg",
+      "moyenne": "assets/images/shining_moyenne.jpg",
+      "facile": "assets/images/shining_facile.jpg"
+    }
+  },
+  {
+    "id": "film_029",
+    "titre": "Coco",
+    "realisateur": "Lee Unkrich",
+    "annee": 2017,
+    "genre": "Animation",
+    "pays": "États-Unis",
+    "duree_minutes": 105,
+    "acteur_principal": "Anthony Gonzalez",
+    "affiche": "assets/affiches/coco.jpg",
+    "repliques_cultes": [
+      "Remember me."
+    ],
+    "audio_replique": "assets/audio/repliques/coco.mp3",
+    "musique": {
+      "titre": "Remember Me",
+      "artiste": "Kristen Anderson-Lopez & Robert Lopez",
+      "extrait_audio": "assets/audio/musiques/coco.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/coco_difficile.jpg",
+      "moyenne": "assets/images/coco_moyenne.jpg",
+      "facile": "assets/images/coco_facile.jpg"
+    }
+  },
+  {
+    "id": "film_030",
+    "titre": "Toy Story",
+    "realisateur": "John Lasseter",
+    "annee": 1995,
+    "genre": "Animation",
+    "pays": "États-Unis",
+    "duree_minutes": 81,
+    "acteur_principal": "Tom Hanks",
+    "affiche": "assets/affiches/toy_story.jpg",
+    "repliques_cultes": [
+      "To infinity and beyond!"
+    ],
+    "audio_replique": "assets/audio/repliques/toy_story.mp3",
+    "musique": {
+      "titre": "You've Got a Friend in Me",
+      "artiste": "Randy Newman",
+      "extrait_audio": "assets/audio/musiques/toy_story.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/toy_story_difficile.jpg",
+      "moyenne": "assets/images/toy_story_moyenne.jpg",
+      "facile": "assets/images/toy_story_facile.jpg"
+    }
+  },
+  {
+    "id": "film_031",
+    "titre": "WALL-E",
+    "realisateur": "Andrew Stanton",
+    "annee": 2008,
+    "genre": "Animation",
+    "pays": "États-Unis",
+    "duree_minutes": 98,
+    "acteur_principal": "Ben Burtt",
+    "affiche": "assets/affiches/wall_e.jpg",
+    "repliques_cultes": [
+      "WALL-E."
+    ],
+    "audio_replique": "assets/audio/repliques/wall_e.mp3",
+    "musique": {
+      "titre": "Define Dancing",
+      "artiste": "Thomas Newman",
+      "extrait_audio": "assets/audio/musiques/wall_e.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/wall_e_difficile.jpg",
+      "moyenne": "assets/images/wall_e_moyenne.jpg",
+      "facile": "assets/images/wall_e_facile.jpg"
+    }
+  },
+  {
+    "id": "film_032",
+    "titre": "Spider-Man : New Generation",
+    "realisateur": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+    "annee": 2018,
+    "genre": "Animation",
+    "pays": "États-Unis",
+    "duree_minutes": 117,
+    "acteur_principal": "Shameik Moore",
+    "affiche": "assets/affiches/spiderman_new_generation.jpg",
+    "repliques_cultes": [
+      "Anyone can wear the mask."
+    ],
+    "audio_replique": "assets/audio/repliques/spiderman_new_generation.mp3",
+    "musique": {
+      "titre": "Sunflower",
+      "artiste": "Post Malone & Swae Lee",
+      "extrait_audio": "assets/audio/musiques/spiderman_new_generation.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/spiderman_new_generation_difficile.jpg",
+      "moyenne": "assets/images/spiderman_new_generation_moyenne.jpg",
+      "facile": "assets/images/spiderman_new_generation_facile.jpg"
+    }
+  },
+  {
+    "id": "film_033",
+    "titre": "Le Grand Bleu",
+    "realisateur": "Luc Besson",
+    "annee": 1988,
+    "genre": "Aventure",
+    "pays": "France",
+    "duree_minutes": 168,
+    "acteur_principal": "Jean-Marc Barr",
+    "affiche": "assets/affiches/grand_bleu.jpg",
+    "repliques_cultes": [
+      "Je dois descendre, Johana."
+    ],
+    "audio_replique": "assets/audio/repliques/grand_bleu.mp3",
+    "musique": {
+      "titre": "Le Grand Bleu (Manfredi Version)",
+      "artiste": "Eric Serra",
+      "extrait_audio": "assets/audio/musiques/grand_bleu.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/grand_bleu_difficile.jpg",
+      "moyenne": "assets/images/grand_bleu_moyenne.jpg",
+      "facile": "assets/images/grand_bleu_facile.jpg"
+    }
+  },
+  {
+    "id": "film_034",
+    "titre": "Les Tontons Flingueurs",
+    "realisateur": "Georges Lautner",
+    "annee": 1963,
+    "genre": "Comédie",
+    "pays": "France",
+    "duree_minutes": 100,
+    "acteur_principal": "Lino Ventura",
+    "affiche": "assets/affiches/tontons_flingueurs.jpg",
+    "repliques_cultes": [
+      "Les cons, ça ose tout, c'est même à ça qu'on les reconnaît."
+    ],
+    "audio_replique": "assets/audio/repliques/tontons_flingueurs.mp3",
+    "musique": {
+      "titre": "Générique",
+      "artiste": "Michel Magne",
+      "extrait_audio": "assets/audio/musiques/tontons_flingueurs.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/tontons_flingueurs_difficile.jpg",
+      "moyenne": "assets/images/tontons_flingueurs_moyenne.jpg",
+      "facile": "assets/images/tontons_flingueurs_facile.jpg"
+    }
+  },
+  {
+    "id": "film_035",
+    "titre": "Amadeus",
+    "realisateur": "Milos Forman",
+    "annee": 1984,
+    "genre": "Biopic",
+    "pays": "États-Unis",
+    "duree_minutes": 160,
+    "acteur_principal": "F. Murray Abraham",
+    "affiche": "assets/affiches/amadeus.jpg",
+    "repliques_cultes": [
+      "Mediocrities everywhere, I absolve you."
+    ],
+    "audio_replique": "assets/audio/repliques/amadeus.mp3",
+    "musique": {
+      "titre": "Requiem in D minor",
+      "artiste": "Wolfgang Amadeus Mozart",
+      "extrait_audio": "assets/audio/musiques/amadeus.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/amadeus_difficile.jpg",
+      "moyenne": "assets/images/amadeus_moyenne.jpg",
+      "facile": "assets/images/amadeus_facile.jpg"
+    }
+  },
+  {
+    "id": "film_036",
+    "titre": "Requiem for a Dream",
+    "realisateur": "Darren Aronofsky",
+    "annee": 2000,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 102,
+    "acteur_principal": "Jared Leto",
+    "affiche": "assets/affiches/requiem_for_a_dream.jpg",
+    "repliques_cultes": [
+      "I'm somebody now, Harry."
+    ],
+    "audio_replique": "assets/audio/repliques/requiem_for_a_dream.mp3",
+    "musique": {
+      "titre": "Lux Aeterna",
+      "artiste": "Clint Mansell",
+      "extrait_audio": "assets/audio/musiques/requiem_for_a_dream.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/requiem_for_a_dream_difficile.jpg",
+      "moyenne": "assets/images/requiem_for_a_dream_moyenne.jpg",
+      "facile": "assets/images/requiem_for_a_dream_facile.jpg"
+    }
+  },
+  {
+    "id": "film_037",
+    "titre": "American History X",
+    "realisateur": "Tony Kaye",
+    "annee": 1998,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 119,
+    "acteur_principal": "Edward Norton",
+    "affiche": "assets/affiches/american_history_x.jpg",
+    "repliques_cultes": [
+      "Has anything you've done made your life better?"
+    ],
+    "audio_replique": "assets/audio/repliques/american_history_x.mp3",
+    "musique": {
+      "titre": "Main Titles",
+      "artiste": "Anne Dudley",
+      "extrait_audio": "assets/audio/musiques/american_history_x.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/american_history_x_difficile.jpg",
+      "moyenne": "assets/images/american_history_x_moyenne.jpg",
+      "facile": "assets/images/american_history_x_facile.jpg"
+    }
+  },
+  {
+    "id": "film_038",
+    "titre": "Sin City",
+    "realisateur": "Robert Rodriguez, Frank Miller",
+    "annee": 2005,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "duree_minutes": 124,
+    "acteur_principal": "Mickey Rourke",
+    "affiche": "assets/affiches/sin_city.jpg",
+    "repliques_cultes": [
+      "An old man dies, a young man lives."
+    ],
+    "audio_replique": "assets/audio/repliques/sin_city.mp3",
+    "musique": {
+      "titre": "Sin City Main Title",
+      "artiste": "John Debney & Graeme Revell",
+      "extrait_audio": "assets/audio/musiques/sin_city.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/sin_city_difficile.jpg",
+      "moyenne": "assets/images/sin_city_moyenne.jpg",
+      "facile": "assets/images/sin_city_facile.jpg"
+    }
+  },
+  {
+    "id": "film_039",
+    "titre": "Kill Bill : Volume 1",
+    "realisateur": "Quentin Tarantino",
+    "annee": 2003,
+    "genre": "Action",
+    "pays": "États-Unis",
+    "duree_minutes": 111,
+    "acteur_principal": "Uma Thurman",
+    "affiche": "assets/affiches/kill_bill_1.jpg",
+    "repliques_cultes": [
+      "It's mercy, compassion, and forgiveness I lack, not rationality."
+    ],
+    "audio_replique": "assets/audio/repliques/kill_bill_1.mp3",
+    "musique": {
+      "titre": "Battle Without Honor or Humanity",
+      "artiste": "Tomoyasu Hotei",
+      "extrait_audio": "assets/audio/musiques/kill_bill_1.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/kill_bill_1_difficile.jpg",
+      "moyenne": "assets/images/kill_bill_1_moyenne.jpg",
+      "facile": "assets/images/kill_bill_1_facile.jpg"
+    }
+  },
+  {
+    "id": "film_040",
+    "titre": "Very Bad Trip",
+    "realisateur": "Todd Phillips",
+    "annee": 2009,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 100,
+    "acteur_principal": "Bradley Cooper",
+    "affiche": "assets/affiches/very_bad_trip.jpg",
+    "repliques_cultes": [
+      "What happens in Vegas stays in Vegas."
+    ],
+    "audio_replique": "assets/audio/repliques/very_bad_trip.mp3",
+    "musique": {
+      "titre": "Stu's Song",
+      "artiste": "Ed Helms",
+      "extrait_audio": "assets/audio/musiques/very_bad_trip.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/very_bad_trip_difficile.jpg",
+      "moyenne": "assets/images/very_bad_trip_moyenne.jpg",
+      "facile": "assets/images/very_bad_trip_facile.jpg"
+    }
+  },
+  {
+    "id": "film_041",
+    "titre": "OSS 117 : Le Caire nid d'espions",
+    "realisateur": "Michel Hazanavicius",
+    "annee": 2006,
+    "genre": "Comédie",
+    "pays": "France",
+    "duree_minutes": 99,
+    "acteur_principal": "Jean Dujardin",
+    "affiche": "assets/affiches/oss117.jpg",
+    "repliques_cultes": [
+      "Je ne suis pas raciste, j'ai un ami noir."
+    ],
+    "audio_replique": "assets/audio/repliques/oss117.mp3",
+    "musique": {
+      "titre": "Générique OSS 117",
+      "artiste": "Ludovic Bource",
+      "extrait_audio": "assets/audio/musiques/oss117.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/oss117_difficile.jpg",
+      "moyenne": "assets/images/oss117_moyenne.jpg",
+      "facile": "assets/images/oss117_facile.jpg"
+    }
+  },
+  {
+    "id": "film_042",
+    "titre": "Intouchables",
+    "realisateur": "Olivier Nakache, Éric Toledano",
+    "annee": 2011,
+    "genre": "Comédie dramatique",
+    "pays": "France",
+    "duree_minutes": 112,
+    "acteur_principal": "François Cluzet",
+    "affiche": "assets/affiches/intouchables.jpg",
+    "repliques_cultes": [
+      "Sans les bras !"
+    ],
+    "audio_replique": "assets/audio/repliques/intouchables.mp3",
+    "musique": {
+      "titre": "Driving",
+      "artiste": "Ludovic Bource",
+      "extrait_audio": "assets/audio/musiques/intouchables.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/intouchables_difficile.jpg",
+      "moyenne": "assets/images/intouchables_moyenne.jpg",
+      "facile": "assets/images/intouchables_facile.jpg"
+    }
+  },
+  {
+    "id": "film_043",
+    "titre": "Bienvenue chez les Ch'tis",
+    "realisateur": "Dany Boon",
+    "annee": 2008,
+    "genre": "Comédie",
+    "pays": "France",
+    "duree_minutes": 106,
+    "acteur_principal": "Kad Merad",
+    "affiche": "assets/affiches/chtis.jpg",
+    "repliques_cultes": [
+      "Quand un Ch'ti pleure en arrivant, il en pleure deux fois plus en partant."
+    ],
+    "audio_replique": "assets/audio/repliques/chtis.mp3",
+    "musique": {
+      "titre": "Générique",
+      "artiste": "Philippe Rombi",
+      "extrait_audio": "assets/audio/musiques/chtis.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/chtis_difficile.jpg",
+      "moyenne": "assets/images/chtis_moyenne.jpg",
+      "facile": "assets/images/chtis_facile.jpg"
+    }
+  },
+  {
+    "id": "film_044",
+    "titre": "Astérix et Obélix : Mission Cléopâtre",
+    "realisateur": "Alain Chabat",
+    "annee": 2002,
+    "genre": "Comédie",
+    "pays": "France",
+    "duree_minutes": 107,
+    "acteur_principal": "Christian Clavier",
+    "affiche": "assets/affiches/asterix_cleopatre.jpg",
+    "repliques_cultes": [
+      "Ils sont fous ces Romains."
+    ],
+    "audio_replique": "assets/audio/repliques/asterix_cleopatre.mp3",
+    "musique": {
+      "titre": "Générique",
+      "artiste": "Philippe Chany",
+      "extrait_audio": "assets/audio/musiques/asterix_cleopatre.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/asterix_cleopatre_difficile.jpg",
+      "moyenne": "assets/images/asterix_cleopatre_moyenne.jpg",
+      "facile": "assets/images/asterix_cleopatre_facile.jpg"
+    }
+  },
+  {
+    "id": "film_045",
+    "titre": "Dune",
+    "realisateur": "Denis Villeneuve",
+    "annee": 2021,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 155,
+    "acteur_principal": "Timothée Chalamet",
+    "affiche": "assets/affiches/dune.jpg",
+    "repliques_cultes": [
+      "Fear is the mind-killer."
+    ],
+    "audio_replique": "assets/audio/repliques/dune.mp3",
+    "musique": {
+      "titre": "Paul's Dream",
+      "artiste": "Hans Zimmer",
+      "extrait_audio": "assets/audio/musiques/dune.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/dune_difficile.jpg",
+      "moyenne": "assets/images/dune_moyenne.jpg",
+      "facile": "assets/images/dune_facile.jpg"
+    }
+  },
+  {
+    "id": "film_046",
+    "titre": "Everything Everywhere All at Once",
+    "realisateur": "Daniel Kwan, Daniel Scheinert",
+    "annee": 2022,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 140,
+    "acteur_principal": "Michelle Yeoh",
+    "affiche": "assets/affiches/eeaao.jpg",
+    "repliques_cultes": [
+      "The universe is so much bigger than you realize."
+    ],
+    "audio_replique": "assets/audio/repliques/eeaao.mp3",
+    "musique": {
+      "titre": "Regular Life",
+      "artiste": "Son Lux",
+      "extrait_audio": "assets/audio/musiques/eeaao.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/eeaao_difficile.jpg",
+      "moyenne": "assets/images/eeaao_moyenne.jpg",
+      "facile": "assets/images/eeaao_facile.jpg"
+    }
+  },
+  {
+    "id": "film_047",
+    "titre": "Get Out",
+    "realisateur": "Jordan Peele",
+    "annee": 2017,
+    "genre": "Horreur",
+    "pays": "États-Unis",
+    "duree_minutes": 104,
+    "acteur_principal": "Daniel Kaluuya",
+    "affiche": "assets/affiches/get_out.jpg",
+    "repliques_cultes": [
+      "Get out!"
+    ],
+    "audio_replique": "assets/audio/repliques/get_out.mp3",
+    "musique": {
+      "titre": "Sikiliza Kwa Wahenga",
+      "artiste": "Michael Abels",
+      "extrait_audio": "assets/audio/musiques/get_out.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/get_out_difficile.jpg",
+      "moyenne": "assets/images/get_out_moyenne.jpg",
+      "facile": "assets/images/get_out_facile.jpg"
+    }
+  },
+  {
+    "id": "film_048",
+    "titre": "Her",
+    "realisateur": "Spike Jonze",
+    "annee": 2013,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 126,
+    "acteur_principal": "Joaquin Phoenix",
+    "affiche": "assets/affiches/her.jpg",
+    "repliques_cultes": [
+      "You helped me discover my ability to want."
+    ],
+    "audio_replique": "assets/audio/repliques/her.mp3",
+    "musique": {
+      "titre": "The Moon Song",
+      "artiste": "Karen O",
+      "extrait_audio": "assets/audio/musiques/her.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/her_difficile.jpg",
+      "moyenne": "assets/images/her_moyenne.jpg",
+      "facile": "assets/images/her_facile.jpg"
+    }
+  },
+  {
+    "id": "film_049",
+    "titre": "Prisoners",
+    "realisateur": "Denis Villeneuve",
+    "annee": 2013,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 153,
+    "acteur_principal": "Hugh Jackman",
+    "affiche": "assets/affiches/prisoners.jpg",
+    "repliques_cultes": [
+      "Pray for the best, prepare for the worst."
+    ],
+    "audio_replique": "assets/audio/repliques/prisoners.mp3",
+    "musique": {
+      "titre": "The Keller Home",
+      "artiste": "Jóhann Jóhannsson",
+      "extrait_audio": "assets/audio/musiques/prisoners.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/prisoners_difficile.jpg",
+      "moyenne": "assets/images/prisoners_moyenne.jpg",
+      "facile": "assets/images/prisoners_facile.jpg"
+    }
+  },
+  {
+    "id": "film_050",
+    "titre": "The Grand Budapest Hotel",
+    "realisateur": "Wes Anderson",
+    "annee": 2014,
+    "genre": "Comédie",
+    "pays": "Allemagne",
+    "duree_minutes": 100,
+    "acteur_principal": "Ralph Fiennes",
+    "affiche": "assets/affiches/grand_budapest_hotel.jpg",
+    "repliques_cultes": [
+      "You see, there are still faint glimmers of civilization."
+    ],
+    "audio_replique": "assets/audio/repliques/grand_budapest_hotel.mp3",
+    "musique": {
+      "titre": "Mr. Moustafa",
+      "artiste": "Alexandre Desplat",
+      "extrait_audio": "assets/audio/musiques/grand_budapest_hotel.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/grand_budapest_hotel_difficile.jpg",
+      "moyenne": "assets/images/grand_budapest_hotel_moyenne.jpg",
+      "facile": "assets/images/grand_budapest_hotel_facile.jpg"
+    }
+  },
+  {
+    "id": "film_051",
+    "titre": "Scarface",
+    "realisateur": "Brian De Palma",
+    "annee": 1983,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "duree_minutes": 170,
+    "acteur_principal": "Al Pacino",
+    "affiche": "assets/affiches/scarface.jpg",
+    "repliques_cultes": [
+      "Say hello to my little friend!"
+    ],
+    "audio_replique": "assets/audio/repliques/scarface.mp3",
+    "musique": {
+      "titre": "Push It to the Limit",
+      "artiste": "Paul Engemann",
+      "extrait_audio": "assets/audio/musiques/scarface.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/scarface_difficile.jpg",
+      "moyenne": "assets/images/scarface_moyenne.jpg",
+      "facile": "assets/images/scarface_facile.jpg"
+    }
+  },
+  {
+    "id": "film_052",
+    "titre": "Taxi Driver",
+    "realisateur": "Martin Scorsese",
+    "annee": 1976,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 114,
+    "acteur_principal": "Robert De Niro",
+    "affiche": "assets/affiches/taxi_driver.jpg",
+    "repliques_cultes": [
+      "You talkin' to me?"
+    ],
+    "audio_replique": "assets/audio/repliques/taxi_driver.mp3",
+    "musique": {
+      "titre": "Taxi Driver Theme",
+      "artiste": "Bernard Herrmann",
+      "extrait_audio": "assets/audio/musiques/taxi_driver.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/taxi_driver_difficile.jpg",
+      "moyenne": "assets/images/taxi_driver_moyenne.jpg",
+      "facile": "assets/images/taxi_driver_facile.jpg"
+    }
+  },
+  {
+    "id": "film_053",
+    "titre": "Les Affranchis",
+    "realisateur": "Martin Scorsese",
+    "annee": 1990,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "duree_minutes": 146,
+    "acteur_principal": "Ray Liotta",
+    "affiche": "assets/affiches/les_affranchis.jpg",
+    "repliques_cultes": [
+      "As far back as I can remember, I always wanted to be a gangster."
+    ],
+    "audio_replique": "assets/audio/repliques/les_affranchis.mp3",
+    "musique": {
+      "titre": "Rags to Riches",
+      "artiste": "Tony Bennett",
+      "extrait_audio": "assets/audio/musiques/les_affranchis.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_affranchis_difficile.jpg",
+      "moyenne": "assets/images/les_affranchis_moyenne.jpg",
+      "facile": "assets/images/les_affranchis_facile.jpg"
+    }
+  },
+  {
+    "id": "film_054",
+    "titre": "Les Infiltrés",
+    "realisateur": "Martin Scorsese",
+    "annee": 2006,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "duree_minutes": 151,
+    "acteur_principal": "Leonardo DiCaprio",
+    "affiche": "assets/affiches/les_infiltres.jpg",
+    "repliques_cultes": [
+      "I'm the guy who does his job. You must be the other guy."
+    ],
+    "audio_replique": "assets/audio/repliques/les_infiltres.mp3",
+    "musique": {
+      "titre": "I'm Shipping Up to Boston",
+      "artiste": "Dropkick Murphys",
+      "extrait_audio": "assets/audio/musiques/les_infiltres.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_infiltres_difficile.jpg",
+      "moyenne": "assets/images/les_infiltres_moyenne.jpg",
+      "facile": "assets/images/les_infiltres_facile.jpg"
+    }
+  },
+  {
+    "id": "film_055",
+    "titre": "Heat",
+    "realisateur": "Michael Mann",
+    "annee": 1995,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "duree_minutes": 170,
+    "acteur_principal": "Al Pacino",
+    "affiche": "assets/affiches/heat.jpg",
+    "repliques_cultes": [
+      "I do what I do best, I take scores."
+    ],
+    "audio_replique": "assets/audio/repliques/heat.mp3",
+    "musique": {
+      "titre": "Heat Theme",
+      "artiste": "Elliot Goldenthal",
+      "extrait_audio": "assets/audio/musiques/heat.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/heat_difficile.jpg",
+      "moyenne": "assets/images/heat_moyenne.jpg",
+      "facile": "assets/images/heat_facile.jpg"
+    }
+  },
+  {
+    "id": "film_056",
+    "titre": "No Country for Old Men",
+    "realisateur": "Ethan et Joel Coen",
+    "annee": 2007,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 122,
+    "acteur_principal": "Javier Bardem",
+    "affiche": "assets/affiches/no_country.jpg",
+    "repliques_cultes": [
+      "Call it, friendo."
+    ],
+    "audio_replique": "assets/audio/repliques/no_country.mp3",
+    "musique": {
+      "titre": "No Country Old Men Theme",
+      "artiste": "Carter Burwell",
+      "extrait_audio": "assets/audio/musiques/no_country.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/no_country_difficile.jpg",
+      "moyenne": "assets/images/no_country_moyenne.jpg",
+      "facile": "assets/images/no_country_facile.jpg"
+    }
+  },
+  {
+    "id": "film_057",
+    "titre": "The Big Lebowski",
+    "realisateur": "Ethan et Joel Coen",
+    "annee": 1998,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 117,
+    "acteur_principal": "Jeff Bridges",
+    "affiche": "assets/affiches/big_lebowski.jpg",
+    "repliques_cultes": [
+      "The Dude abides."
+    ],
+    "audio_replique": "assets/audio/repliques/big_lebowski.mp3",
+    "musique": {
+      "titre": "The Man in Me",
+      "artiste": "Bob Dylan",
+      "extrait_audio": "assets/audio/musiques/big_lebowski.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/big_lebowski_difficile.jpg",
+      "moyenne": "assets/images/big_lebowski_moyenne.jpg",
+      "facile": "assets/images/big_lebowski_facile.jpg"
+    }
+  },
+  {
+    "id": "film_058",
+    "titre": "Inglourious Basterds",
+    "realisateur": "Quentin Tarantino",
+    "annee": 2009,
+    "genre": "Guerre",
+    "pays": "États-Unis",
+    "duree_minutes": 153,
+    "acteur_principal": "Brad Pitt",
+    "affiche": "assets/affiches/inglourious_basterds.jpg",
+    "repliques_cultes": [
+      "That's a bingo!"
+    ],
+    "audio_replique": "assets/audio/repliques/inglourious_basterds.mp3",
+    "musique": {
+      "titre": "Cat People (Putting Out Fire)",
+      "artiste": "David Bowie",
+      "extrait_audio": "assets/audio/musiques/inglourious_basterds.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/inglourious_basterds_difficile.jpg",
+      "moyenne": "assets/images/inglourious_basterds_moyenne.jpg",
+      "facile": "assets/images/inglourious_basterds_facile.jpg"
+    }
+  },
+  {
+    "id": "film_059",
+    "titre": "Les Évadés",
+    "realisateur": "Frank Darabont",
+    "annee": 1994,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 142,
+    "acteur_principal": "Tim Robbins",
+    "affiche": "assets/affiches/les_evades.jpg",
+    "repliques_cultes": [
+      "Get busy living, or get busy dying."
+    ],
+    "audio_replique": "assets/audio/repliques/les_evades.mp3",
+    "musique": {
+      "titre": "Shawshank Redemption Theme",
+      "artiste": "Thomas Newman",
+      "extrait_audio": "assets/audio/musiques/les_evades.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_evades_difficile.jpg",
+      "moyenne": "assets/images/les_evades_moyenne.jpg",
+      "facile": "assets/images/les_evades_facile.jpg"
+    }
+  },
+  {
+    "id": "film_060",
+    "titre": "The Dark Knight : Le Chevalier Noir",
+    "realisateur": "Christopher Nolan",
+    "annee": 2008,
+    "genre": "Action",
+    "pays": "États-Unis",
+    "duree_minutes": 152,
+    "acteur_principal": "Christian Bale",
+    "affiche": "assets/affiches/dark_knight.jpg",
+    "repliques_cultes": [
+      "Why so serious?"
+    ],
+    "audio_replique": "assets/audio/repliques/dark_knight.mp3",
+    "musique": {
+      "titre": "Why So Serious?",
+      "artiste": "Hans Zimmer",
+      "extrait_audio": "assets/audio/musiques/dark_knight.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/dark_knight_difficile.jpg",
+      "moyenne": "assets/images/dark_knight_moyenne.jpg",
+      "facile": "assets/images/dark_knight_facile.jpg"
+    }
+  },
+  {
+    "id": "film_061",
+    "titre": "Se7en",
+    "realisateur": "David Fincher",
+    "annee": 1995,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 127,
+    "acteur_principal": "Brad Pitt",
+    "affiche": "assets/affiches/se7en.jpg",
+    "repliques_cultes": [
+      "What's in the box?"
+    ],
+    "audio_replique": "assets/audio/repliques/se7en.mp3",
+    "musique": {
+      "titre": "Se7en Theme",
+      "artiste": "Howard Shore",
+      "extrait_audio": "assets/audio/musiques/se7en.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/se7en_difficile.jpg",
+      "moyenne": "assets/images/se7en_moyenne.jpg",
+      "facile": "assets/images/se7en_facile.jpg"
+    }
+  },
+  {
+    "id": "film_062",
+    "titre": "The Truman Show",
+    "realisateur": "Peter Weir",
+    "annee": 1998,
+    "genre": "Comédie dramatique",
+    "pays": "États-Unis",
+    "duree_minutes": 103,
+    "acteur_principal": "Jim Carrey",
+    "affiche": "assets/affiches/truman_show.jpg",
+    "repliques_cultes": [
+      "In case I don't see ya, good afternoon, good evening, and good night!"
+    ],
+    "audio_replique": "assets/audio/repliques/truman_show.mp3",
+    "musique": {
+      "titre": "Truman Sleeps",
+      "artiste": "Philip Glass",
+      "extrait_audio": "assets/audio/musiques/truman_show.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/truman_show_difficile.jpg",
+      "moyenne": "assets/images/truman_show_moyenne.jpg",
+      "facile": "assets/images/truman_show_facile.jpg"
+    }
+  },
+  {
+    "id": "film_063",
+    "titre": "Eternal Sunshine of the Spotless Mind",
+    "realisateur": "Michel Gondry",
+    "annee": 2004,
+    "genre": "Romance",
+    "pays": "États-Unis",
+    "duree_minutes": 108,
+    "acteur_principal": "Jim Carrey",
+    "affiche": "assets/affiches/eternal_sunshine.jpg",
+    "repliques_cultes": [
+      "Meet me in Montauk."
+    ],
+    "audio_replique": "assets/audio/repliques/eternal_sunshine.mp3",
+    "musique": {
+      "titre": "Blue Ruin",
+      "artiste": "Jon Brion",
+      "extrait_audio": "assets/audio/musiques/eternal_sunshine.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/eternal_sunshine_difficile.jpg",
+      "moyenne": "assets/images/eternal_sunshine_moyenne.jpg",
+      "facile": "assets/images/eternal_sunshine_facile.jpg"
+    }
+  },
+  {
+    "id": "film_064",
+    "titre": "La Ligne Verte",
+    "realisateur": "Frank Darabont",
+    "annee": 1999,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 189,
+    "acteur_principal": "Tom Hanks",
+    "affiche": "assets/affiches/ligne_verte.jpg",
+    "repliques_cultes": [
+      "I'm tired, boss."
+    ],
+    "audio_replique": "assets/audio/repliques/ligne_verte.mp3",
+    "musique": {
+      "titre": "The Green Mile Theme",
+      "artiste": "Thomas Newman",
+      "extrait_audio": "assets/audio/musiques/ligne_verte.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/ligne_verte_difficile.jpg",
+      "moyenne": "assets/images/ligne_verte_moyenne.jpg",
+      "facile": "assets/images/ligne_verte_facile.jpg"
+    }
+  },
+  {
+    "id": "film_065",
+    "titre": "Orange Mécanique",
+    "realisateur": "Stanley Kubrick",
+    "annee": 1971,
+    "genre": "Science-fiction",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 136,
+    "acteur_principal": "Malcolm McDowell",
+    "affiche": "assets/affiches/orange_mecanique.jpg",
+    "repliques_cultes": [
+      "A bit of the old ultra-violence."
+    ],
+    "audio_replique": "assets/audio/repliques/orange_mecanique.mp3",
+    "musique": {
+      "titre": "Ninth Symphony (arr.)",
+      "artiste": "Wendy Carlos",
+      "extrait_audio": "assets/audio/musiques/orange_mecanique.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/orange_mecanique_difficile.jpg",
+      "moyenne": "assets/images/orange_mecanique_moyenne.jpg",
+      "facile": "assets/images/orange_mecanique_facile.jpg"
+    }
+  },
+  {
+    "id": "film_066",
+    "titre": "Reservoir Dogs",
+    "realisateur": "Quentin Tarantino",
+    "annee": 1992,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "duree_minutes": 99,
+    "acteur_principal": "Harvey Keitel",
+    "affiche": "assets/affiches/reservoir_dogs.jpg",
+    "repliques_cultes": [
+      "Are you gonna bark all day, little doggy, or are you gonna bite?"
+    ],
+    "audio_replique": "assets/audio/repliques/reservoir_dogs.mp3",
+    "musique": {
+      "titre": "Stuck in the Middle with You",
+      "artiste": "Stealers Wheel",
+      "extrait_audio": "assets/audio/musiques/reservoir_dogs.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/reservoir_dogs_difficile.jpg",
+      "moyenne": "assets/images/reservoir_dogs_moyenne.jpg",
+      "facile": "assets/images/reservoir_dogs_facile.jpg"
+    }
+  },
+  {
+    "id": "film_067",
+    "titre": "V pour Vendetta",
+    "realisateur": "James McTeigue",
+    "annee": 2005,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 132,
+    "acteur_principal": "Hugo Weaving",
+    "affiche": "assets/affiches/v_pour_vendetta.jpg",
+    "repliques_cultes": [
+      "Remember, remember, the fifth of November."
+    ],
+    "audio_replique": "assets/audio/repliques/v_pour_vendetta.mp3",
+    "musique": {
+      "titre": "1812 Overture",
+      "artiste": "Tchaïkovski",
+      "extrait_audio": "assets/audio/musiques/v_pour_vendetta.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/v_pour_vendetta_difficile.jpg",
+      "moyenne": "assets/images/v_pour_vendetta_moyenne.jpg",
+      "facile": "assets/images/v_pour_vendetta_facile.jpg"
+    }
+  },
+  {
+    "id": "film_068",
+    "titre": "Le Prestige",
+    "realisateur": "Christopher Nolan",
+    "annee": 2006,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 130,
+    "acteur_principal": "Hugh Jackman",
+    "affiche": "assets/affiches/le_prestige.jpg",
+    "repliques_cultes": [
+      "Are you watching closely?"
+    ],
+    "audio_replique": "assets/audio/repliques/le_prestige.mp3",
+    "musique": {
+      "titre": "The Prestige Theme",
+      "artiste": "David Julyan",
+      "extrait_audio": "assets/audio/musiques/le_prestige.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_prestige_difficile.jpg",
+      "moyenne": "assets/images/le_prestige_moyenne.jpg",
+      "facile": "assets/images/le_prestige_facile.jpg"
+    }
+  },
+  {
+    "id": "film_069",
+    "titre": "Memento",
+    "realisateur": "Christopher Nolan",
+    "annee": 2000,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 113,
+    "acteur_principal": "Guy Pearce",
+    "affiche": "assets/affiches/memento.jpg",
+    "repliques_cultes": [
+      "I have to believe in a world outside my own mind."
+    ],
+    "audio_replique": "assets/audio/repliques/memento.mp3",
+    "musique": {
+      "titre": "Memento Theme",
+      "artiste": "David Julyan",
+      "extrait_audio": "assets/audio/musiques/memento.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/memento_difficile.jpg",
+      "moyenne": "assets/images/memento_moyenne.jpg",
+      "facile": "assets/images/memento_facile.jpg"
+    }
+  },
+  {
+    "id": "film_070",
+    "titre": "Princesse Mononoké",
+    "realisateur": "Hayao Miyazaki",
+    "annee": 1997,
+    "genre": "Animation",
+    "pays": "Japon",
+    "duree_minutes": 134,
+    "acteur_principal": "Yōji Matsuda",
+    "affiche": "assets/affiches/princesse_mononoke.jpg",
+    "repliques_cultes": [
+      "Vis."
+    ],
+    "audio_replique": "assets/audio/repliques/princesse_mononoke.mp3",
+    "musique": {
+      "titre": "The Legend of Ashitaka",
+      "artiste": "Joe Hisaishi",
+      "extrait_audio": "assets/audio/musiques/princesse_mononoke.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/princesse_mononoke_difficile.jpg",
+      "moyenne": "assets/images/princesse_mononoke_moyenne.jpg",
+      "facile": "assets/images/princesse_mononoke_facile.jpg"
+    }
+  },
+  {
+    "id": "film_071",
+    "titre": "Jurassic Park",
+    "realisateur": "Steven Spielberg",
+    "annee": 1993,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 127,
+    "acteur_principal": "Sam Neill",
+    "affiche": "assets/affiches/jurassic_park.jpg",
+    "repliques_cultes": [
+      "Life finds a way."
+    ],
+    "audio_replique": "assets/audio/repliques/jurassic_park.mp3",
+    "musique": {
+      "titre": "Theme from Jurassic Park",
+      "artiste": "John Williams",
+      "extrait_audio": "assets/audio/musiques/jurassic_park.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/jurassic_park_difficile.jpg",
+      "moyenne": "assets/images/jurassic_park_moyenne.jpg",
+      "facile": "assets/images/jurassic_park_facile.jpg"
+    }
+  },
+  {
+    "id": "film_072",
+    "titre": "E.T. l'extra-terrestre",
+    "realisateur": "Steven Spielberg",
+    "annee": 1982,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 115,
+    "acteur_principal": "Henry Thomas",
+    "affiche": "assets/affiches/et.jpg",
+    "repliques_cultes": [
+      "E.T. phone home."
+    ],
+    "audio_replique": "assets/audio/repliques/et.mp3",
+    "musique": {
+      "titre": "Flying Theme",
+      "artiste": "John Williams",
+      "extrait_audio": "assets/audio/musiques/et.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/et_difficile.jpg",
+      "moyenne": "assets/images/et_moyenne.jpg",
+      "facile": "assets/images/et_facile.jpg"
+    }
+  },
+  {
+    "id": "film_073",
+    "titre": "Indiana Jones et les Aventuriers de l'Arche Perdue",
+    "realisateur": "Steven Spielberg",
+    "annee": 1981,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 115,
+    "acteur_principal": "Harrison Ford",
+    "affiche": "assets/affiches/indiana_jones.jpg",
+    "repliques_cultes": [
+      "It's not the years, it's the mileage."
+    ],
+    "audio_replique": "assets/audio/repliques/indiana_jones.mp3",
+    "musique": {
+      "titre": "Raiders March",
+      "artiste": "John Williams",
+      "extrait_audio": "assets/audio/musiques/indiana_jones.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/indiana_jones_difficile.jpg",
+      "moyenne": "assets/images/indiana_jones_moyenne.jpg",
+      "facile": "assets/images/indiana_jones_facile.jpg"
+    }
+  },
+  {
+    "id": "film_074",
+    "titre": "Il faut sauver le soldat Ryan",
+    "realisateur": "Steven Spielberg",
+    "annee": 1998,
+    "genre": "Guerre",
+    "pays": "États-Unis",
+    "duree_minutes": 169,
+    "acteur_principal": "Tom Hanks",
+    "affiche": "assets/affiches/soldat_ryan.jpg",
+    "repliques_cultes": [
+      "Earn this."
+    ],
+    "audio_replique": "assets/audio/repliques/soldat_ryan.mp3",
+    "musique": {
+      "titre": "Hymn to the Fallen",
+      "artiste": "John Williams",
+      "extrait_audio": "assets/audio/musiques/soldat_ryan.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/soldat_ryan_difficile.jpg",
+      "moyenne": "assets/images/soldat_ryan_moyenne.jpg",
+      "facile": "assets/images/soldat_ryan_facile.jpg"
+    }
+  },
+  {
+    "id": "film_075",
+    "titre": "Les Dents de la mer",
+    "realisateur": "Steven Spielberg",
+    "annee": 1975,
+    "genre": "Horreur",
+    "pays": "États-Unis",
+    "duree_minutes": 124,
+    "acteur_principal": "Roy Scheider",
+    "affiche": "assets/affiches/dents_de_la_mer.jpg",
+    "repliques_cultes": [
+      "You're gonna need a bigger boat."
+    ],
+    "audio_replique": "assets/audio/repliques/dents_de_la_mer.mp3",
+    "musique": {
+      "titre": "Main Title (Jaws)",
+      "artiste": "John Williams",
+      "extrait_audio": "assets/audio/musiques/dents_de_la_mer.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/dents_de_la_mer_difficile.jpg",
+      "moyenne": "assets/images/dents_de_la_mer_moyenne.jpg",
+      "facile": "assets/images/dents_de_la_mer_facile.jpg"
+    }
+  },
+  {
+    "id": "film_076",
+    "titre": "2001 : L'Odyssée de l'espace",
+    "realisateur": "Stanley Kubrick",
+    "annee": 1968,
+    "genre": "Science-fiction",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 149,
+    "acteur_principal": "Keir Dullea",
+    "affiche": "assets/affiches/2001_odyssee.jpg",
+    "repliques_cultes": [
+      "Open the pod bay doors, HAL."
+    ],
+    "audio_replique": "assets/audio/repliques/2001_odyssee.mp3",
+    "musique": {
+      "titre": "Also sprach Zarathustra",
+      "artiste": "Richard Strauss",
+      "extrait_audio": "assets/audio/musiques/2001_odyssee.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/2001_odyssee_difficile.jpg",
+      "moyenne": "assets/images/2001_odyssee_moyenne.jpg",
+      "facile": "assets/images/2001_odyssee_facile.jpg"
+    }
+  },
+  {
+    "id": "film_077",
+    "titre": "Full Metal Jacket",
+    "realisateur": "Stanley Kubrick",
+    "annee": 1987,
+    "genre": "Guerre",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 116,
+    "acteur_principal": "Matthew Modine",
+    "affiche": "assets/affiches/full_metal_jacket.jpg",
+    "repliques_cultes": [
+      "Is that you, John Wayne? Is this me?"
+    ],
+    "audio_replique": "assets/audio/repliques/full_metal_jacket.mp3",
+    "musique": {
+      "titre": "I Wanna Be Your Drill Instructor",
+      "artiste": "Abigail Mead",
+      "extrait_audio": "assets/audio/musiques/full_metal_jacket.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/full_metal_jacket_difficile.jpg",
+      "moyenne": "assets/images/full_metal_jacket_moyenne.jpg",
+      "facile": "assets/images/full_metal_jacket_facile.jpg"
+    }
+  },
+  {
+    "id": "film_078",
+    "titre": "Apocalypse Now",
+    "realisateur": "Francis Ford Coppola",
+    "annee": 1979,
+    "genre": "Guerre",
+    "pays": "États-Unis",
+    "duree_minutes": 147,
+    "acteur_principal": "Martin Sheen",
+    "affiche": "assets/affiches/apocalypse_now.jpg",
+    "repliques_cultes": [
+      "I love the smell of napalm in the morning."
+    ],
+    "audio_replique": "assets/audio/repliques/apocalypse_now.mp3",
+    "musique": {
+      "titre": "The End",
+      "artiste": "The Doors",
+      "extrait_audio": "assets/audio/musiques/apocalypse_now.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/apocalypse_now_difficile.jpg",
+      "moyenne": "assets/images/apocalypse_now_moyenne.jpg",
+      "facile": "assets/images/apocalypse_now_facile.jpg"
+    }
+  },
+  {
+    "id": "film_079",
+    "titre": "Casablanca",
+    "realisateur": "Michael Curtiz",
+    "annee": 1942,
+    "genre": "Romance",
+    "pays": "États-Unis",
+    "duree_minutes": 102,
+    "acteur_principal": "Humphrey Bogart",
+    "affiche": "assets/affiches/casablanca.jpg",
+    "repliques_cultes": [
+      "Here's looking at you, kid."
+    ],
+    "audio_replique": "assets/audio/repliques/casablanca.mp3",
+    "musique": {
+      "titre": "As Time Goes By",
+      "artiste": "Dooley Wilson",
+      "extrait_audio": "assets/audio/musiques/casablanca.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/casablanca_difficile.jpg",
+      "moyenne": "assets/images/casablanca_moyenne.jpg",
+      "facile": "assets/images/casablanca_facile.jpg"
+    }
+  },
+  {
+    "id": "film_080",
+    "titre": "Psychose",
+    "realisateur": "Alfred Hitchcock",
+    "annee": 1960,
+    "genre": "Horreur",
+    "pays": "États-Unis",
+    "duree_minutes": 109,
+    "acteur_principal": "Anthony Perkins",
+    "affiche": "assets/affiches/psychose.jpg",
+    "repliques_cultes": [
+      "A boy's best friend is his mother."
+    ],
+    "audio_replique": "assets/audio/repliques/psychose.mp3",
+    "musique": {
+      "titre": "Prelude (Psycho)",
+      "artiste": "Bernard Herrmann",
+      "extrait_audio": "assets/audio/musiques/psychose.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/psychose_difficile.jpg",
+      "moyenne": "assets/images/psychose_moyenne.jpg",
+      "facile": "assets/images/psychose_facile.jpg"
+    }
+  },
+  {
+    "id": "film_081",
+    "titre": "Vertigo",
+    "realisateur": "Alfred Hitchcock",
+    "annee": 1958,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 128,
+    "acteur_principal": "James Stewart",
+    "affiche": "assets/affiches/vertigo.jpg",
+    "repliques_cultes": [
+      "Only one is a wanderer; two together are always going somewhere."
+    ],
+    "audio_replique": "assets/audio/repliques/vertigo.mp3",
+    "musique": {
+      "titre": "Scène d'Amour",
+      "artiste": "Bernard Herrmann",
+      "extrait_audio": "assets/audio/musiques/vertigo.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/vertigo_difficile.jpg",
+      "moyenne": "assets/images/vertigo_moyenne.jpg",
+      "facile": "assets/images/vertigo_facile.jpg"
+    }
+  },
+  {
+    "id": "film_082",
+    "titre": "Fenêtre sur cour",
+    "realisateur": "Alfred Hitchcock",
+    "annee": 1954,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 112,
+    "acteur_principal": "James Stewart",
+    "affiche": "assets/affiches/fenetre_sur_cour.jpg",
+    "repliques_cultes": [
+      "We've become a race of Peeping Toms."
+    ],
+    "audio_replique": "assets/audio/repliques/fenetre_sur_cour.mp3",
+    "musique": {
+      "titre": "Rear Window Theme",
+      "artiste": "Franz Waxman",
+      "extrait_audio": "assets/audio/musiques/fenetre_sur_cour.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/fenetre_sur_cour_difficile.jpg",
+      "moyenne": "assets/images/fenetre_sur_cour_moyenne.jpg",
+      "facile": "assets/images/fenetre_sur_cour_facile.jpg"
+    }
+  },
+  {
+    "id": "film_083",
+    "titre": "Alien, le huitième passager",
+    "realisateur": "Ridley Scott",
+    "annee": 1979,
+    "genre": "Horreur",
+    "pays": "États-Unis",
+    "duree_minutes": 117,
+    "acteur_principal": "Sigourney Weaver",
+    "affiche": "assets/affiches/alien.jpg",
+    "repliques_cultes": [
+      "In space no one can hear you scream."
+    ],
+    "audio_replique": "assets/audio/repliques/alien.mp3",
+    "musique": {
+      "titre": "Main Title (Alien)",
+      "artiste": "Jerry Goldsmith",
+      "extrait_audio": "assets/audio/musiques/alien.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/alien_difficile.jpg",
+      "moyenne": "assets/images/alien_moyenne.jpg",
+      "facile": "assets/images/alien_facile.jpg"
+    }
+  },
+  {
+    "id": "film_084",
+    "titre": "Aliens, le retour",
+    "realisateur": "James Cameron",
+    "annee": 1986,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 137,
+    "acteur_principal": "Sigourney Weaver",
+    "affiche": "assets/affiches/aliens_le_retour.jpg",
+    "repliques_cultes": [
+      "Get away from her, you bitch!"
+    ],
+    "audio_replique": "assets/audio/repliques/aliens_le_retour.mp3",
+    "musique": {
+      "titre": "Bishop's Countdown",
+      "artiste": "James Horner",
+      "extrait_audio": "assets/audio/musiques/aliens_le_retour.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/aliens_le_retour_difficile.jpg",
+      "moyenne": "assets/images/aliens_le_retour_moyenne.jpg",
+      "facile": "assets/images/aliens_le_retour_facile.jpg"
+    }
+  },
+  {
+    "id": "film_085",
+    "titre": "Terminator 2 : Le Jugement Dernier",
+    "realisateur": "James Cameron",
+    "annee": 1991,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 137,
+    "acteur_principal": "Arnold Schwarzenegger",
+    "affiche": "assets/affiches/terminator_2.jpg",
+    "repliques_cultes": [
+      "I'll be back."
+    ],
+    "audio_replique": "assets/audio/repliques/terminator_2.mp3",
+    "musique": {
+      "titre": "Terminator 2 Theme",
+      "artiste": "Brad Fiedel",
+      "extrait_audio": "assets/audio/musiques/terminator_2.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/terminator_2_difficile.jpg",
+      "moyenne": "assets/images/terminator_2_moyenne.jpg",
+      "facile": "assets/images/terminator_2_facile.jpg"
+    }
+  },
+  {
+    "id": "film_086",
+    "titre": "Avatar",
+    "realisateur": "James Cameron",
+    "annee": 2009,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 162,
+    "acteur_principal": "Sam Worthington",
+    "affiche": "assets/affiches/avatar.jpg",
+    "repliques_cultes": [
+      "I see you."
+    ],
+    "audio_replique": "assets/audio/repliques/avatar.mp3",
+    "musique": {
+      "titre": "I See You",
+      "artiste": "Leona Lewis",
+      "extrait_audio": "assets/audio/musiques/avatar.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/avatar_difficile.jpg",
+      "moyenne": "assets/images/avatar_moyenne.jpg",
+      "facile": "assets/images/avatar_facile.jpg"
+    }
+  },
+  {
+    "id": "film_087",
+    "titre": "Il était une fois en Amérique",
+    "realisateur": "Sergio Leone",
+    "annee": 1984,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "duree_minutes": 229,
+    "acteur_principal": "Robert De Niro",
+    "affiche": "assets/affiches/il_etait_une_fois_amerique.jpg",
+    "repliques_cultes": [
+      "You've been like a brother to me."
+    ],
+    "audio_replique": "assets/audio/repliques/il_etait_une_fois_amerique.mp3",
+    "musique": {
+      "titre": "Deborah's Theme",
+      "artiste": "Ennio Morricone",
+      "extrait_audio": "assets/audio/musiques/il_etait_une_fois_amerique.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/il_etait_une_fois_amerique_difficile.jpg",
+      "moyenne": "assets/images/il_etait_une_fois_amerique_moyenne.jpg",
+      "facile": "assets/images/il_etait_une_fois_amerique_facile.jpg"
+    }
+  },
+  {
+    "id": "film_088",
+    "titre": "Le Bon, la Brute et le Truand",
+    "realisateur": "Sergio Leone",
+    "annee": 1966,
+    "genre": "Western",
+    "pays": "Italie",
+    "duree_minutes": 178,
+    "acteur_principal": "Clint Eastwood",
+    "affiche": "assets/affiches/bon_brute_truand.jpg",
+    "repliques_cultes": [
+      "There are two kinds of people in this world."
+    ],
+    "audio_replique": "assets/audio/repliques/bon_brute_truand.mp3",
+    "musique": {
+      "titre": "The Good, the Bad and the Ugly",
+      "artiste": "Ennio Morricone",
+      "extrait_audio": "assets/audio/musiques/bon_brute_truand.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/bon_brute_truand_difficile.jpg",
+      "moyenne": "assets/images/bon_brute_truand_moyenne.jpg",
+      "facile": "assets/images/bon_brute_truand_facile.jpg"
+    }
+  },
+  {
+    "id": "film_089",
+    "titre": "Rocky",
+    "realisateur": "John G. Avildsen",
+    "annee": 1976,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 120,
+    "acteur_principal": "Sylvester Stallone",
+    "affiche": "assets/affiches/rocky.jpg",
+    "repliques_cultes": [
+      "Yo, Adrian!"
+    ],
+    "audio_replique": "assets/audio/repliques/rocky.mp3",
+    "musique": {
+      "titre": "Gonna Fly Now",
+      "artiste": "Bill Conti",
+      "extrait_audio": "assets/audio/musiques/rocky.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/rocky_difficile.jpg",
+      "moyenne": "assets/images/rocky_moyenne.jpg",
+      "facile": "assets/images/rocky_facile.jpg"
+    }
+  },
+  {
+    "id": "film_090",
+    "titre": "Rain Man",
+    "realisateur": "Barry Levinson",
+    "annee": 1988,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 133,
+    "acteur_principal": "Dustin Hoffman",
+    "affiche": "assets/affiches/rain_man.jpg",
+    "repliques_cultes": [
+      "I'm an excellent driver."
+    ],
+    "audio_replique": "assets/audio/repliques/rain_man.mp3",
+    "musique": {
+      "titre": "Leaving Cincinnati",
+      "artiste": "Hans Zimmer",
+      "extrait_audio": "assets/audio/musiques/rain_man.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/rain_man_difficile.jpg",
+      "moyenne": "assets/images/rain_man_moyenne.jpg",
+      "facile": "assets/images/rain_man_facile.jpg"
+    }
+  },
+  {
+    "id": "film_091",
+    "titre": "Le Discours d'un Roi",
+    "realisateur": "Tom Hooper",
+    "annee": 2010,
+    "genre": "Biopic",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 118,
+    "acteur_principal": "Colin Firth",
+    "affiche": "assets/affiches/discours_roi.jpg",
+    "repliques_cultes": [
+      "I have a right to be heard!"
+    ],
+    "audio_replique": "assets/audio/repliques/discours_roi.mp3",
+    "musique": {
+      "titre": "The King's Speech",
+      "artiste": "Alexandre Desplat",
+      "extrait_audio": "assets/audio/musiques/discours_roi.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/discours_roi_difficile.jpg",
+      "moyenne": "assets/images/discours_roi_moyenne.jpg",
+      "facile": "assets/images/discours_roi_facile.jpg"
+    }
+  },
+  {
+    "id": "film_092",
+    "titre": "Slumdog Millionaire",
+    "realisateur": "Danny Boyle",
+    "annee": 2008,
+    "genre": "Drame",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 120,
+    "acteur_principal": "Dev Patel",
+    "affiche": "assets/affiches/slumdog_millionaire.jpg",
+    "repliques_cultes": [
+      "It is written."
+    ],
+    "audio_replique": "assets/audio/repliques/slumdog_millionaire.mp3",
+    "musique": {
+      "titre": "Jai Ho",
+      "artiste": "A.R. Rahman",
+      "extrait_audio": "assets/audio/musiques/slumdog_millionaire.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/slumdog_millionaire_difficile.jpg",
+      "moyenne": "assets/images/slumdog_millionaire_moyenne.jpg",
+      "facile": "assets/images/slumdog_millionaire_facile.jpg"
+    }
+  },
+  {
+    "id": "film_093",
+    "titre": "American Beauty",
+    "realisateur": "Sam Mendes",
+    "annee": 1999,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 122,
+    "acteur_principal": "Kevin Spacey",
+    "affiche": "assets/affiches/american_beauty.jpg",
+    "repliques_cultes": [
+      "Look closer."
+    ],
+    "audio_replique": "assets/audio/repliques/american_beauty.mp3",
+    "musique": {
+      "titre": "American Beauty",
+      "artiste": "Thomas Newman",
+      "extrait_audio": "assets/audio/musiques/american_beauty.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/american_beauty_difficile.jpg",
+      "moyenne": "assets/images/american_beauty_moyenne.jpg",
+      "facile": "assets/images/american_beauty_facile.jpg"
+    }
+  },
+  {
+    "id": "film_094",
+    "titre": "Million Dollar Baby",
+    "realisateur": "Clint Eastwood",
+    "annee": 2004,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 132,
+    "acteur_principal": "Clint Eastwood",
+    "affiche": "assets/affiches/million_dollar_baby.jpg",
+    "repliques_cultes": [
+      "Mo cuishle."
+    ],
+    "audio_replique": "assets/audio/repliques/million_dollar_baby.mp3",
+    "musique": {
+      "titre": "Million Dollar Baby Theme",
+      "artiste": "Clint Eastwood",
+      "extrait_audio": "assets/audio/musiques/million_dollar_baby.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/million_dollar_baby_difficile.jpg",
+      "moyenne": "assets/images/million_dollar_baby_moyenne.jpg",
+      "facile": "assets/images/million_dollar_baby_facile.jpg"
+    }
+  },
+  {
+    "id": "film_095",
+    "titre": "Mystic River",
+    "realisateur": "Clint Eastwood",
+    "annee": 2003,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 138,
+    "acteur_principal": "Sean Penn",
+    "affiche": "assets/affiches/mystic_river.jpg",
+    "repliques_cultes": [
+      "We bury our sins here, Dave."
+    ],
+    "audio_replique": "assets/audio/repliques/mystic_river.mp3",
+    "musique": {
+      "titre": "Mystic River Theme",
+      "artiste": "Clint Eastwood",
+      "extrait_audio": "assets/audio/musiques/mystic_river.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/mystic_river_difficile.jpg",
+      "moyenne": "assets/images/mystic_river_moyenne.jpg",
+      "facile": "assets/images/mystic_river_facile.jpg"
+    }
+  },
+  {
+    "id": "film_096",
+    "titre": "Gran Torino",
+    "realisateur": "Clint Eastwood",
+    "annee": 2008,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 116,
+    "acteur_principal": "Clint Eastwood",
+    "affiche": "assets/affiches/gran_torino.jpg",
+    "repliques_cultes": [
+      "Get off my lawn."
+    ],
+    "audio_replique": "assets/audio/repliques/gran_torino.mp3",
+    "musique": {
+      "titre": "Gran Torino",
+      "artiste": "Clint Eastwood et Jamie Cullum",
+      "extrait_audio": "assets/audio/musiques/gran_torino.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/gran_torino_difficile.jpg",
+      "moyenne": "assets/images/gran_torino_moyenne.jpg",
+      "facile": "assets/images/gran_torino_facile.jpg"
+    }
+  },
+  {
+    "id": "film_097",
+    "titre": "Birdman",
+    "realisateur": "Alejandro González Iñárritu",
+    "annee": 2014,
+    "genre": "Comédie dramatique",
+    "pays": "États-Unis",
+    "duree_minutes": 119,
+    "acteur_principal": "Michael Keaton",
+    "affiche": "assets/affiches/birdman.jpg",
+    "repliques_cultes": [
+      "This is my chance to do something right."
+    ],
+    "audio_replique": "assets/audio/repliques/birdman.mp3",
+    "musique": {
+      "titre": "Birdman Theme",
+      "artiste": "Antonio Sánchez",
+      "extrait_audio": "assets/audio/musiques/birdman.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/birdman_difficile.jpg",
+      "moyenne": "assets/images/birdman_moyenne.jpg",
+      "facile": "assets/images/birdman_facile.jpg"
+    }
+  },
+  {
+    "id": "film_098",
+    "titre": "The Revenant",
+    "realisateur": "Alejandro González Iñárritu",
+    "annee": 2015,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 156,
+    "acteur_principal": "Leonardo DiCaprio",
+    "affiche": "assets/affiches/the_revenant.jpg",
+    "repliques_cultes": [
+      "As long as you can still grab a breath, you fight."
+    ],
+    "audio_replique": "assets/audio/repliques/the_revenant.mp3",
+    "musique": {
+      "titre": "The Revenant Theme",
+      "artiste": "Ryuichi Sakamoto",
+      "extrait_audio": "assets/audio/musiques/the_revenant.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/the_revenant_difficile.jpg",
+      "moyenne": "assets/images/the_revenant_moyenne.jpg",
+      "facile": "assets/images/the_revenant_facile.jpg"
+    }
+  },
+  {
+    "id": "film_099",
+    "titre": "21 Grammes",
+    "realisateur": "Alejandro González Iñárritu",
+    "annee": 2003,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 124,
+    "acteur_principal": "Sean Penn",
+    "affiche": "assets/affiches/21_grammes.jpg",
+    "repliques_cultes": [
+      "How many lives do we live?"
+    ],
+    "audio_replique": "assets/audio/repliques/21_grammes.mp3",
+    "musique": {
+      "titre": "21 Grams Theme",
+      "artiste": "Gustavo Santaolalla",
+      "extrait_audio": "assets/audio/musiques/21_grammes.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/21_grammes_difficile.jpg",
+      "moyenne": "assets/images/21_grammes_moyenne.jpg",
+      "facile": "assets/images/21_grammes_facile.jpg"
+    }
+  },
+  {
+    "id": "film_100",
+    "titre": "Babel",
+    "realisateur": "Alejandro González Iñárritu",
+    "annee": 2006,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 143,
+    "acteur_principal": "Brad Pitt",
+    "affiche": "assets/affiches/babel.jpg",
+    "repliques_cultes": [
+      "We are all connected."
+    ],
+    "audio_replique": "assets/audio/repliques/babel.mp3",
+    "musique": {
+      "titre": "Iguazu",
+      "artiste": "Gustavo Santaolalla",
+      "extrait_audio": "assets/audio/musiques/babel.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/babel_difficile.jpg",
+      "moyenne": "assets/images/babel_moyenne.jpg",
+      "facile": "assets/images/babel_facile.jpg"
+    }
+  },
+  {
+    "id": "film_101",
+    "titre": "There Will Be Blood",
+    "realisateur": "Paul Thomas Anderson",
+    "annee": 2007,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 158,
+    "acteur_principal": "Daniel Day-Lewis",
+    "affiche": "assets/affiches/there_will_be_blood.jpg",
+    "repliques_cultes": [
+      "I drink your milkshake!"
+    ],
+    "audio_replique": "assets/audio/repliques/there_will_be_blood.mp3",
+    "musique": {
+      "titre": "There Will Be Blood Theme",
+      "artiste": "Jonny Greenwood",
+      "extrait_audio": "assets/audio/musiques/there_will_be_blood.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/there_will_be_blood_difficile.jpg",
+      "moyenne": "assets/images/there_will_be_blood_moyenne.jpg",
+      "facile": "assets/images/there_will_be_blood_facile.jpg"
+    }
+  },
+  {
+    "id": "film_102",
+    "titre": "Magnolia",
+    "realisateur": "Paul Thomas Anderson",
+    "annee": 1999,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 188,
+    "acteur_principal": "Tom Cruise",
+    "affiche": "assets/affiches/magnolia.jpg",
+    "repliques_cultes": [
+      "We may be through with the past, but the past ain't through with us."
+    ],
+    "audio_replique": "assets/audio/repliques/magnolia.mp3",
+    "musique": {
+      "titre": "Save Me",
+      "artiste": "Aimee Mann",
+      "extrait_audio": "assets/audio/musiques/magnolia.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/magnolia_difficile.jpg",
+      "moyenne": "assets/images/magnolia_moyenne.jpg",
+      "facile": "assets/images/magnolia_facile.jpg"
+    }
+  },
+  {
+    "id": "film_103",
+    "titre": "Boogie Nights",
+    "realisateur": "Paul Thomas Anderson",
+    "annee": 1997,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 155,
+    "acteur_principal": "Mark Wahlberg",
+    "affiche": "assets/affiches/boogie_nights.jpg",
+    "repliques_cultes": [
+      "I'm a star, I'm a star, I'm a star."
+    ],
+    "audio_replique": "assets/audio/repliques/boogie_nights.mp3",
+    "musique": {
+      "titre": "Boogie Nights Theme",
+      "artiste": "Michael Penn",
+      "extrait_audio": "assets/audio/musiques/boogie_nights.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/boogie_nights_difficile.jpg",
+      "moyenne": "assets/images/boogie_nights_moyenne.jpg",
+      "facile": "assets/images/boogie_nights_facile.jpg"
+    }
+  },
+  {
+    "id": "film_104",
+    "titre": "The Social Network",
+    "realisateur": "David Fincher",
+    "annee": 2010,
+    "genre": "Biopic",
+    "pays": "États-Unis",
+    "duree_minutes": 120,
+    "acteur_principal": "Jesse Eisenberg",
+    "affiche": "assets/affiches/social_network.jpg",
+    "repliques_cultes": [
+      "A million dollars isn't cool. You know what's cool? A billion dollars."
+    ],
+    "audio_replique": "assets/audio/repliques/social_network.mp3",
+    "musique": {
+      "titre": "Hand Covers Bruise",
+      "artiste": "Trent Reznor et Atticus Ross",
+      "extrait_audio": "assets/audio/musiques/social_network.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/social_network_difficile.jpg",
+      "moyenne": "assets/images/social_network_moyenne.jpg",
+      "facile": "assets/images/social_network_facile.jpg"
+    }
+  },
+  {
+    "id": "film_105",
+    "titre": "Gone Girl",
+    "realisateur": "David Fincher",
+    "annee": 2014,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 149,
+    "acteur_principal": "Ben Affleck",
+    "affiche": "assets/affiches/gone_girl.jpg",
+    "repliques_cultes": [
+      "I'm the cool girl."
+    ],
+    "audio_replique": "assets/audio/repliques/gone_girl.mp3",
+    "musique": {
+      "titre": "Technically, Missing",
+      "artiste": "Trent Reznor et Atticus Ross",
+      "extrait_audio": "assets/audio/musiques/gone_girl.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/gone_girl_difficile.jpg",
+      "moyenne": "assets/images/gone_girl_moyenne.jpg",
+      "facile": "assets/images/gone_girl_facile.jpg"
+    }
+  },
+  {
+    "id": "film_106",
+    "titre": "Zodiac",
+    "realisateur": "David Fincher",
+    "annee": 2007,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 157,
+    "acteur_principal": "Jake Gyllenhaal",
+    "affiche": "assets/affiches/zodiac.jpg",
+    "repliques_cultes": [
+      "I need to know who he is."
+    ],
+    "audio_replique": "assets/audio/repliques/zodiac.mp3",
+    "musique": {
+      "titre": "Zodiac Theme",
+      "artiste": "David Shire",
+      "extrait_audio": "assets/audio/musiques/zodiac.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/zodiac_difficile.jpg",
+      "moyenne": "assets/images/zodiac_moyenne.jpg",
+      "facile": "assets/images/zodiac_facile.jpg"
+    }
+  },
+  {
+    "id": "film_107",
+    "titre": "Nightcrawler",
+    "realisateur": "Dan Gilroy",
+    "annee": 2014,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 117,
+    "acteur_principal": "Jake Gyllenhaal",
+    "affiche": "assets/affiches/nightcrawler.jpg",
+    "repliques_cultes": [
+      "If you're seeing me, you're having the worst day of your life."
+    ],
+    "audio_replique": "assets/audio/repliques/nightcrawler.mp3",
+    "musique": {
+      "titre": "Nightcrawler Theme",
+      "artiste": "James Newton Howard",
+      "extrait_audio": "assets/audio/musiques/nightcrawler.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/nightcrawler_difficile.jpg",
+      "moyenne": "assets/images/nightcrawler_moyenne.jpg",
+      "facile": "assets/images/nightcrawler_facile.jpg"
+    }
+  },
+  {
+    "id": "film_108",
+    "titre": "Drive",
+    "realisateur": "Nicolas Winding Refn",
+    "annee": 2011,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 100,
+    "acteur_principal": "Ryan Gosling",
+    "affiche": "assets/affiches/drive.jpg",
+    "repliques_cultes": [
+      "I drive."
+    ],
+    "audio_replique": "assets/audio/repliques/drive.mp3",
+    "musique": {
+      "titre": "A Real Hero",
+      "artiste": "College et Electric Youth",
+      "extrait_audio": "assets/audio/musiques/drive.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/drive_difficile.jpg",
+      "moyenne": "assets/images/drive_moyenne.jpg",
+      "facile": "assets/images/drive_facile.jpg"
+    }
+  },
+  {
+    "id": "film_109",
+    "titre": "Only God Forgives",
+    "realisateur": "Nicolas Winding Refn",
+    "annee": 2013,
+    "genre": "Thriller",
+    "pays": "Danemark",
+    "duree_minutes": 90,
+    "acteur_principal": "Ryan Gosling",
+    "affiche": "assets/affiches/only_god_forgives.jpg",
+    "repliques_cultes": [
+      "Time to meet the devil."
+    ],
+    "audio_replique": "assets/audio/repliques/only_god_forgives.mp3",
+    "musique": {
+      "titre": "Wanna Fight",
+      "artiste": "Cliff Martinez",
+      "extrait_audio": "assets/audio/musiques/only_god_forgives.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/only_god_forgives_difficile.jpg",
+      "moyenne": "assets/images/only_god_forgives_moyenne.jpg",
+      "facile": "assets/images/only_god_forgives_facile.jpg"
+    }
+  },
+  {
+    "id": "film_110",
+    "titre": "Mad Max: Fury Road",
+    "realisateur": "George Miller",
+    "annee": 2015,
+    "genre": "Action",
+    "pays": "Australie",
+    "duree_minutes": 120,
+    "acteur_principal": "Tom Hardy",
+    "affiche": "assets/affiches/mad_max_fury_road.jpg",
+    "repliques_cultes": [
+      "What a lovely day!"
+    ],
+    "audio_replique": "assets/audio/repliques/mad_max_fury_road.mp3",
+    "musique": {
+      "titre": "Brothers in Arms",
+      "artiste": "Junkie XL",
+      "extrait_audio": "assets/audio/musiques/mad_max_fury_road.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/mad_max_fury_road_difficile.jpg",
+      "moyenne": "assets/images/mad_max_fury_road_moyenne.jpg",
+      "facile": "assets/images/mad_max_fury_road_facile.jpg"
+    }
+  },
+  {
+    "id": "film_111",
+    "titre": "Le Loup de Wall Street",
+    "realisateur": "Martin Scorsese",
+    "annee": 2013,
+    "genre": "Comédie dramatique",
+    "pays": "États-Unis",
+    "duree_minutes": 180,
+    "acteur_principal": "Leonardo DiCaprio",
+    "affiche": "assets/affiches/loup_wall_street.jpg",
+    "repliques_cultes": [
+      "I'm not leaving."
+    ],
+    "audio_replique": "assets/audio/repliques/loup_wall_street.mp3",
+    "musique": {
+      "titre": "Mrs. Robinson",
+      "artiste": "The Lemonheads",
+      "extrait_audio": "assets/audio/musiques/loup_wall_street.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/loup_wall_street_difficile.jpg",
+      "moyenne": "assets/images/loup_wall_street_moyenne.jpg",
+      "facile": "assets/images/loup_wall_street_facile.jpg"
+    }
+  },
+  {
+    "id": "film_112",
+    "titre": "Shutter Island",
+    "realisateur": "Martin Scorsese",
+    "annee": 2010,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 138,
+    "acteur_principal": "Leonardo DiCaprio",
+    "affiche": "assets/affiches/shutter_island.jpg",
+    "repliques_cultes": [
+      "Which would be worse: to live as a monster or to die as a good man?"
+    ],
+    "audio_replique": "assets/audio/repliques/shutter_island.mp3",
+    "musique": {
+      "titre": "Symphony No. 3",
+      "artiste": "Krzysztof Penderecki",
+      "extrait_audio": "assets/audio/musiques/shutter_island.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/shutter_island_difficile.jpg",
+      "moyenne": "assets/images/shutter_island_moyenne.jpg",
+      "facile": "assets/images/shutter_island_facile.jpg"
+    }
+  },
+  {
+    "id": "film_113",
+    "titre": "Perfect Blue",
+    "realisateur": "Satoshi Kon",
+    "annee": 1997,
+    "genre": "Animation",
+    "pays": "Japon",
+    "duree_minutes": 81,
+    "acteur_principal": "Junko Iwao",
+    "affiche": "assets/affiches/perfect_blue.jpg",
+    "repliques_cultes": [
+      "Who are you?"
+    ],
+    "audio_replique": "assets/audio/repliques/perfect_blue.mp3",
+    "musique": {
+      "titre": "Perfect Blue Theme",
+      "artiste": "Masahiro Ikumi",
+      "extrait_audio": "assets/audio/musiques/perfect_blue.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/perfect_blue_difficile.jpg",
+      "moyenne": "assets/images/perfect_blue_moyenne.jpg",
+      "facile": "assets/images/perfect_blue_facile.jpg"
+    }
+  },
+  {
+    "id": "film_114",
+    "titre": "Akira",
+    "realisateur": "Katsuhiro Otomo",
+    "annee": 1988,
+    "genre": "Animation",
+    "pays": "Japon",
+    "duree_minutes": 124,
+    "acteur_principal": "Mitsuo Iwata",
+    "affiche": "assets/affiches/akira.jpg",
+    "repliques_cultes": [
+      "Tetsuo !"
+    ],
+    "audio_replique": "assets/audio/repliques/akira.mp3",
+    "musique": {
+      "titre": "Kaneda",
+      "artiste": "Shoji Yamashiro",
+      "extrait_audio": "assets/audio/musiques/akira.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/akira_difficile.jpg",
+      "moyenne": "assets/images/akira_moyenne.jpg",
+      "facile": "assets/images/akira_facile.jpg"
+    }
+  },
+  {
+    "id": "film_115",
+    "titre": "Ghost in the Shell",
+    "realisateur": "Mamoru Oshii",
+    "annee": 1995,
+    "genre": "Animation",
+    "pays": "Japon",
+    "duree_minutes": 83,
+    "acteur_principal": "Atsuko Tanaka",
+    "affiche": "assets/affiches/ghost_in_the_shell.jpg",
+    "repliques_cultes": [
+      "It's just as if I'm awake and asleep at the same time."
+    ],
+    "audio_replique": "assets/audio/repliques/ghost_in_the_shell.mp3",
+    "musique": {
+      "titre": "Making of Cyborg",
+      "artiste": "Kenji Kawai",
+      "extrait_audio": "assets/audio/musiques/ghost_in_the_shell.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/ghost_in_the_shell_difficile.jpg",
+      "moyenne": "assets/images/ghost_in_the_shell_moyenne.jpg",
+      "facile": "assets/images/ghost_in_the_shell_facile.jpg"
+    }
+  }
+]

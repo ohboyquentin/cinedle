@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "serie_001",
+    "titre": "Breaking Bad",
+    "createur": "Vince Gilligan",
+    "annee_debut": 2008,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "nombre_saisons": 5,
+    "nombre_episodes": 62,
+    "statut": "Terminée",
+    "acteur_principal": "Bryan Cranston",
+    "lieu_culte": "assets/lieux/breaking_bad.jpg",
+    "titre_episode_culte": "Ozymandias",
+    "generique": {
+      "titre": "Main Title Theme",
+      "artiste": "Dave Porter",
+      "extrait_audio": "assets/audio/generiques/breaking_bad.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/breaking_bad_difficile.jpg",
+      "moyenne": "assets/images/breaking_bad_moyenne.jpg",
+      "facile": "assets/images/breaking_bad_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_002",
+    "titre": "Friends",
+    "createur": "David Crane et Marta Kauffman",
+    "annee_debut": 1994,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "nombre_saisons": 10,
+    "nombre_episodes": 236,
+    "statut": "Terminée",
+    "acteur_principal": "Jennifer Aniston",
+    "lieu_culte": "assets/lieux/friends.jpg",
+    "titre_episode_culte": "The Last One",
+    "generique": {
+      "titre": "I'll Be There for You",
+      "artiste": "The Rembrandts",
+      "extrait_audio": "assets/audio/generiques/friends.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/friends_difficile.jpg",
+      "moyenne": "assets/images/friends_moyenne.jpg",
+      "facile": "assets/images/friends_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_003",
+    "titre": "Game of Thrones",
+    "createur": "David Benioff et D.B. Weiss",
+    "annee_debut": 2011,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "nombre_saisons": 8,
+    "nombre_episodes": 73,
+    "statut": "Terminée",
+    "acteur_principal": "Emilia Clarke",
+    "lieu_culte": "assets/lieux/game_of_thrones.jpg",
+    "titre_episode_culte": "The Rains of Castamere",
+    "generique": {
+      "titre": "Main Title",
+      "artiste": "Ramin Djawadi",
+      "extrait_audio": "assets/audio/generiques/game_of_thrones.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/game_of_thrones_difficile.jpg",
+      "moyenne": "assets/images/game_of_thrones_moyenne.jpg",
+      "facile": "assets/images/game_of_thrones_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_004",
+    "titre": "Stranger Things",
+    "createur": "The Duffer Brothers",
+    "annee_debut": 2016,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "nombre_saisons": 4,
+    "nombre_episodes": 34,
+    "statut": "En cours",
+    "acteur_principal": "Millie Bobby Brown",
+    "lieu_culte": "assets/lieux/stranger_things.jpg",
+    "titre_episode_culte": "The Vanishing of Will Byers",
+    "generique": {
+      "titre": "Stranger Things Theme",
+      "artiste": "Kyle Dixon et Michael Stein",
+      "extrait_audio": "assets/audio/generiques/stranger_things.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/stranger_things_difficile.jpg",
+      "moyenne": "assets/images/stranger_things_moyenne.jpg",
+      "facile": "assets/images/stranger_things_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_005",
+    "titre": "The Office",
+    "createur": "Greg Daniels",
+    "annee_debut": 2005,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "nombre_saisons": 9,
+    "nombre_episodes": 201,
+    "statut": "Terminée",
+    "acteur_principal": "Steve Carell",
+    "lieu_culte": "assets/lieux/the_office.jpg",
+    "titre_episode_culte": "Dinner Party",
+    "generique": {
+      "titre": "The Office Theme",
+      "artiste": "Jay Ferguson",
+      "extrait_audio": "assets/audio/generiques/the_office.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/the_office_difficile.jpg",
+      "moyenne": "assets/images/the_office_moyenne.jpg",
+      "facile": "assets/images/the_office_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_006",
+    "titre": "Sherlock",
+    "createur": "Steven Moffat et Mark Gatiss",
+    "annee_debut": 2010,
+    "genre": "Policier",
+    "pays": "Royaume-Uni",
+    "nombre_saisons": 4,
+    "nombre_episodes": 13,
+    "statut": "Terminée",
+    "acteur_principal": "Benedict Cumberbatch",
+    "lieu_culte": "assets/lieux/sherlock.jpg",
+    "titre_episode_culte": "The Reichenbach Fall",
+    "generique": {
+      "titre": "Sherlock Main Title",
+      "artiste": "David Arnold et Michael Price",
+      "extrait_audio": "assets/audio/generiques/sherlock.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/sherlock_difficile.jpg",
+      "moyenne": "assets/images/sherlock_moyenne.jpg",
+      "facile": "assets/images/sherlock_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_007",
+    "titre": "Peaky Blinders",
+    "createur": "Steven Knight",
+    "annee_debut": 2013,
+    "genre": "Policier",
+    "pays": "Royaume-Uni",
+    "nombre_saisons": 6,
+    "nombre_episodes": 36,
+    "statut": "Terminée",
+    "acteur_principal": "Cillian Murphy",
+    "lieu_culte": "assets/lieux/peaky_blinders.jpg",
+    "titre_episode_culte": "Black Tuesday",
+    "generique": {
+      "titre": "Red Right Hand",
+      "artiste": "Nick Cave and the Bad Seeds",
+      "extrait_audio": "assets/audio/generiques/peaky_blinders.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/peaky_blinders_difficile.jpg",
+      "moyenne": "assets/images/peaky_blinders_moyenne.jpg",
+      "facile": "assets/images/peaky_blinders_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_008",
+    "titre": "Better Call Saul",
+    "createur": "Vince Gilligan et Peter Gould",
+    "annee_debut": 2015,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "nombre_saisons": 6,
+    "nombre_episodes": 63,
+    "statut": "Terminée",
+    "acteur_principal": "Bob Odenkirk",
+    "lieu_culte": "assets/lieux/better_call_saul.jpg",
+    "titre_episode_culte": "Chicanery",
+    "generique": {
+      "titre": "Main Title Theme",
+      "artiste": "Little Barrie",
+      "extrait_audio": "assets/audio/generiques/better_call_saul.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/better_call_saul_difficile.jpg",
+      "moyenne": "assets/images/better_call_saul_moyenne.jpg",
+      "facile": "assets/images/better_call_saul_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_009",
+    "titre": "The Crown",
+    "createur": "Peter Morgan",
+    "annee_debut": 2016,
+    "genre": "Biopic",
+    "pays": "Royaume-Uni",
+    "nombre_saisons": 6,
+    "nombre_episodes": 60,
+    "statut": "Terminée",
+    "acteur_principal": "Claire Foy",
+    "lieu_culte": "assets/lieux/the_crown.jpg",
+    "titre_episode_culte": "Hyde Park Corner",
+    "generique": {
+      "titre": "Main Title",
+      "artiste": "Hans Zimmer et Rupert Gregson-Williams",
+      "extrait_audio": "assets/audio/generiques/the_crown.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/the_crown_difficile.jpg",
+      "moyenne": "assets/images/the_crown_moyenne.jpg",
+      "facile": "assets/images/the_crown_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_010",
+    "titre": "Dark",
+    "createur": "Baran bo Odar et Jantje Friese",
+    "annee_debut": 2017,
+    "genre": "Science-fiction",
+    "pays": "Allemagne",
+    "nombre_saisons": 3,
+    "nombre_episodes": 26,
+    "statut": "Terminée",
+    "acteur_principal": "Louis Hofmann",
+    "lieu_culte": "assets/lieux/dark.jpg",
+    "titre_episode_culte": "Secrets",
+    "generique": {
+      "titre": "Goodbye",
+      "artiste": "Apparat",
+      "extrait_audio": "assets/audio/generiques/dark.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/dark_difficile.jpg",
+      "moyenne": "assets/images/dark_moyenne.jpg",
+      "facile": "assets/images/dark_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_011",
+    "titre": "La Casa de Papel",
+    "createur": "Álex Pina",
+    "annee_debut": 2017,
+    "genre": "Thriller",
+    "pays": "Espagne",
+    "nombre_saisons": 5,
+    "nombre_episodes": 41,
+    "statut": "Terminée",
+    "acteur_principal": "Úrsula Corberó",
+    "lieu_culte": "assets/lieux/la_casa_de_papel.jpg",
+    "titre_episode_culte": "Tokyo",
+    "generique": {
+      "titre": "Bella Ciao",
+      "artiste": "Traditionnel",
+      "extrait_audio": "assets/audio/generiques/la_casa_de_papel.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/la_casa_de_papel_difficile.jpg",
+      "moyenne": "assets/images/la_casa_de_papel_moyenne.jpg",
+      "facile": "assets/images/la_casa_de_papel_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_012",
+    "titre": "Chernobyl",
+    "createur": "Craig Mazin",
+    "annee_debut": 2019,
+    "genre": "Drame historique",
+    "pays": "États-Unis",
+    "nombre_saisons": 1,
+    "nombre_episodes": 5,
+    "statut": "Terminée",
+    "acteur_principal": "Jared Harris",
+    "lieu_culte": "assets/lieux/chernobyl.jpg",
+    "titre_episode_culte": "1:23:45",
+    "generique": {
+      "titre": "Vichnaya Pamyat",
+      "artiste": "Hildur Guðnadóttir",
+      "extrait_audio": "assets/audio/generiques/chernobyl.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/chernobyl_difficile.jpg",
+      "moyenne": "assets/images/chernobyl_moyenne.jpg",
+      "facile": "assets/images/chernobyl_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_013",
+    "titre": "Fargo",
+    "createur": "Noah Hawley",
+    "annee_debut": 2014,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "nombre_saisons": 5,
+    "nombre_episodes": 51,
+    "statut": "En cours",
+    "acteur_principal": "Billy Bob Thornton",
+    "lieu_culte": "assets/lieux/fargo.jpg",
+    "titre_episode_culte": "The Crocodile's Dilemma",
+    "generique": {
+      "titre": "Fargo Theme",
+      "artiste": "Jeff Russo",
+      "extrait_audio": "assets/audio/generiques/fargo.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/fargo_difficile.jpg",
+      "moyenne": "assets/images/fargo_moyenne.jpg",
+      "facile": "assets/images/fargo_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_014",
+    "titre": "True Detective",
+    "createur": "Nic Pizzolatto",
+    "annee_debut": 2014,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "nombre_saisons": 4,
+    "nombre_episodes": 33,
+    "statut": "En cours",
+    "acteur_principal": "Matthew McConaughey",
+    "lieu_culte": "assets/lieux/true_detective.jpg",
+    "titre_episode_culte": "The Long Bright Dark",
+    "generique": {
+      "titre": "Far From Any Road",
+      "artiste": "The Handsome Family",
+      "extrait_audio": "assets/audio/generiques/true_detective.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/true_detective_difficile.jpg",
+      "moyenne": "assets/images/true_detective_moyenne.jpg",
+      "facile": "assets/images/true_detective_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_015",
+    "titre": "Westworld",
+    "createur": "Jonathan Nolan et Lisa Joy",
+    "annee_debut": 2016,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "nombre_saisons": 4,
+    "nombre_episodes": 36,
+    "statut": "Terminée",
+    "acteur_principal": "Evan Rachel Wood",
+    "lieu_culte": "assets/lieux/westworld.jpg",
+    "titre_episode_culte": "The Bicameral Mind",
+    "generique": {
+      "titre": "Westworld Theme",
+      "artiste": "Ramin Djawadi",
+      "extrait_audio": "assets/audio/generiques/westworld.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/westworld_difficile.jpg",
+      "moyenne": "assets/images/westworld_moyenne.jpg",
+      "facile": "assets/images/westworld_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_016",
+    "titre": "The Mandalorian",
+    "createur": "Jon Favreau",
+    "annee_debut": 2019,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "nombre_saisons": 3,
+    "nombre_episodes": 24,
+    "statut": "En cours",
+    "acteur_principal": "Pedro Pascal",
+    "lieu_culte": "assets/lieux/mandalorian.jpg",
+    "titre_episode_culte": "Chapter 1",
+    "generique": {
+      "titre": "The Mandalorian Theme",
+      "artiste": "Ludwig Göransson",
+      "extrait_audio": "assets/audio/generiques/mandalorian.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/mandalorian_difficile.jpg",
+      "moyenne": "assets/images/mandalorian_moyenne.jpg",
+      "facile": "assets/images/mandalorian_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_017",
+    "titre": "House of Cards",
+    "createur": "Beau Willimon",
+    "annee_debut": 2013,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "nombre_saisons": 6,
+    "nombre_episodes": 73,
+    "statut": "Terminée",
+    "acteur_principal": "Kevin Spacey",
+    "lieu_culte": "assets/lieux/house_of_cards.jpg",
+    "titre_episode_culte": "Chapter 1",
+    "generique": {
+      "titre": "Main Title",
+      "artiste": "Jeff Beal",
+      "extrait_audio": "assets/audio/generiques/house_of_cards.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/house_of_cards_difficile.jpg",
+      "moyenne": "assets/images/house_of_cards_moyenne.jpg",
+      "facile": "assets/images/house_of_cards_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_018",
+    "titre": "Narcos",
+    "createur": "Chris Brancato, Carlo Bernard et Doug Miro",
+    "annee_debut": 2015,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "nombre_saisons": 3,
+    "nombre_episodes": 30,
+    "statut": "Terminée",
+    "acteur_principal": "Wagner Moura",
+    "lieu_culte": "assets/lieux/narcos.jpg",
+    "titre_episode_culte": "Descenso",
+    "generique": {
+      "titre": "Tuyo",
+      "artiste": "Rodrigo Amarante",
+      "extrait_audio": "assets/audio/generiques/narcos.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/narcos_difficile.jpg",
+      "moyenne": "assets/images/narcos_moyenne.jpg",
+      "facile": "assets/images/narcos_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_019",
+    "titre": "Prison Break",
+    "createur": "Paul Scheuring",
+    "annee_debut": 2005,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "nombre_saisons": 5,
+    "nombre_episodes": 90,
+    "statut": "Terminée",
+    "acteur_principal": "Wentworth Miller",
+    "lieu_culte": "assets/lieux/prison_break.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "Prison Break Theme",
+      "artiste": "Ramin Djawadi",
+      "extrait_audio": "assets/audio/generiques/prison_break.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/prison_break_difficile.jpg",
+      "moyenne": "assets/images/prison_break_moyenne.jpg",
+      "facile": "assets/images/prison_break_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_020",
+    "titre": "How I Met Your Mother",
+    "createur": "Carter Bays et Craig Thomas",
+    "annee_debut": 2005,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "nombre_saisons": 9,
+    "nombre_episodes": 208,
+    "statut": "Terminée",
+    "acteur_principal": "Josh Radnor",
+    "lieu_culte": "assets/lieux/himym.jpg",
+    "titre_episode_culte": "Last Forever",
+    "generique": {
+      "titre": "Hey Beautiful",
+      "artiste": "The Solids",
+      "extrait_audio": "assets/audio/generiques/himym.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/himym_difficile.jpg",
+      "moyenne": "assets/images/himym_moyenne.jpg",
+      "facile": "assets/images/himym_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_021",
+    "titre": "The Big Bang Theory",
+    "createur": "Chuck Lorre et Bill Prady",
+    "annee_debut": 2007,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "nombre_saisons": 12,
+    "nombre_episodes": 279,
+    "statut": "Terminée",
+    "acteur_principal": "Jim Parsons",
+    "lieu_culte": "assets/lieux/tbbt.jpg",
+    "titre_episode_culte": "The Pilot",
+    "generique": {
+      "titre": "History of Everything",
+      "artiste": "Barenaked Ladies",
+      "extrait_audio": "assets/audio/generiques/tbbt.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/tbbt_difficile.jpg",
+      "moyenne": "assets/images/tbbt_moyenne.jpg",
+      "facile": "assets/images/tbbt_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_022",
+    "titre": "Dexter",
+    "createur": "James Manos Jr.",
+    "annee_debut": 2006,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "nombre_saisons": 8,
+    "nombre_episodes": 96,
+    "statut": "Terminée",
+    "acteur_principal": "Michael C. Hall",
+    "lieu_culte": "assets/lieux/dexter.jpg",
+    "titre_episode_culte": "Born Free",
+    "generique": {
+      "titre": "Main Title Theme",
+      "artiste": "Rolfe Kent",
+      "extrait_audio": "assets/audio/generiques/dexter.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/dexter_difficile.jpg",
+      "moyenne": "assets/images/dexter_moyenne.jpg",
+      "facile": "assets/images/dexter_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_023",
+    "titre": "Lost",
+    "createur": "J.J. Abrams, Jeffrey Lieber et Damon Lindelof",
+    "annee_debut": 2004,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "nombre_saisons": 6,
+    "nombre_episodes": 121,
+    "statut": "Terminée",
+    "acteur_principal": "Matthew Fox",
+    "lieu_culte": "assets/lieux/lost.jpg",
+    "titre_episode_culte": "The End",
+    "generique": {
+      "titre": "Lost Theme",
+      "artiste": "Michael Giacchino",
+      "extrait_audio": "assets/audio/generiques/lost.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/lost_difficile.jpg",
+      "moyenne": "assets/images/lost_moyenne.jpg",
+      "facile": "assets/images/lost_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_024",
+    "titre": "The Walking Dead",
+    "createur": "Frank Darabont",
+    "annee_debut": 2010,
+    "genre": "Horreur",
+    "pays": "États-Unis",
+    "nombre_saisons": 11,
+    "nombre_episodes": 177,
+    "statut": "Terminée",
+    "acteur_principal": "Andrew Lincoln",
+    "lieu_culte": "assets/lieux/twd.jpg",
+    "titre_episode_culte": "Days Gone Bye",
+    "generique": {
+      "titre": "The Walking Dead Main Title",
+      "artiste": "Bear McCreary",
+      "extrait_audio": "assets/audio/generiques/twd.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/twd_difficile.jpg",
+      "moyenne": "assets/images/twd_moyenne.jpg",
+      "facile": "assets/images/twd_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_025",
+    "titre": "Vikings",
+    "createur": "Michael Hirst",
+    "annee_debut": 2013,
+    "genre": "Historique",
+    "pays": "Irlande",
+    "nombre_saisons": 6,
+    "nombre_episodes": 89,
+    "statut": "Terminée",
+    "acteur_principal": "Travis Fimmel",
+    "lieu_culte": "assets/lieux/vikings.jpg",
+    "titre_episode_culte": "Rites of Passage",
+    "generique": {
+      "titre": "If I Had a Heart",
+      "artiste": "Fever Ray",
+      "extrait_audio": "assets/audio/generiques/vikings.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/vikings_difficile.jpg",
+      "moyenne": "assets/images/vikings_moyenne.jpg",
+      "facile": "assets/images/vikings_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_026",
+    "titre": "The Wire",
+    "createur": "David Simon",
+    "annee_debut": 2002,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "nombre_saisons": 5,
+    "nombre_episodes": 60,
+    "statut": "Terminée",
+    "acteur_principal": "Dominic West",
+    "lieu_culte": "assets/lieux/the_wire.jpg",
+    "titre_episode_culte": "The Target",
+    "generique": {
+      "titre": "Way Down in the Hole",
+      "artiste": "The Blind Boys of Alabama",
+      "extrait_audio": "assets/audio/generiques/the_wire.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/the_wire_difficile.jpg",
+      "moyenne": "assets/images/the_wire_moyenne.jpg",
+      "facile": "assets/images/the_wire_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_027",
+    "titre": "Boardwalk Empire",
+    "createur": "Terence Winter",
+    "annee_debut": 2010,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "nombre_saisons": 5,
+    "nombre_episodes": 56,
+    "statut": "Terminée",
+    "acteur_principal": "Steve Buscemi",
+    "lieu_culte": "assets/lieux/boardwalk_empire.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "Straight Up and Down",
+      "artiste": "The Brian Jonestown Massacre",
+      "extrait_audio": "assets/audio/generiques/boardwalk_empire.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/boardwalk_empire_difficile.jpg",
+      "moyenne": "assets/images/boardwalk_empire_moyenne.jpg",
+      "facile": "assets/images/boardwalk_empire_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_028",
+    "titre": "Mad Men",
+    "createur": "Matthew Weiner",
+    "annee_debut": 2007,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "nombre_saisons": 7,
+    "nombre_episodes": 92,
+    "statut": "Terminée",
+    "acteur_principal": "Jon Hamm",
+    "lieu_culte": "assets/lieux/mad_men.jpg",
+    "titre_episode_culte": "The Suitcase",
+    "generique": {
+      "titre": "A Beautiful Mine",
+      "artiste": "RJD2",
+      "extrait_audio": "assets/audio/generiques/mad_men.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/mad_men_difficile.jpg",
+      "moyenne": "assets/images/mad_men_moyenne.jpg",
+      "facile": "assets/images/mad_men_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_029",
+    "titre": "Les Soprano",
+    "createur": "David Chase",
+    "annee_debut": 1999,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "nombre_saisons": 6,
+    "nombre_episodes": 86,
+    "statut": "Terminée",
+    "acteur_principal": "James Gandolfini",
+    "lieu_culte": "assets/lieux/les_soprano.jpg",
+    "titre_episode_culte": "Made in America",
+    "generique": {
+      "titre": "Woke Up This Morning",
+      "artiste": "Alabama 3",
+      "extrait_audio": "assets/audio/generiques/les_soprano.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_soprano_difficile.jpg",
+      "moyenne": "assets/images/les_soprano_moyenne.jpg",
+      "facile": "assets/images/les_soprano_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_030",
+    "titre": "Homeland",
+    "createur": "Howard Gordon et Alex Gansa",
+    "annee_debut": 2011,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "nombre_saisons": 8,
+    "nombre_episodes": 96,
+    "statut": "Terminée",
+    "acteur_principal": "Claire Danes",
+    "lieu_culte": "assets/lieux/homeland.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "Homeland Theme",
+      "artiste": "Sean Callery",
+      "extrait_audio": "assets/audio/generiques/homeland.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/homeland_difficile.jpg",
+      "moyenne": "assets/images/homeland_moyenne.jpg",
+      "facile": "assets/images/homeland_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_031",
+    "titre": "24 heures chrono",
+    "createur": "Joel Surnow et Robert Cochran",
+    "annee_debut": 2001,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "nombre_saisons": 9,
+    "nombre_episodes": 204,
+    "statut": "Terminée",
+    "acteur_principal": "Kiefer Sutherland",
+    "lieu_culte": "assets/lieux/24_heures_chrono.jpg",
+    "titre_episode_culte": "Day 1: 12:00am-1:00am",
+    "generique": {
+      "titre": "24 Theme",
+      "artiste": "Sean Callery",
+      "extrait_audio": "assets/audio/generiques/24_heures_chrono.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/24_heures_chrono_difficile.jpg",
+      "moyenne": "assets/images/24_heures_chrono_moyenne.jpg",
+      "facile": "assets/images/24_heures_chrono_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_032",
+    "titre": "Grey's Anatomy",
+    "createur": "Shonda Rhimes",
+    "annee_debut": 2005,
+    "genre": "Drame médical",
+    "pays": "États-Unis",
+    "nombre_saisons": 20,
+    "nombre_episodes": 430,
+    "statut": "En cours",
+    "acteur_principal": "Ellen Pompeo",
+    "lieu_culte": "assets/lieux/greys_anatomy.jpg",
+    "titre_episode_culte": "A Hard Day's Night",
+    "generique": {
+      "titre": "Cosy in the Rocket",
+      "artiste": "Psapp",
+      "extrait_audio": "assets/audio/generiques/greys_anatomy.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/greys_anatomy_difficile.jpg",
+      "moyenne": "assets/images/greys_anatomy_moyenne.jpg",
+      "facile": "assets/images/greys_anatomy_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_033",
+    "titre": "Doctor Who",
+    "createur": "Sydney Newman",
+    "annee_debut": 1963,
+    "genre": "Science-fiction",
+    "pays": "Royaume-Uni",
+    "nombre_saisons": 13,
+    "nombre_episodes": 870,
+    "statut": "En cours",
+    "acteur_principal": "David Tennant",
+    "lieu_culte": "assets/lieux/doctor_who.jpg",
+    "titre_episode_culte": "Blink",
+    "generique": {
+      "titre": "Doctor Who Theme",
+      "artiste": "Murray Gold",
+      "extrait_audio": "assets/audio/generiques/doctor_who.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/doctor_who_difficile.jpg",
+      "moyenne": "assets/images/doctor_who_moyenne.jpg",
+      "facile": "assets/images/doctor_who_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_034",
+    "titre": "Downton Abbey",
+    "createur": "Julian Fellowes",
+    "annee_debut": 2010,
+    "genre": "Drame historique",
+    "pays": "Royaume-Uni",
+    "nombre_saisons": 6,
+    "nombre_episodes": 52,
+    "statut": "Terminée",
+    "acteur_principal": "Hugh Bonneville",
+    "lieu_culte": "assets/lieux/downton_abbey.jpg",
+    "titre_episode_culte": "Episode 1",
+    "generique": {
+      "titre": "Downton Abbey Theme",
+      "artiste": "John Lunn",
+      "extrait_audio": "assets/audio/generiques/downton_abbey.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/downton_abbey_difficile.jpg",
+      "moyenne": "assets/images/downton_abbey_moyenne.jpg",
+      "facile": "assets/images/downton_abbey_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_035",
+    "titre": "Suits : Avocats sur Mesure",
+    "createur": "Aaron Korsh",
+    "annee_debut": 2011,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "nombre_saisons": 9,
+    "nombre_episodes": 134,
+    "statut": "Terminée",
+    "acteur_principal": "Gabriel Macht",
+    "lieu_culte": "assets/lieux/suits.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "Greenback Boogie",
+      "artiste": "Ima Robot",
+      "extrait_audio": "assets/audio/generiques/suits.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/suits_difficile.jpg",
+      "moyenne": "assets/images/suits_moyenne.jpg",
+      "facile": "assets/images/suits_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_036",
+    "titre": "Modern Family",
+    "createur": "Christopher Lloyd et Steven Levitan",
+    "annee_debut": 2009,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "nombre_saisons": 11,
+    "nombre_episodes": 250,
+    "statut": "Terminée",
+    "acteur_principal": "Ed O'Neill",
+    "lieu_culte": "assets/lieux/modern_family.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "Modern Family Theme",
+      "artiste": "Gabriel Mann",
+      "extrait_audio": "assets/audio/generiques/modern_family.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/modern_family_difficile.jpg",
+      "moyenne": "assets/images/modern_family_moyenne.jpg",
+      "facile": "assets/images/modern_family_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_037",
+    "titre": "Arrested Development",
+    "createur": "Mitchell Hurwitz",
+    "annee_debut": 2003,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "nombre_saisons": 5,
+    "nombre_episodes": 84,
+    "statut": "Terminée",
+    "acteur_principal": "Jason Bateman",
+    "lieu_culte": "assets/lieux/arrested_development.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "Arrested Development Theme",
+      "artiste": "David Schwartz",
+      "extrait_audio": "assets/audio/generiques/arrested_development.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/arrested_development_difficile.jpg",
+      "moyenne": "assets/images/arrested_development_moyenne.jpg",
+      "facile": "assets/images/arrested_development_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_038",
+    "titre": "The Handmaid's Tale : La Servante Écarlate",
+    "createur": "Bruce Miller",
+    "annee_debut": 2017,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "nombre_saisons": 5,
+    "nombre_episodes": 56,
+    "statut": "Terminée",
+    "acteur_principal": "Elisabeth Moss",
+    "lieu_culte": "assets/lieux/handmaids_tale.jpg",
+    "titre_episode_culte": "Offred",
+    "generique": {
+      "titre": "The Handmaid's Tale Theme",
+      "artiste": "Adam Taylor",
+      "extrait_audio": "assets/audio/generiques/handmaids_tale.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/handmaids_tale_difficile.jpg",
+      "moyenne": "assets/images/handmaids_tale_moyenne.jpg",
+      "facile": "assets/images/handmaids_tale_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_039",
+    "titre": "Succession",
+    "createur": "Jesse Armstrong",
+    "annee_debut": 2018,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "nombre_saisons": 4,
+    "nombre_episodes": 39,
+    "statut": "Terminée",
+    "acteur_principal": "Brian Cox",
+    "lieu_culte": "assets/lieux/succession.jpg",
+    "titre_episode_culte": "Connor's Wedding",
+    "generique": {
+      "titre": "Succession Main Title Theme",
+      "artiste": "Nicholas Britell",
+      "extrait_audio": "assets/audio/generiques/succession.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/succession_difficile.jpg",
+      "moyenne": "assets/images/succession_moyenne.jpg",
+      "facile": "assets/images/succession_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_040",
+    "titre": "Euphoria",
+    "createur": "Sam Levinson",
+    "annee_debut": 2019,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "nombre_saisons": 2,
+    "nombre_episodes": 18,
+    "statut": "En cours",
+    "acteur_principal": "Zendaya",
+    "lieu_culte": "assets/lieux/euphoria.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "Euphoria Theme",
+      "artiste": "Labrinth",
+      "extrait_audio": "assets/audio/generiques/euphoria.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/euphoria_difficile.jpg",
+      "moyenne": "assets/images/euphoria_moyenne.jpg",
+      "facile": "assets/images/euphoria_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_041",
+    "titre": "Twin Peaks",
+    "createur": "David Lynch et Mark Frost",
+    "annee_debut": 1990,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "nombre_saisons": 3,
+    "nombre_episodes": 48,
+    "statut": "Terminée",
+    "acteur_principal": "Kyle MacLachlan",
+    "lieu_culte": "assets/lieux/twin_peaks.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "Twin Peaks Theme",
+      "artiste": "Angelo Badalamenti",
+      "extrait_audio": "assets/audio/generiques/twin_peaks.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/twin_peaks_difficile.jpg",
+      "moyenne": "assets/images/twin_peaks_moyenne.jpg",
+      "facile": "assets/images/twin_peaks_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_042",
+    "titre": "The X-Files : Aux frontières du réel",
+    "createur": "Chris Carter",
+    "annee_debut": 1993,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "nombre_saisons": 11,
+    "nombre_episodes": 218,
+    "statut": "Terminée",
+    "acteur_principal": "David Duchovny",
+    "lieu_culte": "assets/lieux/x_files.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "The X-Files Theme",
+      "artiste": "Mark Snow",
+      "extrait_audio": "assets/audio/generiques/x_files.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/x_files_difficile.jpg",
+      "moyenne": "assets/images/x_files_moyenne.jpg",
+      "facile": "assets/images/x_files_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_043",
+    "titre": "Battlestar Galactica",
+    "createur": "Ronald D. Moore",
+    "annee_debut": 2004,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "nombre_saisons": 4,
+    "nombre_episodes": 75,
+    "statut": "Terminée",
+    "acteur_principal": "Edward James Olmos",
+    "lieu_culte": "assets/lieux/battlestar_galactica.jpg",
+    "titre_episode_culte": "33",
+    "generique": {
+      "titre": "Battlestar Galactica Main Title",
+      "artiste": "Bear McCreary",
+      "extrait_audio": "assets/audio/generiques/battlestar_galactica.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/battlestar_galactica_difficile.jpg",
+      "moyenne": "assets/images/battlestar_galactica_moyenne.jpg",
+      "facile": "assets/images/battlestar_galactica_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_044",
+    "titre": "Firefly",
+    "createur": "Joss Whedon",
+    "annee_debut": 2002,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "nombre_saisons": 1,
+    "nombre_episodes": 14,
+    "statut": "Terminée",
+    "acteur_principal": "Nathan Fillion",
+    "lieu_culte": "assets/lieux/firefly.jpg",
+    "titre_episode_culte": "Serenity",
+    "generique": {
+      "titre": "The Ballad of Serenity",
+      "artiste": "Joss Whedon",
+      "extrait_audio": "assets/audio/generiques/firefly.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/firefly_difficile.jpg",
+      "moyenne": "assets/images/firefly_moyenne.jpg",
+      "facile": "assets/images/firefly_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_045",
+    "titre": "Buffy contre les vampires",
+    "createur": "Joss Whedon",
+    "annee_debut": 1997,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "nombre_saisons": 7,
+    "nombre_episodes": 144,
+    "statut": "Terminée",
+    "acteur_principal": "Sarah Michelle Gellar",
+    "lieu_culte": "assets/lieux/buffy.jpg",
+    "titre_episode_culte": "Hush",
+    "generique": {
+      "titre": "Buffy the Vampire Slayer Theme",
+      "artiste": "Nerf Herder",
+      "extrait_audio": "assets/audio/generiques/buffy.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/buffy_difficile.jpg",
+      "moyenne": "assets/images/buffy_moyenne.jpg",
+      "facile": "assets/images/buffy_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_046",
+    "titre": "Supernatural",
+    "createur": "Eric Kripke",
+    "annee_debut": 2005,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "nombre_saisons": 15,
+    "nombre_episodes": 327,
+    "statut": "Terminée",
+    "acteur_principal": "Jared Padalecki",
+    "lieu_culte": "assets/lieux/supernatural.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "Carry On Wayward Son",
+      "artiste": "Kansas",
+      "extrait_audio": "assets/audio/generiques/supernatural.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/supernatural_difficile.jpg",
+      "moyenne": "assets/images/supernatural_moyenne.jpg",
+      "facile": "assets/images/supernatural_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_047",
+    "titre": "Scrubs",
+    "createur": "Bill Lawrence",
+    "annee_debut": 2001,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "nombre_saisons": 9,
+    "nombre_episodes": 182,
+    "statut": "Terminée",
+    "acteur_principal": "Zach Braff",
+    "lieu_culte": "assets/lieux/scrubs.jpg",
+    "titre_episode_culte": "My Lunch",
+    "generique": {
+      "titre": "I'm No Superman",
+      "artiste": "Lazlo Bane",
+      "extrait_audio": "assets/audio/generiques/scrubs.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/scrubs_difficile.jpg",
+      "moyenne": "assets/images/scrubs_moyenne.jpg",
+      "facile": "assets/images/scrubs_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_048",
+    "titre": "Community",
+    "createur": "Dan Harmon",
+    "annee_debut": 2009,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "nombre_saisons": 6,
+    "nombre_episodes": 110,
+    "statut": "Terminée",
+    "acteur_principal": "Joel McHale",
+    "lieu_culte": "assets/lieux/community.jpg",
+    "titre_episode_culte": "Remedial Chaos Theory",
+    "generique": {
+      "titre": "At Least It Was Here",
+      "artiste": "The 88",
+      "extrait_audio": "assets/audio/generiques/community.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/community_difficile.jpg",
+      "moyenne": "assets/images/community_moyenne.jpg",
+      "facile": "assets/images/community_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_049",
+    "titre": "Parks and Recreation",
+    "createur": "Greg Daniels et Michael Schur",
+    "annee_debut": 2009,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "nombre_saisons": 7,
+    "nombre_episodes": 125,
+    "statut": "Terminée",
+    "acteur_principal": "Amy Poehler",
+    "lieu_culte": "assets/lieux/parks_and_recreation.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "Parks and Recreation Theme",
+      "artiste": "Gaby Moreno et Vincent Jones",
+      "extrait_audio": "assets/audio/generiques/parks_and_recreation.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/parks_and_recreation_difficile.jpg",
+      "moyenne": "assets/images/parks_and_recreation_moyenne.jpg",
+      "facile": "assets/images/parks_and_recreation_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_050",
+    "titre": "Brooklyn Nine-Nine",
+    "createur": "Dan Goor et Michael Schur",
+    "annee_debut": 2013,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "nombre_saisons": 8,
+    "nombre_episodes": 153,
+    "statut": "Terminée",
+    "acteur_principal": "Andy Samberg",
+    "lieu_culte": "assets/lieux/brooklyn_99.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "Brooklyn Nine-Nine Theme",
+      "artiste": "Bill Boyer",
+      "extrait_audio": "assets/audio/generiques/brooklyn_99.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/brooklyn_99_difficile.jpg",
+      "moyenne": "assets/images/brooklyn_99_moyenne.jpg",
+      "facile": "assets/images/brooklyn_99_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_051",
+    "titre": "Skins",
+    "createur": "Bryan Elsley et Jamie Brittain",
+    "annee_debut": 2007,
+    "genre": "Drame",
+    "pays": "Royaume-Uni",
+    "nombre_saisons": 7,
+    "nombre_episodes": 61,
+    "statut": "Terminée",
+    "acteur_principal": "Nicholas Hoult",
+    "lieu_culte": "assets/lieux/skins.jpg",
+    "titre_episode_culte": "Tony",
+    "generique": {
+      "titre": "Wolfgang Amadeus Mozart",
+      "artiste": "Cut Copy",
+      "extrait_audio": "assets/audio/generiques/skins.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/skins_difficile.jpg",
+      "moyenne": "assets/images/skins_moyenne.jpg",
+      "facile": "assets/images/skins_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_052",
+    "titre": "Misfits",
+    "createur": "Howard Overman",
+    "annee_debut": 2009,
+    "genre": "Fantastique",
+    "pays": "Royaume-Uni",
+    "nombre_saisons": 5,
+    "nombre_episodes": 39,
+    "statut": "Terminée",
+    "acteur_principal": "Iwan Rheon",
+    "lieu_culte": "assets/lieux/misfits.jpg",
+    "titre_episode_culte": "Episode 1",
+    "generique": {
+      "titre": "Misfits Theme",
+      "artiste": "Various",
+      "extrait_audio": "assets/audio/generiques/misfits.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/misfits_difficile.jpg",
+      "moyenne": "assets/images/misfits_moyenne.jpg",
+      "facile": "assets/images/misfits_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_053",
+    "titre": "The Boys",
+    "createur": "Eric Kripke",
+    "annee_debut": 2019,
+    "genre": "Action",
+    "pays": "États-Unis",
+    "nombre_saisons": 4,
+    "nombre_episodes": 32,
+    "statut": "En cours",
+    "acteur_principal": "Karl Urban",
+    "lieu_culte": "assets/lieux/the_boys.jpg",
+    "titre_episode_culte": "The Name of the Game",
+    "generique": {
+      "titre": "The Boys Main Title",
+      "artiste": "Christopher Lennertz",
+      "extrait_audio": "assets/audio/generiques/the_boys.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/the_boys_difficile.jpg",
+      "moyenne": "assets/images/the_boys_moyenne.jpg",
+      "facile": "assets/images/the_boys_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_054",
+    "titre": "Ozark",
+    "createur": "Bill Dubuque et Mark Williams",
+    "annee_debut": 2017,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "nombre_saisons": 4,
+    "nombre_episodes": 44,
+    "statut": "Terminée",
+    "acteur_principal": "Jason Bateman",
+    "lieu_culte": "assets/lieux/ozark.jpg",
+    "titre_episode_culte": "Sugarwood",
+    "generique": {
+      "titre": "Ozark Theme",
+      "artiste": "Danny Bensi et Saunder Jurriaans",
+      "extrait_audio": "assets/audio/generiques/ozark.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/ozark_difficile.jpg",
+      "moyenne": "assets/images/ozark_moyenne.jpg",
+      "facile": "assets/images/ozark_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_055",
+    "titre": "Mindhunter",
+    "createur": "Joe Penhall",
+    "annee_debut": 2017,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "nombre_saisons": 2,
+    "nombre_episodes": 19,
+    "statut": "En cours",
+    "acteur_principal": "Jonathan Groff",
+    "lieu_culte": "assets/lieux/mindhunter.jpg",
+    "titre_episode_culte": "Episode 1",
+    "generique": {
+      "titre": "Mindhunter Theme",
+      "artiste": "Jason Hill",
+      "extrait_audio": "assets/audio/generiques/mindhunter.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/mindhunter_difficile.jpg",
+      "moyenne": "assets/images/mindhunter_moyenne.jpg",
+      "facile": "assets/images/mindhunter_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_056",
+    "titre": "Rick and Morty",
+    "createur": "Justin Roiland et Dan Harmon",
+    "annee_debut": 2013,
+    "genre": "Animation",
+    "pays": "États-Unis",
+    "nombre_saisons": 7,
+    "nombre_episodes": 71,
+    "statut": "En cours",
+    "acteur_principal": "Justin Roiland",
+    "lieu_culte": "assets/lieux/rick_and_morty.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "Rick and Morty Theme",
+      "artiste": "Ryan Elder",
+      "extrait_audio": "assets/audio/generiques/rick_and_morty.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/rick_and_morty_difficile.jpg",
+      "moyenne": "assets/images/rick_and_morty_moyenne.jpg",
+      "facile": "assets/images/rick_and_morty_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_057",
+    "titre": "BoJack Horseman",
+    "createur": "Raphael Bob-Waksberg",
+    "annee_debut": 2014,
+    "genre": "Animation",
+    "pays": "États-Unis",
+    "nombre_saisons": 6,
+    "nombre_episodes": 77,
+    "statut": "Terminée",
+    "acteur_principal": "Will Arnett",
+    "lieu_culte": "assets/lieux/bojack_horseman.jpg",
+    "titre_episode_culte": "Free Churro",
+    "generique": {
+      "titre": "BoJack Horseman Theme",
+      "artiste": "Patrick Carney et Ralph Carney",
+      "extrait_audio": "assets/audio/generiques/bojack_horseman.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/bojack_horseman_difficile.jpg",
+      "moyenne": "assets/images/bojack_horseman_moyenne.jpg",
+      "facile": "assets/images/bojack_horseman_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_058",
+    "titre": "South Park",
+    "createur": "Trey Parker et Matt Stone",
+    "annee_debut": 1997,
+    "genre": "Animation",
+    "pays": "États-Unis",
+    "nombre_saisons": 26,
+    "nombre_episodes": 327,
+    "statut": "En cours",
+    "acteur_principal": "Trey Parker",
+    "lieu_culte": "assets/lieux/south_park.jpg",
+    "titre_episode_culte": "Cartman Gets an Anal Probe",
+    "generique": {
+      "titre": "South Park Theme",
+      "artiste": "Primus",
+      "extrait_audio": "assets/audio/generiques/south_park.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/south_park_difficile.jpg",
+      "moyenne": "assets/images/south_park_moyenne.jpg",
+      "facile": "assets/images/south_park_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_059",
+    "titre": "Les Simpson",
+    "createur": "Matt Groening",
+    "annee_debut": 1989,
+    "genre": "Animation",
+    "pays": "États-Unis",
+    "nombre_saisons": 35,
+    "nombre_episodes": 770,
+    "statut": "En cours",
+    "acteur_principal": "Dan Castellaneta",
+    "lieu_culte": "assets/lieux/les_simpson.jpg",
+    "titre_episode_culte": "Simpsons Roasting on an Open Fire",
+    "generique": {
+      "titre": "The Simpsons Theme",
+      "artiste": "Danny Elfman",
+      "extrait_audio": "assets/audio/generiques/les_simpson.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_simpson_difficile.jpg",
+      "moyenne": "assets/images/les_simpson_moyenne.jpg",
+      "facile": "assets/images/les_simpson_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_060",
+    "titre": "Family Guy",
+    "createur": "Seth MacFarlane",
+    "annee_debut": 1999,
+    "genre": "Animation",
+    "pays": "États-Unis",
+    "nombre_saisons": 22,
+    "nombre_episodes": 420,
+    "statut": "En cours",
+    "acteur_principal": "Seth MacFarlane",
+    "lieu_culte": "assets/lieux/family_guy.jpg",
+    "titre_episode_culte": "Death Has a Shadow",
+    "generique": {
+      "titre": "Family Guy Theme",
+      "artiste": "Walter Murphy",
+      "extrait_audio": "assets/audio/generiques/family_guy.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/family_guy_difficile.jpg",
+      "moyenne": "assets/images/family_guy_moyenne.jpg",
+      "facile": "assets/images/family_guy_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_061",
+    "titre": "Atlanta",
+    "createur": "Donald Glover",
+    "annee_debut": 2016,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "nombre_saisons": 4,
+    "nombre_episodes": 41,
+    "statut": "Terminée",
+    "acteur_principal": "Donald Glover",
+    "lieu_culte": "assets/lieux/atlanta.jpg",
+    "titre_episode_culte": "Teddy Perkins",
+    "generique": {
+      "titre": "Atlanta Theme",
+      "artiste": "Stephen Glover",
+      "extrait_audio": "assets/audio/generiques/atlanta.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/atlanta_difficile.jpg",
+      "moyenne": "assets/images/atlanta_moyenne.jpg",
+      "facile": "assets/images/atlanta_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_062",
+    "titre": "Fleabag",
+    "createur": "Phoebe Waller-Bridge",
+    "annee_debut": 2016,
+    "genre": "Comédie",
+    "pays": "Royaume-Uni",
+    "nombre_saisons": 2,
+    "nombre_episodes": 12,
+    "statut": "Terminée",
+    "acteur_principal": "Phoebe Waller-Bridge",
+    "lieu_culte": "assets/lieux/fleabag.jpg",
+    "titre_episode_culte": "Episode 1",
+    "generique": {
+      "titre": "Fleabag Theme",
+      "artiste": "Isobel Waller-Bridge",
+      "extrait_audio": "assets/audio/generiques/fleabag.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/fleabag_difficile.jpg",
+      "moyenne": "assets/images/fleabag_moyenne.jpg",
+      "facile": "assets/images/fleabag_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_063",
+    "titre": "Killing Eve",
+    "createur": "Phoebe Waller-Bridge",
+    "annee_debut": 2018,
+    "genre": "Thriller",
+    "pays": "Royaume-Uni",
+    "nombre_saisons": 4,
+    "nombre_episodes": 32,
+    "statut": "Terminée",
+    "acteur_principal": "Sandra Oh",
+    "lieu_culte": "assets/lieux/killing_eve.jpg",
+    "titre_episode_culte": "Nice Face",
+    "generique": {
+      "titre": "Killing Eve Theme",
+      "artiste": "David Holmes",
+      "extrait_audio": "assets/audio/generiques/killing_eve.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/killing_eve_difficile.jpg",
+      "moyenne": "assets/images/killing_eve_moyenne.jpg",
+      "facile": "assets/images/killing_eve_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_064",
+    "titre": "Sex Education",
+    "createur": "Laurie Nunn",
+    "annee_debut": 2019,
+    "genre": "Comédie",
+    "pays": "Royaume-Uni",
+    "nombre_saisons": 4,
+    "nombre_episodes": 33,
+    "statut": "Terminée",
+    "acteur_principal": "Asa Butterfield",
+    "lieu_culte": "assets/lieux/sex_education.jpg",
+    "titre_episode_culte": "Episode 1",
+    "generique": {
+      "titre": "Sex Education Theme",
+      "artiste": "Ezra Furman",
+      "extrait_audio": "assets/audio/generiques/sex_education.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/sex_education_difficile.jpg",
+      "moyenne": "assets/images/sex_education_moyenne.jpg",
+      "facile": "assets/images/sex_education_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_065",
+    "titre": "Derry Girls",
+    "createur": "Lisa McGee",
+    "annee_debut": 2018,
+    "genre": "Comédie",
+    "pays": "Royaume-Uni",
+    "nombre_saisons": 3,
+    "nombre_episodes": 19,
+    "statut": "Terminée",
+    "acteur_principal": "Saoirse-Monica Jackson",
+    "lieu_culte": "assets/lieux/derry_girls.jpg",
+    "titre_episode_culte": "Episode 1",
+    "generique": {
+      "titre": "Dreams",
+      "artiste": "The Cranberries",
+      "extrait_audio": "assets/audio/generiques/derry_girls.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/derry_girls_difficile.jpg",
+      "moyenne": "assets/images/derry_girls_moyenne.jpg",
+      "facile": "assets/images/derry_girls_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_066",
+    "titre": "The Umbrella Academy",
+    "createur": "Steve Blackman",
+    "annee_debut": 2019,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "nombre_saisons": 4,
+    "nombre_episodes": 40,
+    "statut": "Terminée",
+    "acteur_principal": "Elliot Page",
+    "lieu_culte": "assets/lieux/umbrella_academy.jpg",
+    "titre_episode_culte": "We Only See Each Other at Weddings and Funerals",
+    "generique": {
+      "titre": "The Umbrella Academy Theme",
+      "artiste": "Jeff Russo",
+      "extrait_audio": "assets/audio/generiques/umbrella_academy.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/umbrella_academy_difficile.jpg",
+      "moyenne": "assets/images/umbrella_academy_moyenne.jpg",
+      "facile": "assets/images/umbrella_academy_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_067",
+    "titre": "Daredevil",
+    "createur": "Drew Goddard",
+    "annee_debut": 2015,
+    "genre": "Action",
+    "pays": "États-Unis",
+    "nombre_saisons": 3,
+    "nombre_episodes": 39,
+    "statut": "Terminée",
+    "acteur_principal": "Charlie Cox",
+    "lieu_culte": "assets/lieux/daredevil.jpg",
+    "titre_episode_culte": "Into the Ring",
+    "generique": {
+      "titre": "Daredevil Theme",
+      "artiste": "John Paesano",
+      "extrait_audio": "assets/audio/generiques/daredevil.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/daredevil_difficile.jpg",
+      "moyenne": "assets/images/daredevil_moyenne.jpg",
+      "facile": "assets/images/daredevil_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_068",
+    "titre": "Luke Cage",
+    "createur": "Cheo Hodari Coker",
+    "annee_debut": 2016,
+    "genre": "Action",
+    "pays": "États-Unis",
+    "nombre_saisons": 2,
+    "nombre_episodes": 26,
+    "statut": "Terminée",
+    "acteur_principal": "Mike Colter",
+    "lieu_culte": "assets/lieux/luke_cage.jpg",
+    "titre_episode_culte": "Moment of Truth",
+    "generique": {
+      "titre": "Luke Cage Theme",
+      "artiste": "Adrian Younge et Ali Shaheed Muhammad",
+      "extrait_audio": "assets/audio/generiques/luke_cage.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/luke_cage_difficile.jpg",
+      "moyenne": "assets/images/luke_cage_moyenne.jpg",
+      "facile": "assets/images/luke_cage_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_069",
+    "titre": "Sons of Anarchy",
+    "createur": "Kurt Sutter",
+    "annee_debut": 2008,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "nombre_saisons": 7,
+    "nombre_episodes": 92,
+    "statut": "Terminée",
+    "acteur_principal": "Charlie Hunnam",
+    "lieu_culte": "assets/lieux/sons_of_anarchy.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "This Life",
+      "artiste": "Curtis Stigers et The Forest Rangers",
+      "extrait_audio": "assets/audio/generiques/sons_of_anarchy.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/sons_of_anarchy_difficile.jpg",
+      "moyenne": "assets/images/sons_of_anarchy_moyenne.jpg",
+      "facile": "assets/images/sons_of_anarchy_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_070",
+    "titre": "Justified",
+    "createur": "Graham Yost",
+    "annee_debut": 2010,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "nombre_saisons": 6,
+    "nombre_episodes": 78,
+    "statut": "Terminée",
+    "acteur_principal": "Timothy Olyphant",
+    "lieu_culte": "assets/lieux/justified.jpg",
+    "titre_episode_culte": "Fire in the Hole",
+    "generique": {
+      "titre": "Long Hard Times to Come",
+      "artiste": "Gangstagrass",
+      "extrait_audio": "assets/audio/generiques/justified.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/justified_difficile.jpg",
+      "moyenne": "assets/images/justified_moyenne.jpg",
+      "facile": "assets/images/justified_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_071",
+    "titre": "Banshee",
+    "createur": "Jonathan Tropper et David Schickler",
+    "annee_debut": 2013,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "nombre_saisons": 4,
+    "nombre_episodes": 38,
+    "statut": "Terminée",
+    "acteur_principal": "Antony Starr",
+    "lieu_culte": "assets/lieux/banshee.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "Banshee Theme",
+      "artiste": "Methodic Doubt",
+      "extrait_audio": "assets/audio/generiques/banshee.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/banshee_difficile.jpg",
+      "moyenne": "assets/images/banshee_moyenne.jpg",
+      "facile": "assets/images/banshee_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_072",
+    "titre": "The Leftovers",
+    "createur": "Damon Lindelof",
+    "annee_debut": 2014,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "nombre_saisons": 3,
+    "nombre_episodes": 28,
+    "statut": "Terminée",
+    "acteur_principal": "Justin Theroux",
+    "lieu_culte": "assets/lieux/the_leftovers.jpg",
+    "titre_episode_culte": "International Assassin",
+    "generique": {
+      "titre": "The Leftovers Theme",
+      "artiste": "Max Richter",
+      "extrait_audio": "assets/audio/generiques/the_leftovers.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/the_leftovers_difficile.jpg",
+      "moyenne": "assets/images/the_leftovers_moyenne.jpg",
+      "facile": "assets/images/the_leftovers_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_073",
+    "titre": "Sharp Objects",
+    "createur": "Marti Noxon",
+    "annee_debut": 2018,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "nombre_saisons": 1,
+    "nombre_episodes": 8,
+    "statut": "Terminée",
+    "acteur_principal": "Amy Adams",
+    "lieu_culte": "assets/lieux/sharp_objects.jpg",
+    "titre_episode_culte": "Vanish",
+    "generique": {
+      "titre": "Sharp Objects Theme",
+      "artiste": "Various",
+      "extrait_audio": "assets/audio/generiques/sharp_objects.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/sharp_objects_difficile.jpg",
+      "moyenne": "assets/images/sharp_objects_moyenne.jpg",
+      "facile": "assets/images/sharp_objects_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_074",
+    "titre": "Big Little Lies",
+    "createur": "David E. Kelley",
+    "annee_debut": 2017,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "nombre_saisons": 2,
+    "nombre_episodes": 14,
+    "statut": "Terminée",
+    "acteur_principal": "Reese Witherspoon",
+    "lieu_culte": "assets/lieux/big_little_lies.jpg",
+    "titre_episode_culte": "Somebody's Dead",
+    "generique": {
+      "titre": "Cold Little Heart",
+      "artiste": "Michael Kiwanuka",
+      "extrait_audio": "assets/audio/generiques/big_little_lies.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/big_little_lies_difficile.jpg",
+      "moyenne": "assets/images/big_little_lies_moyenne.jpg",
+      "facile": "assets/images/big_little_lies_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_075",
+    "titre": "Watchmen",
+    "createur": "Damon Lindelof",
+    "annee_debut": 2019,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "nombre_saisons": 1,
+    "nombre_episodes": 9,
+    "statut": "Terminée",
+    "acteur_principal": "Regina King",
+    "lieu_culte": "assets/lieux/watchmen.jpg",
+    "titre_episode_culte": "This Extraordinary Being",
+    "generique": {
+      "titre": "Watchmen Theme",
+      "artiste": "Trent Reznor et Atticus Ross",
+      "extrait_audio": "assets/audio/generiques/watchmen.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/watchmen_difficile.jpg",
+      "moyenne": "assets/images/watchmen_moyenne.jpg",
+      "facile": "assets/images/watchmen_facile.jpg"
+    }
+  }
+]
