@@ -2873,5 +2873,630 @@
       "moyenne": "assets/images/ghost_in_the_shell_moyenne.jpg",
       "facile": "assets/images/ghost_in_the_shell_facile.jpg"
     }
+  },
+  {
+    "id": "film_116",
+    "titre": "Pirates des Caraïbes : La Malédiction du Black Pearl",
+    "realisateur": "Gore Verbinski",
+    "annee": 2003,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 143,
+    "acteur_principal": "Johnny Depp",
+    "affiche": "assets/affiches/pirates_caraibes.jpg",
+    "repliques_cultes": [
+      "Why is the rum always gone?"
+    ],
+    "audio_replique": "assets/audio/repliques/pirates_caraibes.mp3",
+    "musique": {
+      "titre": "He's a Pirate",
+      "artiste": "Klaus Badelt",
+      "extrait_audio": "assets/audio/musiques/pirates_caraibes.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/pirates_caraibes_difficile.jpg",
+      "moyenne": "assets/images/pirates_caraibes_moyenne.jpg",
+      "facile": "assets/images/pirates_caraibes_facile.jpg"
+    }
+  },
+  {
+    "id": "film_117",
+    "titre": "Harry Potter à l'école des sorciers",
+    "realisateur": "Chris Columbus",
+    "annee": 2001,
+    "genre": "Fantastique",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 152,
+    "acteur_principal": "Daniel Radcliffe",
+    "affiche": "assets/affiches/harry_potter_1.jpg",
+    "repliques_cultes": [
+      "You're a wizard, Harry."
+    ],
+    "audio_replique": "assets/audio/repliques/harry_potter_1.mp3",
+    "musique": {
+      "titre": "Hedwig's Theme",
+      "artiste": "John Williams",
+      "extrait_audio": "assets/audio/musiques/harry_potter_1.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/harry_potter_1_difficile.jpg",
+      "moyenne": "assets/images/harry_potter_1_moyenne.jpg",
+      "facile": "assets/images/harry_potter_1_facile.jpg"
+    }
+  },
+  {
+    "id": "film_118",
+    "titre": "Harry Potter et les Reliques de la Mort - Partie 2",
+    "realisateur": "David Yates",
+    "annee": 2011,
+    "genre": "Fantastique",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 130,
+    "acteur_principal": "Daniel Radcliffe",
+    "affiche": "assets/affiches/harry_potter_7_2.jpg",
+    "repliques_cultes": [
+      "After all this time? Always."
+    ],
+    "audio_replique": "assets/audio/repliques/harry_potter_7_2.mp3",
+    "musique": {
+      "titre": "Statues",
+      "artiste": "Alexandre Desplat",
+      "extrait_audio": "assets/audio/musiques/harry_potter_7_2.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/harry_potter_7_2_difficile.jpg",
+      "moyenne": "assets/images/harry_potter_7_2_moyenne.jpg",
+      "facile": "assets/images/harry_potter_7_2_facile.jpg"
+    }
+  },
+  {
+    "id": "film_119",
+    "titre": "300",
+    "realisateur": "Zack Snyder",
+    "annee": 2006,
+    "genre": "Péplum",
+    "pays": "États-Unis",
+    "duree_minutes": 117,
+    "acteur_principal": "Gerard Butler",
+    "affiche": "assets/affiches/300.jpg",
+    "repliques_cultes": [
+      "This is Sparta!"
+    ],
+    "audio_replique": "assets/audio/repliques/300.mp3",
+    "musique": {
+      "titre": "Returns a King",
+      "artiste": "Tyler Bates",
+      "extrait_audio": "assets/audio/musiques/300.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/300_difficile.jpg",
+      "moyenne": "assets/images/300_moyenne.jpg",
+      "facile": "assets/images/300_facile.jpg"
+    }
+  },
+  {
+    "id": "film_120",
+    "titre": "Man of Steel",
+    "realisateur": "Zack Snyder",
+    "annee": 2013,
+    "genre": "Action",
+    "pays": "États-Unis",
+    "duree_minutes": 143,
+    "acteur_principal": "Henry Cavill",
+    "affiche": "assets/affiches/man_of_steel.jpg",
+    "repliques_cultes": [
+      "I'm from Kansas."
+    ],
+    "audio_replique": "assets/audio/repliques/man_of_steel.mp3",
+    "musique": {
+      "titre": "An Ideal of Hope",
+      "artiste": "Hans Zimmer",
+      "extrait_audio": "assets/audio/musiques/man_of_steel.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/man_of_steel_difficile.jpg",
+      "moyenne": "assets/images/man_of_steel_moyenne.jpg",
+      "facile": "assets/images/man_of_steel_facile.jpg"
+    }
+  },
+  {
+    "id": "film_121",
+    "titre": "Big Fish",
+    "realisateur": "Tim Burton",
+    "annee": 2003,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "duree_minutes": 125,
+    "acteur_principal": "Ewan McGregor",
+    "affiche": "assets/affiches/big_fish.jpg",
+    "repliques_cultes": [
+      "A man tells his stories so many times that he becomes the stories."
+    ],
+    "audio_replique": "assets/audio/repliques/big_fish.mp3",
+    "musique": {
+      "titre": "Big Fish Theme",
+      "artiste": "Danny Elfman",
+      "extrait_audio": "assets/audio/musiques/big_fish.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/big_fish_difficile.jpg",
+      "moyenne": "assets/images/big_fish_moyenne.jpg",
+      "facile": "assets/images/big_fish_facile.jpg"
+    }
+  },
+  {
+    "id": "film_122",
+    "titre": "Edward aux Mains d'Argent",
+    "realisateur": "Tim Burton",
+    "annee": 1990,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "duree_minutes": 105,
+    "acteur_principal": "Johnny Depp",
+    "affiche": "assets/affiches/edward_mains_argent.jpg",
+    "repliques_cultes": [
+      "I am not complete."
+    ],
+    "audio_replique": "assets/audio/repliques/edward_mains_argent.mp3",
+    "musique": {
+      "titre": "Ice Dance",
+      "artiste": "Danny Elfman",
+      "extrait_audio": "assets/audio/musiques/edward_mains_argent.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/edward_mains_argent_difficile.jpg",
+      "moyenne": "assets/images/edward_mains_argent_moyenne.jpg",
+      "facile": "assets/images/edward_mains_argent_facile.jpg"
+    }
+  },
+  {
+    "id": "film_123",
+    "titre": "Sweeney Todd : Le Diabolique Barbier de Fleet Street",
+    "realisateur": "Tim Burton",
+    "annee": 2007,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 116,
+    "acteur_principal": "Johnny Depp",
+    "affiche": "assets/affiches/sweeney_todd.jpg",
+    "repliques_cultes": [
+      "At last, my arm is complete again."
+    ],
+    "audio_replique": "assets/audio/repliques/sweeney_todd.mp3",
+    "musique": {
+      "titre": "No Place Like London",
+      "artiste": "Stephen Sondheim",
+      "extrait_audio": "assets/audio/musiques/sweeney_todd.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/sweeney_todd_difficile.jpg",
+      "moyenne": "assets/images/sweeney_todd_moyenne.jpg",
+      "facile": "assets/images/sweeney_todd_facile.jpg"
+    }
+  },
+  {
+    "id": "film_124",
+    "titre": "The Shape of Water",
+    "realisateur": "Guillermo del Toro",
+    "annee": 2017,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "duree_minutes": 123,
+    "acteur_principal": "Sally Hawkins",
+    "affiche": "assets/affiches/shape_of_water.jpg",
+    "repliques_cultes": [
+      "When he looks at me, he does not know how I am incomplete."
+    ],
+    "audio_replique": "assets/audio/repliques/shape_of_water.mp3",
+    "musique": {
+      "titre": "The Shape of Water",
+      "artiste": "Alexandre Desplat",
+      "extrait_audio": "assets/audio/musiques/shape_of_water.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/shape_of_water_difficile.jpg",
+      "moyenne": "assets/images/shape_of_water_moyenne.jpg",
+      "facile": "assets/images/shape_of_water_facile.jpg"
+    }
+  },
+  {
+    "id": "film_125",
+    "titre": "Le Labyrinthe de Pan",
+    "realisateur": "Guillermo del Toro",
+    "annee": 2006,
+    "genre": "Fantastique",
+    "pays": "Espagne",
+    "duree_minutes": 118,
+    "acteur_principal": "Ivana Baquero",
+    "affiche": "assets/affiches/labyrinthe_pan.jpg",
+    "repliques_cultes": [
+      "Once upon a time..."
+    ],
+    "audio_replique": "assets/audio/repliques/labyrinthe_pan.mp3",
+    "musique": {
+      "titre": "Long, Long Time Ago",
+      "artiste": "Javier Navarrete",
+      "extrait_audio": "assets/audio/musiques/labyrinthe_pan.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/labyrinthe_pan_difficile.jpg",
+      "moyenne": "assets/images/labyrinthe_pan_moyenne.jpg",
+      "facile": "assets/images/labyrinthe_pan_facile.jpg"
+    }
+  },
+  {
+    "id": "film_126",
+    "titre": "Hellboy",
+    "realisateur": "Guillermo del Toro",
+    "annee": 2004,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "duree_minutes": 122,
+    "acteur_principal": "Ron Perlman",
+    "affiche": "assets/affiches/hellboy.jpg",
+    "repliques_cultes": [
+      "Who's the boy scout?"
+    ],
+    "audio_replique": "assets/audio/repliques/hellboy.mp3",
+    "musique": {
+      "titre": "Hellboy Theme",
+      "artiste": "Marco Beltrami",
+      "extrait_audio": "assets/audio/musiques/hellboy.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/hellboy_difficile.jpg",
+      "moyenne": "assets/images/hellboy_moyenne.jpg",
+      "facile": "assets/images/hellboy_facile.jpg"
+    }
+  },
+  {
+    "id": "film_127",
+    "titre": "Big",
+    "realisateur": "Penny Marshall",
+    "annee": 1988,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 104,
+    "acteur_principal": "Tom Hanks",
+    "affiche": "assets/affiches/big.jpg",
+    "repliques_cultes": [
+      "I want to be big."
+    ],
+    "audio_replique": "assets/audio/repliques/big.mp3",
+    "musique": {
+      "titre": "Heart and Soul",
+      "artiste": "Traditionnel",
+      "extrait_audio": "assets/audio/musiques/big.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/big_difficile.jpg",
+      "moyenne": "assets/images/big_moyenne.jpg",
+      "facile": "assets/images/big_facile.jpg"
+    }
+  },
+  {
+    "id": "film_128",
+    "titre": "Will Hunting",
+    "realisateur": "Gus Van Sant",
+    "annee": 1997,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 126,
+    "acteur_principal": "Matt Damon",
+    "affiche": "assets/affiches/will_hunting.jpg",
+    "repliques_cultes": [
+      "It's not your fault."
+    ],
+    "audio_replique": "assets/audio/repliques/will_hunting.mp3",
+    "musique": {
+      "titre": "Between the Bars",
+      "artiste": "Elliott Smith",
+      "extrait_audio": "assets/audio/musiques/will_hunting.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/will_hunting_difficile.jpg",
+      "moyenne": "assets/images/will_hunting_moyenne.jpg",
+      "facile": "assets/images/will_hunting_facile.jpg"
+    }
+  },
+  {
+    "id": "film_129",
+    "titre": "Le Cercle des Poètes Disparus",
+    "realisateur": "Peter Weir",
+    "annee": 1989,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 128,
+    "acteur_principal": "Robin Williams",
+    "affiche": "assets/affiches/cercle_poetes.jpg",
+    "repliques_cultes": [
+      "Carpe diem, seize the day."
+    ],
+    "audio_replique": "assets/audio/repliques/cercle_poetes.mp3",
+    "musique": {
+      "titre": "Dead Poets Society Theme",
+      "artiste": "Maurice Jarre",
+      "extrait_audio": "assets/audio/musiques/cercle_poetes.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/cercle_poetes_difficile.jpg",
+      "moyenne": "assets/images/cercle_poetes_moyenne.jpg",
+      "facile": "assets/images/cercle_poetes_facile.jpg"
+    }
+  },
+  {
+    "id": "film_130",
+    "titre": "Into the Wild",
+    "realisateur": "Sean Penn",
+    "annee": 2007,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 148,
+    "acteur_principal": "Emile Hirsch",
+    "affiche": "assets/affiches/into_the_wild.jpg",
+    "repliques_cultes": [
+      "Happiness only real when shared."
+    ],
+    "audio_replique": "assets/audio/repliques/into_the_wild.mp3",
+    "musique": {
+      "titre": "Society",
+      "artiste": "Eddie Vedder",
+      "extrait_audio": "assets/audio/musiques/into_the_wild.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/into_the_wild_difficile.jpg",
+      "moyenne": "assets/images/into_the_wild_moyenne.jpg",
+      "facile": "assets/images/into_the_wild_facile.jpg"
+    }
+  },
+  {
+    "id": "film_131",
+    "titre": "Un Homme d'Exception",
+    "realisateur": "Ron Howard",
+    "annee": 2001,
+    "genre": "Biopic",
+    "pays": "États-Unis",
+    "duree_minutes": 135,
+    "acteur_principal": "Russell Crowe",
+    "affiche": "assets/affiches/homme_exception.jpg",
+    "repliques_cultes": [
+      "I need to believe that something extraordinary is possible."
+    ],
+    "audio_replique": "assets/audio/repliques/homme_exception.mp3",
+    "musique": {
+      "titre": "A Beautiful Mind Theme",
+      "artiste": "James Horner",
+      "extrait_audio": "assets/audio/musiques/homme_exception.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/homme_exception_difficile.jpg",
+      "moyenne": "assets/images/homme_exception_moyenne.jpg",
+      "facile": "assets/images/homme_exception_facile.jpg"
+    }
+  },
+  {
+    "id": "film_132",
+    "titre": "Apollo 13",
+    "realisateur": "Ron Howard",
+    "annee": 1995,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 140,
+    "acteur_principal": "Tom Hanks",
+    "affiche": "assets/affiches/apollo_13.jpg",
+    "repliques_cultes": [
+      "Houston, we have a problem."
+    ],
+    "audio_replique": "assets/audio/repliques/apollo_13.mp3",
+    "musique": {
+      "titre": "Apollo 13 Main Title",
+      "artiste": "James Horner",
+      "extrait_audio": "assets/audio/musiques/apollo_13.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/apollo_13_difficile.jpg",
+      "moyenne": "assets/images/apollo_13_moyenne.jpg",
+      "facile": "assets/images/apollo_13_facile.jpg"
+    }
+  },
+  {
+    "id": "film_133",
+    "titre": "Catch Me If You Can",
+    "realisateur": "Steven Spielberg",
+    "annee": 2002,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "duree_minutes": 141,
+    "acteur_principal": "Leonardo DiCaprio",
+    "affiche": "assets/affiches/catch_me_if_you_can.jpg",
+    "repliques_cultes": [
+      "To me, it was worth it."
+    ],
+    "audio_replique": "assets/audio/repliques/catch_me_if_you_can.mp3",
+    "musique": {
+      "titre": "Catch Me If You Can",
+      "artiste": "John Williams",
+      "extrait_audio": "assets/audio/musiques/catch_me_if_you_can.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/catch_me_if_you_can_difficile.jpg",
+      "moyenne": "assets/images/catch_me_if_you_can_moyenne.jpg",
+      "facile": "assets/images/catch_me_if_you_can_facile.jpg"
+    }
+  },
+  {
+    "id": "film_134",
+    "titre": "Minority Report",
+    "realisateur": "Steven Spielberg",
+    "annee": 2002,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 145,
+    "acteur_principal": "Tom Cruise",
+    "affiche": "assets/affiches/minority_report.jpg",
+    "repliques_cultes": [
+      "Everybody runs."
+    ],
+    "audio_replique": "assets/audio/repliques/minority_report.mp3",
+    "musique": {
+      "titre": "Minority Report Theme",
+      "artiste": "John Williams",
+      "extrait_audio": "assets/audio/musiques/minority_report.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/minority_report_difficile.jpg",
+      "moyenne": "assets/images/minority_report_moyenne.jpg",
+      "facile": "assets/images/minority_report_facile.jpg"
+    }
+  },
+  {
+    "id": "film_135",
+    "titre": "Lincoln",
+    "realisateur": "Steven Spielberg",
+    "annee": 2012,
+    "genre": "Biopic",
+    "pays": "États-Unis",
+    "duree_minutes": 150,
+    "acteur_principal": "Daniel Day-Lewis",
+    "affiche": "assets/affiches/lincoln.jpg",
+    "repliques_cultes": [
+      "I am the President of the United States, clothed in immense power."
+    ],
+    "audio_replique": "assets/audio/repliques/lincoln.mp3",
+    "musique": {
+      "titre": "Lincoln Theme",
+      "artiste": "John Williams",
+      "extrait_audio": "assets/audio/musiques/lincoln.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/lincoln_difficile.jpg",
+      "moyenne": "assets/images/lincoln_moyenne.jpg",
+      "facile": "assets/images/lincoln_facile.jpg"
+    }
+  },
+  {
+    "id": "film_136",
+    "titre": "Green Book : Sur les Routes du Sud",
+    "realisateur": "Peter Farrelly",
+    "annee": 2018,
+    "genre": "Comédie dramatique",
+    "pays": "États-Unis",
+    "duree_minutes": 130,
+    "acteur_principal": "Viggo Mortensen",
+    "affiche": "assets/affiches/green_book.jpg",
+    "repliques_cultes": [
+      "The world's full of lonely people."
+    ],
+    "audio_replique": "assets/audio/repliques/green_book.mp3",
+    "musique": {
+      "titre": "Green Book Theme",
+      "artiste": "Kris Bowers",
+      "extrait_audio": "assets/audio/musiques/green_book.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/green_book_difficile.jpg",
+      "moyenne": "assets/images/green_book_moyenne.jpg",
+      "facile": "assets/images/green_book_facile.jpg"
+    }
+  },
+  {
+    "id": "film_137",
+    "titre": "Moonlight",
+    "realisateur": "Barry Jenkins",
+    "annee": 2016,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 111,
+    "acteur_principal": "Trevante Rhodes",
+    "affiche": "assets/affiches/moonlight.jpg",
+    "repliques_cultes": [
+      "Who is you, Chiron?"
+    ],
+    "audio_replique": "assets/audio/repliques/moonlight.mp3",
+    "musique": {
+      "titre": "Middle of the World",
+      "artiste": "Nicholas Britell",
+      "extrait_audio": "assets/audio/musiques/moonlight.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/moonlight_difficile.jpg",
+      "moyenne": "assets/images/moonlight_moyenne.jpg",
+      "facile": "assets/images/moonlight_facile.jpg"
+    }
+  },
+  {
+    "id": "film_138",
+    "titre": "12 Years a Slave",
+    "realisateur": "Steve McQueen",
+    "annee": 2013,
+    "genre": "Biopic",
+    "pays": "États-Unis",
+    "duree_minutes": 134,
+    "acteur_principal": "Chiwetel Ejiofor",
+    "affiche": "assets/affiches/12_years_a_slave.jpg",
+    "repliques_cultes": [
+      "I don't want to survive. I want to live."
+    ],
+    "audio_replique": "assets/audio/repliques/12_years_a_slave.mp3",
+    "musique": {
+      "titre": "Solomon",
+      "artiste": "Hans Zimmer",
+      "extrait_audio": "assets/audio/musiques/12_years_a_slave.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/12_years_a_slave_difficile.jpg",
+      "moyenne": "assets/images/12_years_a_slave_moyenne.jpg",
+      "facile": "assets/images/12_years_a_slave_facile.jpg"
+    }
+  },
+  {
+    "id": "film_139",
+    "titre": "Manchester by the Sea",
+    "realisateur": "Kenneth Lonergan",
+    "annee": 2016,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 137,
+    "acteur_principal": "Casey Affleck",
+    "affiche": "assets/affiches/manchester_by_the_sea.jpg",
+    "repliques_cultes": [
+      "I can't beat it."
+    ],
+    "audio_replique": "assets/audio/repliques/manchester_by_the_sea.mp3",
+    "musique": {
+      "titre": "Manchester by the Sea Theme",
+      "artiste": "Lesley Barber",
+      "extrait_audio": "assets/audio/musiques/manchester_by_the_sea.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/manchester_by_the_sea_difficile.jpg",
+      "moyenne": "assets/images/manchester_by_the_sea_moyenne.jpg",
+      "facile": "assets/images/manchester_by_the_sea_facile.jpg"
+    }
+  },
+  {
+    "id": "film_140",
+    "titre": "Nomadland",
+    "realisateur": "Chloé Zhao",
+    "annee": 2020,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 108,
+    "acteur_principal": "Frances McDormand",
+    "affiche": "assets/affiches/nomadland.jpg",
+    "repliques_cultes": [
+      "I'm not homeless, I'm houseless."
+    ],
+    "audio_replique": "assets/audio/repliques/nomadland.mp3",
+    "musique": {
+      "titre": "Nomadland Theme",
+      "artiste": "Ludovico Einaudi",
+      "extrait_audio": "assets/audio/musiques/nomadland.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/nomadland_difficile.jpg",
+      "moyenne": "assets/images/nomadland_moyenne.jpg",
+      "facile": "assets/images/nomadland_facile.jpg"
+    }
   }
 ]

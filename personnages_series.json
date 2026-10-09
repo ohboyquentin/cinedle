@@ -856,5 +856,203 @@
     "decennie_apparition": 2010,
     "sexe": "Femme",
     "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_079",
+    "nom": "John Dutton",
+    "serie_origine": "Yellowstone",
+    "acteur": "Kevin Costner",
+    "statut": "Héros",
+    "genre_serie": "Drame",
+    "decennie_apparition": 2010,
+    "sexe": "Homme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_080",
+    "nom": "James Dutton",
+    "serie_origine": "1883",
+    "acteur": "Tim McGraw",
+    "statut": "Héros",
+    "genre_serie": "Western",
+    "decennie_apparition": 2020,
+    "sexe": "Homme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_081",
+    "nom": "Charlie Cale",
+    "serie_origine": "Poker Face",
+    "acteur": "Natasha Lyonne",
+    "statut": "Héros",
+    "genre_serie": "Policier",
+    "decennie_apparition": 2020,
+    "sexe": "Femme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_082",
+    "nom": "Carmen Berzatto",
+    "serie_origine": "The Bear",
+    "acteur": "Jeremy Allen White",
+    "statut": "Anti-héros",
+    "genre_serie": "Comédie dramatique",
+    "decennie_apparition": 2020,
+    "sexe": "Homme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_083",
+    "nom": "Mark Scout",
+    "serie_origine": "Severance",
+    "acteur": "Adam Scott",
+    "statut": "Héros",
+    "genre_serie": "Science-fiction",
+    "decennie_apparition": 2020,
+    "sexe": "Homme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_084",
+    "nom": "Cassian Andor",
+    "serie_origine": "Andor",
+    "acteur": "Diego Luna",
+    "statut": "Héros",
+    "genre_serie": "Science-fiction",
+    "decennie_apparition": 2020,
+    "sexe": "Homme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_085",
+    "nom": "Loki",
+    "serie_origine": "Loki",
+    "acteur": "Tom Hiddleston",
+    "statut": "Anti-héros",
+    "genre_serie": "Fantastique",
+    "decennie_apparition": 2020,
+    "sexe": "Homme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_086",
+    "nom": "Wanda Maximoff",
+    "serie_origine": "WandaVision",
+    "acteur": "Elizabeth Olsen",
+    "statut": "Anti-héros",
+    "genre_serie": "Fantastique",
+    "decennie_apparition": 2020,
+    "sexe": "Femme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_087",
+    "nom": "Joel Miller",
+    "serie_origine": "The Last of Us",
+    "acteur": "Pedro Pascal",
+    "statut": "Héros",
+    "genre_serie": "Horreur",
+    "decennie_apparition": 2020,
+    "sexe": "Homme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_088",
+    "nom": "Rhaenyra Targaryen",
+    "serie_origine": "House of the Dragon",
+    "acteur": "Emma D'Arcy",
+    "statut": "Héros",
+    "genre_serie": "Fantastique",
+    "decennie_apparition": 2020,
+    "sexe": "Femme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_089",
+    "nom": "Geralt de Riv",
+    "serie_origine": "The Witcher",
+    "acteur": "Henry Cavill",
+    "statut": "Héros",
+    "genre_serie": "Fantastique",
+    "decennie_apparition": 2010,
+    "sexe": "Homme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_090",
+    "nom": "Ted Lasso",
+    "serie_origine": "Ted Lasso",
+    "acteur": "Jason Sudeikis",
+    "statut": "Héros",
+    "genre_serie": "Comédie",
+    "decennie_apparition": 2020,
+    "sexe": "Homme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_091",
+    "nom": "Moira Rose",
+    "serie_origine": "Schitt's Creek",
+    "acteur": "Catherine O'Hara",
+    "statut": "Second rôle",
+    "genre_serie": "Comédie",
+    "decennie_apparition": 2010,
+    "sexe": "Femme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_092",
+    "nom": "Dennis Reynolds",
+    "serie_origine": "It's Always Sunny in Philadelphia",
+    "acteur": "Glenn Howerton",
+    "statut": "Anti-héros",
+    "genre_serie": "Comédie",
+    "decennie_apparition": 2000,
+    "sexe": "Homme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_093",
+    "nom": "Barry Berkman",
+    "serie_origine": "Barry",
+    "acteur": "Bill Hader",
+    "statut": "Anti-héros",
+    "genre_serie": "Comédie noire",
+    "decennie_apparition": 2010,
+    "sexe": "Homme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_094",
+    "nom": "Bear Smallhill",
+    "serie_origine": "Reservation Dogs",
+    "acteur": "D'Pharaoh Woon-A-Tai",
+    "statut": "Héros",
+    "genre_serie": "Comédie",
+    "decennie_apparition": 2020,
+    "sexe": "Homme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_095",
+    "nom": "Piper Chapman",
+    "serie_origine": "Orange Is the New Black",
+    "acteur": "Taylor Schilling",
+    "statut": "Héros",
+    "genre_serie": "Comédie dramatique",
+    "decennie_apparition": 2010,
+    "sexe": "Femme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_096",
+    "nom": "Tate Langdon",
+    "serie_origine": "American Horror Story",
+    "acteur": "Evan Peters",
+    "statut": "Anti-héros",
+    "genre_serie": "Horreur",
+    "decennie_apparition": 2010,
+    "sexe": "Homme",
+    "saison_apparition": 1
   }
 ]

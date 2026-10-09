@@ -40,6 +40,9 @@
 
   .section-label{ font-size:11px; letter-spacing:0.14em; text-transform:uppercase; color:var(--muted); margin-bottom:12px; }
 
+  .yesterday-line{ text-align:center; margin-top: 26px; font-size: 13px; color: var(--muted); }
+  .yesterday-answer{ color: var(--accent); font-weight: 700; }
+
   .cards-grid{ display:grid; grid-template-columns: 1fr 1fr; gap: 12px; }
   .defi-card{ background: var(--bg-raised); border: 1px solid var(--border); border-radius: 12px; padding: 18px 16px; cursor:pointer; transition: border-color 0.15s ease; }
   .defi-card:hover{ border-color: var(--accent-dim); }
@@ -139,17 +142,19 @@
    ========================================================= */
 let FILMS, PERSONNAGES, SERIES, PERSONNAGES_SERIES, ANIMES, PERSONNAGES_ANIMES;
 let DAILY_CINEMA, DAILY_SERIES, DAILY_ANIMES;
+let YESTERDAY_ANSWERS = { cinema:null, series:null, animes:null };
 
 /* =========================================================
    TIRAGE DU JOUR (déterministe par date, distinct par défi, par thème)
    ========================================================= */
 function hashStr(str){ let h=0; for(let i=0;i<str.length;i++){ h=(h<<5)-h+str.charCodeAt(i); h|=0; } return Math.abs(h); }
 const TODAY_SEED = new Date().toISOString().slice(0,10);
+const YESTERDAY_SEED = new Date(Date.now() - 86400000).toISOString().slice(0,10);
 
-function pickDistinct(pool, labels, themeKey){
+function pickDistinct(pool, labels, themeKey, seed){
   const used = new Set(); const result = {};
   labels.forEach(label => {
-    let idx = hashStr(TODAY_SEED + themeKey + label) % pool.length;
+    let idx = hashStr(seed + themeKey + label) % pool.length;
     let tries = 0;
     while(used.has(idx) && tries < pool.length){ idx = (idx+1) % pool.length; tries++; }
     used.add(idx);
@@ -337,6 +342,16 @@ function currentDefis(){ return THEMES[state.themeKey].defis; }
 /* =========================================================
    VUE : ACCUEIL
    ========================================================= */
+function yesterdayLabel(){
+  if(state.themeKey === 'cinema') return 'Le film';
+  if(state.themeKey === 'series') return 'La série';
+  return "L'animé";
+}
+function yesterdayAnswerTitle(){
+  const answer = YESTERDAY_ANSWERS[state.themeKey];
+  return answer ? answer.titre : '...';
+}
+
 function renderHome(){
   state.mode = null; state.allinIndex = 0; state.allinResults = [];
   document.body.dataset.theme = state.themeKey;
@@ -358,6 +373,8 @@ function renderHome(){
 
     <div class="section-label">Ou joue en indépendant</div>
     <div class="cards-grid" id="cards-grid"></div>
+
+    <div class="yesterday-line">${yesterdayLabel()} d'hier était <span class="yesterday-answer">${yesterdayAnswerTitle()}</span></div>
   `;
 
   document.querySelectorAll('.theme-btn[data-theme]').forEach(btn => {
@@ -704,14 +721,19 @@ async function boot(){
     ]);
     FILMS = films; PERSONNAGES = persos; SERIES = series; PERSONNAGES_SERIES = persosSeries; ANIMES = animes; PERSONNAGES_ANIMES = persosAnimes;
 
-    DAILY_CINEMA = pickDistinct(FILMS, ['defi1','defi3','defi4','defi5','defi6'], 'cinema');
+    DAILY_CINEMA = pickDistinct(FILMS, ['defi1','defi3','defi4','defi5','defi6'], 'cinema', TODAY_SEED);
     DAILY_CINEMA.defi2 = PERSONNAGES[hashStr(TODAY_SEED + 'cinema' + 'defi2') % PERSONNAGES.length];
 
-    DAILY_SERIES = pickDistinct(SERIES, ['defi1','defi3','defi4','defi5','defi6'], 'series');
+    DAILY_SERIES = pickDistinct(SERIES, ['defi1','defi3','defi4','defi5','defi6'], 'series', TODAY_SEED);
     DAILY_SERIES.defi2 = PERSONNAGES_SERIES[hashStr(TODAY_SEED + 'series' + 'defi2') % PERSONNAGES_SERIES.length];
 
-    DAILY_ANIMES = pickDistinct(ANIMES, ['defi1','defi3','defi4','defi5','defi6'], 'animes');
+    DAILY_ANIMES = pickDistinct(ANIMES, ['defi1','defi3','defi4','defi5','defi6'], 'animes', TODAY_SEED);
     DAILY_ANIMES.defi2 = PERSONNAGES_ANIMES[hashStr(TODAY_SEED + 'animes' + 'defi2') % PERSONNAGES_ANIMES.length];
+
+    // Réponse "d'hier" (défi 1 uniquement, à titre indicatif comme sur Loldle)
+    YESTERDAY_ANSWERS.cinema = pickDistinct(FILMS, ['defi1'], 'cinema', YESTERDAY_SEED).defi1;
+    YESTERDAY_ANSWERS.series = pickDistinct(SERIES, ['defi1'], 'series', YESTERDAY_SEED).defi1;
+    YESTERDAY_ANSWERS.animes = pickDistinct(ANIMES, ['defi1'], 'animes', YESTERDAY_SEED).defi1;
 
     renderHome();
   } catch(err){

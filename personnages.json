@@ -898,5 +898,205 @@
     "genre_film": "Animation",
     "decennie_apparition": 1980,
     "sexe": "Homme"
+  },
+  {
+    "id": "perso_091",
+    "nom": "Jack Sparrow",
+    "film_origine": "Pirates des Caraïbes : La Malédiction du Black Pearl",
+    "acteur": "Johnny Depp",
+    "statut": "Héros",
+    "genre_film": "Aventure",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_092",
+    "nom": "Harry Potter",
+    "film_origine": "Harry Potter à l'école des sorciers",
+    "acteur": "Daniel Radcliffe",
+    "statut": "Héros",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_093",
+    "nom": "Lord Voldemort",
+    "film_origine": "Harry Potter et les Reliques de la Mort - Partie 2",
+    "acteur": "Ralph Fiennes",
+    "statut": "Méchant",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_094",
+    "nom": "Leonidas",
+    "film_origine": "300",
+    "acteur": "Gerard Butler",
+    "statut": "Héros",
+    "genre_film": "Péplum",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_095",
+    "nom": "Clark Kent",
+    "film_origine": "Man of Steel",
+    "acteur": "Henry Cavill",
+    "statut": "Héros",
+    "genre_film": "Action",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_096",
+    "nom": "Edward Bloom",
+    "film_origine": "Big Fish",
+    "acteur": "Ewan McGregor",
+    "statut": "Héros",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_097",
+    "nom": "Edward Scissorhands",
+    "film_origine": "Edward aux Mains d'Argent",
+    "acteur": "Johnny Depp",
+    "statut": "Héros",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_098",
+    "nom": "Sweeney Todd",
+    "film_origine": "Sweeney Todd : Le Diabolique Barbier de Fleet Street",
+    "acteur": "Johnny Depp",
+    "statut": "Anti-héros",
+    "genre_film": "Comédie musicale",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_099",
+    "nom": "Elisa Esposito",
+    "film_origine": "The Shape of Water",
+    "acteur": "Sally Hawkins",
+    "statut": "Héros",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 2010,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_100",
+    "nom": "Ofelia",
+    "film_origine": "Le Labyrinthe de Pan",
+    "acteur": "Ivana Baquero",
+    "statut": "Héros",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 2000,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_101",
+    "nom": "Hellboy",
+    "film_origine": "Hellboy",
+    "acteur": "Ron Perlman",
+    "statut": "Héros",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_102",
+    "nom": "Josh Baskin",
+    "film_origine": "Big",
+    "acteur": "Tom Hanks",
+    "statut": "Héros",
+    "genre_film": "Comédie",
+    "decennie_apparition": 1980,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_103",
+    "nom": "Will Hunting",
+    "film_origine": "Will Hunting",
+    "acteur": "Matt Damon",
+    "statut": "Héros",
+    "genre_film": "Drame",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_104",
+    "nom": "John Keating",
+    "film_origine": "Le Cercle des Poètes Disparus",
+    "acteur": "Robin Williams",
+    "statut": "Héros",
+    "genre_film": "Drame",
+    "decennie_apparition": 1980,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_105",
+    "nom": "Christopher McCandless",
+    "film_origine": "Into the Wild",
+    "acteur": "Emile Hirsch",
+    "statut": "Héros",
+    "genre_film": "Aventure",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_106",
+    "nom": "John Nash",
+    "film_origine": "Un Homme d'Exception",
+    "acteur": "Russell Crowe",
+    "statut": "Héros",
+    "genre_film": "Biopic",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_107",
+    "nom": "Jim Lovell",
+    "film_origine": "Apollo 13",
+    "acteur": "Tom Hanks",
+    "statut": "Héros",
+    "genre_film": "Drame",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_108",
+    "nom": "Frank Abagnale Jr.",
+    "film_origine": "Catch Me If You Can",
+    "acteur": "Leonardo DiCaprio",
+    "statut": "Anti-héros",
+    "genre_film": "Policier",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_109",
+    "nom": "John Anderton",
+    "film_origine": "Minority Report",
+    "acteur": "Tom Cruise",
+    "statut": "Héros",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_110",
+    "nom": "Abraham Lincoln",
+    "film_origine": "Lincoln",
+    "acteur": "Daniel Day-Lewis",
+    "statut": "Héros",
+    "genre_film": "Biopic",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
   }
 ]

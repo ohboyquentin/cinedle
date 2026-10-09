@@ -1798,5 +1798,485 @@
       "moyenne": "assets/images/watchmen_moyenne.jpg",
       "facile": "assets/images/watchmen_facile.jpg"
     }
+  },
+  {
+    "id": "serie_076",
+    "titre": "Yellowstone",
+    "createur": "Taylor Sheridan",
+    "annee_debut": 2018,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "nombre_saisons": 5,
+    "nombre_episodes": 55,
+    "statut": "Terminée",
+    "acteur_principal": "Kevin Costner",
+    "lieu_culte": "assets/lieux/yellowstone.jpg",
+    "titre_episode_culte": "Daybreak",
+    "generique": {
+      "titre": "Yellowstone Theme",
+      "artiste": "Brian Tyler",
+      "extrait_audio": "assets/audio/generiques/yellowstone.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/yellowstone_difficile.jpg",
+      "moyenne": "assets/images/yellowstone_moyenne.jpg",
+      "facile": "assets/images/yellowstone_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_077",
+    "titre": "1883",
+    "createur": "Taylor Sheridan",
+    "annee_debut": 2021,
+    "genre": "Western",
+    "pays": "États-Unis",
+    "nombre_saisons": 1,
+    "nombre_episodes": 10,
+    "statut": "Terminée",
+    "acteur_principal": "Tim McGraw",
+    "lieu_culte": "assets/lieux/1883.jpg",
+    "titre_episode_culte": "1883",
+    "generique": {
+      "titre": "1883 Theme",
+      "artiste": "Brian Tyler",
+      "extrait_audio": "assets/audio/generiques/1883.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/1883_difficile.jpg",
+      "moyenne": "assets/images/1883_moyenne.jpg",
+      "facile": "assets/images/1883_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_078",
+    "titre": "Poker Face",
+    "createur": "Rian Johnson",
+    "annee_debut": 2023,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "nombre_saisons": 2,
+    "nombre_episodes": 23,
+    "statut": "En cours",
+    "acteur_principal": "Natasha Lyonne",
+    "lieu_culte": "assets/lieux/poker_face.jpg",
+    "titre_episode_culte": "Dead Man's Hand",
+    "generique": {
+      "titre": "Poker Face Theme",
+      "artiste": "Various",
+      "extrait_audio": "assets/audio/generiques/poker_face.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/poker_face_difficile.jpg",
+      "moyenne": "assets/images/poker_face_moyenne.jpg",
+      "facile": "assets/images/poker_face_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_079",
+    "titre": "The Bear",
+    "createur": "Christopher Storer",
+    "annee_debut": 2022,
+    "genre": "Comédie dramatique",
+    "pays": "États-Unis",
+    "nombre_saisons": 3,
+    "nombre_episodes": 28,
+    "statut": "En cours",
+    "acteur_principal": "Jeremy Allen White",
+    "lieu_culte": "assets/lieux/the_bear.jpg",
+    "titre_episode_culte": "System",
+    "generique": {
+      "titre": "The Bear Theme",
+      "artiste": "Various",
+      "extrait_audio": "assets/audio/generiques/the_bear.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/the_bear_difficile.jpg",
+      "moyenne": "assets/images/the_bear_moyenne.jpg",
+      "facile": "assets/images/the_bear_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_080",
+    "titre": "Severance",
+    "createur": "Dan Erickson",
+    "annee_debut": 2022,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "nombre_saisons": 2,
+    "nombre_episodes": 19,
+    "statut": "En cours",
+    "acteur_principal": "Adam Scott",
+    "lieu_culte": "assets/lieux/severance.jpg",
+    "titre_episode_culte": "Good News About Hell",
+    "generique": {
+      "titre": "Severance Theme",
+      "artiste": "Theodore Shapiro",
+      "extrait_audio": "assets/audio/generiques/severance.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/severance_difficile.jpg",
+      "moyenne": "assets/images/severance_moyenne.jpg",
+      "facile": "assets/images/severance_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_081",
+    "titre": "Andor",
+    "createur": "Tony Gilroy",
+    "annee_debut": 2022,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "nombre_saisons": 2,
+    "nombre_episodes": 24,
+    "statut": "Terminée",
+    "acteur_principal": "Diego Luna",
+    "lieu_culte": "assets/lieux/andor.jpg",
+    "titre_episode_culte": "Kassa",
+    "generique": {
+      "titre": "Andor Theme",
+      "artiste": "Nicholas Britell",
+      "extrait_audio": "assets/audio/generiques/andor.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/andor_difficile.jpg",
+      "moyenne": "assets/images/andor_moyenne.jpg",
+      "facile": "assets/images/andor_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_082",
+    "titre": "Loki",
+    "createur": "Michael Waldron",
+    "annee_debut": 2021,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "nombre_saisons": 2,
+    "nombre_episodes": 12,
+    "statut": "Terminée",
+    "acteur_principal": "Tom Hiddleston",
+    "lieu_culte": "assets/lieux/loki.jpg",
+    "titre_episode_culte": "Glorious Purpose",
+    "generique": {
+      "titre": "Loki Theme",
+      "artiste": "Natalie Holt",
+      "extrait_audio": "assets/audio/generiques/loki.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/loki_difficile.jpg",
+      "moyenne": "assets/images/loki_moyenne.jpg",
+      "facile": "assets/images/loki_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_083",
+    "titre": "WandaVision",
+    "createur": "Jac Schaeffer",
+    "annee_debut": 2021,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "nombre_saisons": 1,
+    "nombre_episodes": 9,
+    "statut": "Terminée",
+    "acteur_principal": "Elizabeth Olsen",
+    "lieu_culte": "assets/lieux/wandavision.jpg",
+    "titre_episode_culte": "Previously On",
+    "generique": {
+      "titre": "WandaVision Theme",
+      "artiste": "Christophe Beck",
+      "extrait_audio": "assets/audio/generiques/wandavision.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/wandavision_difficile.jpg",
+      "moyenne": "assets/images/wandavision_moyenne.jpg",
+      "facile": "assets/images/wandavision_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_084",
+    "titre": "The Last of Us",
+    "createur": "Craig Mazin et Neil Druckmann",
+    "annee_debut": 2023,
+    "genre": "Horreur",
+    "pays": "États-Unis",
+    "nombre_saisons": 2,
+    "nombre_episodes": 16,
+    "statut": "En cours",
+    "acteur_principal": "Pedro Pascal",
+    "lieu_culte": "assets/lieux/the_last_of_us.jpg",
+    "titre_episode_culte": "Long, Long Time",
+    "generique": {
+      "titre": "The Last of Us Theme",
+      "artiste": "Gustavo Santaolalla",
+      "extrait_audio": "assets/audio/generiques/the_last_of_us.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/the_last_of_us_difficile.jpg",
+      "moyenne": "assets/images/the_last_of_us_moyenne.jpg",
+      "facile": "assets/images/the_last_of_us_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_085",
+    "titre": "House of the Dragon",
+    "createur": "Ryan Condal",
+    "annee_debut": 2022,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "nombre_saisons": 2,
+    "nombre_episodes": 18,
+    "statut": "En cours",
+    "acteur_principal": "Matt Smith",
+    "lieu_culte": "assets/lieux/house_of_the_dragon.jpg",
+    "titre_episode_culte": "The Heirs of the Dragon",
+    "generique": {
+      "titre": "House of the Dragon Theme",
+      "artiste": "Ramin Djawadi",
+      "extrait_audio": "assets/audio/generiques/house_of_the_dragon.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/house_of_the_dragon_difficile.jpg",
+      "moyenne": "assets/images/house_of_the_dragon_moyenne.jpg",
+      "facile": "assets/images/house_of_the_dragon_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_086",
+    "titre": "The Witcher",
+    "createur": "Lauren Schmidt Hissrich",
+    "annee_debut": 2019,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "nombre_saisons": 3,
+    "nombre_episodes": 24,
+    "statut": "En cours",
+    "acteur_principal": "Henry Cavill",
+    "lieu_culte": "assets/lieux/the_witcher.jpg",
+    "titre_episode_culte": "The End's Beginning",
+    "generique": {
+      "titre": "The Witcher Theme",
+      "artiste": "Sonya Belousova et Giona Ostinelli",
+      "extrait_audio": "assets/audio/generiques/the_witcher.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/the_witcher_difficile.jpg",
+      "moyenne": "assets/images/the_witcher_moyenne.jpg",
+      "facile": "assets/images/the_witcher_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_087",
+    "titre": "Ted Lasso",
+    "createur": "Jason Sudeikis",
+    "annee_debut": 2020,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "nombre_saisons": 3,
+    "nombre_episodes": 34,
+    "statut": "Terminée",
+    "acteur_principal": "Jason Sudeikis",
+    "lieu_culte": "assets/lieux/ted_lasso.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "Ted Lasso Theme",
+      "artiste": "Marcus Mumford",
+      "extrait_audio": "assets/audio/generiques/ted_lasso.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/ted_lasso_difficile.jpg",
+      "moyenne": "assets/images/ted_lasso_moyenne.jpg",
+      "facile": "assets/images/ted_lasso_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_088",
+    "titre": "Schitt's Creek",
+    "createur": "Dan Levy et Eugene Levy",
+    "annee_debut": 2015,
+    "genre": "Comédie",
+    "pays": "Canada",
+    "nombre_saisons": 6,
+    "nombre_episodes": 80,
+    "statut": "Terminée",
+    "acteur_principal": "Eugene Levy",
+    "lieu_culte": "assets/lieux/schitts_creek.jpg",
+    "titre_episode_culte": "Moira's Nudes",
+    "generique": {
+      "titre": "Schitt's Creek Theme",
+      "artiste": "Bob Rock",
+      "extrait_audio": "assets/audio/generiques/schitts_creek.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/schitts_creek_difficile.jpg",
+      "moyenne": "assets/images/schitts_creek_moyenne.jpg",
+      "facile": "assets/images/schitts_creek_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_089",
+    "titre": "It's Always Sunny in Philadelphia",
+    "createur": "Rob McElhenney",
+    "annee_debut": 2005,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "nombre_saisons": 16,
+    "nombre_episodes": 172,
+    "statut": "En cours",
+    "acteur_principal": "Charlie Day",
+    "lieu_culte": "assets/lieux/always_sunny.jpg",
+    "titre_episode_culte": "The Gang Gets Racist",
+    "generique": {
+      "titre": "Temptation Sensation",
+      "artiste": "Heinz Kiessling",
+      "extrait_audio": "assets/audio/generiques/always_sunny.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/always_sunny_difficile.jpg",
+      "moyenne": "assets/images/always_sunny_moyenne.jpg",
+      "facile": "assets/images/always_sunny_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_090",
+    "titre": "Barry",
+    "createur": "Alec Berg et Bill Hader",
+    "annee_debut": 2018,
+    "genre": "Comédie noire",
+    "pays": "États-Unis",
+    "nombre_saisons": 4,
+    "nombre_episodes": 32,
+    "statut": "Terminée",
+    "acteur_principal": "Bill Hader",
+    "lieu_culte": "assets/lieux/barry.jpg",
+    "titre_episode_culte": "Chapter One: Make Your Mark",
+    "generique": {
+      "titre": "Barry Theme",
+      "artiste": "David Wingo et Jeff Russo",
+      "extrait_audio": "assets/audio/generiques/barry.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/barry_difficile.jpg",
+      "moyenne": "assets/images/barry_moyenne.jpg",
+      "facile": "assets/images/barry_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_091",
+    "titre": "Reservation Dogs",
+    "createur": "Sterlin Harjo",
+    "annee_debut": 2021,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "nombre_saisons": 3,
+    "nombre_episodes": 28,
+    "statut": "Terminée",
+    "acteur_principal": "D'Pharaoh Woon-A-Tai",
+    "lieu_culte": "assets/lieux/reservation_dogs.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "Reservation Dogs Theme",
+      "artiste": "Mato Wayuhi",
+      "extrait_audio": "assets/audio/generiques/reservation_dogs.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/reservation_dogs_difficile.jpg",
+      "moyenne": "assets/images/reservation_dogs_moyenne.jpg",
+      "facile": "assets/images/reservation_dogs_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_092",
+    "titre": "Pose",
+    "createur": "Ryan Murphy",
+    "annee_debut": 2018,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "nombre_saisons": 3,
+    "nombre_episodes": 26,
+    "statut": "Terminée",
+    "acteur_principal": "Mj Rodriguez",
+    "lieu_culte": "assets/lieux/pose.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "Pose Theme",
+      "artiste": "Various",
+      "extrait_audio": "assets/audio/generiques/pose.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/pose_difficile.jpg",
+      "moyenne": "assets/images/pose_moyenne.jpg",
+      "facile": "assets/images/pose_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_093",
+    "titre": "American Horror Story",
+    "createur": "Ryan Murphy",
+    "annee_debut": 2011,
+    "genre": "Horreur",
+    "pays": "États-Unis",
+    "nombre_saisons": 12,
+    "nombre_episodes": 129,
+    "statut": "En cours",
+    "acteur_principal": "Evan Peters",
+    "lieu_culte": "assets/lieux/american_horror_story.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "American Horror Story Theme",
+      "artiste": "Cesar Davila-Irizarry et Charlie Clouser",
+      "extrait_audio": "assets/audio/generiques/american_horror_story.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/american_horror_story_difficile.jpg",
+      "moyenne": "assets/images/american_horror_story_moyenne.jpg",
+      "facile": "assets/images/american_horror_story_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_094",
+    "titre": "Glee",
+    "createur": "Ryan Murphy",
+    "annee_debut": 2009,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "nombre_saisons": 6,
+    "nombre_episodes": 121,
+    "statut": "Terminée",
+    "acteur_principal": "Lea Michele",
+    "lieu_culte": "assets/lieux/glee.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "Glee Theme",
+      "artiste": "Various",
+      "extrait_audio": "assets/audio/generiques/glee.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/glee_difficile.jpg",
+      "moyenne": "assets/images/glee_moyenne.jpg",
+      "facile": "assets/images/glee_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_095",
+    "titre": "Orange Is the New Black",
+    "createur": "Jenji Kohan",
+    "annee_debut": 2013,
+    "genre": "Comédie dramatique",
+    "pays": "États-Unis",
+    "nombre_saisons": 7,
+    "nombre_episodes": 91,
+    "statut": "Terminée",
+    "acteur_principal": "Taylor Schilling",
+    "lieu_culte": "assets/lieux/oitnb.jpg",
+    "titre_episode_culte": "I Wasn't Ready",
+    "generique": {
+      "titre": "You've Got Time",
+      "artiste": "Regina Spektor",
+      "extrait_audio": "assets/audio/generiques/oitnb.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/oitnb_difficile.jpg",
+      "moyenne": "assets/images/oitnb_moyenne.jpg",
+      "facile": "assets/images/oitnb_facile.jpg"
+    }
   }
 ]
