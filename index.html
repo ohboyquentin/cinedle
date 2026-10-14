@@ -40,7 +40,7 @@
 
   .section-label{ font-size:11px; letter-spacing:0.14em; text-transform:uppercase; color:var(--muted); margin-bottom:12px; }
 
-  .yesterday-line{ text-align:center; margin-top: 26px; font-size: 13px; color: var(--muted); }
+  .yesterday-line{ text-align:center; margin: -10px 0 20px; font-size: 13px; color: var(--muted); }
   .yesterday-answer{ color: var(--accent); font-weight: 700; }
 
   .cards-grid{ display:grid; grid-template-columns: 1fr 1fr; gap: 12px; }
@@ -237,7 +237,7 @@ const THEMES = {
     label: 'Cinéma',
     defis: [
       { n:1, icon:'🎬', name:'Film', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine le film', itemLabel:'Film', labelKey:'titre',
+        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine le film', yesterday: yesterdayHtml(), itemLabel:'Film', labelKey:'titre',
           placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi1, columns:COLS_FILM,
           resultMeta:t=>`${t.realisateur} · ${t.annee} · ${t.genre}`, completionName:'Film' }) },
       { n:2, icon:'🧑‍🎤', name:'Personnage', desc:'Grille de comparaison',
@@ -270,7 +270,7 @@ const THEMES = {
     label: 'Séries',
     defis: [
       { n:1, icon:'📺', name:'Série', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine la série', itemLabel:'Série', labelKey:'titre',
+        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine la série', yesterday: yesterdayHtml(), itemLabel:'Série', labelKey:'titre',
           placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi1, columns:COLS_SERIE,
           resultMeta:t=>`${t.createur} · ${t.annee_debut} · ${t.genre}`, completionName:'Série' }) },
       { n:2, icon:'🧑‍🎤', name:'Personnage', desc:'Grille de comparaison',
@@ -302,7 +302,7 @@ const THEMES = {
     label: 'Animés',
     defis: [
       { n:1, icon:'🈵', name:'Animé', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 1', title:"Devine l'animé", itemLabel:'Animé', labelKey:'titre',
+        render: () => renderGridDefi({ eyebrow:'Défi 1', title:"Devine l'animé", yesterday: yesterdayHtml(), itemLabel:'Animé', labelKey:'titre',
           placeholder:"Tape le titre d'un animé...", pool:ANIMES, target:DAILY_ANIMES.defi1, columns:COLS_ANIME,
           resultMeta:t=>`${t.mangaka} · ${t.annee} · ${t.genre}`, completionName:'Animé' }) },
       { n:2, icon:'🧑‍🎤', name:'Personnage', desc:'Grille de comparaison',
@@ -352,6 +352,10 @@ function yesterdayAnswerTitle(){
   return answer ? answer.titre : '...';
 }
 
+function yesterdayHtml(){
+  return `${yesterdayLabel()} d'hier était <span class="yesterday-answer">${yesterdayAnswerTitle()}</span>`;
+}
+
 function renderHome(){
   state.mode = null; state.allinIndex = 0; state.allinResults = [];
   document.body.dataset.theme = state.themeKey;
@@ -374,7 +378,6 @@ function renderHome(){
     <div class="section-label">Ou joue en indépendant</div>
     <div class="cards-grid" id="cards-grid"></div>
 
-    <div class="yesterday-line">${yesterdayLabel()} d'hier était <span class="yesterday-answer">${yesterdayAnswerTitle()}</span></div>
   `;
 
   document.querySelectorAll('.theme-btn[data-theme]').forEach(btn => {
@@ -460,6 +463,7 @@ function renderGridDefi(cfg){
   app.innerHTML = `
     ${backButton()}${progressDots()}
     <header class="defi-header"><div class="defi-eyebrow">${cfg.eyebrow}</div><h2 class="defi-title">${cfg.title}</h2></header>
+    ${cfg.yesterday ? `<div class="yesterday-line">${cfg.yesterday}</div>` : ''}
     <div class="grid-header" style="${gridStyle}">
       <div class="label">${cfg.itemLabel}</div>
       ${cfg.columns.map(c=>`<div class="label">${c.label}</div>`).join('')}
