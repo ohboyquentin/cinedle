@@ -42,6 +42,9 @@
 
   .yesterday-line{ text-align:center; margin: -10px 0 20px; font-size: 13px; color: var(--muted); }
   .yesterday-answer{ color: var(--accent); font-weight: 700; }
+  .defi-card.done{ border-color: var(--green-dim); }
+  .defi-card .status.progress{ color: var(--amber); }
+  .hint-box{ text-align:center; margin-bottom: 14px; padding: 12px 14px; border-radius: 10px; background: rgba(var(--accent-rgb),0.06); border: 1px dashed var(--accent-dim); color: var(--accent); font-size: 13px; font-weight: 600; line-height: 1.45; }
 
   .cards-grid{ display:grid; grid-template-columns: 1fr 1fr; gap: 12px; }
   .defi-card{ background: var(--bg-raised); border: 1px solid var(--border); border-radius: 12px; padding: 18px 16px; cursor:pointer; transition: border-color 0.15s ease; }
@@ -148,8 +151,19 @@ let YESTERDAY_ANSWERS = { cinema:null, series:null, animes:null };
    TIRAGE DU JOUR (déterministe par date, distinct par défi, par thème)
    ========================================================= */
 function hashStr(str){ let h=0; for(let i=0;i<str.length;i++){ h=(h<<5)-h+str.charCodeAt(i); h|=0; } return Math.abs(h); }
-const TODAY_SEED = new Date().toISOString().slice(0,10);
-const YESTERDAY_SEED = new Date(Date.now() - 86400000).toISOString().slice(0,10);
+// Le "jour" du jeu change à minuit, heure de Paris (pour tout le monde, comme Loldle).
+// On part de la date parisienne puis on décale en jours calendaires (sûr malgré les changements d'heure).
+function parisDate(offsetDays = 0, now = new Date()){
+  try{
+    const parts = new Intl.DateTimeFormat('en-US', { timeZone: 'Europe/Paris', year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(now);
+    const get = type => Number(parts.find(p => p.type === type).value);
+    return new Date(Date.UTC(get('year'), get('month') - 1, get('day') + offsetDays)).toISOString().slice(0,10);
+  }catch(e){
+    return new Date(now.getTime() + offsetDays * 86400000).toISOString().slice(0,10); // repli : date UTC
+  }
+}
+const TODAY_SEED = parisDate(0);
+const YESTERDAY_SEED = parisDate(-1);
 
 function pickDistinct(pool, labels, themeKey, seed){
   const used = new Set(); const result = {};
@@ -232,12 +246,18 @@ const COLS_PERSO_ANIME = [
 /* =========================================================
    THÈMES : configuration des 6 défis
    ========================================================= */
+function titleHint(t){
+  const title = t.titre.trim();
+  const words = title.split(/\s+/).length;
+  return `Le titre commence par « ${title[0].toUpperCase()} » et compte ${words} mot${words>1?'s':''}`;
+}
+
 const THEMES = {
   cinema: {
     label: 'Cinéma',
     defis: [
       { n:1, icon:'🎬', name:'Film', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine le film', yesterday: yesterdayHtml(), itemLabel:'Film', labelKey:'titre',
+        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine le film', yesterday: yesterdayHtml(), hints: [ { after:5, html: t => `Réplique culte : « ${t.repliques_cultes[0]} »` }, { after:8, html: titleHint } ], itemLabel:'Film', labelKey:'titre',
           placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi1, columns:COLS_FILM,
           resultMeta:t=>`${t.realisateur} · ${t.annee} · ${t.genre}`, completionName:'Film' }) },
       { n:2, icon:'🧑‍🎤', name:'Personnage', desc:'Grille de comparaison',
@@ -270,7 +290,7 @@ const THEMES = {
     label: 'Séries',
     defis: [
       { n:1, icon:'📺', name:'Série', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine la série', yesterday: yesterdayHtml(), itemLabel:'Série', labelKey:'titre',
+        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine la série', yesterday: yesterdayHtml(), hints: [ { after:5, html: t => `Titre d'un épisode culte : « ${t.titre_episode_culte} »` }, { after:8, html: titleHint } ], itemLabel:'Série', labelKey:'titre',
           placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi1, columns:COLS_SERIE,
           resultMeta:t=>`${t.createur} · ${t.annee_debut} · ${t.genre}`, completionName:'Série' }) },
       { n:2, icon:'🧑‍🎤', name:'Personnage', desc:'Grille de comparaison',
@@ -302,7 +322,7 @@ const THEMES = {
     label: 'Animés',
     defis: [
       { n:1, icon:'🈵', name:'Animé', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 1', title:"Devine l'animé", yesterday: yesterdayHtml(), itemLabel:'Animé', labelKey:'titre',
+        render: () => renderGridDefi({ eyebrow:'Défi 1', title:"Devine l'animé", yesterday: yesterdayHtml(), hints: [ { after:5, html: t => `Réplique culte : « ${t.replique_culte} »` }, { after:8, html: titleHint } ], itemLabel:'Animé', labelKey:'titre',
           placeholder:"Tape le titre d'un animé...", pool:ANIMES, target:DAILY_ANIMES.defi1, columns:COLS_ANIME,
           resultMeta:t=>`${t.mangaka} · ${t.annee} · ${t.genre}`, completionName:'Animé' }) },
       { n:2, icon:'🧑‍🎤', name:'Personnage', desc:'Grille de comparaison',
@@ -340,6 +360,41 @@ const app = document.getElementById('app');
 function currentDefis(){ return THEMES[state.themeKey].defis; }
 
 /* =========================================================
+   SAUVEGARDE DE LA PROGRESSION (localStorage, par jour)
+   ========================================================= */
+// Chaque défi est identifié par son libellé "Défi N" dans le thème courant.
+// La sauvegarde du jour est invalidée si la taille des bases JSON change (le tirage du jour change alors).
+const STORE_KEY = 'cinedle:v1';
+function dataSig(){
+  return [FILMS, PERSONNAGES, SERIES, PERSONNAGES_SERIES, ANIMES, PERSONNAGES_ANIMES].map(a => a.length).join('-');
+}
+function loadStore(){
+  try{
+    const s = JSON.parse(localStorage.getItem(STORE_KEY) || '{}');
+    return (s && typeof s === 'object') ? s : {};
+  }catch(e){ return {}; }
+}
+function getProgress(defiId){
+  const day = loadStore()[TODAY_SEED];
+  const p = day && day.sig === dataSig() && day[state.themeKey] && day[state.themeKey][defiId];
+  return p || { guesses: [], done: false, attempts: 0 };
+}
+function saveProgress(defiId, guesses, done, attempts){
+  try{
+    const store = loadStore();
+    Object.keys(store).forEach(d => { if(d !== TODAY_SEED && d !== YESTERDAY_SEED) delete store[d]; });
+    let day = store[TODAY_SEED];
+    if(!day || day.sig !== dataSig()){ day = store[TODAY_SEED] = { sig: dataSig() }; }
+    day[state.themeKey] = day[state.themeKey] || {};
+    day[state.themeKey][defiId] = { guesses, done, attempts };
+    localStorage.setItem(STORE_KEY, JSON.stringify(store));
+  }catch(e){ /* stockage indisponible (ex. navigation privée) : le jeu continue sans sauvegarde */ }
+}
+function restoreItems(pool, labelKey, names){
+  return names.map(n => pool.find(x => x[labelKey] === n)).filter(Boolean);
+}
+
+/* =========================================================
    VUE : ACCUEIL
    ========================================================= */
 function yesterdayLabel(){
@@ -360,6 +415,10 @@ function renderHome(){
   state.mode = null; state.allinIndex = 0; state.allinResults = [];
   document.body.dataset.theme = state.themeKey;
   const defis = currentDefis();
+  const doneCount = defis.filter(d => getProgress('Défi ' + d.n).done).length;
+  const allinSub = doneCount === defis.length ? 'Les ' + defis.length + ' défis sont terminés ✓'
+                 : doneCount > 0 ? doneCount + '/' + defis.length + ' terminés · enchaîner la suite'
+                 : 'Enchaîner les ' + defis.length + ' défis';
   app.innerHTML = `
     <header class="home-header">
       <div class="eyebrow">Jeu défi quotidien</div>
@@ -373,7 +432,7 @@ function renderHome(){
       <div class="theme-btn ${state.themeKey==='animes'?'active':''}" data-theme="animes">Animés</div>
     </div>
 
-    <button class="allin-btn" id="allin-btn">ALL IN<span class="sub">Enchaîner les 6 défis</span></button>
+    <button class="allin-btn" id="allin-btn">ALL IN<span class="sub">${allinSub}</span></button>
 
     <div class="section-label">Ou joue en indépendant</div>
     <div class="cards-grid" id="cards-grid"></div>
@@ -387,8 +446,12 @@ function renderHome(){
   const grid = document.getElementById('cards-grid');
   defis.forEach(d => {
     const card = document.createElement('div');
-    card.className = 'defi-card';
-    card.innerHTML = `<div class="icon">${d.icon}</div><div class="name">${d.name}</div><div class="desc">${d.desc}</div><div class="status">Jouer →</div>`;
+    const p = getProgress('Défi ' + d.n);
+    let statusText = 'Jouer →', statusCls = '';
+    if(p.done){ statusText = `✓ Trouvé en ${p.attempts} essai${p.attempts>1?'s':''}`; }
+    else if(p.attempts > 0){ statusText = `En cours · ${p.attempts} essai${p.attempts>1?'s':''}`; statusCls = ' progress'; }
+    card.className = 'defi-card' + (p.done ? ' done' : '');
+    card.innerHTML = `<div class="icon">${d.icon}</div><div class="name">${d.name}</div><div class="desc">${d.desc}</div><div class="status${statusCls}">${statusText}</div>`;
     card.addEventListener('click', () => { state.mode = 'single'; d.render(); });
     grid.appendChild(card);
   });
@@ -409,9 +472,9 @@ function onDefiComplete(defiName, attempts){
     const nextIdx = state.allinIndex + 1;
     if(nextIdx < defis.length){
       state.allinIndex = nextIdx;
-      setTimeout(() => defis[nextIdx].render(), 900);
+      setTimeout(() => { if(state.mode === 'allin' && state.allinIndex === nextIdx) defis[nextIdx].render(); }, 900);
     } else {
-      setTimeout(renderRecap, 900);
+      setTimeout(() => { if(state.mode === 'allin') renderRecap(); }, 900);
     }
   }
 }
@@ -458,12 +521,15 @@ function wireAutocomplete(input, suggestionsBox, pool, labelKey, excludeList, on
    ========================================================= */
 function renderGridDefi(cfg){
   let attempts = [];
+  let solved = false, animateLast = false;
+  const prog = getProgress(cfg.eyebrow);
   const colCount = cfg.columns.length;
   const gridStyle = `grid-template-columns:1.5fr repeat(${colCount},1fr)`;
   app.innerHTML = `
     ${backButton()}${progressDots()}
     <header class="defi-header"><div class="defi-eyebrow">${cfg.eyebrow}</div><h2 class="defi-title">${cfg.title}</h2></header>
     ${cfg.yesterday ? `<div class="yesterday-line">${cfg.yesterday}</div>` : ''}
+    <div id="hint-zone"></div>
     <div class="grid-header" style="${gridStyle}">
       <div class="label">${cfg.itemLabel}</div>
       ${cfg.columns.map(c=>`<div class="label">${c.label}</div>`).join('')}
@@ -479,21 +545,25 @@ function renderGridDefi(cfg){
   const input = document.getElementById('search-input');
   const suggestionsBox = document.getElementById('suggestions');
   const guessesBox = document.getElementById('guesses');
+  const hintZone = document.getElementById('hint-zone');
   wireAutocomplete(input, suggestionsBox, cfg.pool, cfg.labelKey, [], submit);
 
   const ROW_ANIM_MS = 1300 + (colCount>6 ? 150 : 0);
   function submit(item){
     attempts.push(item);
+    const isWin = item[cfg.labelKey] === cfg.target[cfg.labelKey];
+    saveProgress(cfg.eyebrow, attempts.map(a => a[cfg.labelKey]), isWin, attempts.length);
     input.value=''; suggestionsBox.classList.remove('open'); suggestionsBox.innerHTML=''; input.disabled = true;
+    animateLast = true;
     renderGuesses();
     setTimeout(() => {
-      if(item[cfg.labelKey] === cfg.target[cfg.labelKey]){ finish(); } else { input.disabled = false; }
+      if(isWin){ finish(); } else { input.disabled = false; updateHints(); }
     }, ROW_ANIM_MS);
   }
   function renderGuesses(){
     guessesBox.innerHTML = '';
     attempts.forEach((item, i) => {
-      const isLast = i === attempts.length - 1;
+      const isLast = animateLast && i === attempts.length - 1;
       const row = document.createElement('div');
       row.className = 'guess-row ' + (isLast ? 'animating' : 'settled');
       row.style.cssText = gridStyle;
@@ -515,8 +585,24 @@ function renderGridDefi(cfg){
         <div class="meta">${cfg.resultMeta(cfg.target)}</div>
         <div class="meta">Trouvé en ${attempts.length} tentative${attempts.length>1?'s':''}</div>
       </div>`;
+    solved = true; updateHints();
     onDefiComplete(cfg.completionName, attempts.length);
   }
+
+  // Indices progressifs (défi 1 uniquement) : débloqués selon le nombre d'essais
+  function updateHints(){
+    if(!cfg.hints || solved){ hintZone.innerHTML = ''; return; }
+    const n = attempts.length;
+    let out = cfg.hints.filter(h => n >= h.after).map(h => `<div class="hint-box">💡 ${h.html(cfg.target)}</div>`).join('');
+    const next = cfg.hints.find(h => n < h.after);
+    if(next){ const left = next.after - n; out += `<div class="locked-hint">🔒 Prochain indice dans ${left} essai${left>1?'s':''}</div>`; }
+    hintZone.innerHTML = out;
+  }
+
+  // Reprise de la progression du jour
+  attempts = restoreItems(cfg.pool, cfg.labelKey, prog.guesses);
+  if(attempts.length){ renderGuesses(); }
+  if(prog.done && attempts.length){ finish(); } else { updateHints(); }
 }
 
 /* =========================================================
@@ -524,6 +610,7 @@ function renderGridDefi(cfg){
    ========================================================= */
 function renderBlurDefi(cfg){
   let wrongGuesses = [];
+  const prog = getProgress(cfg.eyebrow);
   const BLUR_START=24, BLUR_STEP=3, BLUR_FLOOR=3;
   app.innerHTML = `
     ${backButton()}${progressDots()}
@@ -544,15 +631,22 @@ function renderBlurDefi(cfg){
   const wrongList = document.getElementById('wrong-list');
   wireAutocomplete(input, suggestionsBox, cfg.pool, cfg.labelKey, [], submit);
 
-  function submit(item){
-    input.value=''; suggestionsBox.classList.remove('open'); suggestionsBox.innerHTML='';
-    if(item[cfg.labelKey] === cfg.target[cfg.labelKey]){ finish(); return; }
-    wrongGuesses.push(item);
+  function refreshWrong(){
     const blur = Math.max(BLUR_FLOOR, BLUR_START - wrongGuesses.length*BLUR_STEP);
     poster.style.filter = 'blur('+blur+'px) saturate(1.1)';
     badge.textContent = wrongGuesses.length + (wrongGuesses.length>1?' essais':' essai');
     wrongList.innerHTML='';
     wrongGuesses.forEach(f => { const c=document.createElement('div'); c.className='wrong-chip'; c.textContent=f[cfg.labelKey]; wrongList.appendChild(c); });
+  }
+  function submit(item){
+    input.value=''; suggestionsBox.classList.remove('open'); suggestionsBox.innerHTML='';
+    if(item[cfg.labelKey] === cfg.target[cfg.labelKey]){
+      saveProgress(cfg.eyebrow, wrongGuesses.map(f => f[cfg.labelKey]), true, wrongGuesses.length + 1);
+      finish(); return;
+    }
+    wrongGuesses.push(item);
+    saveProgress(cfg.eyebrow, wrongGuesses.map(f => f[cfg.labelKey]), false, wrongGuesses.length);
+    refreshWrong();
   }
   function finish(){
     input.disabled = true;
@@ -565,6 +659,11 @@ function renderBlurDefi(cfg){
       </div>`;
     onDefiComplete(cfg.completionName, wrongGuesses.length+1);
   }
+
+  // Reprise de la progression du jour
+  wrongGuesses = restoreItems(cfg.pool, cfg.labelKey, prog.guesses);
+  if(wrongGuesses.length){ refreshWrong(); }
+  if(prog.done){ finish(); }
 }
 
 /* =========================================================
@@ -572,6 +671,7 @@ function renderBlurDefi(cfg){
    ========================================================= */
 function renderClueGuessDefi(cfg){
   let wrongGuesses = [];
+  const prog = getProgress(cfg.eyebrow);
   const audioBlock = cfg.audioSrc ? `<audio controls src="${cfg.audioSrc}"></audio>` : '';
   app.innerHTML = `
     ${backButton()}${progressDots()}
@@ -593,23 +693,30 @@ function renderClueGuessDefi(cfg){
   const voiceZone = document.getElementById('voice-zone');
   wireAutocomplete(input, suggestionsBox, cfg.pool, cfg.labelKey, [], submit);
 
-  if(cfg.voiceHintAfter){
-    voiceZone.innerHTML = `<div class="locked-hint">🔒 Indice vocal débloqué après ${cfg.voiceHintAfter} échec${cfg.voiceHintAfter>1?'s':''}</div>`;
+  function refreshVoice(){
+    if(!cfg.voiceHintAfter) return;
+    const n = wrongGuesses.length;
+    if(n >= cfg.voiceHintAfter){
+      voiceZone.innerHTML = `<div class="voice-hint">🔊 Indice vocal débloqué</div><audio controls src="${cfg.hintAudioSrc}"></audio>`;
+    } else {
+      const left = cfg.voiceHintAfter - n;
+      voiceZone.innerHTML = `<div class="locked-hint">🔒 Indice vocal débloqué après ${left} échec${left>1?'s':''}${n>0 ? ' de plus' : ''}</div>`;
+    }
   }
-
-  function submit(item){
-    input.value=''; suggestionsBox.classList.remove('open'); suggestionsBox.innerHTML='';
-    if(item[cfg.labelKey] === cfg.target[cfg.labelKey]){ finish(); return; }
-    wrongGuesses.push(item);
+  function refreshWrong(){
     wrongList.innerHTML='';
     wrongGuesses.forEach(f => { const c=document.createElement('div'); c.className='wrong-chip'; c.textContent=f[cfg.labelKey]; wrongList.appendChild(c); });
-    if(cfg.voiceHintAfter){
-      if(wrongGuesses.length === cfg.voiceHintAfter){
-        voiceZone.innerHTML = `<div class="voice-hint">🔊 Indice vocal débloqué</div><audio controls src="${cfg.hintAudioSrc}"></audio>`;
-      } else if(wrongGuesses.length < cfg.voiceHintAfter){
-        voiceZone.innerHTML = `<div class="locked-hint">🔒 Indice vocal débloqué après ${cfg.voiceHintAfter - wrongGuesses.length} échec${cfg.voiceHintAfter - wrongGuesses.length>1?'s':''} de plus</div>`;
-      }
+    refreshVoice();
+  }
+  function submit(item){
+    input.value=''; suggestionsBox.classList.remove('open'); suggestionsBox.innerHTML='';
+    if(item[cfg.labelKey] === cfg.target[cfg.labelKey]){
+      saveProgress(cfg.eyebrow, wrongGuesses.map(f => f[cfg.labelKey]), true, wrongGuesses.length + 1);
+      finish(); return;
     }
+    wrongGuesses.push(item);
+    saveProgress(cfg.eyebrow, wrongGuesses.map(f => f[cfg.labelKey]), false, wrongGuesses.length);
+    refreshWrong();
   }
   function finish(){
     input.disabled = true;
@@ -621,6 +728,11 @@ function renderClueGuessDefi(cfg){
       </div>`;
     onDefiComplete(cfg.completionName, wrongGuesses.length+1);
   }
+
+  // Reprise de la progression du jour
+  wrongGuesses = restoreItems(cfg.pool, cfg.labelKey, prog.guesses);
+  refreshWrong();
+  if(prog.done){ finish(); }
 }
 
 /* =========================================================
@@ -628,6 +740,7 @@ function renderClueGuessDefi(cfg){
    ========================================================= */
 function renderImagesDefi(cfg){
   let wrongGuesses = [];
+  const prog = getProgress(cfg.eyebrow);
   app.innerHTML = `
     ${backButton()}${progressDots()}
     <header class="defi-header"><div class="defi-eyebrow">${cfg.eyebrow}</div><h2 class="defi-title">${cfg.title}</h2></header>
@@ -658,13 +771,20 @@ function renderImagesDefi(cfg){
       imagesRow.appendChild(div);
     });
   }
-  function submit(item){
-    input.value=''; suggestionsBox.classList.remove('open'); suggestionsBox.innerHTML='';
-    if(item[cfg.labelKey] === cfg.target[cfg.labelKey]){ finish(); return; }
-    wrongGuesses.push(item);
+  function refreshWrong(){
     wrongList.innerHTML='';
     wrongGuesses.forEach(f => { const c=document.createElement('div'); c.className='wrong-chip'; c.textContent=f[cfg.labelKey]; wrongList.appendChild(c); });
     renderImages();
+  }
+  function submit(item){
+    input.value=''; suggestionsBox.classList.remove('open'); suggestionsBox.innerHTML='';
+    if(item[cfg.labelKey] === cfg.target[cfg.labelKey]){
+      saveProgress(cfg.eyebrow, wrongGuesses.map(f => f[cfg.labelKey]), true, wrongGuesses.length + 1);
+      finish(); return;
+    }
+    wrongGuesses.push(item);
+    saveProgress(cfg.eyebrow, wrongGuesses.map(f => f[cfg.labelKey]), false, wrongGuesses.length);
+    refreshWrong();
   }
   function finish(){
     input.disabled = true;
@@ -676,6 +796,11 @@ function renderImagesDefi(cfg){
       </div>`;
     onDefiComplete(cfg.completionName, wrongGuesses.length+1);
   }
+
+  // Reprise de la progression du jour
+  wrongGuesses = restoreItems(cfg.pool, cfg.labelKey, prog.guesses);
+  if(wrongGuesses.length){ refreshWrong(); }
+  if(prog.done){ finish(); }
 }
 
 /* =========================================================
