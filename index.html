@@ -42,6 +42,10 @@
 
   .yesterday-line{ text-align:center; margin: -10px 0 20px; font-size: 13px; color: var(--muted); }
   .yesterday-answer{ color: var(--accent); font-weight: 700; }
+  .streak-badge{ display:inline-block; margin-top: 14px; padding: 6px 16px; border-radius: 100px; font-size: 12px; font-weight: 600; letter-spacing: 0.02em; color: var(--muted); border: 1px solid var(--border); background: var(--bg-raised); }
+  .streak-badge.today{ color: var(--amber); border-color: var(--amber); background: var(--amber-dim); }
+  .streak-badge.alive{ color: var(--amber); border-color: var(--amber-dim); border-style: dashed; }
+  .streak-badge .record{ color: var(--muted); font-weight: 500; }
   .defi-card.done{ border-color: var(--green-dim); }
   .defi-card .status.progress{ color: var(--amber); }
   .hint-box{ text-align:center; margin-bottom: 14px; padding: 12px 14px; border-radius: 10px; background: rgba(var(--accent-rgb),0.06); border: 1px dashed var(--accent-dim); color: var(--accent); font-size: 13px; font-weight: 600; line-height: 1.45; }
@@ -264,7 +268,7 @@ const THEMES = {
         render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', itemLabel:'Perso', labelKey:'nom',
           placeholder:"Tape le nom d'un personnage...", pool:PERSONNAGES, target:DAILY_CINEMA.defi2, columns:COLS_PERSO_CINEMA,
           resultMeta:t=>`${t.film_origine} · ${t.acteur}`, completionName:'Personnage' }) },
-      { n:3, icon:'🖼️', name:'Affiche', desc:'Se déflouille',
+      { n:3, icon:'🖼️', name:'Affiche', desc:'Floutage',
         render: () => renderBlurDefi({ eyebrow:'Défi 3', title:"Devine l'affiche", labelKey:'titre',
           placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi3,
           resultMeta:t=>`${t.realisateur} · ${t.annee}`, completionName:'Affiche' }) },
@@ -297,7 +301,7 @@ const THEMES = {
         render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', itemLabel:'Perso', labelKey:'nom',
           placeholder:"Tape le nom d'un personnage...", pool:PERSONNAGES_SERIES, target:DAILY_SERIES.defi2, columns:COLS_PERSO_SERIE,
           resultMeta:t=>`${t.serie_origine} · ${t.acteur}`, completionName:'Personnage' }) },
-      { n:3, icon:'📍', name:'Lieu culte', desc:'Se déflouille',
+      { n:3, icon:'📍', name:'Lieu culte', desc:'Floutage',
         render: () => renderBlurDefi({ eyebrow:'Défi 3', title:'Devine le lieu culte', labelKey:'titre',
           placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi3,
           resultMeta:t=>`${t.createur} · ${t.annee_debut}`, completionName:'Lieu culte' }) },
@@ -329,7 +333,7 @@ const THEMES = {
         render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', itemLabel:'Perso', labelKey:'nom',
           placeholder:"Tape le nom d'un personnage...", pool:PERSONNAGES_ANIMES, target:DAILY_ANIMES.defi2, columns:COLS_PERSO_ANIME,
           resultMeta:t=>`${t.anime_origine} · ${t.pouvoir}`, completionName:'Personnage' }) },
-      { n:3, icon:'📖', name:'Couverture manga', desc:'Se déflouille',
+      { n:3, icon:'📖', name:'Couverture manga', desc:'Floutage',
         render: () => renderBlurDefi({ eyebrow:'Défi 3', title:'Devine la couverture', labelKey:'titre',
           placeholder:"Tape le titre d'un animé...", pool:ANIMES, target:DAILY_ANIMES.defi3,
           resultMeta:t=>`${t.mangaka} · ${t.annee}`, completionName:'Couverture manga' }) },
@@ -388,8 +392,51 @@ function saveProgress(defiId, guesses, done, attempts){
     day[state.themeKey] = day[state.themeKey] || {};
     day[state.themeKey][defiId] = { guesses, done, attempts };
     localStorage.setItem(STORE_KEY, JSON.stringify(store));
+    if(done) markDayPlayed();
   }catch(e){ /* stockage indisponible (ex. navigation privée) : le jeu continue sans sauvegarde */ }
 }
+/* =========================================================
+   SÉRIE DE JOURS CONSÉCUTIFS (toutes catégories confondues)
+   ========================================================= */
+// Un jour est "validé" dès qu'au moins un défi est terminé (n'importe quel thème).
+// Les dates sont les dates parisiennes (TODAY_SEED / YESTERDAY_SEED), donc fiables malgré les changements d'heure.
+const STREAK_KEY = 'cinedle:streak:v1';
+function storageAvailable(){
+  try{ localStorage.setItem('cinedle:test', '1'); localStorage.removeItem('cinedle:test'); return true; }
+  catch(e){ return false; }
+}
+function loadStreak(){
+  try{
+    const s = JSON.parse(localStorage.getItem(STREAK_KEY) || '{}') || {};
+    return { current: s.current | 0, best: s.best | 0, last: typeof s.last === 'string' ? s.last : '' };
+  }catch(e){ return { current: 0, best: 0, last: '' }; }
+}
+function markDayPlayed(){
+  try{
+    const s = loadStreak();
+    if(s.last === TODAY_SEED) return;                       // déjà validé aujourd'hui
+    s.current = (s.last === YESTERDAY_SEED) ? s.current + 1 : 1;
+    s.best = Math.max(s.best, s.current);
+    s.last = TODAY_SEED;
+    localStorage.setItem(STREAK_KEY, JSON.stringify(s));
+  }catch(e){ /* stockage indisponible */ }
+}
+function streakInfo(){
+  const s = loadStreak();
+  if(s.last === TODAY_SEED) return { current: s.current, best: s.best, state: 'today' };
+  if(s.last === YESTERDAY_SEED) return { current: s.current, best: s.best, state: 'alive' };  // à prolonger aujourd'hui
+  return { current: 0, best: s.best, state: 'none' };
+}
+function streakHtml(){
+  if(!storageAvailable()) return '';
+  const { current, best, state } = streakInfo();
+  const jours = n => n + ' jour' + (n > 1 ? 's' : '');
+  const record = best > current ? ` <span class="record">· record ${best}</span>` : '';
+  if(state === 'today') return `<div class="streak-badge today">🔥 ${jours(current)} d'affilée${record}</div>`;
+  if(state === 'alive') return `<div class="streak-badge alive">🔥 ${jours(current)} · termine un défi aujourd'hui pour la garder${record}</div>`;
+  return `<div class="streak-badge">🔥 0 · termine un défi pour lancer ta série${record}</div>`;
+}
+
 function restoreItems(pool, labelKey, names){
   return names.map(n => pool.find(x => x[labelKey] === n)).filter(Boolean);
 }
@@ -424,6 +471,7 @@ function renderHome(){
       <div class="eyebrow">Jeu défi quotidien</div>
       <h1 class="logo">CINÉDLE</h1>
       <div class="subtitle">Choisis un thème et devine les réponses du jour</div>
+      ${streakHtml()}
     </header>
 
     <div class="theme-row" id="theme-row">
@@ -814,6 +862,7 @@ function renderRecap(){
       ${state.allinResults.map(r => `<div class="recap-line"><span class="name">${r.name}</span><span class="count">${r.attempts} essai${r.attempts>1?'s':''}</span></div>`).join('')}
       <div class="recap-line" style="margin-top:8px; border-top:1px solid var(--accent-dim); padding-top:14px;"><span class="name">Total</span><span class="count">${total} essais</span></div>
     </div>
+    <div style="text-align:center;">${streakHtml()}</div>
     <div style="text-align:center; margin-top:20px; display:flex; gap:10px; justify-content:center;">
       <button class="primary-btn" id="share-recap">Partager</button>
       <button class="back-btn" id="back-btn-recap" style="margin:0;">← Accueil</button>
@@ -821,7 +870,7 @@ function renderRecap(){
   `;
   document.getElementById('back-btn-recap').addEventListener('click', renderHome);
   document.getElementById('share-recap').addEventListener('click', () => {
-    const text = 'CINÉDLE — All In ' + THEMES[state.themeKey].label + '\n' + state.allinResults.map(r => r.name+': '+r.attempts).join('\n') + '\nTotal: '+total+' essais';
+    const text = 'CINÉDLE — All In ' + THEMES[state.themeKey].label + '\n' + state.allinResults.map(r => r.name+': '+r.attempts).join('\n') + '\nTotal: '+total+' essais' + (streakInfo().current > 0 ? '\n🔥 ' + streakInfo().current + ' jour' + (streakInfo().current > 1 ? 's' : '') + ' d\'affilée' : '');
     navigator.clipboard?.writeText(text);
     const btn = document.getElementById('share-recap'); const orig = btn.textContent; btn.textContent='Copié !';
     setTimeout(() => btn.textContent = orig, 1500);
