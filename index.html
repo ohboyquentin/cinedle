@@ -50,6 +50,9 @@
   .streak-badge .record{ color: var(--muted); font-weight: 500; }
   .defi-card.done{ border-color: var(--green-dim); }
   .defi-card .status.progress{ color: var(--amber); }
+  .replique-line{ margin: 0; }
+  .replique-line + .replique-line{ margin-top: 12px; padding-top: 12px; border-top: 1px dashed var(--border); }
+  .lang-tag{ display:inline-block; margin-right: 8px; padding: 1px 7px; border-radius: 100px; font-style: normal; font-size: 10px; font-weight: 700; letter-spacing: 0.1em; color: var(--accent); border: 1px solid var(--accent-dim); vertical-align: middle; }
   .hint-pendu{ letter-spacing: 0.22em; font-size: 20px; font-weight: 700; margin: 4px 0; word-spacing: 0.9em; }
   .hint-sub{ display:block; font-size: 11px; font-weight: 500; letter-spacing: 0.04em; color: var(--muted); }
   .reveal-box{ cursor: pointer; user-select: none; }
@@ -300,6 +303,13 @@ const makeHints = (key, noun) => [
 const HINTS_PERSO = makeHints('nom', 'nom');   // défi 2 : on devine un nom
 const HINTS_TITRE = makeHints('titre', 'titre'); // défi 1 : on devine un titre (mêmes indices)
 
+// Réplique en VO puis en VF, sur 2 lignes (une seule ligne si le film n'a pas de VF distincte, ex. films français)
+function repliqueHtml(film){
+  const vo = film.repliques_cultes[0], vf = film.replique_vf;
+  if(!vf || vf === vo) return `<div class="replique-box">« ${vo} »</div>`;
+  return `<div class="replique-box"><div class="replique-line"><span class="lang-tag">VO</span>« ${vo} »</div><div class="replique-line"><span class="lang-tag">VF</span>« ${vf} »</div></div>`;
+}
+
 const THEMES = {
   cinema: {
     label: 'Cinéma',
@@ -319,7 +329,7 @@ const THEMES = {
       { n:4, icon:'💬', name:'Réplique', desc:'+ indice vocal',
         render: () => renderClueGuessDefi({ eyebrow:'Défi 4', title:'Devine la réplique', labelKey:'titre',
           placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi4,
-          clueHtml: `<div class="replique-box">« ${DAILY_CINEMA.defi4.repliques_cultes[0]} »</div>`,
+          clueHtml: repliqueHtml(DAILY_CINEMA.defi4),
           voiceHintAfter: 5, hintAudioSrc: DAILY_CINEMA.defi4.audio_replique,
           resultMeta:t=>`${t.realisateur} · ${t.annee}`, completionName:'Réplique' }) },
       { n:5, icon:'🎵', name:'Musique', desc:'Extrait audio',

@@ -12,6 +12,7 @@
     "repliques_cultes": [
       "Say 'what' again. I dare you, I double dare you!"
     ],
+    "replique_vf": "Dis « quoi » encore une fois. Je te défie, je te défie en double !",
     "audio_replique": "assets/audio/repliques/pulp_fiction.mp3",
     "musique": {
       "titre": "Misirlou",
@@ -37,6 +38,7 @@
     "repliques_cultes": [
       "You shall not pass!"
     ],
+    "replique_vf": "Vous ne passerez pas !",
     "audio_replique": "assets/audio/repliques/lotr_1.mp3",
     "musique": {
       "titre": "Concerning Hobbits",
@@ -112,6 +114,7 @@
     "repliques_cultes": [
       "The first rule of Fight Club is: you do not talk about Fight Club."
     ],
+    "replique_vf": "La première règle du Fight Club, c'est : il est interdit de parler du Fight Club.",
     "audio_replique": "assets/audio/repliques/fight_club.mp3",
     "musique": {
       "titre": "Where Is My Mind?",
@@ -162,6 +165,7 @@
     "repliques_cultes": [
       "It's showtime!"
     ],
+    "replique_vf": "C'est l'heure du spectacle !",
     "audio_replique": "assets/audio/repliques/beetlejuice.mp3",
     "musique": {
       "titre": "Day-O (The Banana Boat Song)",
@@ -187,6 +191,7 @@
     "repliques_cultes": [
       "We need to go deeper."
     ],
+    "replique_vf": "Il faut aller plus profond.",
     "audio_replique": "assets/audio/repliques/inception.mp3",
     "musique": {
       "titre": "Time",
@@ -212,6 +217,7 @@
     "repliques_cultes": [
       "Are you not entertained?"
     ],
+    "replique_vf": "Vous n'êtes pas divertis ?",
     "audio_replique": "assets/audio/repliques/gladiator.mp3",
     "musique": {
       "titre": "Now We Are Free",
@@ -237,6 +243,7 @@
     "repliques_cultes": [
       "I'm the king of the world!"
     ],
+    "replique_vf": "Je suis le roi du monde !",
     "audio_replique": "assets/audio/repliques/titanic.mp3",
     "musique": {
       "titre": "My Heart Will Go On",
@@ -262,6 +269,7 @@
     "repliques_cultes": [
       "And for what? For a little bit of money? There's more to life than a little money, you know."
     ],
+    "replique_vf": "Et pour quoi ? Pour un peu d'argent ? Il y a plus dans la vie qu'un peu d'argent, vous savez.",
     "audio_replique": "assets/audio/repliques/fargo.mp3",
     "musique": {
       "titre": "Main Titles",
@@ -287,6 +295,7 @@
     "repliques_cultes": [
       "Roads? Where we're going, we don't need roads."
     ],
+    "replique_vf": "Des routes ? Là où nous allons, nous n'avons pas besoin de routes.",
     "audio_replique": "assets/audio/repliques/retour_futur.mp3",
     "musique": {
       "titre": "The Power of Love",
@@ -312,6 +321,7 @@
     "repliques_cultes": [
       "Is life always this hard, or is it just when you're a kid?"
     ],
+    "replique_vf": "C'est toujours aussi dur, la vie, ou seulement quand on est petit ?",
     "audio_replique": "assets/audio/repliques/leon.mp3",
     "musique": {
       "titre": "Shape of My Heart",
@@ -337,6 +347,7 @@
     "repliques_cultes": [
       "Laugh and the world laughs with you. Weep and you weep alone."
     ],
+    "replique_vf": "Riez, et le monde rit avec vous. Pleurez, et vous pleurez seul.",
     "audio_replique": "assets/audio/repliques/old_boy.mp3",
     "musique": {
       "titre": "The Last Waltz",
@@ -362,6 +373,7 @@
     "repliques_cultes": [
       "Love is the one thing we're capable of perceiving that transcends time and space."
     ],
+    "replique_vf": "L'amour est la seule chose que nous soyons capables de percevoir qui transcende le temps et l'espace.",
     "audio_replique": "assets/audio/repliques/interstellar.mp3",
     "musique": {
       "titre": "Cornfield Chase",
@@ -387,6 +399,7 @@
     "repliques_cultes": [
       "Life is like a box of chocolates."
     ],
+    "replique_vf": "La vie, c'est comme une boîte de chocolats.",
     "audio_replique": "assets/audio/repliques/forrest_gump.mp3",
     "musique": {
       "titre": "Feather Theme",
@@ -412,6 +425,7 @@
     "repliques_cultes": [
       "I'm gonna make him an offer he can't refuse."
     ],
+    "replique_vf": "Je vais lui faire une offre qu'il ne pourra pas refuser.",
     "audio_replique": "assets/audio/repliques/le_parrain.mp3",
     "musique": {
       "titre": "Speak Softly Love",
@@ -437,6 +451,7 @@
     "repliques_cultes": [
       "May the Force be with you."
     ],
+    "replique_vf": "Que la Force soit avec toi.",
     "audio_replique": "assets/audio/repliques/star_wars_4.mp3",
     "musique": {
       "titre": "Main Title",
@@ -462,6 +477,7 @@
     "repliques_cultes": [
       "There is no spoon."
     ],
+    "replique_vf": "Il n'y a pas de cuillère.",
     "audio_replique": "assets/audio/repliques/matrix.mp3",
     "musique": {
       "titre": "Clubbed to Death",
@@ -487,6 +503,7 @@
     "repliques_cultes": [
       "The name's Bond. James Bond."
     ],
+    "replique_vf": "Mon nom est Bond. James Bond.",
     "audio_replique": "assets/audio/repliques/casino_royale.mp3",
     "musique": {
       "titre": "You Know My Name",
@@ -512,6 +529,7 @@
     "repliques_cultes": [
       "Hello, Clarice."
     ],
+    "replique_vf": "Bonsoir, Clarice.",
     "audio_replique": "assets/audio/repliques/silence_agneaux.mp3",
     "musique": {
       "titre": "Main Title",
@@ -537,6 +555,7 @@
     "repliques_cultes": [
       "The D is silent."
     ],
+    "replique_vf": "Le D est muet.",
     "audio_replique": "assets/audio/repliques/django.mp3",
     "musique": {
       "titre": "Django",
@@ -562,6 +581,7 @@
     "repliques_cultes": [
       "Not quite my tempo."
     ],
+    "replique_vf": "Pas tout à fait mon tempo.",
     "audio_replique": "assets/audio/repliques/whiplash.mp3",
     "musique": {
       "titre": "Whiplash",
@@ -587,6 +607,7 @@
     "repliques_cultes": [
       "Here's to the fools who dream."
     ],
+    "replique_vf": "À tous les fous qui rêvent.",
     "audio_replique": "assets/audio/repliques/la_la_land.mp3",
     "musique": {
       "titre": "City of Stars",
@@ -612,6 +633,7 @@
     "repliques_cultes": [
       "Is it just me, or is it getting crazier out there?"
     ],
+    "replique_vf": "C'est moi, ou le monde devient de plus en plus fou ?",
     "audio_replique": "assets/audio/repliques/joker.mp3",
     "musique": {
       "titre": "Call Me Joker",
@@ -637,6 +659,7 @@
     "repliques_cultes": [
       "I am Iron Man."
     ],
+    "replique_vf": "Je suis Iron Man.",
     "audio_replique": "assets/audio/repliques/avengers_endgame.mp3",
     "musique": {
       "titre": "Main on End",
@@ -662,6 +685,7 @@
     "repliques_cultes": [
       "All those moments will be lost in time, like tears in rain."
     ],
+    "replique_vf": "Tous ces moments se perdront dans l'oubli, comme des larmes dans la pluie.",
     "audio_replique": "assets/audio/repliques/blade_runner.mp3",
     "musique": {
       "titre": "Blade Runner Blues",
@@ -687,6 +711,7 @@
     "repliques_cultes": [
       "Here's Johnny!"
     ],
+    "replique_vf": "Voilà Johnny !",
     "audio_replique": "assets/audio/repliques/shining.mp3",
     "musique": {
       "titre": "Main Title",
@@ -712,6 +737,7 @@
     "repliques_cultes": [
       "Why'd ye spill yer beans?"
     ],
+    "replique_vf": "Pourquoi t'as craché le morceau ?",
     "audio_replique": "assets/audio/repliques/the_lighthouse.mp3",
     "musique": {
       "titre": "Main Theme",
@@ -737,6 +763,7 @@
     "repliques_cultes": [
       "I've been poor my whole life, like a disease passed from generation to generation."
     ],
+    "replique_vf": "J'ai été pauvre toute ma vie, comme une maladie qui se transmet de génération en génération.",
     "audio_replique": "assets/audio/repliques/hell_or_high_water.mp3",
     "musique": {
       "titre": "Outlaw State of Mind",
@@ -762,6 +789,7 @@
     "repliques_cultes": [
       "That was the best acting I've seen in my entire life."
     ],
+    "replique_vf": "C'est la meilleure interprétation que j'aie vue de toute ma vie.",
     "audio_replique": "assets/audio/repliques/once_upon_a_time_in_hollywood.mp3",
     "musique": {
       "titre": "Brother Love's Travelling Salvation Show",
@@ -787,6 +815,7 @@
     "repliques_cultes": [
       "Choose life. Choose a job. Choose a career. Choose a family."
     ],
+    "replique_vf": "Choisis la vie. Choisis un métier. Choisis une carrière. Choisis une famille.",
     "audio_replique": "assets/audio/repliques/trainspotting.mp3",
     "musique": {
       "titre": "Lust for Life",
@@ -862,6 +891,7 @@
     "repliques_cultes": [
       "Mediocrities everywhere, I absolve you."
     ],
+    "replique_vf": "Médiocres du monde entier, je vous absous.",
     "audio_replique": "assets/audio/repliques/amadeus.mp3",
     "musique": {
       "titre": "Requiem in D minor",
@@ -887,6 +917,7 @@
     "repliques_cultes": [
       "I'm somebody now, Harry."
     ],
+    "replique_vf": "Je suis quelqu'un, maintenant, Harry.",
     "audio_replique": "assets/audio/repliques/requiem_for_a_dream.mp3",
     "musique": {
       "titre": "Lux Aeterna",
@@ -912,6 +943,7 @@
     "repliques_cultes": [
       "Has anything you've done made your life better?"
     ],
+    "replique_vf": "Est-ce que ce que tu as fait a rendu ta vie meilleure ?",
     "audio_replique": "assets/audio/repliques/american_history_x.mp3",
     "musique": {
       "titre": "Main Titles",
@@ -937,6 +969,7 @@
     "repliques_cultes": [
       "An old man dies, a young man lives."
     ],
+    "replique_vf": "Un vieil homme meurt, un jeune homme vit.",
     "audio_replique": "assets/audio/repliques/sin_city.mp3",
     "musique": {
       "titre": "Sin City Main Title",
@@ -962,6 +995,7 @@
     "repliques_cultes": [
       "It's mercy, compassion, and forgiveness I lack, not rationality."
     ],
+    "replique_vf": "C'est la pitié, la compassion et le pardon qui me manquent, pas la rationalité.",
     "audio_replique": "assets/audio/repliques/kill_bill_1.mp3",
     "musique": {
       "titre": "Battle Without Honor or Humanity",
@@ -987,6 +1021,7 @@
     "repliques_cultes": [
       "What happens in Vegas stays in Vegas."
     ],
+    "replique_vf": "Ce qui se passe à Vegas reste à Vegas.",
     "audio_replique": "assets/audio/repliques/very_bad_trip.mp3",
     "musique": {
       "titre": "Stu's Song",
@@ -1112,6 +1147,7 @@
     "repliques_cultes": [
       "Fear is the mind-killer."
     ],
+    "replique_vf": "La peur tue l'esprit.",
     "audio_replique": "assets/audio/repliques/dune.mp3",
     "musique": {
       "titre": "Paul's Dream",
@@ -1137,6 +1173,7 @@
     "repliques_cultes": [
       "The universe is so much bigger than you realize."
     ],
+    "replique_vf": "L'univers est bien plus grand que tu ne l'imagines.",
     "audio_replique": "assets/audio/repliques/eeaao.mp3",
     "musique": {
       "titre": "Regular Life",
@@ -1162,6 +1199,7 @@
     "repliques_cultes": [
       "Get out!"
     ],
+    "replique_vf": "Fous le camp !",
     "audio_replique": "assets/audio/repliques/get_out.mp3",
     "musique": {
       "titre": "Sikiliza Kwa Wahenga",
@@ -1187,6 +1225,7 @@
     "repliques_cultes": [
       "You helped me discover my ability to want."
     ],
+    "replique_vf": "Tu m'as aidée à découvrir ma capacité à désirer.",
     "audio_replique": "assets/audio/repliques/her.mp3",
     "musique": {
       "titre": "The Moon Song",
@@ -1212,6 +1251,7 @@
     "repliques_cultes": [
       "Pray for the best, prepare for the worst."
     ],
+    "replique_vf": "Prie pour le meilleur, prépare-toi au pire.",
     "audio_replique": "assets/audio/repliques/prisoners.mp3",
     "musique": {
       "titre": "The Keller Home",
@@ -1237,6 +1277,7 @@
     "repliques_cultes": [
       "You see, there are still faint glimmers of civilization."
     ],
+    "replique_vf": "Vous voyez, il reste encore quelques lueurs de civilisation.",
     "audio_replique": "assets/audio/repliques/grand_budapest_hotel.mp3",
     "musique": {
       "titre": "Mr. Moustafa",
@@ -1262,6 +1303,7 @@
     "repliques_cultes": [
       "Say hello to my little friend!"
     ],
+    "replique_vf": "Dites bonjour à mon petit ami !",
     "audio_replique": "assets/audio/repliques/scarface.mp3",
     "musique": {
       "titre": "Push It to the Limit",
@@ -1287,6 +1329,7 @@
     "repliques_cultes": [
       "You talkin' to me?"
     ],
+    "replique_vf": "C'est à moi que tu parles ?",
     "audio_replique": "assets/audio/repliques/taxi_driver.mp3",
     "musique": {
       "titre": "Taxi Driver Theme",
@@ -1312,6 +1355,7 @@
     "repliques_cultes": [
       "As far back as I can remember, I always wanted to be a gangster."
     ],
+    "replique_vf": "Aussi loin que je me souvienne, j'ai toujours voulu être un gangster.",
     "audio_replique": "assets/audio/repliques/les_affranchis.mp3",
     "musique": {
       "titre": "Rags to Riches",
@@ -1337,6 +1381,7 @@
     "repliques_cultes": [
       "I'm the guy who does his job. You must be the other guy."
     ],
+    "replique_vf": "Je suis celui qui fait son boulot. Toi, tu dois être l'autre.",
     "audio_replique": "assets/audio/repliques/les_infiltres.mp3",
     "musique": {
       "titre": "I'm Shipping Up to Boston",
@@ -1362,6 +1407,7 @@
     "repliques_cultes": [
       "I do what I do best, I take scores."
     ],
+    "replique_vf": "Je fais ce que je fais le mieux : je fais des coups.",
     "audio_replique": "assets/audio/repliques/heat.mp3",
     "musique": {
       "titre": "Heat Theme",
@@ -1387,6 +1433,7 @@
     "repliques_cultes": [
       "Call it, friendo."
     ],
+    "replique_vf": "Choisis, l'ami.",
     "audio_replique": "assets/audio/repliques/no_country.mp3",
     "musique": {
       "titre": "No Country Old Men Theme",
@@ -1412,6 +1459,7 @@
     "repliques_cultes": [
       "The Dude abides."
     ],
+    "replique_vf": "Le Dude tient le coup.",
     "audio_replique": "assets/audio/repliques/big_lebowski.mp3",
     "musique": {
       "titre": "The Man in Me",
@@ -1437,6 +1485,7 @@
     "repliques_cultes": [
       "That's a bingo!"
     ],
+    "replique_vf": "Et c'est un bingo !",
     "audio_replique": "assets/audio/repliques/inglourious_basterds.mp3",
     "musique": {
       "titre": "Cat People (Putting Out Fire)",
@@ -1462,6 +1511,7 @@
     "repliques_cultes": [
       "Get busy living, or get busy dying."
     ],
+    "replique_vf": "Soit tu t'occupes de vivre, soit tu t'occupes de mourir.",
     "audio_replique": "assets/audio/repliques/les_evades.mp3",
     "musique": {
       "titre": "Shawshank Redemption Theme",
@@ -1487,6 +1537,7 @@
     "repliques_cultes": [
       "Why so serious?"
     ],
+    "replique_vf": "Pourquoi tant de sérieux ?",
     "audio_replique": "assets/audio/repliques/dark_knight.mp3",
     "musique": {
       "titre": "Why So Serious?",
@@ -1512,6 +1563,7 @@
     "repliques_cultes": [
       "What's in the box?"
     ],
+    "replique_vf": "Qu'est-ce qu'il y a dans la boîte ?",
     "audio_replique": "assets/audio/repliques/se7en.mp3",
     "musique": {
       "titre": "Se7en Theme",
@@ -1537,6 +1589,7 @@
     "repliques_cultes": [
       "In case I don't see ya, good afternoon, good evening, and good night!"
     ],
+    "replique_vf": "Au cas où je ne vous verrais pas : bonjour, bonsoir et bonne nuit !",
     "audio_replique": "assets/audio/repliques/truman_show.mp3",
     "musique": {
       "titre": "Truman Sleeps",
@@ -1562,6 +1615,7 @@
     "repliques_cultes": [
       "Meet me in Montauk."
     ],
+    "replique_vf": "Retrouve-moi à Montauk.",
     "audio_replique": "assets/audio/repliques/eternal_sunshine.mp3",
     "musique": {
       "titre": "Blue Ruin",
@@ -1587,6 +1641,7 @@
     "repliques_cultes": [
       "I'm tired, boss."
     ],
+    "replique_vf": "Je suis fatigué, patron.",
     "audio_replique": "assets/audio/repliques/ligne_verte.mp3",
     "musique": {
       "titre": "The Green Mile Theme",
@@ -1612,6 +1667,7 @@
     "repliques_cultes": [
       "A bit of the old ultra-violence."
     ],
+    "replique_vf": "Un peu d'ultra-violence à l'ancienne.",
     "audio_replique": "assets/audio/repliques/orange_mecanique.mp3",
     "musique": {
       "titre": "Ninth Symphony (arr.)",
@@ -1637,6 +1693,7 @@
     "repliques_cultes": [
       "Are you gonna bark all day, little doggy, or are you gonna bite?"
     ],
+    "replique_vf": "Tu vas aboyer toute la journée, petit chien, ou tu vas mordre ?",
     "audio_replique": "assets/audio/repliques/reservoir_dogs.mp3",
     "musique": {
       "titre": "Stuck in the Middle with You",
@@ -1662,6 +1719,7 @@
     "repliques_cultes": [
       "Remember, remember, the fifth of November."
     ],
+    "replique_vf": "Souvenez-vous, souvenez-vous du cinq novembre.",
     "audio_replique": "assets/audio/repliques/v_pour_vendetta.mp3",
     "musique": {
       "titre": "1812 Overture",
@@ -1687,6 +1745,7 @@
     "repliques_cultes": [
       "Are you watching closely?"
     ],
+    "replique_vf": "Vous regardez attentivement ?",
     "audio_replique": "assets/audio/repliques/le_prestige.mp3",
     "musique": {
       "titre": "The Prestige Theme",
@@ -1712,6 +1771,7 @@
     "repliques_cultes": [
       "I have to believe in a world outside my own mind."
     ],
+    "replique_vf": "Je dois croire en un monde en dehors de mon esprit.",
     "audio_replique": "assets/audio/repliques/memento.mp3",
     "musique": {
       "titre": "Memento Theme",
@@ -1737,6 +1797,7 @@
     "repliques_cultes": [
       "Ghosts are real, this much I know."
     ],
+    "replique_vf": "Les fantômes existent, ça au moins, je le sais.",
     "audio_replique": "assets/audio/repliques/crimson_peak.mp3",
     "musique": {
       "titre": "Main Theme",
@@ -1762,6 +1823,7 @@
     "repliques_cultes": [
       "Life finds a way."
     ],
+    "replique_vf": "La vie trouve toujours un chemin.",
     "audio_replique": "assets/audio/repliques/jurassic_park.mp3",
     "musique": {
       "titre": "Theme from Jurassic Park",
@@ -1787,6 +1849,7 @@
     "repliques_cultes": [
       "E.T. phone home."
     ],
+    "replique_vf": "E.T. téléphone maison.",
     "audio_replique": "assets/audio/repliques/et.mp3",
     "musique": {
       "titre": "Flying Theme",
@@ -1812,6 +1875,7 @@
     "repliques_cultes": [
       "It's not the years, it's the mileage."
     ],
+    "replique_vf": "Ce n'est pas l'âge, c'est le kilométrage.",
     "audio_replique": "assets/audio/repliques/indiana_jones.mp3",
     "musique": {
       "titre": "Raiders March",
@@ -1837,6 +1901,7 @@
     "repliques_cultes": [
       "Earn this."
     ],
+    "replique_vf": "Mérite-le.",
     "audio_replique": "assets/audio/repliques/soldat_ryan.mp3",
     "musique": {
       "titre": "Hymn to the Fallen",
@@ -1862,6 +1927,7 @@
     "repliques_cultes": [
       "You're gonna need a bigger boat."
     ],
+    "replique_vf": "On va avoir besoin d'un plus gros bateau.",
     "audio_replique": "assets/audio/repliques/dents_de_la_mer.mp3",
     "musique": {
       "titre": "Main Title (Jaws)",
@@ -1887,6 +1953,7 @@
     "repliques_cultes": [
       "Open the pod bay doors, HAL."
     ],
+    "replique_vf": "Ouvre les portes du sas, HAL.",
     "audio_replique": "assets/audio/repliques/2001_odyssee.mp3",
     "musique": {
       "titre": "Also sprach Zarathustra",
@@ -1912,6 +1979,7 @@
     "repliques_cultes": [
       "Is that you, John Wayne? Is this me?"
     ],
+    "replique_vf": "C'est toi, John Wayne ? Ou c'est moi ?",
     "audio_replique": "assets/audio/repliques/full_metal_jacket.mp3",
     "musique": {
       "titre": "I Wanna Be Your Drill Instructor",
@@ -1937,6 +2005,7 @@
     "repliques_cultes": [
       "I love the smell of napalm in the morning."
     ],
+    "replique_vf": "J'aime l'odeur du napalm au petit matin.",
     "audio_replique": "assets/audio/repliques/apocalypse_now.mp3",
     "musique": {
       "titre": "The End",
@@ -1962,6 +2031,7 @@
     "repliques_cultes": [
       "Here's looking at you, kid."
     ],
+    "replique_vf": "À tes beaux yeux, petite.",
     "audio_replique": "assets/audio/repliques/casablanca.mp3",
     "musique": {
       "titre": "As Time Goes By",
@@ -1987,6 +2057,7 @@
     "repliques_cultes": [
       "A boy's best friend is his mother."
     ],
+    "replique_vf": "Le meilleur ami d'un garçon, c'est sa mère.",
     "audio_replique": "assets/audio/repliques/psychose.mp3",
     "musique": {
       "titre": "Prelude (Psycho)",
@@ -2012,6 +2083,7 @@
     "repliques_cultes": [
       "Only one is a wanderer; two together are always going somewhere."
     ],
+    "replique_vf": "Un seul est un vagabond ; à deux, on va toujours quelque part.",
     "audio_replique": "assets/audio/repliques/vertigo.mp3",
     "musique": {
       "titre": "Scène d'Amour",
@@ -2037,6 +2109,7 @@
     "repliques_cultes": [
       "We've become a race of Peeping Toms."
     ],
+    "replique_vf": "Nous sommes devenus une race de voyeurs.",
     "audio_replique": "assets/audio/repliques/fenetre_sur_cour.mp3",
     "musique": {
       "titre": "Rear Window Theme",
@@ -2062,6 +2135,7 @@
     "repliques_cultes": [
       "In space no one can hear you scream."
     ],
+    "replique_vf": "Dans l'espace, personne ne vous entend crier.",
     "audio_replique": "assets/audio/repliques/alien.mp3",
     "musique": {
       "titre": "Main Title (Alien)",
@@ -2087,6 +2161,7 @@
     "repliques_cultes": [
       "Get away from her, you bitch!"
     ],
+    "replique_vf": "Éloigne-toi d'elle, salope !",
     "audio_replique": "assets/audio/repliques/aliens_le_retour.mp3",
     "musique": {
       "titre": "Bishop's Countdown",
@@ -2112,6 +2187,7 @@
     "repliques_cultes": [
       "I'll be back."
     ],
+    "replique_vf": "Je reviendrai.",
     "audio_replique": "assets/audio/repliques/terminator_2.mp3",
     "musique": {
       "titre": "Terminator 2 Theme",
@@ -2137,6 +2213,7 @@
     "repliques_cultes": [
       "I see you."
     ],
+    "replique_vf": "Je te vois.",
     "audio_replique": "assets/audio/repliques/avatar.mp3",
     "musique": {
       "titre": "I See You",
@@ -2162,6 +2239,7 @@
     "repliques_cultes": [
       "You've been like a brother to me."
     ],
+    "replique_vf": "Tu as été comme un frère pour moi.",
     "audio_replique": "assets/audio/repliques/il_etait_une_fois_amerique.mp3",
     "musique": {
       "titre": "Deborah's Theme",
@@ -2187,6 +2265,7 @@
     "repliques_cultes": [
       "There are two kinds of people in this world."
     ],
+    "replique_vf": "Il y a deux sortes de gens dans ce monde.",
     "audio_replique": "assets/audio/repliques/bon_brute_truand.mp3",
     "musique": {
       "titre": "The Good, the Bad and the Ugly",
@@ -2212,6 +2291,7 @@
     "repliques_cultes": [
       "Yo, Adrian!"
     ],
+    "replique_vf": "Hé, Adrienne !",
     "audio_replique": "assets/audio/repliques/rocky.mp3",
     "musique": {
       "titre": "Gonna Fly Now",
@@ -2237,6 +2317,7 @@
     "repliques_cultes": [
       "I'm an excellent driver."
     ],
+    "replique_vf": "Je suis un excellent conducteur.",
     "audio_replique": "assets/audio/repliques/rain_man.mp3",
     "musique": {
       "titre": "Leaving Cincinnati",
@@ -2262,6 +2343,7 @@
     "repliques_cultes": [
       "I have a right to be heard!"
     ],
+    "replique_vf": "J'ai le droit d'être entendu !",
     "audio_replique": "assets/audio/repliques/discours_roi.mp3",
     "musique": {
       "titre": "The King's Speech",
@@ -2287,6 +2369,7 @@
     "repliques_cultes": [
       "It is written."
     ],
+    "replique_vf": "C'était écrit.",
     "audio_replique": "assets/audio/repliques/slumdog_millionaire.mp3",
     "musique": {
       "titre": "Jai Ho",
@@ -2312,6 +2395,7 @@
     "repliques_cultes": [
       "Look closer."
     ],
+    "replique_vf": "Regardez de plus près.",
     "audio_replique": "assets/audio/repliques/american_beauty.mp3",
     "musique": {
       "titre": "American Beauty",
@@ -2362,6 +2446,7 @@
     "repliques_cultes": [
       "We bury our sins here, Dave."
     ],
+    "replique_vf": "On enterre nos péchés ici, Dave.",
     "audio_replique": "assets/audio/repliques/mystic_river.mp3",
     "musique": {
       "titre": "Mystic River Theme",
@@ -2387,6 +2472,7 @@
     "repliques_cultes": [
       "Get off my lawn."
     ],
+    "replique_vf": "Dégage de ma pelouse.",
     "audio_replique": "assets/audio/repliques/gran_torino.mp3",
     "musique": {
       "titre": "Gran Torino",
@@ -2412,6 +2498,7 @@
     "repliques_cultes": [
       "This is my chance to do something right."
     ],
+    "replique_vf": "C'est ma chance de faire enfin quelque chose de bien.",
     "audio_replique": "assets/audio/repliques/birdman.mp3",
     "musique": {
       "titre": "Birdman Theme",
@@ -2437,6 +2524,7 @@
     "repliques_cultes": [
       "As long as you can still grab a breath, you fight."
     ],
+    "replique_vf": "Tant que tu peux encore respirer, tu te bats.",
     "audio_replique": "assets/audio/repliques/the_revenant.mp3",
     "musique": {
       "titre": "The Revenant Theme",
@@ -2462,6 +2550,7 @@
     "repliques_cultes": [
       "How many lives do we live?"
     ],
+    "replique_vf": "Combien de vies vit-on ?",
     "audio_replique": "assets/audio/repliques/21_grammes.mp3",
     "musique": {
       "titre": "21 Grams Theme",
@@ -2487,6 +2576,7 @@
     "repliques_cultes": [
       "We are all connected."
     ],
+    "replique_vf": "Nous sommes tous connectés.",
     "audio_replique": "assets/audio/repliques/babel.mp3",
     "musique": {
       "titre": "Iguazu",
@@ -2512,6 +2602,7 @@
     "repliques_cultes": [
       "I drink your milkshake!"
     ],
+    "replique_vf": "Je bois ton milk-shake !",
     "audio_replique": "assets/audio/repliques/there_will_be_blood.mp3",
     "musique": {
       "titre": "There Will Be Blood Theme",
@@ -2537,6 +2628,7 @@
     "repliques_cultes": [
       "We may be through with the past, but the past ain't through with us."
     ],
+    "replique_vf": "On en a peut-être fini avec le passé, mais le passé n'en a pas fini avec nous.",
     "audio_replique": "assets/audio/repliques/magnolia.mp3",
     "musique": {
       "titre": "Save Me",
@@ -2562,6 +2654,7 @@
     "repliques_cultes": [
       "I'm a star, I'm a star, I'm a star."
     ],
+    "replique_vf": "Je suis une star, je suis une star, je suis une star.",
     "audio_replique": "assets/audio/repliques/boogie_nights.mp3",
     "musique": {
       "titre": "Boogie Nights Theme",
@@ -2587,6 +2680,7 @@
     "repliques_cultes": [
       "A million dollars isn't cool. You know what's cool? A billion dollars."
     ],
+    "replique_vf": "Un million de dollars, ce n'est pas cool. Tu sais ce qui est cool ? Un milliard de dollars.",
     "audio_replique": "assets/audio/repliques/social_network.mp3",
     "musique": {
       "titre": "Hand Covers Bruise",
@@ -2612,6 +2706,7 @@
     "repliques_cultes": [
       "I'm the cool girl."
     ],
+    "replique_vf": "Je suis la fille cool.",
     "audio_replique": "assets/audio/repliques/gone_girl.mp3",
     "musique": {
       "titre": "Technically, Missing",
@@ -2637,6 +2732,7 @@
     "repliques_cultes": [
       "I need to know who he is."
     ],
+    "replique_vf": "J'ai besoin de savoir qui il est.",
     "audio_replique": "assets/audio/repliques/zodiac.mp3",
     "musique": {
       "titre": "Zodiac Theme",
@@ -2662,6 +2758,7 @@
     "repliques_cultes": [
       "If you're seeing me, you're having the worst day of your life."
     ],
+    "replique_vf": "Si vous me voyez, c'est que vous passez la pire journée de votre vie.",
     "audio_replique": "assets/audio/repliques/nightcrawler.mp3",
     "musique": {
       "titre": "Nightcrawler Theme",
@@ -2687,6 +2784,7 @@
     "repliques_cultes": [
       "I drive."
     ],
+    "replique_vf": "Je conduis.",
     "audio_replique": "assets/audio/repliques/drive.mp3",
     "musique": {
       "titre": "A Real Hero",
@@ -2712,6 +2810,7 @@
     "repliques_cultes": [
       "Time to meet the devil."
     ],
+    "replique_vf": "Il est temps de rencontrer le diable.",
     "audio_replique": "assets/audio/repliques/only_god_forgives.mp3",
     "musique": {
       "titre": "Wanna Fight",
@@ -2737,6 +2836,7 @@
     "repliques_cultes": [
       "What a lovely day!"
     ],
+    "replique_vf": "Quelle belle journée !",
     "audio_replique": "assets/audio/repliques/mad_max_fury_road.mp3",
     "musique": {
       "titre": "Brothers in Arms",
@@ -2762,6 +2862,7 @@
     "repliques_cultes": [
       "I'm not leaving."
     ],
+    "replique_vf": "Je ne pars pas.",
     "audio_replique": "assets/audio/repliques/loup_wall_street.mp3",
     "musique": {
       "titre": "Mrs. Robinson",
@@ -2787,6 +2888,7 @@
     "repliques_cultes": [
       "Which would be worse: to live as a monster or to die as a good man?"
     ],
+    "replique_vf": "Qu'est-ce qui serait pire : vivre en monstre ou mourir en homme bien ?",
     "audio_replique": "assets/audio/repliques/shutter_island.mp3",
     "musique": {
       "titre": "Symphony No. 3",
@@ -2812,6 +2914,7 @@
     "repliques_cultes": [
       "I'm a wild animal."
     ],
+    "replique_vf": "Je suis un animal sauvage.",
     "audio_replique": "assets/audio/repliques/fantastic_mr_fox.mp3",
     "musique": {
       "titre": "The Ballad of Davy Crockett",
@@ -2837,6 +2940,7 @@
     "repliques_cultes": [
       "In the jungle you must wait, until the dice read five or eight."
     ],
+    "replique_vf": "Dans la jungle, il faut attendre que les dés fassent cinq ou huit.",
     "audio_replique": "assets/audio/repliques/jumanji.mp3",
     "musique": {
       "titre": "Main Theme",
@@ -2862,6 +2966,7 @@
     "repliques_cultes": [
       "I'm dying. Tragic."
     ],
+    "replique_vf": "Je suis mourant. C'est tragique.",
     "audio_replique": "assets/audio/repliques/la_famille_tenenbaum.mp3",
     "musique": {
       "titre": "Needle in the Hay",
@@ -2887,6 +2992,7 @@
     "repliques_cultes": [
       "Why is the rum always gone?"
     ],
+    "replique_vf": "Pourquoi le rhum a-t-il disparu ?",
     "audio_replique": "assets/audio/repliques/pirates_caraibes.mp3",
     "musique": {
       "titre": "He's a Pirate",
@@ -2912,6 +3018,7 @@
     "repliques_cultes": [
       "You're a wizard, Harry."
     ],
+    "replique_vf": "Tu es un sorcier, Harry.",
     "audio_replique": "assets/audio/repliques/harry_potter_1.mp3",
     "musique": {
       "titre": "Hedwig's Theme",
@@ -2937,6 +3044,7 @@
     "repliques_cultes": [
       "After all this time? Always."
     ],
+    "replique_vf": "Après tout ce temps ? Toujours.",
     "audio_replique": "assets/audio/repliques/harry_potter_7_2.mp3",
     "musique": {
       "titre": "Statues",
@@ -2962,6 +3070,7 @@
     "repliques_cultes": [
       "This is Sparta!"
     ],
+    "replique_vf": "Ici, c'est Sparte !",
     "audio_replique": "assets/audio/repliques/300.mp3",
     "musique": {
       "titre": "Returns a King",
@@ -2987,6 +3096,7 @@
     "repliques_cultes": [
       "I'm from Kansas."
     ],
+    "replique_vf": "Je viens du Kansas.",
     "audio_replique": "assets/audio/repliques/man_of_steel.mp3",
     "musique": {
       "titre": "An Ideal of Hope",
@@ -3012,6 +3122,7 @@
     "repliques_cultes": [
       "A man tells his stories so many times that he becomes the stories."
     ],
+    "replique_vf": "Un homme raconte ses histoires tant de fois qu'il finit par devenir ses histoires.",
     "audio_replique": "assets/audio/repliques/big_fish.mp3",
     "musique": {
       "titre": "Big Fish Theme",
@@ -3037,6 +3148,7 @@
     "repliques_cultes": [
       "I am not complete."
     ],
+    "replique_vf": "Je ne suis pas complet.",
     "audio_replique": "assets/audio/repliques/edward_mains_argent.mp3",
     "musique": {
       "titre": "Ice Dance",
@@ -3062,6 +3174,7 @@
     "repliques_cultes": [
       "At last, my arm is complete again."
     ],
+    "replique_vf": "Enfin, mon bras est de nouveau complet.",
     "audio_replique": "assets/audio/repliques/sweeney_todd.mp3",
     "musique": {
       "titre": "No Place Like London",
@@ -3087,6 +3200,7 @@
     "repliques_cultes": [
       "When he looks at me, he does not know how I am incomplete."
     ],
+    "replique_vf": "Quand il me regarde, il ne sait pas à quel point je suis incomplète.",
     "audio_replique": "assets/audio/repliques/shape_of_water.mp3",
     "musique": {
       "titre": "The Shape of Water",
@@ -3112,6 +3226,7 @@
     "repliques_cultes": [
       "Once upon a time..."
     ],
+    "replique_vf": "Il était une fois...",
     "audio_replique": "assets/audio/repliques/labyrinthe_pan.mp3",
     "musique": {
       "titre": "Long, Long Time Ago",
@@ -3137,6 +3252,7 @@
     "repliques_cultes": [
       "Who's the boy scout?"
     ],
+    "replique_vf": "Qui c'est, le boy-scout ?",
     "audio_replique": "assets/audio/repliques/hellboy.mp3",
     "musique": {
       "titre": "Hellboy Theme",
@@ -3162,6 +3278,7 @@
     "repliques_cultes": [
       "I want to be big."
     ],
+    "replique_vf": "Je veux être grand.",
     "audio_replique": "assets/audio/repliques/big.mp3",
     "musique": {
       "titre": "Heart and Soul",
@@ -3187,6 +3304,7 @@
     "repliques_cultes": [
       "It's not your fault."
     ],
+    "replique_vf": "Ce n'est pas ta faute.",
     "audio_replique": "assets/audio/repliques/will_hunting.mp3",
     "musique": {
       "titre": "Between the Bars",
@@ -3212,6 +3330,7 @@
     "repliques_cultes": [
       "Carpe diem, seize the day."
     ],
+    "replique_vf": "Carpe diem, cueillez le jour.",
     "audio_replique": "assets/audio/repliques/cercle_poetes.mp3",
     "musique": {
       "titre": "Dead Poets Society Theme",
@@ -3237,6 +3356,7 @@
     "repliques_cultes": [
       "Happiness only real when shared."
     ],
+    "replique_vf": "Le bonheur n'est réel que lorsqu'il est partagé.",
     "audio_replique": "assets/audio/repliques/into_the_wild.mp3",
     "musique": {
       "titre": "Society",
@@ -3262,6 +3382,7 @@
     "repliques_cultes": [
       "I need to believe that something extraordinary is possible."
     ],
+    "replique_vf": "J'ai besoin de croire que quelque chose d'extraordinaire est possible.",
     "audio_replique": "assets/audio/repliques/homme_exception.mp3",
     "musique": {
       "titre": "A Beautiful Mind Theme",
@@ -3287,6 +3408,7 @@
     "repliques_cultes": [
       "Houston, we have a problem."
     ],
+    "replique_vf": "Houston, nous avons un problème.",
     "audio_replique": "assets/audio/repliques/apollo_13.mp3",
     "musique": {
       "titre": "Apollo 13 Main Title",
@@ -3312,6 +3434,7 @@
     "repliques_cultes": [
       "To me, it was worth it."
     ],
+    "replique_vf": "Pour moi, ça en valait la peine.",
     "audio_replique": "assets/audio/repliques/catch_me_if_you_can.mp3",
     "musique": {
       "titre": "Catch Me If You Can",
@@ -3337,6 +3460,7 @@
     "repliques_cultes": [
       "Everybody runs."
     ],
+    "replique_vf": "Tout le monde court.",
     "audio_replique": "assets/audio/repliques/minority_report.mp3",
     "musique": {
       "titre": "Minority Report Theme",
@@ -3362,6 +3486,7 @@
     "repliques_cultes": [
       "I am the President of the United States, clothed in immense power."
     ],
+    "replique_vf": "Je suis le Président des États-Unis, revêtu d'un immense pouvoir.",
     "audio_replique": "assets/audio/repliques/lincoln.mp3",
     "musique": {
       "titre": "Lincoln Theme",
@@ -3387,6 +3512,7 @@
     "repliques_cultes": [
       "The world's full of lonely people."
     ],
+    "replique_vf": "Le monde est plein de gens solitaires.",
     "audio_replique": "assets/audio/repliques/green_book.mp3",
     "musique": {
       "titre": "Green Book Theme",
@@ -3412,6 +3538,7 @@
     "repliques_cultes": [
       "Who is you, Chiron?"
     ],
+    "replique_vf": "Qui es-tu, Chiron ?",
     "audio_replique": "assets/audio/repliques/moonlight.mp3",
     "musique": {
       "titre": "Middle of the World",
@@ -3437,6 +3564,7 @@
     "repliques_cultes": [
       "I don't want to survive. I want to live."
     ],
+    "replique_vf": "Je ne veux pas survivre. Je veux vivre.",
     "audio_replique": "assets/audio/repliques/12_years_a_slave.mp3",
     "musique": {
       "titre": "Solomon",
@@ -3462,6 +3590,7 @@
     "repliques_cultes": [
       "I can't beat it."
     ],
+    "replique_vf": "Je n'arrive pas à le surmonter.",
     "audio_replique": "assets/audio/repliques/manchester_by_the_sea.mp3",
     "musique": {
       "titre": "Manchester by the Sea Theme",
@@ -3487,6 +3616,7 @@
     "repliques_cultes": [
       "I'm not homeless, I'm houseless."
     ],
+    "replique_vf": "Je ne suis pas sans-abri, je suis sans domicile.",
     "audio_replique": "assets/audio/repliques/nomadland.mp3",
     "musique": {
       "titre": "Nomadland Theme",

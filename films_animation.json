@@ -481,7 +481,7 @@
   },
   {
     "id": "anim_021",
-    "titre": "Kuzco l'empereur Mégalo",
+    "titre": "Les Nouvelles Aventures de l'empereur",
     "studio": "Disney",
     "annee": 2000,
     "genre": "Comédie",
@@ -1729,26 +1729,26 @@
   },
   {
     "id": "anim_073",
-    "titre": "Les Aventures de Tintin : Le Secret de La Licorne",
-    "studio": "Autre",
-    "annee": 2011,
-    "genre": "Aventure",
+    "titre": "1001 pattes",
+    "studio": "Pixar",
+    "annee": 1998,
+    "genre": "Comédie",
     "pays": "États-Unis",
-    "duree_minutes": 107,
-    "realisateur": "Steven Spielberg",
-    "affiche": "assets/affiches/les_aventures_de_tintin_le_secret_de_la_licorne.jpg",
+    "duree_minutes": 95,
+    "realisateur": "John Lasseter & Andrew Stanton",
+    "affiche": "assets/affiches/1001_pattes.jpg",
     "repliques_cultes": [
-      "Mille milliards de mille sabords !"
+      "Les fourmis ne sont pas faites pour servir les sauterelles !"
     ],
     "musique": {
-      "titre": "The Adventures of Tintin",
-      "artiste": "John Williams",
-      "extrait_audio": "assets/audio/musiques/les_aventures_de_tintin_le_secret_de_la_licorne.mp3"
+      "titre": "The Time of Your Life",
+      "artiste": "Randy Newman",
+      "extrait_audio": "assets/audio/musiques/1001_pattes.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/les_aventures_de_tintin_le_secret_de_la_licorne_difficile.jpg",
-      "moyenne": "assets/images/les_aventures_de_tintin_le_secret_de_la_licorne_moyenne.jpg",
-      "facile": "assets/images/les_aventures_de_tintin_le_secret_de_la_licorne_facile.jpg"
+      "difficile": "assets/images/1001_pattes_difficile.jpg",
+      "moyenne": "assets/images/1001_pattes_moyenne.jpg",
+      "facile": "assets/images/1001_pattes_facile.jpg"
     }
   },
   {
@@ -1849,26 +1849,26 @@
   },
   {
     "id": "anim_078",
-    "titre": "Kubo et l'Armure magique",
-    "studio": "Laika",
-    "annee": 2016,
-    "genre": "Aventure",
+    "titre": "Soul",
+    "studio": "Pixar",
+    "annee": 2020,
+    "genre": "Comédie",
     "pays": "États-Unis",
-    "duree_minutes": 101,
-    "realisateur": "Travis Knight",
-    "affiche": "assets/affiches/kubo_et_l_armure_magique.jpg",
+    "duree_minutes": 100,
+    "realisateur": "Pete Docter & Kemp Powers",
+    "affiche": "assets/affiches/soul.jpg",
     "repliques_cultes": [
-      "Si vous devez cligner des yeux, faites-le maintenant."
+      "L'océan ? Vous êtes en plein dedans."
     ],
     "musique": {
-      "titre": "While My Guitar Gently Weeps",
-      "artiste": "Regina Spektor",
-      "extrait_audio": "assets/audio/musiques/kubo_et_l_armure_magique.mp3"
+      "titre": "Just Us",
+      "artiste": "Jon Batiste",
+      "extrait_audio": "assets/audio/musiques/soul.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/kubo_et_l_armure_magique_difficile.jpg",
-      "moyenne": "assets/images/kubo_et_l_armure_magique_moyenne.jpg",
-      "facile": "assets/images/kubo_et_l_armure_magique_facile.jpg"
+      "difficile": "assets/images/soul_difficile.jpg",
+      "moyenne": "assets/images/soul_moyenne.jpg",
+      "facile": "assets/images/soul_facile.jpg"
     }
   },
   {
@@ -2013,6 +2013,222 @@
       "difficile": "assets/images/le_robot_sauvage_difficile.jpg",
       "moyenne": "assets/images/le_robot_sauvage_moyenne.jpg",
       "facile": "assets/images/le_robot_sauvage_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_085",
+    "titre": "Cars 2",
+    "studio": "Pixar",
+    "annee": 2011,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 106,
+    "realisateur": "John Lasseter & Brad Lewis",
+    "affiche": "assets/affiches/cars_2.jpg",
+    "repliques_cultes": [
+      "Je m'appelle McMissile. Finn McMissile."
+    ],
+    "musique": {
+      "titre": "Collision of Worlds",
+      "artiste": "Brad Paisley & Robbie Williams",
+      "extrait_audio": "assets/audio/musiques/cars_2.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/cars_2_difficile.jpg",
+      "moyenne": "assets/images/cars_2_moyenne.jpg",
+      "facile": "assets/images/cars_2_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_086",
+    "titre": "Monstres Academy",
+    "studio": "Pixar",
+    "annee": 2013,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 104,
+    "realisateur": "Dan Scanlon",
+    "affiche": "assets/affiches/monstres_academy.jpg",
+    "repliques_cultes": [
+      "Tu n'es pas effrayant, Mike Wazowski."
+    ],
+    "musique": {
+      "titre": "Main Theme",
+      "artiste": "Randy Newman",
+      "extrait_audio": "assets/audio/musiques/monstres_academy.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/monstres_academy_difficile.jpg",
+      "moyenne": "assets/images/monstres_academy_moyenne.jpg",
+      "facile": "assets/images/monstres_academy_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_087",
+    "titre": "Le Voyage d'Arlo",
+    "studio": "Pixar",
+    "annee": 2015,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 93,
+    "realisateur": "Peter Sohn",
+    "affiche": "assets/affiches/le_voyage_d_arlo.jpg",
+    "repliques_cultes": [
+      "Tu dois faire ta marque."
+    ],
+    "musique": {
+      "titre": "Main Theme",
+      "artiste": "Mychael Danna & Jeff Danna",
+      "extrait_audio": "assets/audio/musiques/le_voyage_d_arlo.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_voyage_d_arlo_difficile.jpg",
+      "moyenne": "assets/images/le_voyage_d_arlo_moyenne.jpg",
+      "facile": "assets/images/le_voyage_d_arlo_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_088",
+    "titre": "Cars 3",
+    "studio": "Pixar",
+    "annee": 2017,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 109,
+    "realisateur": "Brian Fee",
+    "affiche": "assets/affiches/cars_3.jpg",
+    "repliques_cultes": [
+      "Je ne suis pas fini !"
+    ],
+    "musique": {
+      "titre": "Run That Race",
+      "artiste": "Dan Auerbach",
+      "extrait_audio": "assets/audio/musiques/cars_3.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/cars_3_difficile.jpg",
+      "moyenne": "assets/images/cars_3_moyenne.jpg",
+      "facile": "assets/images/cars_3_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_089",
+    "titre": "Les Indestructibles 2",
+    "studio": "Pixar",
+    "annee": 2018,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 118,
+    "realisateur": "Brad Bird",
+    "affiche": "assets/affiches/les_indestructibles_2.jpg",
+    "repliques_cultes": [
+      "Les super-héros sont de retour !"
+    ],
+    "musique": {
+      "titre": "Incredits 2",
+      "artiste": "Michael Giacchino",
+      "extrait_audio": "assets/audio/musiques/les_indestructibles_2.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_indestructibles_2_difficile.jpg",
+      "moyenne": "assets/images/les_indestructibles_2_moyenne.jpg",
+      "facile": "assets/images/les_indestructibles_2_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_090",
+    "titre": "En avant",
+    "studio": "Pixar",
+    "annee": 2020,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "duree_minutes": 102,
+    "realisateur": "Dan Scanlon",
+    "affiche": "assets/affiches/en_avant.jpg",
+    "repliques_cultes": [
+      "Pour la quête !"
+    ],
+    "musique": {
+      "titre": "Carried Me with You",
+      "artiste": "Brandi Carlile",
+      "extrait_audio": "assets/audio/musiques/en_avant.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/en_avant_difficile.jpg",
+      "moyenne": "assets/images/en_avant_moyenne.jpg",
+      "facile": "assets/images/en_avant_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_091",
+    "titre": "Alerte rouge",
+    "studio": "Pixar",
+    "annee": 2022,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 100,
+    "realisateur": "Domee Shi",
+    "affiche": "assets/affiches/alerte_rouge.jpg",
+    "repliques_cultes": [
+      "Mon panda, mon choix !"
+    ],
+    "musique": {
+      "titre": "Nobody Like U",
+      "artiste": "4*TOWN",
+      "extrait_audio": "assets/audio/musiques/alerte_rouge.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/alerte_rouge_difficile.jpg",
+      "moyenne": "assets/images/alerte_rouge_moyenne.jpg",
+      "facile": "assets/images/alerte_rouge_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_092",
+    "titre": "Buzz l'Éclair",
+    "studio": "Pixar",
+    "annee": 2022,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 105,
+    "realisateur": "Angus MacLane",
+    "affiche": "assets/affiches/buzz_l_eclair.jpg",
+    "repliques_cultes": [
+      "Je suis là pour toi, Buzz."
+    ],
+    "musique": {
+      "titre": "Main Theme",
+      "artiste": "Michael Giacchino",
+      "extrait_audio": "assets/audio/musiques/buzz_l_eclair.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/buzz_l_eclair_difficile.jpg",
+      "moyenne": "assets/images/buzz_l_eclair_moyenne.jpg",
+      "facile": "assets/images/buzz_l_eclair_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_093",
+    "titre": "Vice-versa 2",
+    "studio": "Pixar",
+    "annee": 2024,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 96,
+    "realisateur": "Kelsey Mann",
+    "affiche": "assets/affiches/vice_versa_2.jpg",
+    "repliques_cultes": [
+      "Et si tout se passait mal ?"
+    ],
+    "musique": {
+      "titre": "Main Theme",
+      "artiste": "Andrea Datzman",
+      "extrait_audio": "assets/audio/musiques/vice_versa_2.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/vice_versa_2_difficile.jpg",
+      "moyenne": "assets/images/vice_versa_2_moyenne.jpg",
+      "facile": "assets/images/vice_versa_2_facile.jpg"
     }
   }
 ]
