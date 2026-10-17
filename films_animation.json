@@ -1249,6 +1249,30 @@
   },
   {
     "id": "anim_053",
+    "titre": "Akira",
+    "studio": "Autre",
+    "annee": 1988,
+    "genre": "Science-fiction",
+    "pays": "Japon",
+    "duree_minutes": 124,
+    "realisateur": "Katsuhiro Otomo",
+    "affiche": "assets/affiches/akira.jpg",
+    "repliques_cultes": [
+      "Tetsuo !"
+    ],
+    "musique": {
+      "titre": "Kaneda",
+      "artiste": "Shoji Yamashiro",
+      "extrait_audio": "assets/audio/musiques/akira.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/akira_difficile.jpg",
+      "moyenne": "assets/images/akira_moyenne.jpg",
+      "facile": "assets/images/akira_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_054",
     "titre": "Kiki la petite sorcière",
     "studio": "Studio Ghibli",
     "annee": 1989,
@@ -1272,7 +1296,7 @@
     }
   },
   {
-    "id": "anim_054",
+    "id": "anim_055",
     "titre": "Porco Rosso",
     "studio": "Studio Ghibli",
     "annee": 1992,
@@ -1296,7 +1320,7 @@
     }
   },
   {
-    "id": "anim_055",
+    "id": "anim_056",
     "titre": "Princesse Mononoké",
     "studio": "Studio Ghibli",
     "annee": 1997,
@@ -1320,7 +1344,31 @@
     }
   },
   {
-    "id": "anim_056",
+    "id": "anim_057",
+    "titre": "Perfect Blue",
+    "studio": "Autre",
+    "annee": 1997,
+    "genre": "Thriller",
+    "pays": "Japon",
+    "duree_minutes": 81,
+    "realisateur": "Satoshi Kon",
+    "affiche": "assets/affiches/perfect_blue.jpg",
+    "repliques_cultes": [
+      "Qui es-tu ?"
+    ],
+    "musique": {
+      "titre": "Perfect Blue Theme",
+      "artiste": "Masahiro Ikumi",
+      "extrait_audio": "assets/audio/musiques/perfect_blue.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/perfect_blue_difficile.jpg",
+      "moyenne": "assets/images/perfect_blue_moyenne.jpg",
+      "facile": "assets/images/perfect_blue_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_058",
     "titre": "Le Prince d'Égypte",
     "studio": "DreamWorks",
     "annee": 1998,
@@ -1344,7 +1392,7 @@
     }
   },
   {
-    "id": "anim_057",
+    "id": "anim_059",
     "titre": "Kirikou et la Sorcière",
     "studio": "Autre",
     "annee": 1998,
@@ -1368,7 +1416,7 @@
     }
   },
   {
-    "id": "anim_058",
+    "id": "anim_060",
     "titre": "Shrek",
     "studio": "DreamWorks",
     "annee": 2001,
@@ -1392,7 +1440,7 @@
     }
   },
   {
-    "id": "anim_059",
+    "id": "anim_061",
     "titre": "Le Voyage de Chihiro",
     "studio": "Studio Ghibli",
     "annee": 2001,
@@ -1416,7 +1464,7 @@
     }
   },
   {
-    "id": "anim_060",
+    "id": "anim_062",
     "titre": "L'Âge de glace",
     "studio": "Blue Sky",
     "annee": 2002,
@@ -1440,7 +1488,7 @@
     }
   },
   {
-    "id": "anim_061",
+    "id": "anim_063",
     "titre": "Le Château ambulant",
     "studio": "Studio Ghibli",
     "annee": 2004,
@@ -1464,7 +1512,7 @@
     }
   },
   {
-    "id": "anim_062",
+    "id": "anim_064",
     "titre": "Madagascar",
     "studio": "DreamWorks",
     "annee": 2005,
@@ -1488,7 +1536,7 @@
     }
   },
   {
-    "id": "anim_063",
+    "id": "anim_065",
     "titre": "Wallace & Gromit : Le Mystère du lapin-garou",
     "studio": "Aardman",
     "annee": 2005,
@@ -1512,7 +1560,7 @@
     }
   },
   {
-    "id": "anim_064",
+    "id": "anim_066",
     "titre": "Kung Fu Panda",
     "studio": "DreamWorks",
     "annee": 2008,
@@ -1536,7 +1584,7 @@
     }
   },
   {
-    "id": "anim_065",
+    "id": "anim_067",
     "titre": "Ponyo sur la falaise",
     "studio": "Studio Ghibli",
     "annee": 2008,
@@ -1560,7 +1608,7 @@
     }
   },
   {
-    "id": "anim_066",
+    "id": "anim_068",
     "titre": "Coraline",
     "studio": "Laika",
     "annee": 2009,
@@ -1584,7 +1632,7 @@
     }
   },
   {
-    "id": "anim_067",
+    "id": "anim_069",
     "titre": "Dragons",
     "studio": "DreamWorks",
     "annee": 2010,
@@ -1608,7 +1656,7 @@
     }
   },
   {
-    "id": "anim_068",
+    "id": "anim_070",
     "titre": "Moi, moche et méchant",
     "studio": "Illumination",
     "annee": 2010,
@@ -1632,7 +1680,7 @@
     }
   },
   {
-    "id": "anim_069",
+    "id": "anim_071",
     "titre": "Arrietty, le petit monde des chapardeurs",
     "studio": "Studio Ghibli",
     "annee": 2010,
@@ -1656,7 +1704,7 @@
     }
   },
   {
-    "id": "anim_070",
+    "id": "anim_072",
     "titre": "Megamind",
     "studio": "DreamWorks",
     "annee": 2010,
@@ -1680,7 +1728,7 @@
     }
   },
   {
-    "id": "anim_071",
+    "id": "anim_073",
     "titre": "Les Aventures de Tintin : Le Secret de La Licorne",
     "studio": "Autre",
     "annee": 2011,
@@ -1704,7 +1752,7 @@
     }
   },
   {
-    "id": "anim_072",
+    "id": "anim_074",
     "titre": "Les Croods",
     "studio": "DreamWorks",
     "annee": 2013,
@@ -1728,7 +1776,7 @@
     }
   },
   {
-    "id": "anim_073",
+    "id": "anim_075",
     "titre": "Le vent se lève",
     "studio": "Studio Ghibli",
     "annee": 2013,
@@ -1752,7 +1800,7 @@
     }
   },
   {
-    "id": "anim_074",
+    "id": "anim_076",
     "titre": "La Grande Aventure Lego",
     "studio": "Warner",
     "annee": 2014,
@@ -1776,7 +1824,7 @@
     }
   },
   {
-    "id": "anim_075",
+    "id": "anim_077",
     "titre": "Le Petit Prince",
     "studio": "Autre",
     "annee": 2015,
@@ -1800,7 +1848,7 @@
     }
   },
   {
-    "id": "anim_076",
+    "id": "anim_078",
     "titre": "Kubo et l'Armure magique",
     "studio": "Laika",
     "annee": 2016,
@@ -1824,7 +1872,7 @@
     }
   },
   {
-    "id": "anim_077",
+    "id": "anim_079",
     "titre": "Trolls",
     "studio": "DreamWorks",
     "annee": 2016,
@@ -1848,7 +1896,7 @@
     }
   },
   {
-    "id": "anim_078",
+    "id": "anim_080",
     "titre": "Le Grinch",
     "studio": "Illumination",
     "annee": 2018,
@@ -1872,7 +1920,7 @@
     }
   },
   {
-    "id": "anim_079",
+    "id": "anim_081",
     "titre": "Spider-Man : New Generation",
     "studio": "Sony Animation",
     "annee": 2018,
@@ -1896,7 +1944,7 @@
     }
   },
   {
-    "id": "anim_080",
+    "id": "anim_082",
     "titre": "Le Garçon et le Héron",
     "studio": "Studio Ghibli",
     "annee": 2023,
@@ -1920,7 +1968,7 @@
     }
   },
   {
-    "id": "anim_081",
+    "id": "anim_083",
     "titre": "Spider-Man : Across the Spider-Verse",
     "studio": "Sony Animation",
     "annee": 2023,
@@ -1944,7 +1992,7 @@
     }
   },
   {
-    "id": "anim_082",
+    "id": "anim_084",
     "titre": "Le Robot sauvage",
     "studio": "DreamWorks",
     "annee": 2024,

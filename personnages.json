@@ -60,16 +60,6 @@
     "sexe": "Homme"
   },
   {
-    "id": "perso_007",
-    "nom": "Chihiro",
-    "film_origine": "Le Voyage de Chihiro",
-    "acteur": "Rumi Hiiragi",
-    "statut": "Héros",
-    "genre_film": "Animation",
-    "decennie_apparition": 2000,
-    "sexe": "Femme"
-  },
-  {
     "id": "perso_008",
     "nom": "Dom Cobb",
     "film_origine": "Inception",
@@ -87,16 +77,6 @@
     "statut": "Héros",
     "genre_film": "Péplum",
     "decennie_apparition": 2000,
-    "sexe": "Homme"
-  },
-  {
-    "id": "perso_010",
-    "nom": "Simba",
-    "film_origine": "Le Roi Lion",
-    "acteur": "Matthew Broderick",
-    "statut": "Héros",
-    "genre_film": "Animation",
-    "decennie_apparition": 1990,
     "sexe": "Homme"
   },
   {
@@ -247,56 +227,6 @@
     "statut": "Méchant",
     "genre_film": "Horreur",
     "decennie_apparition": 1980,
-    "sexe": "Homme"
-  },
-  {
-    "id": "perso_026",
-    "nom": "Miguel Rivera",
-    "film_origine": "Coco",
-    "acteur": "Anthony Gonzalez",
-    "statut": "Héros",
-    "genre_film": "Animation",
-    "decennie_apparition": 2010,
-    "sexe": "Homme"
-  },
-  {
-    "id": "perso_027",
-    "nom": "Woody",
-    "film_origine": "Toy Story",
-    "acteur": "Tom Hanks",
-    "statut": "Héros",
-    "genre_film": "Animation",
-    "decennie_apparition": 1990,
-    "sexe": "Homme"
-  },
-  {
-    "id": "perso_028",
-    "nom": "Buzz l'Éclair",
-    "film_origine": "Toy Story",
-    "acteur": "Tim Allen",
-    "statut": "Second rôle",
-    "genre_film": "Animation",
-    "decennie_apparition": 1990,
-    "sexe": "Homme"
-  },
-  {
-    "id": "perso_029",
-    "nom": "WALL-E",
-    "film_origine": "WALL-E",
-    "acteur": "Ben Burtt",
-    "statut": "Héros",
-    "genre_film": "Animation",
-    "decennie_apparition": 2000,
-    "sexe": "Autre"
-  },
-  {
-    "id": "perso_030",
-    "nom": "Miles Morales",
-    "film_origine": "Spider-Man : New Generation",
-    "acteur": "Shameik Moore",
-    "statut": "Héros",
-    "genre_film": "Animation",
-    "decennie_apparition": 2010,
     "sexe": "Homme"
   },
   {
@@ -877,26 +807,6 @@
     "statut": "Héros",
     "genre_film": "Thriller",
     "decennie_apparition": 2010,
-    "sexe": "Homme"
-  },
-  {
-    "id": "perso_089",
-    "nom": "Mima Kirigoe",
-    "film_origine": "Perfect Blue",
-    "acteur": "Junko Iwao",
-    "statut": "Héros",
-    "genre_film": "Animation",
-    "decennie_apparition": 1990,
-    "sexe": "Femme"
-  },
-  {
-    "id": "perso_090",
-    "nom": "Tetsuo Shima",
-    "film_origine": "Akira",
-    "acteur": "Nozomu Sasaki",
-    "statut": "Anti-héros",
-    "genre_film": "Animation",
-    "decennie_apparition": 1980,
     "sexe": "Homme"
   },
   {

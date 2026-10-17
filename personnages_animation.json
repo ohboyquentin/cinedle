@@ -1834,5 +1834,23 @@
     "type": "Esprit",
     "role": "Héros",
     "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_205",
+    "nom": "Tetsuo Shima",
+    "film_origine": "Akira",
+    "studio": "Autre",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_206",
+    "nom": "Mima Kirigoe",
+    "film_origine": "Perfect Blue",
+    "studio": "Autre",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
   }
 ]

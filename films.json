@@ -151,27 +151,27 @@
   },
   {
     "id": "film_007",
-    "titre": "Le Voyage de Chihiro",
-    "realisateur": "Hayao Miyazaki",
-    "annee": 2001,
-    "genre": "Animation",
-    "pays": "Japon",
-    "duree_minutes": 125,
-    "acteur_principal": "Rumi Hiiragi",
-    "affiche": "assets/affiches/chihiro.jpg",
+    "titre": "Beetlejuice",
+    "realisateur": "Tim Burton",
+    "annee": 1988,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "duree_minutes": 92,
+    "acteur_principal": "Michael Keaton",
+    "affiche": "assets/affiches/beetlejuice.jpg",
     "repliques_cultes": [
-      "Une fois que tu as fait quelque chose, tu n'en perds jamais totalement le souvenir."
+      "It's showtime!"
     ],
-    "audio_replique": "assets/audio/repliques/chihiro.mp3",
+    "audio_replique": "assets/audio/repliques/beetlejuice.mp3",
     "musique": {
-      "titre": "One Summer's Day",
-      "artiste": "Joe Hisaishi",
-      "extrait_audio": "assets/audio/musiques/chihiro.mp3"
+      "titre": "Day-O (The Banana Boat Song)",
+      "artiste": "Harry Belafonte",
+      "extrait_audio": "assets/audio/musiques/beetlejuice.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/chihiro_difficile.jpg",
-      "moyenne": "assets/images/chihiro_moyenne.jpg",
-      "facile": "assets/images/chihiro_facile.jpg"
+      "difficile": "assets/images/beetlejuice_difficile.jpg",
+      "moyenne": "assets/images/beetlejuice_moyenne.jpg",
+      "facile": "assets/images/beetlejuice_facile.jpg"
     }
   },
   {
@@ -251,27 +251,27 @@
   },
   {
     "id": "film_011",
-    "titre": "Le Roi Lion",
-    "realisateur": "Roger Allers",
-    "annee": 1994,
-    "genre": "Animation",
+    "titre": "Fargo",
+    "realisateur": "Joel et Ethan Coen",
+    "annee": 1996,
+    "genre": "Policier",
     "pays": "États-Unis",
-    "duree_minutes": 88,
-    "acteur_principal": "Matthew Broderick",
-    "affiche": "assets/affiches/roi_lion.jpg",
+    "duree_minutes": 98,
+    "acteur_principal": "Frances McDormand",
+    "affiche": "assets/affiches/fargo.jpg",
     "repliques_cultes": [
-      "Hakuna Matata."
+      "And for what? For a little bit of money? There's more to life than a little money, you know."
     ],
-    "audio_replique": "assets/audio/repliques/roi_lion.mp3",
+    "audio_replique": "assets/audio/repliques/fargo.mp3",
     "musique": {
-      "titre": "Circle of Life",
-      "artiste": "Elton John",
-      "extrait_audio": "assets/audio/musiques/roi_lion.mp3"
+      "titre": "Main Titles",
+      "artiste": "Carter Burwell",
+      "extrait_audio": "assets/audio/musiques/fargo.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/roi_lion_difficile.jpg",
-      "moyenne": "assets/images/roi_lion_moyenne.jpg",
-      "facile": "assets/images/roi_lion_facile.jpg"
+      "difficile": "assets/images/fargo_difficile.jpg",
+      "moyenne": "assets/images/fargo_moyenne.jpg",
+      "facile": "assets/images/fargo_facile.jpg"
     }
   },
   {
@@ -701,102 +701,102 @@
   },
   {
     "id": "film_029",
-    "titre": "Coco",
-    "realisateur": "Lee Unkrich",
-    "annee": 2017,
-    "genre": "Animation",
+    "titre": "The Lighthouse",
+    "realisateur": "Robert Eggers",
+    "annee": 2019,
+    "genre": "Horreur",
     "pays": "États-Unis",
-    "duree_minutes": 105,
-    "acteur_principal": "Anthony Gonzalez",
-    "affiche": "assets/affiches/coco.jpg",
+    "duree_minutes": 109,
+    "acteur_principal": "Willem Dafoe",
+    "affiche": "assets/affiches/the_lighthouse.jpg",
     "repliques_cultes": [
-      "Remember me."
+      "Why'd ye spill yer beans?"
     ],
-    "audio_replique": "assets/audio/repliques/coco.mp3",
+    "audio_replique": "assets/audio/repliques/the_lighthouse.mp3",
     "musique": {
-      "titre": "Remember Me",
-      "artiste": "Kristen Anderson-Lopez & Robert Lopez",
-      "extrait_audio": "assets/audio/musiques/coco.mp3"
+      "titre": "Main Theme",
+      "artiste": "Mark Korven",
+      "extrait_audio": "assets/audio/musiques/the_lighthouse.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/coco_difficile.jpg",
-      "moyenne": "assets/images/coco_moyenne.jpg",
-      "facile": "assets/images/coco_facile.jpg"
+      "difficile": "assets/images/the_lighthouse_difficile.jpg",
+      "moyenne": "assets/images/the_lighthouse_moyenne.jpg",
+      "facile": "assets/images/the_lighthouse_facile.jpg"
     }
   },
   {
     "id": "film_030",
-    "titre": "Toy Story",
-    "realisateur": "John Lasseter",
-    "annee": 1995,
-    "genre": "Animation",
+    "titre": "Hell or High Water",
+    "realisateur": "David Mackenzie",
+    "annee": 2016,
+    "genre": "Western",
     "pays": "États-Unis",
-    "duree_minutes": 81,
-    "acteur_principal": "Tom Hanks",
-    "affiche": "assets/affiches/toy_story.jpg",
+    "duree_minutes": 102,
+    "acteur_principal": "Chris Pine",
+    "affiche": "assets/affiches/hell_or_high_water.jpg",
     "repliques_cultes": [
-      "To infinity and beyond!"
+      "I've been poor my whole life, like a disease passed from generation to generation."
     ],
-    "audio_replique": "assets/audio/repliques/toy_story.mp3",
+    "audio_replique": "assets/audio/repliques/hell_or_high_water.mp3",
     "musique": {
-      "titre": "You've Got a Friend in Me",
-      "artiste": "Randy Newman",
-      "extrait_audio": "assets/audio/musiques/toy_story.mp3"
+      "titre": "Outlaw State of Mind",
+      "artiste": "Chris Stapleton",
+      "extrait_audio": "assets/audio/musiques/hell_or_high_water.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/toy_story_difficile.jpg",
-      "moyenne": "assets/images/toy_story_moyenne.jpg",
-      "facile": "assets/images/toy_story_facile.jpg"
+      "difficile": "assets/images/hell_or_high_water_difficile.jpg",
+      "moyenne": "assets/images/hell_or_high_water_moyenne.jpg",
+      "facile": "assets/images/hell_or_high_water_facile.jpg"
     }
   },
   {
     "id": "film_031",
-    "titre": "WALL-E",
-    "realisateur": "Andrew Stanton",
-    "annee": 2008,
-    "genre": "Animation",
+    "titre": "Once Upon a Time... in Hollywood",
+    "realisateur": "Quentin Tarantino",
+    "annee": 2019,
+    "genre": "Comédie dramatique",
     "pays": "États-Unis",
-    "duree_minutes": 98,
-    "acteur_principal": "Ben Burtt",
-    "affiche": "assets/affiches/wall_e.jpg",
+    "duree_minutes": 161,
+    "acteur_principal": "Leonardo DiCaprio",
+    "affiche": "assets/affiches/once_upon_a_time_in_hollywood.jpg",
     "repliques_cultes": [
-      "WALL-E."
+      "That was the best acting I've seen in my entire life."
     ],
-    "audio_replique": "assets/audio/repliques/wall_e.mp3",
+    "audio_replique": "assets/audio/repliques/once_upon_a_time_in_hollywood.mp3",
     "musique": {
-      "titre": "Define Dancing",
-      "artiste": "Thomas Newman",
-      "extrait_audio": "assets/audio/musiques/wall_e.mp3"
+      "titre": "Brother Love's Travelling Salvation Show",
+      "artiste": "Neil Diamond",
+      "extrait_audio": "assets/audio/musiques/once_upon_a_time_in_hollywood.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/wall_e_difficile.jpg",
-      "moyenne": "assets/images/wall_e_moyenne.jpg",
-      "facile": "assets/images/wall_e_facile.jpg"
+      "difficile": "assets/images/once_upon_a_time_in_hollywood_difficile.jpg",
+      "moyenne": "assets/images/once_upon_a_time_in_hollywood_moyenne.jpg",
+      "facile": "assets/images/once_upon_a_time_in_hollywood_facile.jpg"
     }
   },
   {
     "id": "film_032",
-    "titre": "Spider-Man : New Generation",
-    "realisateur": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
-    "annee": 2018,
-    "genre": "Animation",
-    "pays": "États-Unis",
-    "duree_minutes": 117,
-    "acteur_principal": "Shameik Moore",
-    "affiche": "assets/affiches/spiderman_new_generation.jpg",
+    "titre": "Trainspotting",
+    "realisateur": "Danny Boyle",
+    "annee": 1996,
+    "genre": "Comédie dramatique",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 94,
+    "acteur_principal": "Ewan McGregor",
+    "affiche": "assets/affiches/trainspotting.jpg",
     "repliques_cultes": [
-      "Anyone can wear the mask."
+      "Choose life. Choose a job. Choose a career. Choose a family."
     ],
-    "audio_replique": "assets/audio/repliques/spiderman_new_generation.mp3",
+    "audio_replique": "assets/audio/repliques/trainspotting.mp3",
     "musique": {
-      "titre": "Sunflower",
-      "artiste": "Post Malone & Swae Lee",
-      "extrait_audio": "assets/audio/musiques/spiderman_new_generation.mp3"
+      "titre": "Lust for Life",
+      "artiste": "Iggy Pop",
+      "extrait_audio": "assets/audio/musiques/trainspotting.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/spiderman_new_generation_difficile.jpg",
-      "moyenne": "assets/images/spiderman_new_generation_moyenne.jpg",
-      "facile": "assets/images/spiderman_new_generation_facile.jpg"
+      "difficile": "assets/images/trainspotting_difficile.jpg",
+      "moyenne": "assets/images/trainspotting_moyenne.jpg",
+      "facile": "assets/images/trainspotting_facile.jpg"
     }
   },
   {
@@ -1726,27 +1726,27 @@
   },
   {
     "id": "film_070",
-    "titre": "Princesse Mononoké",
-    "realisateur": "Hayao Miyazaki",
-    "annee": 1997,
-    "genre": "Animation",
-    "pays": "Japon",
-    "duree_minutes": 134,
-    "acteur_principal": "Yōji Matsuda",
-    "affiche": "assets/affiches/princesse_mononoke.jpg",
+    "titre": "Crimson Peak",
+    "realisateur": "Guillermo del Toro",
+    "annee": 2015,
+    "genre": "Horreur",
+    "pays": "États-Unis",
+    "duree_minutes": 119,
+    "acteur_principal": "Mia Wasikowska",
+    "affiche": "assets/affiches/crimson_peak.jpg",
     "repliques_cultes": [
-      "Vis."
+      "Ghosts are real, this much I know."
     ],
-    "audio_replique": "assets/audio/repliques/princesse_mononoke.mp3",
+    "audio_replique": "assets/audio/repliques/crimson_peak.mp3",
     "musique": {
-      "titre": "The Legend of Ashitaka",
-      "artiste": "Joe Hisaishi",
-      "extrait_audio": "assets/audio/musiques/princesse_mononoke.mp3"
+      "titre": "Main Theme",
+      "artiste": "Fernando Velázquez",
+      "extrait_audio": "assets/audio/musiques/crimson_peak.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/princesse_mononoke_difficile.jpg",
-      "moyenne": "assets/images/princesse_mononoke_moyenne.jpg",
-      "facile": "assets/images/princesse_mononoke_facile.jpg"
+      "difficile": "assets/images/crimson_peak_difficile.jpg",
+      "moyenne": "assets/images/crimson_peak_moyenne.jpg",
+      "facile": "assets/images/crimson_peak_facile.jpg"
     }
   },
   {
@@ -2801,77 +2801,77 @@
   },
   {
     "id": "film_113",
-    "titre": "Perfect Blue",
-    "realisateur": "Satoshi Kon",
-    "annee": 1997,
-    "genre": "Animation",
-    "pays": "Japon",
-    "duree_minutes": 81,
-    "acteur_principal": "Junko Iwao",
-    "affiche": "assets/affiches/perfect_blue.jpg",
+    "titre": "Fantastic Mr. Fox",
+    "realisateur": "Wes Anderson",
+    "annee": 2009,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 87,
+    "acteur_principal": "George Clooney",
+    "affiche": "assets/affiches/fantastic_mr_fox.jpg",
     "repliques_cultes": [
-      "Who are you?"
+      "I'm a wild animal."
     ],
-    "audio_replique": "assets/audio/repliques/perfect_blue.mp3",
+    "audio_replique": "assets/audio/repliques/fantastic_mr_fox.mp3",
     "musique": {
-      "titre": "Perfect Blue Theme",
-      "artiste": "Masahiro Ikumi",
-      "extrait_audio": "assets/audio/musiques/perfect_blue.mp3"
+      "titre": "The Ballad of Davy Crockett",
+      "artiste": "Burl Ives",
+      "extrait_audio": "assets/audio/musiques/fantastic_mr_fox.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/perfect_blue_difficile.jpg",
-      "moyenne": "assets/images/perfect_blue_moyenne.jpg",
-      "facile": "assets/images/perfect_blue_facile.jpg"
+      "difficile": "assets/images/fantastic_mr_fox_difficile.jpg",
+      "moyenne": "assets/images/fantastic_mr_fox_moyenne.jpg",
+      "facile": "assets/images/fantastic_mr_fox_facile.jpg"
     }
   },
   {
     "id": "film_114",
-    "titre": "Akira",
-    "realisateur": "Katsuhiro Otomo",
-    "annee": 1988,
-    "genre": "Animation",
-    "pays": "Japon",
-    "duree_minutes": 124,
-    "acteur_principal": "Mitsuo Iwata",
-    "affiche": "assets/affiches/akira.jpg",
+    "titre": "Jumanji",
+    "realisateur": "Joe Johnston",
+    "annee": 1995,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 104,
+    "acteur_principal": "Robin Williams",
+    "affiche": "assets/affiches/jumanji.jpg",
     "repliques_cultes": [
-      "Tetsuo !"
+      "In the jungle you must wait, until the dice read five or eight."
     ],
-    "audio_replique": "assets/audio/repliques/akira.mp3",
+    "audio_replique": "assets/audio/repliques/jumanji.mp3",
     "musique": {
-      "titre": "Kaneda",
-      "artiste": "Shoji Yamashiro",
-      "extrait_audio": "assets/audio/musiques/akira.mp3"
+      "titre": "Main Theme",
+      "artiste": "Jerry Goldsmith",
+      "extrait_audio": "assets/audio/musiques/jumanji.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/akira_difficile.jpg",
-      "moyenne": "assets/images/akira_moyenne.jpg",
-      "facile": "assets/images/akira_facile.jpg"
+      "difficile": "assets/images/jumanji_difficile.jpg",
+      "moyenne": "assets/images/jumanji_moyenne.jpg",
+      "facile": "assets/images/jumanji_facile.jpg"
     }
   },
   {
     "id": "film_115",
-    "titre": "Ghost in the Shell",
-    "realisateur": "Mamoru Oshii",
-    "annee": 1995,
-    "genre": "Animation",
-    "pays": "Japon",
-    "duree_minutes": 83,
-    "acteur_principal": "Atsuko Tanaka",
-    "affiche": "assets/affiches/ghost_in_the_shell.jpg",
+    "titre": "La Famille Tenenbaum",
+    "realisateur": "Wes Anderson",
+    "annee": 2001,
+    "genre": "Comédie dramatique",
+    "pays": "États-Unis",
+    "duree_minutes": 110,
+    "acteur_principal": "Gene Hackman",
+    "affiche": "assets/affiches/la_famille_tenenbaum.jpg",
     "repliques_cultes": [
-      "It's just as if I'm awake and asleep at the same time."
+      "I'm dying. Tragic."
     ],
-    "audio_replique": "assets/audio/repliques/ghost_in_the_shell.mp3",
+    "audio_replique": "assets/audio/repliques/la_famille_tenenbaum.mp3",
     "musique": {
-      "titre": "Making of Cyborg",
-      "artiste": "Kenji Kawai",
-      "extrait_audio": "assets/audio/musiques/ghost_in_the_shell.mp3"
+      "titre": "Needle in the Hay",
+      "artiste": "Elliott Smith",
+      "extrait_audio": "assets/audio/musiques/la_famille_tenenbaum.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/ghost_in_the_shell_difficile.jpg",
-      "moyenne": "assets/images/ghost_in_the_shell_moyenne.jpg",
-      "facile": "assets/images/ghost_in_the_shell_facile.jpg"
+      "difficile": "assets/images/la_famille_tenenbaum_difficile.jpg",
+      "moyenne": "assets/images/la_famille_tenenbaum_moyenne.jpg",
+      "facile": "assets/images/la_famille_tenenbaum_facile.jpg"
     }
   },
   {
