@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>CINÉDLE</title>
+<title>GUESS WHAT ?</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Archivo:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
@@ -541,6 +541,14 @@ function wireBack(){ document.getElementById('back-btn')?.addEventListener('clic
 /* =========================================================
    HELPERS PARTAGÉS
    ========================================================= */
+// Lecteur audio : si le fichier est introuvable, on affiche un message au lieu d'un lecteur muet.
+function audioHtml(src){
+  return `<audio controls src="${src}" onerror="audioMissing(this)"></audio>`;
+}
+function audioMissing(el){
+  el.outerHTML = '<div class="locked-hint">🎧 Extrait audio indisponible pour le moment</div>';
+}
+
 function makeCell(text, cls, arrow){
   const cell = document.createElement('div'); cell.className = 'cell ' + cls;
   const span = document.createElement('div'); span.textContent = text; cell.appendChild(span);
@@ -720,7 +728,7 @@ function renderBlurDefi(cfg){
 function renderClueGuessDefi(cfg){
   let wrongGuesses = [];
   const prog = getProgress(cfg.eyebrow);
-  const audioBlock = cfg.audioSrc ? `<audio controls src="${cfg.audioSrc}"></audio>` : '';
+  const audioBlock = cfg.audioSrc ? audioHtml(cfg.audioSrc) : '';
   app.innerHTML = `
     ${backButton()}${progressDots()}
     <header class="defi-header"><div class="defi-eyebrow">${cfg.eyebrow}</div><h2 class="defi-title">${cfg.title}</h2></header>
@@ -745,7 +753,7 @@ function renderClueGuessDefi(cfg){
     if(!cfg.voiceHintAfter) return;
     const n = wrongGuesses.length;
     if(n >= cfg.voiceHintAfter){
-      voiceZone.innerHTML = `<div class="voice-hint">🔊 Indice vocal débloqué</div><audio controls src="${cfg.hintAudioSrc}"></audio>`;
+      voiceZone.innerHTML = `<div class="voice-hint">🔊 Indice vocal débloqué</div>${audioHtml(cfg.hintAudioSrc)}`;
     } else {
       const left = cfg.voiceHintAfter - n;
       voiceZone.innerHTML = `<div class="locked-hint">🔒 Indice vocal débloqué après ${left} échec${left>1?'s':''}${n>0 ? ' de plus' : ''}</div>`;
