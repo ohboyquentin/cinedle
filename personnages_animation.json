@@ -1062,24 +1062,6 @@
     "sexe": "Homme"
   },
   {
-    "id": "persoanim_119",
-    "nom": "Tintin",
-    "film_origine": "Les Aventures de Tintin : Le Secret de La Licorne",
-    "studio": "Autre",
-    "type": "Humain",
-    "role": "Héros",
-    "sexe": "Homme"
-  },
-  {
-    "id": "persoanim_120",
-    "nom": "Le Capitaine Haddock",
-    "film_origine": "Les Aventures de Tintin : Le Secret de La Licorne",
-    "studio": "Autre",
-    "type": "Humain",
-    "role": "Second rôle",
-    "sexe": "Homme"
-  },
-  {
     "id": "persoanim_121",
     "nom": "Kirikou",
     "film_origine": "Kirikou et la Sorcière",
