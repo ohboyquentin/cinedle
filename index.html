@@ -162,6 +162,7 @@
 let FILMS, PERSONNAGES, SERIES, PERSONNAGES_SERIES, ANIMES, PERSONNAGES_ANIMES, FILMS_ANIM, PERSONNAGES_ANIM;
 let DAILY_CINEMA, DAILY_SERIES, DAILY_ANIMES, DAILY_ANIM;
 let YESTERDAY_ANSWERS = { cinema:null, series:null, animes:null, animation:null };
+let YESTERDAY_PERSOS = { cinema:null, series:null, animes:null, animation:null };
 
 /* =========================================================
    TIRAGE DU JOUR (déterministe par date, distinct par défi, par thème)
@@ -286,27 +287,29 @@ function titleHint(t){
 
 // Indices progressifs du défi 2 (personnage) : pendu après 5 essais, début du nom après 8, réponse cachée après 10
 const maskLetters = w => w.replace(/[\p{L}\p{N}]/gu, '_').split('').join(' ');
-const HINTS_PERSO = [
+const makeHints = (key, noun) => [
   { after:5, html: t => {
-      const words = t.nom.trim().split(/\s+/);
-      const letters = (t.nom.match(/[\p{L}\p{N}]/gu) || []).length;
+      const words = t[key].trim().split(/\s+/);
+      const letters = (t[key].match(/[\p{L}\p{N}]/gu) || []).length;
       return `<div class="hint-pendu">${words.map(maskLetters).join(' &nbsp; ')}</div><span class="hint-sub">${words.length} mot${words.length>1?'s':''} · ${letters} lettres</span>`; } },
   { after:8, html: t => {
-      const words = t.nom.trim().split(/\s+/);
-      return words.length > 1 ? `Le premier mot est « ${words[0]} »` : `Le nom commence par « ${t.nom.trim()[0].toUpperCase()} »`; } },
-  { after:10, reveal:true, label:'Cliquer pour découvrir la réponse', html: t => t.nom },
+      const words = t[key].trim().split(/\s+/);
+      return words.length > 1 ? `Le premier mot est « ${words[0]} »` : `Le ${noun} commence par « ${t[key].trim()[0].toUpperCase()} »`; } },
+  { after:10, reveal:true, label:'Cliquer pour découvrir la réponse', html: t => t[key] },
 ];
+const HINTS_PERSO = makeHints('nom', 'nom');   // défi 2 : on devine un nom
+const HINTS_TITRE = makeHints('titre', 'titre'); // défi 1 : on devine un titre (mêmes indices)
 
 const THEMES = {
   cinema: {
     label: 'Cinéma',
     defis: [
       { n:1, icon:'🎬', name:'Film', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine le film', yesterday: yesterdayHtml(), hints: [ { after:5, html: t => `Réplique culte : « ${t.repliques_cultes[0]} »` }, { after:8, html: titleHint } ], itemLabel:'Film', labelKey:'titre',
+        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine le film', yesterday: yesterdayHtml(), hints: HINTS_TITRE, itemLabel:'Film', labelKey:'titre',
           placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi1, columns:COLS_FILM,
           resultMeta:t=>`${t.realisateur} · ${t.annee} · ${t.genre}`, completionName:'Film' }) },
       { n:2, icon:'🧑', name:'Personnage', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', hints: HINTS_PERSO, itemLabel:'Perso', labelKey:'nom',
+        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', yesterday: yesterdayPersoHtml(), hints: HINTS_PERSO, itemLabel:'Perso', labelKey:'nom',
           placeholder:"Tape le nom d'un personnage...", pool:PERSONNAGES, target:DAILY_CINEMA.defi2, columns:COLS_PERSO_CINEMA,
           resultMeta:t=>`${t.film_origine} · ${t.acteur}`, completionName:'Personnage' }) },
       { n:3, icon:'🖼️', name:'Affiche', desc:'Floutage',
@@ -335,11 +338,11 @@ const THEMES = {
     label: 'Séries',
     defis: [
       { n:1, icon:'📺', name:'Série', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine la série', yesterday: yesterdayHtml(), hints: [ { after:5, html: t => `Titre d'un épisode culte : « ${t.titre_episode_culte} »` }, { after:8, html: titleHint } ], itemLabel:'Série', labelKey:'titre',
+        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine la série', yesterday: yesterdayHtml(), hints: HINTS_TITRE, itemLabel:'Série', labelKey:'titre',
           placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi1, columns:COLS_SERIE,
           resultMeta:t=>`${t.createur} · ${t.annee_debut} · ${t.genre}`, completionName:'Série' }) },
       { n:2, icon:'🧑', name:'Personnage', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', hints: HINTS_PERSO, itemLabel:'Perso', labelKey:'nom',
+        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', yesterday: yesterdayPersoHtml(), hints: HINTS_PERSO, itemLabel:'Perso', labelKey:'nom',
           placeholder:"Tape le nom d'un personnage...", pool:PERSONNAGES_SERIES, target:DAILY_SERIES.defi2, columns:COLS_PERSO_SERIE,
           resultMeta:t=>`${t.serie_origine} · ${t.acteur}`, completionName:'Personnage' }) },
       { n:3, icon:'📍', name:'Lieu culte', desc:'Floutage',
@@ -367,11 +370,11 @@ const THEMES = {
     label: 'Animés',
     defis: [
       { n:1, icon:'🈵', name:'Animé', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 1', title:"Devine l'animé", yesterday: yesterdayHtml(), hints: [ { after:5, html: t => `Réplique culte : « ${t.replique_culte} »` }, { after:8, html: titleHint } ], itemLabel:'Animé', labelKey:'titre',
+        render: () => renderGridDefi({ eyebrow:'Défi 1', title:"Devine l'animé", yesterday: yesterdayHtml(), hints: HINTS_TITRE, itemLabel:'Animé', labelKey:'titre',
           placeholder:"Tape le titre d'un animé...", pool:ANIMES, target:DAILY_ANIMES.defi1, columns:COLS_ANIME,
           resultMeta:t=>`${t.mangaka} · ${t.annee} · ${t.genre}`, completionName:'Animé' }) },
       { n:2, icon:'🧑', name:'Personnage', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', hints: HINTS_PERSO, itemLabel:'Perso', labelKey:'nom',
+        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', yesterday: yesterdayPersoHtml(), hints: HINTS_PERSO, itemLabel:'Perso', labelKey:'nom',
           placeholder:"Tape le nom d'un personnage...", pool:PERSONNAGES_ANIMES, target:DAILY_ANIMES.defi2, columns:COLS_PERSO_ANIME,
           resultMeta:t=>`${t.anime_origine} · ${t.pouvoir}`, completionName:'Personnage' }) },
       { n:3, icon:'📖', name:'Couverture manga', desc:'Floutage',
@@ -399,11 +402,11 @@ const THEMES = {
     label: 'Animation',
     defis: [
       { n:1, icon:'🎞️', name:'Film', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine le film', yesterday: yesterdayHtml(), hints: [ { after:5, html: t => `Réplique culte : « ${t.repliques_cultes[0]} »` }, { after:8, html: titleHint } ], itemLabel:'Film', labelKey:'titre',
+        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine le film', yesterday: yesterdayHtml(), hints: HINTS_TITRE, itemLabel:'Film', labelKey:'titre',
           placeholder:"Tape le titre d'un film d'animation...", pool:FILMS_ANIM, target:DAILY_ANIM.defi1, columns:COLS_FILM_ANIM,
           resultMeta:t=>`${t.studio} · ${t.annee} · ${t.genre}`, completionName:'Film' }) },
       { n:2, icon:'🧸', name:'Personnage', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', hints: HINTS_PERSO, itemLabel:'Perso', labelKey:'nom',
+        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', yesterday: yesterdayPersoHtml(), hints: HINTS_PERSO, itemLabel:'Perso', labelKey:'nom',
           placeholder:"Tape le nom d'un personnage...", pool:PERSONNAGES_ANIM, target:DAILY_ANIM.defi2, columns:COLS_PERSO_ANIM,
           resultMeta:t=>`${t.film_origine} · ${t.studio}`, completionName:'Personnage' }) },
       { n:3, icon:'🖼️', name:'Affiche', desc:'Floutage',
@@ -526,6 +529,11 @@ function yesterdayLabel(){
 function yesterdayAnswerTitle(){
   const answer = YESTERDAY_ANSWERS[state.themeKey];
   return answer ? answer.titre : '...';
+}
+
+function yesterdayPersoHtml(){
+  const answer = YESTERDAY_PERSOS[state.themeKey];
+  return `Le personnage d'hier était <span class="yesterday-answer">${answer ? answer.nom : '...'}</span>`;
 }
 
 function yesterdayHtml(){
@@ -1009,6 +1017,13 @@ async function boot(){
     YESTERDAY_ANSWERS.series = pickDistinct(SERIES, ['defi1'], 'series', YESTERDAY_SEED).defi1;
     YESTERDAY_ANSWERS.animes = pickDistinct(ANIMES, ['defi1'], 'animes', YESTERDAY_SEED).defi1;
     YESTERDAY_ANSWERS.animation = pickDistinct(FILMS_ANIM, ['defi1'], 'animation', YESTERDAY_SEED).defi1;
+
+    // Personnage "d'hier" (défi 2) : même formule de tirage que celui du jour, avec la date d'hier
+    const yPerso = (pool, theme) => pool[hashStr(YESTERDAY_SEED + theme + 'defi2') % pool.length];
+    YESTERDAY_PERSOS.cinema = yPerso(PERSONNAGES, 'cinema');
+    YESTERDAY_PERSOS.series = yPerso(PERSONNAGES_SERIES, 'series');
+    YESTERDAY_PERSOS.animes = yPerso(PERSONNAGES_ANIMES, 'animes');
+    YESTERDAY_PERSOS.animation = yPerso(PERSONNAGES_ANIM, 'animation');
 
     renderHome();
   } catch(err){
