@@ -12,11 +12,13 @@
     --gold: #e7b44e; --gold-dim: #6b5427; --green: #3f9e6d; --green-dim: #1f4a35;
     --amber: #d98a3d; --amber-dim: #4a3520; --wrong: #3d1f24; --wrong-text: #c7707a;
     --blue: #4a90d9; --blue-dim: #204a6b;
+    --violet: #9b6ddb; --violet-dim: #3f2a66;
     --red: #d9524a; --red-dim: #6b2420;
     --border: #2c2e3c; --shadow: rgba(0,0,0,0.45);
     --accent: var(--gold); --accent-dim: var(--gold-dim); --accent-rgb: 231,180,78;
   }
   body[data-theme="series"]{ --accent: var(--blue); --accent-dim: var(--blue-dim); --accent-rgb: 74,144,217; }
+  body[data-theme="animation"]{ --accent: var(--violet); --accent-dim: var(--violet-dim); --accent-rgb: 155,109,219; }
   body[data-theme="animes"]{ --accent: var(--red); --accent-dim: var(--red-dim); --accent-rgb: 217,82,74; }
   *{box-sizing:border-box; margin:0; padding:0;}
   body{
@@ -48,6 +50,12 @@
   .streak-badge .record{ color: var(--muted); font-weight: 500; }
   .defi-card.done{ border-color: var(--green-dim); }
   .defi-card .status.progress{ color: var(--amber); }
+  .hint-pendu{ letter-spacing: 0.22em; font-size: 20px; font-weight: 700; margin: 4px 0; word-spacing: 0.9em; }
+  .hint-sub{ display:block; font-size: 11px; font-weight: 500; letter-spacing: 0.04em; color: var(--muted); }
+  .reveal-box{ cursor: pointer; user-select: none; }
+  .reveal-box .reveal-answer{ display:none; font-family:'Bebas Neue'; font-size: 24px; letter-spacing: 0.04em; }
+  .reveal-box.shown .reveal-answer{ display:block; }
+  .reveal-box.shown .reveal-label{ display:none; }
   .hint-box{ text-align:center; margin-bottom: 14px; padding: 12px 14px; border-radius: 10px; background: rgba(var(--accent-rgb),0.06); border: 1px dashed var(--accent-dim); color: var(--accent); font-size: 13px; font-weight: 600; line-height: 1.45; }
 
   .cards-grid{ display:grid; grid-template-columns: 1fr 1fr; gap: 12px; }
@@ -102,7 +110,8 @@
   .guess-row.animating .cell:nth-child(8){ animation-delay: 1.05s; }
 
   .poster-frame{ position: relative; width: 100%; max-width: 280px; margin: 0 auto 18px; aspect-ratio: 2/3; border-radius: 14px; overflow: hidden; border: 1px solid var(--border); box-shadow: 0 20px 50px var(--shadow); background:#000; }
-  .poster-placeholder{ width:100%; height:100%; display:flex; align-items:center; justify-content:center; background: radial-gradient(circle at 30% 20%, rgba(var(--accent-rgb),0.35), transparent 55%), radial-gradient(circle at 70% 80%, rgba(63,158,109,0.25), transparent 55%), linear-gradient(160deg, #1c1830 0%, #0e0d16 100%); filter: blur(24px) saturate(1.1); transform: scale(1.15); transition: filter 0.6s ease; font-size:34px; }
+  .poster-placeholder{ width:100%; height:100%; display:flex; align-items:center; justify-content:center; background: radial-gradient(circle at 30% 20%, rgba(var(--accent-rgb),0.35), transparent 55%), radial-gradient(circle at 70% 80%, rgba(63,158,109,0.25), transparent 55%), linear-gradient(160deg, #1c1830 0%, #0e0d16 100%); filter: blur(24px) saturate(1.1); transform: scale(1.15); transition: filter 0.6s ease; font-size:34px; position:relative; }
+  .poster-img{ position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
   .attempts-badge{ position:absolute; top: 10px; right: 10px; background: rgba(18,19,26,0.85); border: 1px solid var(--border); color: var(--accent); font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; padding: 4px 10px; border-radius: 100px; z-index: 2; }
 
   .replique-box{ background: var(--bg-raised); border: 1px solid var(--border); border-radius: 12px; padding: 22px; text-align:center; font-size: 17px; font-style: italic; color: var(--ivory); margin-bottom: 16px; line-height:1.5; }
@@ -114,6 +123,9 @@
   .img-slot{ flex:1; aspect-ratio: 1/1; border-radius: 10px; display:flex; flex-direction:column; align-items:center; justify-content:center; background: var(--bg-cell); border: 1px solid var(--border); font-size:11px; color: var(--muted); text-align:center; gap:6px; }
   .img-slot.unlocked{ background: linear-gradient(160deg, #1c1830 0%, #0e0d16 100%); border-color: var(--accent-dim); color: var(--ivory); }
   .img-slot .lock-icon{ font-size: 20px; }
+  .img-slot{ position:relative; overflow:hidden; }
+  .slot-img{ position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+  .slot-label{ position:absolute; left:0; right:0; bottom:0; z-index:1; padding:3px 4px; background:rgba(18,19,26,0.8); font-size:10px; letter-spacing:0.06em; text-transform:uppercase; color:var(--accent); }
 
   .wrong-list{ display:flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
   .wrong-chip{ font-size: 12px; font-weight: 600; color: var(--wrong-text); background: var(--wrong); border: 1px solid rgba(199,112,122,0.35); padding: 5px 10px; border-radius: 100px; }
@@ -147,9 +159,9 @@
 /* =========================================================
    DONNÉES — chargées via fetch() depuis les fichiers JSON
    ========================================================= */
-let FILMS, PERSONNAGES, SERIES, PERSONNAGES_SERIES, ANIMES, PERSONNAGES_ANIMES;
-let DAILY_CINEMA, DAILY_SERIES, DAILY_ANIMES;
-let YESTERDAY_ANSWERS = { cinema:null, series:null, animes:null };
+let FILMS, PERSONNAGES, SERIES, PERSONNAGES_SERIES, ANIMES, PERSONNAGES_ANIMES, FILMS_ANIM, PERSONNAGES_ANIM;
+let DAILY_CINEMA, DAILY_SERIES, DAILY_ANIMES, DAILY_ANIM;
+let YESTERDAY_ANSWERS = { cinema:null, series:null, animes:null, animation:null };
 
 /* =========================================================
    TIRAGE DU JOUR (déterministe par date, distinct par défi, par thème)
@@ -247,6 +259,22 @@ const COLS_PERSO_ANIME = [
   { label:'Pouvoir', get:i=>i.pouvoir, compare:compareTextRaw },
 ];
 
+const COLS_FILM_ANIM = [
+  { label:'Studio', get:i=>i.studio, compare:compareTextRaw },
+  { label:'Année', get:i=>i.annee, compare:compareNumArrow(5) },
+  { label:'Genre', get:i=>i.genre, compare:compareTextRaw },
+  { label:'Pays', get:i=>i.pays, compare:compareTextRaw },
+  { label:'Durée', get:i=>i.duree_minutes, compare:compareNumArrow(15), format:v=>v+' min' },
+  { label:'Réal.', get:i=>i.realisateur, compare:compareTextRaw },
+];
+const COLS_PERSO_ANIM = [
+  { label:'Film', get:i=>i.film_origine, compare:compareTextRaw },
+  { label:'Studio', get:i=>i.studio, compare:compareTextRaw },
+  { label:'Type', get:i=>i.type, compare:compareTextRaw },
+  { label:'Rôle', get:i=>i.role, compare:compareTextRaw },
+  { label:'Sexe', get:i=>i.sexe, compare:compareTextRaw },
+];
+
 /* =========================================================
    THÈMES : configuration des 6 défis
    ========================================================= */
@@ -255,6 +283,19 @@ function titleHint(t){
   const words = title.split(/\s+/).length;
   return `Le titre commence par « ${title[0].toUpperCase()} » et compte ${words} mot${words>1?'s':''}`;
 }
+
+// Indices progressifs du défi 2 (personnage) : pendu après 5 essais, début du nom après 8, réponse cachée après 10
+const maskLetters = w => w.replace(/[\p{L}\p{N}]/gu, '_').split('').join(' ');
+const HINTS_PERSO = [
+  { after:5, html: t => {
+      const words = t.nom.trim().split(/\s+/);
+      const letters = (t.nom.match(/[\p{L}\p{N}]/gu) || []).length;
+      return `<div class="hint-pendu">${words.map(maskLetters).join(' &nbsp; ')}</div><span class="hint-sub">${words.length} mot${words.length>1?'s':''} · ${letters} lettres</span>`; } },
+  { after:8, html: t => {
+      const words = t.nom.trim().split(/\s+/);
+      return words.length > 1 ? `Le premier mot est « ${words[0]} »` : `Le nom commence par « ${t.nom.trim()[0].toUpperCase()} »`; } },
+  { after:10, reveal:true, label:'Cliquer pour découvrir la réponse', html: t => t.nom },
+];
 
 const THEMES = {
   cinema: {
@@ -265,13 +306,13 @@ const THEMES = {
           placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi1, columns:COLS_FILM,
           resultMeta:t=>`${t.realisateur} · ${t.annee} · ${t.genre}`, completionName:'Film' }) },
       { n:2, icon:'🧑', name:'Personnage', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', itemLabel:'Perso', labelKey:'nom',
+        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', hints: HINTS_PERSO, itemLabel:'Perso', labelKey:'nom',
           placeholder:"Tape le nom d'un personnage...", pool:PERSONNAGES, target:DAILY_CINEMA.defi2, columns:COLS_PERSO_CINEMA,
           resultMeta:t=>`${t.film_origine} · ${t.acteur}`, completionName:'Personnage' }) },
       { n:3, icon:'🖼️', name:'Affiche', desc:'Floutage',
         render: () => renderBlurDefi({ eyebrow:'Défi 3', title:"Devine l'affiche", labelKey:'titre',
           placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi3,
-          resultMeta:t=>`${t.realisateur} · ${t.annee}`, completionName:'Affiche' }) },
+          resultMeta:t=>`${t.realisateur} · ${t.annee}`, completionName:'Affiche', imageKey:'affiche' }) },
       { n:4, icon:'💬', name:'Réplique', desc:'+ indice vocal',
         render: () => renderClueGuessDefi({ eyebrow:'Défi 4', title:'Devine la réplique', labelKey:'titre',
           placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi4,
@@ -298,13 +339,13 @@ const THEMES = {
           placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi1, columns:COLS_SERIE,
           resultMeta:t=>`${t.createur} · ${t.annee_debut} · ${t.genre}`, completionName:'Série' }) },
       { n:2, icon:'🧑', name:'Personnage', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', itemLabel:'Perso', labelKey:'nom',
+        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', hints: HINTS_PERSO, itemLabel:'Perso', labelKey:'nom',
           placeholder:"Tape le nom d'un personnage...", pool:PERSONNAGES_SERIES, target:DAILY_SERIES.defi2, columns:COLS_PERSO_SERIE,
           resultMeta:t=>`${t.serie_origine} · ${t.acteur}`, completionName:'Personnage' }) },
       { n:3, icon:'📍', name:'Lieu culte', desc:'Floutage',
         render: () => renderBlurDefi({ eyebrow:'Défi 3', title:'Devine le lieu culte', labelKey:'titre',
           placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi3,
-          resultMeta:t=>`${t.createur} · ${t.annee_debut}`, completionName:'Lieu culte' }) },
+          resultMeta:t=>`${t.createur} · ${t.annee_debut}`, completionName:'Lieu culte', imageKey:'lieu_culte' }) },
       { n:4, icon:'🎞️', name:"Titre d'épisode", desc:'Indice écrit',
         render: () => renderClueGuessDefi({ eyebrow:'Défi 4', title:"Devine la série", labelKey:'titre',
           placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi4,
@@ -330,13 +371,13 @@ const THEMES = {
           placeholder:"Tape le titre d'un animé...", pool:ANIMES, target:DAILY_ANIMES.defi1, columns:COLS_ANIME,
           resultMeta:t=>`${t.mangaka} · ${t.annee} · ${t.genre}`, completionName:'Animé' }) },
       { n:2, icon:'🧑', name:'Personnage', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', itemLabel:'Perso', labelKey:'nom',
+        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', hints: HINTS_PERSO, itemLabel:'Perso', labelKey:'nom',
           placeholder:"Tape le nom d'un personnage...", pool:PERSONNAGES_ANIMES, target:DAILY_ANIMES.defi2, columns:COLS_PERSO_ANIME,
           resultMeta:t=>`${t.anime_origine} · ${t.pouvoir}`, completionName:'Personnage' }) },
       { n:3, icon:'📖', name:'Couverture manga', desc:'Floutage',
         render: () => renderBlurDefi({ eyebrow:'Défi 3', title:'Devine la couverture', labelKey:'titre',
           placeholder:"Tape le titre d'un animé...", pool:ANIMES, target:DAILY_ANIMES.defi3,
-          resultMeta:t=>`${t.mangaka} · ${t.annee}`, completionName:'Couverture manga' }) },
+          resultMeta:t=>`${t.mangaka} · ${t.annee}`, completionName:'Couverture manga', imageKey:'couverture_manga' }) },
       { n:4, icon:'💬', name:'Réplique culte', desc:'Indice écrit',
         render: () => renderClueGuessDefi({ eyebrow:'Défi 4', title:'Devine la réplique', labelKey:'titre',
           placeholder:"Tape le titre d'un animé...", pool:ANIMES, target:DAILY_ANIMES.defi4,
@@ -352,6 +393,38 @@ const THEMES = {
         render: () => renderImagesDefi({ eyebrow:'Défi 6', title:"3 images de l'animé", labelKey:'titre',
           placeholder:"Tape le titre d'un animé...", pool:ANIMES, target:DAILY_ANIMES.defi6,
           resultMeta:t=>`${t.mangaka} · ${t.annee}`, completionName:'3 Images' }) },
+    ]
+  },
+  animation: {
+    label: 'Animation',
+    defis: [
+      { n:1, icon:'🎞️', name:'Film', desc:'Grille de comparaison',
+        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine le film', yesterday: yesterdayHtml(), hints: [ { after:5, html: t => `Réplique culte : « ${t.repliques_cultes[0]} »` }, { after:8, html: titleHint } ], itemLabel:'Film', labelKey:'titre',
+          placeholder:"Tape le titre d'un film d'animation...", pool:FILMS_ANIM, target:DAILY_ANIM.defi1, columns:COLS_FILM_ANIM,
+          resultMeta:t=>`${t.studio} · ${t.annee} · ${t.genre}`, completionName:'Film' }) },
+      { n:2, icon:'🧸', name:'Personnage', desc:'Grille de comparaison',
+        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', hints: HINTS_PERSO, itemLabel:'Perso', labelKey:'nom',
+          placeholder:"Tape le nom d'un personnage...", pool:PERSONNAGES_ANIM, target:DAILY_ANIM.defi2, columns:COLS_PERSO_ANIM,
+          resultMeta:t=>`${t.film_origine} · ${t.studio}`, completionName:'Personnage' }) },
+      { n:3, icon:'🖼️', name:'Affiche', desc:'Floutage',
+        render: () => renderBlurDefi({ eyebrow:'Défi 3', title:"Devine l'affiche", labelKey:'titre',
+          placeholder:"Tape le titre d'un film d'animation...", pool:FILMS_ANIM, target:DAILY_ANIM.defi3,
+          resultMeta:t=>`${t.studio} · ${t.annee}`, completionName:'Affiche', imageKey:'affiche' }) },
+      { n:4, icon:'💬', name:'Réplique', desc:'Indice écrit',
+        render: () => renderClueGuessDefi({ eyebrow:'Défi 4', title:'Devine la réplique', labelKey:'titre',
+          placeholder:"Tape le titre d'un film d'animation...", pool:FILMS_ANIM, target:DAILY_ANIM.defi4,
+          clueHtml: `<div class="replique-box">« ${DAILY_ANIM.defi4.repliques_cultes[0]} »</div>`,
+          resultMeta:t=>`${t.studio} · ${t.annee}`, completionName:'Réplique' }) },
+      { n:5, icon:'🎵', name:'Musique', desc:'Extrait audio',
+        render: () => renderClueGuessDefi({ eyebrow:'Défi 5', title:'Devine la musique', labelKey:'titre',
+          placeholder:"Tape le titre d'un film d'animation...", pool:FILMS_ANIM, target:DAILY_ANIM.defi5,
+          clueHtml: `<div class="replique-box">🎵 Extrait de « ${DAILY_ANIM.defi5.musique.titre} » — ${DAILY_ANIM.defi5.musique.artiste}</div>`,
+          audioSrc: DAILY_ANIM.defi5.musique.extrait_audio,
+          resultMeta:t=>`${t.musique.titre} · ${t.musique.artiste}`, completionName:'Musique' }) },
+      { n:6, icon:'📸', name:'3 Images', desc:'Difficulté croissante',
+        render: () => renderImagesDefi({ eyebrow:'Défi 6', title:'3 images du film', labelKey:'titre',
+          placeholder:"Tape le titre d'un film d'animation...", pool:FILMS_ANIM, target:DAILY_ANIM.defi6,
+          resultMeta:t=>`${t.studio} · ${t.annee}`, completionName:'3 Images' }) },
     ]
   }
 };
@@ -370,7 +443,7 @@ function currentDefis(){ return THEMES[state.themeKey].defis; }
 // La sauvegarde du jour est invalidée si la taille des bases JSON change (le tirage du jour change alors).
 const STORE_KEY = 'cinedle:v1';
 function dataSig(){
-  return [FILMS, PERSONNAGES, SERIES, PERSONNAGES_SERIES, ANIMES, PERSONNAGES_ANIMES].map(a => a.length).join('-');
+  return [FILMS, PERSONNAGES, SERIES, PERSONNAGES_SERIES, ANIMES, PERSONNAGES_ANIMES, FILMS_ANIM, PERSONNAGES_ANIM].map(a => a.length).join('-');
 }
 function loadStore(){
   try{
@@ -447,6 +520,7 @@ function restoreItems(pool, labelKey, names){
 function yesterdayLabel(){
   if(state.themeKey === 'cinema') return 'Le film';
   if(state.themeKey === 'series') return 'La série';
+  if(state.themeKey === 'animation') return 'Le film';
   return "L'animé";
 }
 function yesterdayAnswerTitle(){
@@ -478,6 +552,7 @@ function renderHome(){
       <div class="theme-btn ${state.themeKey==='cinema'?'active':''}" data-theme="cinema">Cinéma</div>
       <div class="theme-btn ${state.themeKey==='series'?'active':''}" data-theme="series">Séries</div>
       <div class="theme-btn ${state.themeKey==='animes'?'active':''}" data-theme="animes">Animés</div>
+      <div class="theme-btn ${state.themeKey==='animation'?'active':''}" data-theme="animation">Animation</div>
     </div>
 
     <button class="allin-btn" id="allin-btn">ALL IN<span class="sub">${allinSub}</span></button>
@@ -645,11 +720,18 @@ function renderGridDefi(cfg){
     onDefiComplete(cfg.completionName, attempts.length);
   }
 
-  // Indices progressifs (défi 1 uniquement) : débloqués selon le nombre d'essais
+  // Indices progressifs (défis 1 et 2) : débloqués selon le nombre d'essais
+  const shownHints = new Set();
+  hintZone.addEventListener('click', e => {
+    const box = e.target.closest('[data-reveal]'); if(!box) return;
+    shownHints.add(Number(box.dataset.reveal)); box.classList.add('shown');
+  });
   function updateHints(){
     if(!cfg.hints || solved){ hintZone.innerHTML = ''; return; }
     const n = attempts.length;
-    let out = cfg.hints.filter(h => n >= h.after).map(h => `<div class="hint-box">💡 ${h.html(cfg.target)}</div>`).join('');
+    let out = cfg.hints.map((h, i) => ({ h, i })).filter(x => n >= x.h.after).map(({ h, i }) => h.reveal
+      ? `<div class="hint-box reveal-box${shownHints.has(i) ? ' shown' : ''}" data-reveal="${i}"><span class="reveal-label">🔓 ${h.label}</span><span class="reveal-answer">${h.html(cfg.target)}</span></div>`
+      : `<div class="hint-box">💡 ${h.html(cfg.target)}</div>`).join('');
     const next = cfg.hints.find(h => n < h.after);
     if(next){ const left = next.after - n; out += `<div class="locked-hint">🔒 Prochain indice dans ${left} essai${left>1?'s':''}</div>`; }
     hintZone.innerHTML = out;
@@ -671,7 +753,7 @@ function renderBlurDefi(cfg){
   app.innerHTML = `
     ${backButton()}${progressDots()}
     <header class="defi-header"><div class="defi-eyebrow">${cfg.eyebrow}</div><h2 class="defi-title">${cfg.title}</h2></header>
-    <div class="poster-frame"><div class="attempts-badge" id="badge">0 essai</div><div class="poster-placeholder" id="poster">🎬</div></div>
+    <div class="poster-frame"><div class="attempts-badge" id="badge">0 essai</div><div class="poster-placeholder" id="poster">🎬${cfg.target[cfg.imageKey] ? `<img class="poster-img" src="${cfg.target[cfg.imageKey]}" alt="" onerror="this.remove()">` : ''}</div></div>
     <div class="wrong-list" id="wrong-list"></div>
     <div class="search-wrap" id="search-wrap">
       <input type="text" id="search-input" placeholder="${cfg.placeholder}" autocomplete="off">
@@ -818,12 +900,13 @@ function renderImagesDefi(cfg){
   renderImages();
   function renderImages(){
     const n = wrongGuesses.length;
-    const slots = [ { label:'Difficile', unlocked:true }, { label:'Moyenne', unlocked:n>=5 }, { label:'Facile', unlocked:n>=10 } ];
+    const imgs = cfg.target.images_defi6 || {};
+    const slots = [ { label:'Difficile', key:'difficile', unlocked:true }, { label:'Moyenne', key:'moyenne', unlocked:n>=5 }, { label:'Facile', key:'facile', unlocked:n>=10 } ];
     imagesRow.innerHTML = '';
     slots.forEach(s => {
       const div = document.createElement('div');
       div.className = 'img-slot' + (s.unlocked ? ' unlocked' : '');
-      div.innerHTML = s.unlocked ? `<div>🖼️</div><div>${s.label}</div>` : `<div class="lock-icon">🔒</div><div>${s.label}</div>`;
+      div.innerHTML = s.unlocked ? `<div>🖼️</div>${imgs[s.key] ? `<img class="slot-img" src="${imgs[s.key]}" alt="" onerror="this.remove()">` : ''}<div class="slot-label">${s.label}</div>` : `<div class="lock-icon">🔒</div><div>${s.label}</div>`;
       imagesRow.appendChild(div);
     });
   }
@@ -897,15 +980,17 @@ async function boot(){
     </div>
   `;
   try{
-    const [films, persos, series, persosSeries, animes, persosAnimes] = await Promise.all([
+    const [films, persos, series, persosSeries, animes, persosAnimes, filmsAnim, persosAnim] = await Promise.all([
       fetch('films.json').then(r => r.json()),
       fetch('personnages.json').then(r => r.json()),
       fetch('series.json').then(r => r.json()),
       fetch('personnages_series.json').then(r => r.json()),
       fetch('animes.json').then(r => r.json()),
       fetch('personnages_animes.json').then(r => r.json()),
+      fetch('films_animation.json').then(r => r.json()),
+      fetch('personnages_animation.json').then(r => r.json()),
     ]);
-    FILMS = films; PERSONNAGES = persos; SERIES = series; PERSONNAGES_SERIES = persosSeries; ANIMES = animes; PERSONNAGES_ANIMES = persosAnimes;
+    FILMS = films; PERSONNAGES = persos; SERIES = series; PERSONNAGES_SERIES = persosSeries; ANIMES = animes; PERSONNAGES_ANIMES = persosAnimes; FILMS_ANIM = filmsAnim; PERSONNAGES_ANIM = persosAnim;
 
     DAILY_CINEMA = pickDistinct(FILMS, ['defi1','defi3','defi4','defi5','defi6'], 'cinema', TODAY_SEED);
     DAILY_CINEMA.defi2 = PERSONNAGES[hashStr(TODAY_SEED + 'cinema' + 'defi2') % PERSONNAGES.length];
@@ -916,10 +1001,14 @@ async function boot(){
     DAILY_ANIMES = pickDistinct(ANIMES, ['defi1','defi3','defi4','defi5','defi6'], 'animes', TODAY_SEED);
     DAILY_ANIMES.defi2 = PERSONNAGES_ANIMES[hashStr(TODAY_SEED + 'animes' + 'defi2') % PERSONNAGES_ANIMES.length];
 
+    DAILY_ANIM = pickDistinct(FILMS_ANIM, ['defi1','defi3','defi4','defi5','defi6'], 'animation', TODAY_SEED);
+    DAILY_ANIM.defi2 = PERSONNAGES_ANIM[hashStr(TODAY_SEED + 'animation' + 'defi2') % PERSONNAGES_ANIM.length];
+
     // Réponse "d'hier" (défi 1 uniquement, à titre indicatif comme sur Loldle)
     YESTERDAY_ANSWERS.cinema = pickDistinct(FILMS, ['defi1'], 'cinema', YESTERDAY_SEED).defi1;
     YESTERDAY_ANSWERS.series = pickDistinct(SERIES, ['defi1'], 'series', YESTERDAY_SEED).defi1;
     YESTERDAY_ANSWERS.animes = pickDistinct(ANIMES, ['defi1'], 'animes', YESTERDAY_SEED).defi1;
+    YESTERDAY_ANSWERS.animation = pickDistinct(FILMS_ANIM, ['defi1'], 'animation', YESTERDAY_SEED).defi1;
 
     renderHome();
   } catch(err){

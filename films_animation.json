@@ -1,0 +1,1970 @@
+[
+  {
+    "id": "anim_001",
+    "titre": "Blanche-Neige et les Sept Nains",
+    "studio": "Disney",
+    "annee": 1937,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 83,
+    "realisateur": "David Hand",
+    "affiche": "assets/affiches/blanche_neige_et_les_sept_nains.jpg",
+    "repliques_cultes": [
+      "Miroir, miroir, dis-moi qui est la plus belle ?"
+    ],
+    "musique": {
+      "titre": "Heigh-Ho",
+      "artiste": "Les Sept Nains",
+      "extrait_audio": "assets/audio/musiques/blanche_neige_et_les_sept_nains.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/blanche_neige_et_les_sept_nains_difficile.jpg",
+      "moyenne": "assets/images/blanche_neige_et_les_sept_nains_moyenne.jpg",
+      "facile": "assets/images/blanche_neige_et_les_sept_nains_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_002",
+    "titre": "Pinocchio",
+    "studio": "Disney",
+    "annee": 1940,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 88,
+    "realisateur": "Ben Sharpsteen & Hamilton Luske",
+    "affiche": "assets/affiches/pinocchio.jpg",
+    "repliques_cultes": [
+      "Laisse toujours parler ta conscience."
+    ],
+    "musique": {
+      "titre": "Quand on prie la bonne étoile",
+      "artiste": "Cliff Edwards",
+      "extrait_audio": "assets/audio/musiques/pinocchio.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/pinocchio_difficile.jpg",
+      "moyenne": "assets/images/pinocchio_moyenne.jpg",
+      "facile": "assets/images/pinocchio_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_003",
+    "titre": "Dumbo",
+    "studio": "Disney",
+    "annee": 1941,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 64,
+    "realisateur": "Ben Sharpsteen",
+    "affiche": "assets/affiches/dumbo.jpg",
+    "repliques_cultes": [
+      "J'aurai tout vu quand j'aurai vu un éléphant voler !"
+    ],
+    "musique": {
+      "titre": "Bébé mine",
+      "artiste": "Betty Noyes",
+      "extrait_audio": "assets/audio/musiques/dumbo.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/dumbo_difficile.jpg",
+      "moyenne": "assets/images/dumbo_moyenne.jpg",
+      "facile": "assets/images/dumbo_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_004",
+    "titre": "Bambi",
+    "studio": "Disney",
+    "annee": 1942,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 70,
+    "realisateur": "David Hand",
+    "affiche": "assets/affiches/bambi.jpg",
+    "repliques_cultes": [
+      "Quand on n'a rien de gentil à dire, on ne dit rien."
+    ],
+    "musique": {
+      "titre": "Love Is a Song",
+      "artiste": "Donald Novis",
+      "extrait_audio": "assets/audio/musiques/bambi.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/bambi_difficile.jpg",
+      "moyenne": "assets/images/bambi_moyenne.jpg",
+      "facile": "assets/images/bambi_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_005",
+    "titre": "Cendrillon",
+    "studio": "Disney",
+    "annee": 1950,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 74,
+    "realisateur": "Clyde Geronimi",
+    "affiche": "assets/affiches/cendrillon.jpg",
+    "repliques_cultes": [
+      "Un rêve est un souhait que fait votre cœur."
+    ],
+    "musique": {
+      "titre": "Bibbidi-Bobbidi-Boo",
+      "artiste": "Verna Felton",
+      "extrait_audio": "assets/audio/musiques/cendrillon.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/cendrillon_difficile.jpg",
+      "moyenne": "assets/images/cendrillon_moyenne.jpg",
+      "facile": "assets/images/cendrillon_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_006",
+    "titre": "Alice au pays des merveilles",
+    "studio": "Disney",
+    "annee": 1951,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "duree_minutes": 75,
+    "realisateur": "Clyde Geronimi",
+    "affiche": "assets/affiches/alice_au_pays_des_merveilles.jpg",
+    "repliques_cultes": [
+      "Nous sommes tous fous ici."
+    ],
+    "musique": {
+      "titre": "Un joyeux non-anniversaire",
+      "artiste": "Ed Wynn",
+      "extrait_audio": "assets/audio/musiques/alice_au_pays_des_merveilles.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/alice_au_pays_des_merveilles_difficile.jpg",
+      "moyenne": "assets/images/alice_au_pays_des_merveilles_moyenne.jpg",
+      "facile": "assets/images/alice_au_pays_des_merveilles_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_007",
+    "titre": "Peter Pan",
+    "studio": "Disney",
+    "annee": 1953,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 77,
+    "realisateur": "Clyde Geronimi",
+    "affiche": "assets/affiches/peter_pan.jpg",
+    "repliques_cultes": [
+      "Seconde étoile à droite, et tout droit jusqu'au matin."
+    ],
+    "musique": {
+      "titre": "You Can Fly!",
+      "artiste": "Bobby Driscoll",
+      "extrait_audio": "assets/audio/musiques/peter_pan.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/peter_pan_difficile.jpg",
+      "moyenne": "assets/images/peter_pan_moyenne.jpg",
+      "facile": "assets/images/peter_pan_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_008",
+    "titre": "La Belle au bois dormant",
+    "studio": "Disney",
+    "annee": 1959,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "duree_minutes": 75,
+    "realisateur": "Clyde Geronimi",
+    "affiche": "assets/affiches/la_belle_au_bois_dormant.jpg",
+    "repliques_cultes": [
+      "Avant le coucher du soleil de ses seize ans, elle se piquera le doigt au fuseau d'un rouet et mourra."
+    ],
+    "musique": {
+      "titre": "Once Upon a Dream",
+      "artiste": "Mary Costa",
+      "extrait_audio": "assets/audio/musiques/la_belle_au_bois_dormant.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/la_belle_au_bois_dormant_difficile.jpg",
+      "moyenne": "assets/images/la_belle_au_bois_dormant_moyenne.jpg",
+      "facile": "assets/images/la_belle_au_bois_dormant_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_009",
+    "titre": "Les 101 Dalmatiens",
+    "studio": "Disney",
+    "annee": 1961,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 79,
+    "realisateur": "Clyde Geronimi & Hamilton Luske & Wolfgang Reitherman",
+    "affiche": "assets/affiches/les_101_dalmatiens.jpg",
+    "repliques_cultes": [
+      "Cruella d'Enfer, Cruella d'Enfer !"
+    ],
+    "musique": {
+      "titre": "Cruella d'Enfer",
+      "artiste": "Bill Lee",
+      "extrait_audio": "assets/audio/musiques/les_101_dalmatiens.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_101_dalmatiens_difficile.jpg",
+      "moyenne": "assets/images/les_101_dalmatiens_moyenne.jpg",
+      "facile": "assets/images/les_101_dalmatiens_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_010",
+    "titre": "Le Livre de la jungle",
+    "studio": "Disney",
+    "annee": 1967,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 78,
+    "realisateur": "Wolfgang Reitherman",
+    "affiche": "assets/affiches/le_livre_de_la_jungle.jpg",
+    "repliques_cultes": [
+      "Il en faut peu pour être heureux, vraiment très peu pour être heureux."
+    ],
+    "musique": {
+      "titre": "Je voudrais être comme toi",
+      "artiste": "Louis Prima",
+      "extrait_audio": "assets/audio/musiques/le_livre_de_la_jungle.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_livre_de_la_jungle_difficile.jpg",
+      "moyenne": "assets/images/le_livre_de_la_jungle_moyenne.jpg",
+      "facile": "assets/images/le_livre_de_la_jungle_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_011",
+    "titre": "Les Aristochats",
+    "studio": "Disney",
+    "annee": 1970,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 78,
+    "realisateur": "Wolfgang Reitherman",
+    "affiche": "assets/affiches/les_aristochats.jpg",
+    "repliques_cultes": [
+      "Tout le monde veut devenir un cat !"
+    ],
+    "musique": {
+      "titre": "Tout le monde veut devenir un cat",
+      "artiste": "Scatman Crothers",
+      "extrait_audio": "assets/audio/musiques/les_aristochats.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_aristochats_difficile.jpg",
+      "moyenne": "assets/images/les_aristochats_moyenne.jpg",
+      "facile": "assets/images/les_aristochats_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_012",
+    "titre": "Les Aventures de Bernard et Bianca",
+    "studio": "Disney",
+    "annee": 1977,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 77,
+    "realisateur": "Wolfgang Reitherman & John Lounsbery & Art Stevens",
+    "affiche": "assets/affiches/les_aventures_de_bernard_et_bianca.jpg",
+    "repliques_cultes": [
+      "Je veux l'Œil du Diable !"
+    ],
+    "musique": {
+      "titre": "Someone's Waiting for You",
+      "artiste": "Shelby Flint",
+      "extrait_audio": "assets/audio/musiques/les_aventures_de_bernard_et_bianca.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_aventures_de_bernard_et_bianca_difficile.jpg",
+      "moyenne": "assets/images/les_aventures_de_bernard_et_bianca_moyenne.jpg",
+      "facile": "assets/images/les_aventures_de_bernard_et_bianca_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_013",
+    "titre": "La Petite Sirène",
+    "studio": "Disney",
+    "annee": 1989,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 83,
+    "realisateur": "Ron Clements & John Musker",
+    "affiche": "assets/affiches/la_petite_sirene.jpg",
+    "repliques_cultes": [
+      "Je veux être de leur monde."
+    ],
+    "musique": {
+      "titre": "Sous l'océan",
+      "artiste": "Samuel E. Wright",
+      "extrait_audio": "assets/audio/musiques/la_petite_sirene.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/la_petite_sirene_difficile.jpg",
+      "moyenne": "assets/images/la_petite_sirene_moyenne.jpg",
+      "facile": "assets/images/la_petite_sirene_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_014",
+    "titre": "La Belle et la Bête",
+    "studio": "Disney",
+    "annee": 1991,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 84,
+    "realisateur": "Gary Trousdale & Kirk Wise",
+    "affiche": "assets/affiches/la_belle_et_la_bete.jpg",
+    "repliques_cultes": [
+      "Soyez notre invité !"
+    ],
+    "musique": {
+      "titre": "Histoire éternelle",
+      "artiste": "Angela Lansbury",
+      "extrait_audio": "assets/audio/musiques/la_belle_et_la_bete.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/la_belle_et_la_bete_difficile.jpg",
+      "moyenne": "assets/images/la_belle_et_la_bete_moyenne.jpg",
+      "facile": "assets/images/la_belle_et_la_bete_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_015",
+    "titre": "Aladdin",
+    "studio": "Disney",
+    "annee": 1992,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 90,
+    "realisateur": "Ron Clements & John Musker",
+    "affiche": "assets/affiches/aladdin.jpg",
+    "repliques_cultes": [
+      "Des pouvoirs cosmiques phénoménaux... dans un minuscule espace de vie !"
+    ],
+    "musique": {
+      "titre": "Ce rêve bleu",
+      "artiste": "Brad Kane",
+      "extrait_audio": "assets/audio/musiques/aladdin.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/aladdin_difficile.jpg",
+      "moyenne": "assets/images/aladdin_moyenne.jpg",
+      "facile": "assets/images/aladdin_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_016",
+    "titre": "Le Roi Lion",
+    "studio": "Disney",
+    "annee": 1994,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 88,
+    "realisateur": "Roger Allers & Rob Minkoff",
+    "affiche": "assets/affiches/le_roi_lion.jpg",
+    "repliques_cultes": [
+      "Hakuna Matata ! Ça veut dire : pas de soucis !"
+    ],
+    "musique": {
+      "titre": "L'histoire de la vie",
+      "artiste": "Elton John",
+      "extrait_audio": "assets/audio/musiques/le_roi_lion.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_roi_lion_difficile.jpg",
+      "moyenne": "assets/images/le_roi_lion_moyenne.jpg",
+      "facile": "assets/images/le_roi_lion_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_017",
+    "titre": "Pocahontas, une légende indienne",
+    "studio": "Disney",
+    "annee": 1995,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 81,
+    "realisateur": "Mike Gabriel & Eric Goldberg",
+    "affiche": "assets/affiches/pocahontas_une_legende_indienne.jpg",
+    "repliques_cultes": [
+      "Tu penses que les seules personnes qui ont une âme sont celles qui te ressemblent."
+    ],
+    "musique": {
+      "titre": "Les Couleurs du vent",
+      "artiste": "Judy Kuhn",
+      "extrait_audio": "assets/audio/musiques/pocahontas_une_legende_indienne.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/pocahontas_une_legende_indienne_difficile.jpg",
+      "moyenne": "assets/images/pocahontas_une_legende_indienne_moyenne.jpg",
+      "facile": "assets/images/pocahontas_une_legende_indienne_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_018",
+    "titre": "Le Bossu de Notre-Dame",
+    "studio": "Disney",
+    "annee": 1996,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 91,
+    "realisateur": "Gary Trousdale & Kirk Wise",
+    "affiche": "assets/affiches/le_bossu_de_notre_dame.jpg",
+    "repliques_cultes": [
+      "Sanctuaire ! Sanctuaire !"
+    ],
+    "musique": {
+      "titre": "Les Cloches de Notre-Dame",
+      "artiste": "Paul Kandel",
+      "extrait_audio": "assets/audio/musiques/le_bossu_de_notre_dame.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_bossu_de_notre_dame_difficile.jpg",
+      "moyenne": "assets/images/le_bossu_de_notre_dame_moyenne.jpg",
+      "facile": "assets/images/le_bossu_de_notre_dame_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_019",
+    "titre": "Hercule",
+    "studio": "Disney",
+    "annee": 1997,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 93,
+    "realisateur": "Ron Clements & John Musker",
+    "affiche": "assets/affiches/hercule.jpg",
+    "repliques_cultes": [
+      "Un vrai héros ne se mesure pas à la taille de ses muscles, mais à la force de son cœur."
+    ],
+    "musique": {
+      "titre": "De zéro à héros",
+      "artiste": "Les Muses",
+      "extrait_audio": "assets/audio/musiques/hercule.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/hercule_difficile.jpg",
+      "moyenne": "assets/images/hercule_moyenne.jpg",
+      "facile": "assets/images/hercule_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_020",
+    "titre": "Mulan",
+    "studio": "Disney",
+    "annee": 1998,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 88,
+    "realisateur": "Barry Cook & Tony Bancroft",
+    "affiche": "assets/affiches/mulan.jpg",
+    "repliques_cultes": [
+      "La fleur qui s'épanouit dans l'adversité est la plus rare et la plus belle de toutes."
+    ],
+    "musique": {
+      "titre": "Reflection",
+      "artiste": "Lea Salonga",
+      "extrait_audio": "assets/audio/musiques/mulan.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/mulan_difficile.jpg",
+      "moyenne": "assets/images/mulan_moyenne.jpg",
+      "facile": "assets/images/mulan_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_021",
+    "titre": "Les Nouvelles Aventures de l'empereur",
+    "studio": "Disney",
+    "annee": 2000,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 78,
+    "realisateur": "Mark Dindal",
+    "affiche": "assets/affiches/les_nouvelles_aventures_de_l_empereur.jpg",
+    "repliques_cultes": [
+      "Tire sur le levier, Kronk !"
+    ],
+    "musique": {
+      "titre": "Perfect World",
+      "artiste": "Tom Jones",
+      "extrait_audio": "assets/audio/musiques/les_nouvelles_aventures_de_l_empereur.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_nouvelles_aventures_de_l_empereur_difficile.jpg",
+      "moyenne": "assets/images/les_nouvelles_aventures_de_l_empereur_moyenne.jpg",
+      "facile": "assets/images/les_nouvelles_aventures_de_l_empereur_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_022",
+    "titre": "Lilo & Stitch",
+    "studio": "Disney",
+    "annee": 2002,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 85,
+    "realisateur": "Chris Sanders & Dean DeBlois",
+    "affiche": "assets/affiches/lilo_stitch.jpg",
+    "repliques_cultes": [
+      "Ohana signifie famille. Famille signifie que personne n'est laissé de côté ni oublié."
+    ],
+    "musique": {
+      "titre": "Hawaiian Roller Coaster Ride",
+      "artiste": "Mark Keali'i Ho'omalu",
+      "extrait_audio": "assets/audio/musiques/lilo_stitch.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/lilo_stitch_difficile.jpg",
+      "moyenne": "assets/images/lilo_stitch_moyenne.jpg",
+      "facile": "assets/images/lilo_stitch_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_023",
+    "titre": "Bienvenue chez les Robinson",
+    "studio": "Disney",
+    "annee": 2007,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 95,
+    "realisateur": "Stephen Anderson",
+    "affiche": "assets/affiches/bienvenue_chez_les_robinson.jpg",
+    "repliques_cultes": [
+      "Continuez d'avancer."
+    ],
+    "musique": {
+      "titre": "Little Wonders",
+      "artiste": "Rob Thomas",
+      "extrait_audio": "assets/audio/musiques/bienvenue_chez_les_robinson.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/bienvenue_chez_les_robinson_difficile.jpg",
+      "moyenne": "assets/images/bienvenue_chez_les_robinson_moyenne.jpg",
+      "facile": "assets/images/bienvenue_chez_les_robinson_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_024",
+    "titre": "Raiponce",
+    "studio": "Disney",
+    "annee": 2010,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 100,
+    "realisateur": "Nathan Greno & Byron Howard",
+    "affiche": "assets/affiches/raiponce.jpg",
+    "repliques_cultes": [
+      "Je veux voir les lanternes flottantes."
+    ],
+    "musique": {
+      "titre": "I See the Light",
+      "artiste": "Mandy Moore",
+      "extrait_audio": "assets/audio/musiques/raiponce.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/raiponce_difficile.jpg",
+      "moyenne": "assets/images/raiponce_moyenne.jpg",
+      "facile": "assets/images/raiponce_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_025",
+    "titre": "Les Mondes de Ralph",
+    "studio": "Disney",
+    "annee": 2012,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 101,
+    "realisateur": "Rich Moore",
+    "affiche": "assets/affiches/les_mondes_de_ralph.jpg",
+    "repliques_cultes": [
+      "Je suis un méchant, c'est comme ça, je ne serai jamais un gentil."
+    ],
+    "musique": {
+      "titre": "When Can I See You Again?",
+      "artiste": "Owl City",
+      "extrait_audio": "assets/audio/musiques/les_mondes_de_ralph.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_mondes_de_ralph_difficile.jpg",
+      "moyenne": "assets/images/les_mondes_de_ralph_moyenne.jpg",
+      "facile": "assets/images/les_mondes_de_ralph_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_026",
+    "titre": "La Reine des neiges",
+    "studio": "Disney",
+    "annee": 2013,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 102,
+    "realisateur": "Chris Buck & Jennifer Lee",
+    "affiche": "assets/affiches/la_reine_des_neiges.jpg",
+    "repliques_cultes": [
+      "Je m'appelle Olaf et j'aime les câlins bien chauds."
+    ],
+    "musique": {
+      "titre": "Libérée, délivrée",
+      "artiste": "Idina Menzel",
+      "extrait_audio": "assets/audio/musiques/la_reine_des_neiges.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/la_reine_des_neiges_difficile.jpg",
+      "moyenne": "assets/images/la_reine_des_neiges_moyenne.jpg",
+      "facile": "assets/images/la_reine_des_neiges_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_027",
+    "titre": "Les Nouveaux Héros",
+    "studio": "Disney",
+    "annee": 2014,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 102,
+    "realisateur": "Don Hall & Chris Williams",
+    "affiche": "assets/affiches/les_nouveaux_heros.jpg",
+    "repliques_cultes": [
+      "Je suis satisfait de mes soins."
+    ],
+    "musique": {
+      "titre": "Immortals",
+      "artiste": "Fall Out Boy",
+      "extrait_audio": "assets/audio/musiques/les_nouveaux_heros.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_nouveaux_heros_difficile.jpg",
+      "moyenne": "assets/images/les_nouveaux_heros_moyenne.jpg",
+      "facile": "assets/images/les_nouveaux_heros_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_028",
+    "titre": "Zootopie",
+    "studio": "Disney",
+    "annee": 2016,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 108,
+    "realisateur": "Byron Howard & Rich Moore",
+    "affiche": "assets/affiches/zootopie.jpg",
+    "repliques_cultes": [
+      "N'importe qui peut devenir n'importe quoi."
+    ],
+    "musique": {
+      "titre": "Try Everything",
+      "artiste": "Shakira",
+      "extrait_audio": "assets/audio/musiques/zootopie.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/zootopie_difficile.jpg",
+      "moyenne": "assets/images/zootopie_moyenne.jpg",
+      "facile": "assets/images/zootopie_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_029",
+    "titre": "Vaiana, la légende du bout du monde",
+    "studio": "Disney",
+    "annee": 2016,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 107,
+    "realisateur": "Ron Clements & John Musker",
+    "affiche": "assets/affiches/vaiana_la_legende_du_bout_du_monde.jpg",
+    "repliques_cultes": [
+      "Je m'appelle Vaiana, de l'île de Motunui. Tu remettras le cœur à Te Fiti."
+    ],
+    "musique": {
+      "titre": "Le Bleu lumière",
+      "artiste": "Auliʻi Cravalho",
+      "extrait_audio": "assets/audio/musiques/vaiana_la_legende_du_bout_du_monde.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/vaiana_la_legende_du_bout_du_monde_difficile.jpg",
+      "moyenne": "assets/images/vaiana_la_legende_du_bout_du_monde_moyenne.jpg",
+      "facile": "assets/images/vaiana_la_legende_du_bout_du_monde_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_030",
+    "titre": "La Reine des neiges II",
+    "studio": "Disney",
+    "annee": 2019,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 103,
+    "realisateur": "Chris Buck & Jennifer Lee",
+    "affiche": "assets/affiches/la_reine_des_neiges_ii.jpg",
+    "repliques_cultes": [
+      "L'eau a de la mémoire."
+    ],
+    "musique": {
+      "titre": "Into the Unknown",
+      "artiste": "Idina Menzel",
+      "extrait_audio": "assets/audio/musiques/la_reine_des_neiges_ii.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/la_reine_des_neiges_ii_difficile.jpg",
+      "moyenne": "assets/images/la_reine_des_neiges_ii_moyenne.jpg",
+      "facile": "assets/images/la_reine_des_neiges_ii_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_031",
+    "titre": "Raya et le Dernier Dragon",
+    "studio": "Disney",
+    "annee": 2021,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 107,
+    "realisateur": "Don Hall & Carlos López Estrada",
+    "affiche": "assets/affiches/raya_et_le_dernier_dragon.jpg",
+    "repliques_cultes": [
+      "Pour trouver la confiance, il faut d'abord faire confiance."
+    ],
+    "musique": {
+      "titre": "Lead the Way",
+      "artiste": "Jhené Aiko",
+      "extrait_audio": "assets/audio/musiques/raya_et_le_dernier_dragon.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/raya_et_le_dernier_dragon_difficile.jpg",
+      "moyenne": "assets/images/raya_et_le_dernier_dragon_moyenne.jpg",
+      "facile": "assets/images/raya_et_le_dernier_dragon_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_032",
+    "titre": "Encanto, la fantastique famille Madrigal",
+    "studio": "Disney",
+    "annee": 2021,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 102,
+    "realisateur": "Byron Howard & Jared Bush",
+    "affiche": "assets/affiches/encanto_la_fantastique_famille_madrigal.jpg",
+    "repliques_cultes": [
+      "On ne parle pas de Bruno !"
+    ],
+    "musique": {
+      "titre": "Surface Pressure",
+      "artiste": "Jessica Darrow",
+      "extrait_audio": "assets/audio/musiques/encanto_la_fantastique_famille_madrigal.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/encanto_la_fantastique_famille_madrigal_difficile.jpg",
+      "moyenne": "assets/images/encanto_la_fantastique_famille_madrigal_moyenne.jpg",
+      "facile": "assets/images/encanto_la_fantastique_famille_madrigal_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_033",
+    "titre": "Toy Story",
+    "studio": "Pixar",
+    "annee": 1995,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 81,
+    "realisateur": "John Lasseter",
+    "affiche": "assets/affiches/toy_story.jpg",
+    "repliques_cultes": [
+      "Vers l'infini et au-delà !"
+    ],
+    "musique": {
+      "titre": "Je suis ton ami",
+      "artiste": "Randy Newman",
+      "extrait_audio": "assets/audio/musiques/toy_story.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/toy_story_difficile.jpg",
+      "moyenne": "assets/images/toy_story_moyenne.jpg",
+      "facile": "assets/images/toy_story_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_034",
+    "titre": "Toy Story 2",
+    "studio": "Pixar",
+    "annee": 1999,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 92,
+    "realisateur": "John Lasseter",
+    "affiche": "assets/affiches/toy_story_2.jpg",
+    "repliques_cultes": [
+      "Non, Buzz ! Je suis ton père !"
+    ],
+    "musique": {
+      "titre": "Quand elle m'aimait",
+      "artiste": "Sarah McLachlan",
+      "extrait_audio": "assets/audio/musiques/toy_story_2.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/toy_story_2_difficile.jpg",
+      "moyenne": "assets/images/toy_story_2_moyenne.jpg",
+      "facile": "assets/images/toy_story_2_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_035",
+    "titre": "Monstres & Cie",
+    "studio": "Pixar",
+    "annee": 2001,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 92,
+    "realisateur": "Pete Docter",
+    "affiche": "assets/affiches/monstres_cie.jpg",
+    "repliques_cultes": [
+      "Minou !"
+    ],
+    "musique": {
+      "titre": "If I Didn't Have You",
+      "artiste": "Billy Crystal",
+      "extrait_audio": "assets/audio/musiques/monstres_cie.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/monstres_cie_difficile.jpg",
+      "moyenne": "assets/images/monstres_cie_moyenne.jpg",
+      "facile": "assets/images/monstres_cie_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_036",
+    "titre": "Le Monde de Nemo",
+    "studio": "Pixar",
+    "annee": 2003,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 100,
+    "realisateur": "Andrew Stanton",
+    "affiche": "assets/affiches/le_monde_de_nemo.jpg",
+    "repliques_cultes": [
+      "Continue de nager, continue de nager."
+    ],
+    "musique": {
+      "titre": "Beyond the Sea",
+      "artiste": "Robbie Williams",
+      "extrait_audio": "assets/audio/musiques/le_monde_de_nemo.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_monde_de_nemo_difficile.jpg",
+      "moyenne": "assets/images/le_monde_de_nemo_moyenne.jpg",
+      "facile": "assets/images/le_monde_de_nemo_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_037",
+    "titre": "Les Indestructibles",
+    "studio": "Pixar",
+    "annee": 2004,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 115,
+    "realisateur": "Brad Bird",
+    "affiche": "assets/affiches/les_indestructibles.jpg",
+    "repliques_cultes": [
+      "Pas de capes !"
+    ],
+    "musique": {
+      "titre": "Incredits",
+      "artiste": "Michael Giacchino",
+      "extrait_audio": "assets/audio/musiques/les_indestructibles.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_indestructibles_difficile.jpg",
+      "moyenne": "assets/images/les_indestructibles_moyenne.jpg",
+      "facile": "assets/images/les_indestructibles_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_038",
+    "titre": "Cars",
+    "studio": "Pixar",
+    "annee": 2006,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 117,
+    "realisateur": "John Lasseter",
+    "affiche": "assets/affiches/cars.jpg",
+    "repliques_cultes": [
+      "Ka-chow !"
+    ],
+    "musique": {
+      "titre": "Real Gone",
+      "artiste": "Sheryl Crow",
+      "extrait_audio": "assets/audio/musiques/cars.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/cars_difficile.jpg",
+      "moyenne": "assets/images/cars_moyenne.jpg",
+      "facile": "assets/images/cars_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_039",
+    "titre": "Ratatouille",
+    "studio": "Pixar",
+    "annee": 2007,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 111,
+    "realisateur": "Brad Bird",
+    "affiche": "assets/affiches/ratatouille.jpg",
+    "repliques_cultes": [
+      "Tout le monde peut cuisiner !"
+    ],
+    "musique": {
+      "titre": "Le Festin",
+      "artiste": "Camille",
+      "extrait_audio": "assets/audio/musiques/ratatouille.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/ratatouille_difficile.jpg",
+      "moyenne": "assets/images/ratatouille_moyenne.jpg",
+      "facile": "assets/images/ratatouille_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_040",
+    "titre": "WALL-E",
+    "studio": "Pixar",
+    "annee": 2008,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 98,
+    "realisateur": "Andrew Stanton",
+    "affiche": "assets/affiches/wall_e.jpg",
+    "repliques_cultes": [
+      "Éééève !"
+    ],
+    "musique": {
+      "titre": "Put On Your Sunday Clothes",
+      "artiste": "Michael Crawford",
+      "extrait_audio": "assets/audio/musiques/wall_e.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/wall_e_difficile.jpg",
+      "moyenne": "assets/images/wall_e_moyenne.jpg",
+      "facile": "assets/images/wall_e_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_041",
+    "titre": "Là-haut",
+    "studio": "Pixar",
+    "annee": 2009,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 96,
+    "realisateur": "Pete Docter",
+    "affiche": "assets/affiches/la_haut.jpg",
+    "repliques_cultes": [
+      "L'aventure est ailleurs !"
+    ],
+    "musique": {
+      "titre": "Married Life",
+      "artiste": "Michael Giacchino",
+      "extrait_audio": "assets/audio/musiques/la_haut.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/la_haut_difficile.jpg",
+      "moyenne": "assets/images/la_haut_moyenne.jpg",
+      "facile": "assets/images/la_haut_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_042",
+    "titre": "Toy Story 3",
+    "studio": "Pixar",
+    "annee": 2010,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 103,
+    "realisateur": "Lee Unkrich",
+    "affiche": "assets/affiches/toy_story_3.jpg",
+    "repliques_cultes": [
+      "Il y a un serpent dans ma botte !"
+    ],
+    "musique": {
+      "titre": "We Belong Together",
+      "artiste": "Randy Newman",
+      "extrait_audio": "assets/audio/musiques/toy_story_3.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/toy_story_3_difficile.jpg",
+      "moyenne": "assets/images/toy_story_3_moyenne.jpg",
+      "facile": "assets/images/toy_story_3_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_043",
+    "titre": "Rebelle",
+    "studio": "Pixar",
+    "annee": 2012,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 93,
+    "realisateur": "Mark Andrews & Brenda Chapman",
+    "affiche": "assets/affiches/rebelle.jpg",
+    "repliques_cultes": [
+      "Notre destin vit en nous, il suffit d'avoir le courage de le voir."
+    ],
+    "musique": {
+      "titre": "Touch the Sky",
+      "artiste": "Julie Fowlis",
+      "extrait_audio": "assets/audio/musiques/rebelle.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/rebelle_difficile.jpg",
+      "moyenne": "assets/images/rebelle_moyenne.jpg",
+      "facile": "assets/images/rebelle_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_044",
+    "titre": "Vice-versa",
+    "studio": "Pixar",
+    "annee": 2015,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 95,
+    "realisateur": "Pete Docter",
+    "affiche": "assets/affiches/vice_versa.jpg",
+    "repliques_cultes": [
+      "Prends-la, elle est pour la lune !"
+    ],
+    "musique": {
+      "titre": "Bundle of Joy",
+      "artiste": "Michael Giacchino",
+      "extrait_audio": "assets/audio/musiques/vice_versa.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/vice_versa_difficile.jpg",
+      "moyenne": "assets/images/vice_versa_moyenne.jpg",
+      "facile": "assets/images/vice_versa_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_045",
+    "titre": "Le Monde de Dory",
+    "studio": "Pixar",
+    "annee": 2016,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 97,
+    "realisateur": "Andrew Stanton",
+    "affiche": "assets/affiches/le_monde_de_dory.jpg",
+    "repliques_cultes": [
+      "Je souffre de perte de mémoire à court terme."
+    ],
+    "musique": {
+      "titre": "Unforgettable",
+      "artiste": "Sia",
+      "extrait_audio": "assets/audio/musiques/le_monde_de_dory.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_monde_de_dory_difficile.jpg",
+      "moyenne": "assets/images/le_monde_de_dory_moyenne.jpg",
+      "facile": "assets/images/le_monde_de_dory_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_046",
+    "titre": "Coco",
+    "studio": "Pixar",
+    "annee": 2017,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 105,
+    "realisateur": "Lee Unkrich",
+    "affiche": "assets/affiches/coco.jpg",
+    "repliques_cultes": [
+      "Pas de musique !"
+    ],
+    "musique": {
+      "titre": "Remember Me",
+      "artiste": "Benjamin Bratt",
+      "extrait_audio": "assets/audio/musiques/coco.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/coco_difficile.jpg",
+      "moyenne": "assets/images/coco_moyenne.jpg",
+      "facile": "assets/images/coco_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_047",
+    "titre": "Toy Story 4",
+    "studio": "Pixar",
+    "annee": 2019,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 100,
+    "realisateur": "Josh Cooley",
+    "affiche": "assets/affiches/toy_story_4.jpg",
+    "repliques_cultes": [
+      "Je ne suis pas un jouet, je suis des déchets !"
+    ],
+    "musique": {
+      "titre": "I Can't Let You Throw Yourself Away",
+      "artiste": "Randy Newman",
+      "extrait_audio": "assets/audio/musiques/toy_story_4.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/toy_story_4_difficile.jpg",
+      "moyenne": "assets/images/toy_story_4_moyenne.jpg",
+      "facile": "assets/images/toy_story_4_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_048",
+    "titre": "Luca",
+    "studio": "Pixar",
+    "annee": 2021,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 95,
+    "realisateur": "Enrico Casarosa",
+    "affiche": "assets/affiches/luca.jpg",
+    "repliques_cultes": [
+      "Silenzio, Bruno !"
+    ],
+    "musique": {
+      "titre": "Un'estate al mare",
+      "artiste": "Giuni Russo",
+      "extrait_audio": "assets/audio/musiques/luca.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/luca_difficile.jpg",
+      "moyenne": "assets/images/luca_moyenne.jpg",
+      "facile": "assets/images/luca_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_049",
+    "titre": "Élémentaire",
+    "studio": "Pixar",
+    "annee": 2023,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 109,
+    "realisateur": "Peter Sohn",
+    "affiche": "assets/affiches/elementaire.jpg",
+    "repliques_cultes": [
+      "L'eau et le feu ne peuvent pas se mélanger... et pourtant."
+    ],
+    "musique": {
+      "titre": "Steal the Show",
+      "artiste": "Lauv",
+      "extrait_audio": "assets/audio/musiques/elementaire.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/elementaire_difficile.jpg",
+      "moyenne": "assets/images/elementaire_moyenne.jpg",
+      "facile": "assets/images/elementaire_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_050",
+    "titre": "Fievel et le Nouveau Monde",
+    "studio": "Autre",
+    "annee": 1986,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 80,
+    "realisateur": "Don Bluth",
+    "affiche": "assets/affiches/fievel_et_le_nouveau_monde.jpg",
+    "repliques_cultes": [
+      "Il n'y a pas de chats en Amérique !"
+    ],
+    "musique": {
+      "titre": "Somewhere Out There",
+      "artiste": "Linda Ronstadt",
+      "extrait_audio": "assets/audio/musiques/fievel_et_le_nouveau_monde.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/fievel_et_le_nouveau_monde_difficile.jpg",
+      "moyenne": "assets/images/fievel_et_le_nouveau_monde_moyenne.jpg",
+      "facile": "assets/images/fievel_et_le_nouveau_monde_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_051",
+    "titre": "Mon voisin Totoro",
+    "studio": "Studio Ghibli",
+    "annee": 1988,
+    "genre": "Fantastique",
+    "pays": "Japon",
+    "duree_minutes": 86,
+    "realisateur": "Hayao Miyazaki",
+    "affiche": "assets/affiches/mon_voisin_totoro.jpg",
+    "repliques_cultes": [
+      "Totoro !"
+    ],
+    "musique": {
+      "titre": "Le Voisin Totoro",
+      "artiste": "Azumi Inoue",
+      "extrait_audio": "assets/audio/musiques/mon_voisin_totoro.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/mon_voisin_totoro_difficile.jpg",
+      "moyenne": "assets/images/mon_voisin_totoro_moyenne.jpg",
+      "facile": "assets/images/mon_voisin_totoro_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_052",
+    "titre": "Le Tombeau des lucioles",
+    "studio": "Studio Ghibli",
+    "annee": 1988,
+    "genre": "Drame",
+    "pays": "Japon",
+    "duree_minutes": 89,
+    "realisateur": "Isao Takahata",
+    "affiche": "assets/affiches/le_tombeau_des_lucioles.jpg",
+    "repliques_cultes": [
+      "Pourquoi les lucioles meurent-elles si vite ?"
+    ],
+    "musique": {
+      "titre": "Home Sweet Home",
+      "artiste": "Ethel Smith",
+      "extrait_audio": "assets/audio/musiques/le_tombeau_des_lucioles.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_tombeau_des_lucioles_difficile.jpg",
+      "moyenne": "assets/images/le_tombeau_des_lucioles_moyenne.jpg",
+      "facile": "assets/images/le_tombeau_des_lucioles_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_053",
+    "titre": "Kiki la petite sorcière",
+    "studio": "Studio Ghibli",
+    "annee": 1989,
+    "genre": "Fantastique",
+    "pays": "Japon",
+    "duree_minutes": 102,
+    "realisateur": "Hayao Miyazaki",
+    "affiche": "assets/affiches/kiki_la_petite_sorciere.jpg",
+    "repliques_cultes": [
+      "Cette nuit, je pars pour devenir une vraie sorcière."
+    ],
+    "musique": {
+      "titre": "Rouge no Dengon",
+      "artiste": "Yumi Matsutoya",
+      "extrait_audio": "assets/audio/musiques/kiki_la_petite_sorciere.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/kiki_la_petite_sorciere_difficile.jpg",
+      "moyenne": "assets/images/kiki_la_petite_sorciere_moyenne.jpg",
+      "facile": "assets/images/kiki_la_petite_sorciere_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_054",
+    "titre": "Porco Rosso",
+    "studio": "Studio Ghibli",
+    "annee": 1992,
+    "genre": "Aventure",
+    "pays": "Japon",
+    "duree_minutes": 94,
+    "realisateur": "Hayao Miyazaki",
+    "affiche": "assets/affiches/porco_rosso.jpg",
+    "repliques_cultes": [
+      "Je préfère être un cochon qu'un fasciste."
+    ],
+    "musique": {
+      "titre": "Le temps des cerises",
+      "artiste": "Tokiko Kato",
+      "extrait_audio": "assets/audio/musiques/porco_rosso.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/porco_rosso_difficile.jpg",
+      "moyenne": "assets/images/porco_rosso_moyenne.jpg",
+      "facile": "assets/images/porco_rosso_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_055",
+    "titre": "Princesse Mononoké",
+    "studio": "Studio Ghibli",
+    "annee": 1997,
+    "genre": "Fantastique",
+    "pays": "Japon",
+    "duree_minutes": 134,
+    "realisateur": "Hayao Miyazaki",
+    "affiche": "assets/affiches/princesse_mononoke.jpg",
+    "repliques_cultes": [
+      "Vis ! Tu es beau, tu es libre !"
+    ],
+    "musique": {
+      "titre": "Mononoke Hime",
+      "artiste": "Yoshikazu Mera",
+      "extrait_audio": "assets/audio/musiques/princesse_mononoke.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/princesse_mononoke_difficile.jpg",
+      "moyenne": "assets/images/princesse_mononoke_moyenne.jpg",
+      "facile": "assets/images/princesse_mononoke_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_056",
+    "titre": "Le Prince d'Égypte",
+    "studio": "DreamWorks",
+    "annee": 1998,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 99,
+    "realisateur": "Brenda Chapman & Steve Hickner",
+    "affiche": "assets/affiches/le_prince_d_egypte.jpg",
+    "repliques_cultes": [
+      "Que ton peuple s'en aille !"
+    ],
+    "musique": {
+      "titre": "When You Believe",
+      "artiste": "Whitney Houston",
+      "extrait_audio": "assets/audio/musiques/le_prince_d_egypte.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_prince_d_egypte_difficile.jpg",
+      "moyenne": "assets/images/le_prince_d_egypte_moyenne.jpg",
+      "facile": "assets/images/le_prince_d_egypte_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_057",
+    "titre": "Kirikou et la Sorcière",
+    "studio": "Autre",
+    "annee": 1998,
+    "genre": "Fantastique",
+    "pays": "France",
+    "duree_minutes": 74,
+    "realisateur": "Michel Ocelot",
+    "affiche": "assets/affiches/kirikou_et_la_sorciere.jpg",
+    "repliques_cultes": [
+      "Kirikou n'est pas grand, mais il est vaillant !"
+    ],
+    "musique": {
+      "titre": "Kirikou's Theme",
+      "artiste": "Youssou N'Dour",
+      "extrait_audio": "assets/audio/musiques/kirikou_et_la_sorciere.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/kirikou_et_la_sorciere_difficile.jpg",
+      "moyenne": "assets/images/kirikou_et_la_sorciere_moyenne.jpg",
+      "facile": "assets/images/kirikou_et_la_sorciere_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_058",
+    "titre": "Shrek",
+    "studio": "DreamWorks",
+    "annee": 2001,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 90,
+    "realisateur": "Andrew Adamson & Vicky Jenson",
+    "affiche": "assets/affiches/shrek.jpg",
+    "repliques_cultes": [
+      "Les ogres, c'est comme les oignons : ça a des couches !"
+    ],
+    "musique": {
+      "titre": "I'm a Believer",
+      "artiste": "Smash Mouth",
+      "extrait_audio": "assets/audio/musiques/shrek.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/shrek_difficile.jpg",
+      "moyenne": "assets/images/shrek_moyenne.jpg",
+      "facile": "assets/images/shrek_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_059",
+    "titre": "Le Voyage de Chihiro",
+    "studio": "Studio Ghibli",
+    "annee": 2001,
+    "genre": "Fantastique",
+    "pays": "Japon",
+    "duree_minutes": 125,
+    "realisateur": "Hayao Miyazaki",
+    "affiche": "assets/affiches/le_voyage_de_chihiro.jpg",
+    "repliques_cultes": [
+      "Une fois que tu as rencontré quelqu'un, tu ne l'oublies jamais."
+    ],
+    "musique": {
+      "titre": "Always With Me",
+      "artiste": "Youmi Kimura",
+      "extrait_audio": "assets/audio/musiques/le_voyage_de_chihiro.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_voyage_de_chihiro_difficile.jpg",
+      "moyenne": "assets/images/le_voyage_de_chihiro_moyenne.jpg",
+      "facile": "assets/images/le_voyage_de_chihiro_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_060",
+    "titre": "L'Âge de glace",
+    "studio": "Blue Sky",
+    "annee": 2002,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 81,
+    "realisateur": "Chris Wedge & Carlos Saldanha",
+    "affiche": "assets/affiches/l_age_de_glace.jpg",
+    "repliques_cultes": [
+      "Je suis Sid, le paresseux !"
+    ],
+    "musique": {
+      "titre": "Send Me on My Way",
+      "artiste": "Rusted Root",
+      "extrait_audio": "assets/audio/musiques/l_age_de_glace.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/l_age_de_glace_difficile.jpg",
+      "moyenne": "assets/images/l_age_de_glace_moyenne.jpg",
+      "facile": "assets/images/l_age_de_glace_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_061",
+    "titre": "Le Château ambulant",
+    "studio": "Studio Ghibli",
+    "annee": 2004,
+    "genre": "Fantastique",
+    "pays": "Japon",
+    "duree_minutes": 119,
+    "realisateur": "Hayao Miyazaki",
+    "affiche": "assets/affiches/le_chateau_ambulant.jpg",
+    "repliques_cultes": [
+      "Un cœur est un fardeau lourd."
+    ],
+    "musique": {
+      "titre": "Le Merry-Go-Round de la vie",
+      "artiste": "Joe Hisaishi",
+      "extrait_audio": "assets/audio/musiques/le_chateau_ambulant.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_chateau_ambulant_difficile.jpg",
+      "moyenne": "assets/images/le_chateau_ambulant_moyenne.jpg",
+      "facile": "assets/images/le_chateau_ambulant_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_062",
+    "titre": "Madagascar",
+    "studio": "DreamWorks",
+    "annee": 2005,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 86,
+    "realisateur": "Eric Darnell & Tom McGrath",
+    "affiche": "assets/affiches/madagascar.jpg",
+    "repliques_cultes": [
+      "J'aime remuer mon popotin !"
+    ],
+    "musique": {
+      "titre": "I Like to Move It",
+      "artiste": "Sacha Baron Cohen",
+      "extrait_audio": "assets/audio/musiques/madagascar.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/madagascar_difficile.jpg",
+      "moyenne": "assets/images/madagascar_moyenne.jpg",
+      "facile": "assets/images/madagascar_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_063",
+    "titre": "Wallace & Gromit : Le Mystère du lapin-garou",
+    "studio": "Aardman",
+    "annee": 2005,
+    "genre": "Comédie",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 85,
+    "realisateur": "Nick Park & Steve Box",
+    "affiche": "assets/affiches/wallace_gromit_le_mystere_du_lapin_garou.jpg",
+    "repliques_cultes": [
+      "Du fromage, Gromit !"
+    ],
+    "musique": {
+      "titre": "Wallace & Gromit Theme",
+      "artiste": "Julian Nott",
+      "extrait_audio": "assets/audio/musiques/wallace_gromit_le_mystere_du_lapin_garou.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/wallace_gromit_le_mystere_du_lapin_garou_difficile.jpg",
+      "moyenne": "assets/images/wallace_gromit_le_mystere_du_lapin_garou_moyenne.jpg",
+      "facile": "assets/images/wallace_gromit_le_mystere_du_lapin_garou_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_064",
+    "titre": "Kung Fu Panda",
+    "studio": "DreamWorks",
+    "annee": 2008,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 92,
+    "realisateur": "Mark Osborne & John Stevenson",
+    "affiche": "assets/affiches/kung_fu_panda.jpg",
+    "repliques_cultes": [
+      "Il n'y a pas d'ingrédient secret."
+    ],
+    "musique": {
+      "titre": "Kung Fu Fighting",
+      "artiste": "CeeLo Green",
+      "extrait_audio": "assets/audio/musiques/kung_fu_panda.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/kung_fu_panda_difficile.jpg",
+      "moyenne": "assets/images/kung_fu_panda_moyenne.jpg",
+      "facile": "assets/images/kung_fu_panda_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_065",
+    "titre": "Ponyo sur la falaise",
+    "studio": "Studio Ghibli",
+    "annee": 2008,
+    "genre": "Fantastique",
+    "pays": "Japon",
+    "duree_minutes": 101,
+    "realisateur": "Hayao Miyazaki",
+    "affiche": "assets/affiches/ponyo_sur_la_falaise.jpg",
+    "repliques_cultes": [
+      "Ponyo aime Sosuke !"
+    ],
+    "musique": {
+      "titre": "Gake no Ue no Ponyo",
+      "artiste": "Fujioka Fujimaki",
+      "extrait_audio": "assets/audio/musiques/ponyo_sur_la_falaise.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/ponyo_sur_la_falaise_difficile.jpg",
+      "moyenne": "assets/images/ponyo_sur_la_falaise_moyenne.jpg",
+      "facile": "assets/images/ponyo_sur_la_falaise_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_066",
+    "titre": "Coraline",
+    "studio": "Laika",
+    "annee": 2009,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "duree_minutes": 100,
+    "realisateur": "Henry Selick",
+    "affiche": "assets/affiches/coraline.jpg",
+    "repliques_cultes": [
+      "Vous n'êtes pas ma vraie mère !"
+    ],
+    "musique": {
+      "titre": "Sweet Dreams",
+      "artiste": "Emily Browning",
+      "extrait_audio": "assets/audio/musiques/coraline.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/coraline_difficile.jpg",
+      "moyenne": "assets/images/coraline_moyenne.jpg",
+      "facile": "assets/images/coraline_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_067",
+    "titre": "Dragons",
+    "studio": "DreamWorks",
+    "annee": 2010,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 98,
+    "realisateur": "Chris Sanders & Dean DeBlois",
+    "affiche": "assets/affiches/dragons.jpg",
+    "repliques_cultes": [
+      "Je ne peux pas le tuer."
+    ],
+    "musique": {
+      "titre": "Romantic Flight",
+      "artiste": "John Powell",
+      "extrait_audio": "assets/audio/musiques/dragons.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/dragons_difficile.jpg",
+      "moyenne": "assets/images/dragons_moyenne.jpg",
+      "facile": "assets/images/dragons_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_068",
+    "titre": "Moi, moche et méchant",
+    "studio": "Illumination",
+    "annee": 2010,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 95,
+    "realisateur": "Pierre Coffin & Chris Renaud",
+    "affiche": "assets/affiches/moi_moche_et_mechant.jpg",
+    "repliques_cultes": [
+      "Il est si fluffy !"
+    ],
+    "musique": {
+      "titre": "Despicable Me",
+      "artiste": "Pharrell Williams",
+      "extrait_audio": "assets/audio/musiques/moi_moche_et_mechant.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/moi_moche_et_mechant_difficile.jpg",
+      "moyenne": "assets/images/moi_moche_et_mechant_moyenne.jpg",
+      "facile": "assets/images/moi_moche_et_mechant_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_069",
+    "titre": "Arrietty, le petit monde des chapardeurs",
+    "studio": "Studio Ghibli",
+    "annee": 2010,
+    "genre": "Fantastique",
+    "pays": "Japon",
+    "duree_minutes": 94,
+    "realisateur": "Hiromasa Yonebayashi",
+    "affiche": "assets/affiches/arrietty_le_petit_monde_des_chapardeurs.jpg",
+    "repliques_cultes": [
+      "Les humains sont dangereux, ils ne doivent pas nous voir."
+    ],
+    "musique": {
+      "titre": "Arrietty's Song",
+      "artiste": "Cécile Corbel",
+      "extrait_audio": "assets/audio/musiques/arrietty_le_petit_monde_des_chapardeurs.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/arrietty_le_petit_monde_des_chapardeurs_difficile.jpg",
+      "moyenne": "assets/images/arrietty_le_petit_monde_des_chapardeurs_moyenne.jpg",
+      "facile": "assets/images/arrietty_le_petit_monde_des_chapardeurs_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_070",
+    "titre": "Megamind",
+    "studio": "DreamWorks",
+    "annee": 2010,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 95,
+    "realisateur": "Tom McGrath",
+    "affiche": "assets/affiches/megamind.jpg",
+    "repliques_cultes": [
+      "C'est MÉGAmind !"
+    ],
+    "musique": {
+      "titre": "Bad to the Bone",
+      "artiste": "George Thorogood",
+      "extrait_audio": "assets/audio/musiques/megamind.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/megamind_difficile.jpg",
+      "moyenne": "assets/images/megamind_moyenne.jpg",
+      "facile": "assets/images/megamind_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_071",
+    "titre": "Les Aventures de Tintin : Le Secret de La Licorne",
+    "studio": "Autre",
+    "annee": 2011,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 107,
+    "realisateur": "Steven Spielberg",
+    "affiche": "assets/affiches/les_aventures_de_tintin_le_secret_de_la_licorne.jpg",
+    "repliques_cultes": [
+      "Mille milliards de mille sabords !"
+    ],
+    "musique": {
+      "titre": "The Adventures of Tintin",
+      "artiste": "John Williams",
+      "extrait_audio": "assets/audio/musiques/les_aventures_de_tintin_le_secret_de_la_licorne.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_aventures_de_tintin_le_secret_de_la_licorne_difficile.jpg",
+      "moyenne": "assets/images/les_aventures_de_tintin_le_secret_de_la_licorne_moyenne.jpg",
+      "facile": "assets/images/les_aventures_de_tintin_le_secret_de_la_licorne_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_072",
+    "titre": "Les Croods",
+    "studio": "DreamWorks",
+    "annee": 2013,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 98,
+    "realisateur": "Kirk De Micco & Chris Sanders",
+    "affiche": "assets/affiches/les_croods.jpg",
+    "repliques_cultes": [
+      "Ne jamais ne pas avoir peur !"
+    ],
+    "musique": {
+      "titre": "Shine Your Way",
+      "artiste": "Owl City",
+      "extrait_audio": "assets/audio/musiques/les_croods.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_croods_difficile.jpg",
+      "moyenne": "assets/images/les_croods_moyenne.jpg",
+      "facile": "assets/images/les_croods_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_073",
+    "titre": "Le vent se lève",
+    "studio": "Studio Ghibli",
+    "annee": 2013,
+    "genre": "Drame",
+    "pays": "Japon",
+    "duree_minutes": 126,
+    "realisateur": "Hayao Miyazaki",
+    "affiche": "assets/affiches/le_vent_se_leve.jpg",
+    "repliques_cultes": [
+      "Le vent se lève ! Il faut tenter de vivre !"
+    ],
+    "musique": {
+      "titre": "Hikoki-gumo",
+      "artiste": "Yumi Matsutoya",
+      "extrait_audio": "assets/audio/musiques/le_vent_se_leve.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_vent_se_leve_difficile.jpg",
+      "moyenne": "assets/images/le_vent_se_leve_moyenne.jpg",
+      "facile": "assets/images/le_vent_se_leve_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_074",
+    "titre": "La Grande Aventure Lego",
+    "studio": "Warner",
+    "annee": 2014,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 100,
+    "realisateur": "Phil Lord & Chris Miller",
+    "affiche": "assets/affiches/la_grande_aventure_lego.jpg",
+    "repliques_cultes": [
+      "Tout est génial !"
+    ],
+    "musique": {
+      "titre": "Everything Is Awesome!!!",
+      "artiste": "Tegan and Sara",
+      "extrait_audio": "assets/audio/musiques/la_grande_aventure_lego.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/la_grande_aventure_lego_difficile.jpg",
+      "moyenne": "assets/images/la_grande_aventure_lego_moyenne.jpg",
+      "facile": "assets/images/la_grande_aventure_lego_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_075",
+    "titre": "Le Petit Prince",
+    "studio": "Autre",
+    "annee": 2015,
+    "genre": "Fantastique",
+    "pays": "France",
+    "duree_minutes": 108,
+    "realisateur": "Mark Osborne",
+    "affiche": "assets/affiches/le_petit_prince.jpg",
+    "repliques_cultes": [
+      "On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux."
+    ],
+    "musique": {
+      "titre": "Turnaround",
+      "artiste": "Camille",
+      "extrait_audio": "assets/audio/musiques/le_petit_prince.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_petit_prince_difficile.jpg",
+      "moyenne": "assets/images/le_petit_prince_moyenne.jpg",
+      "facile": "assets/images/le_petit_prince_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_076",
+    "titre": "Kubo et l'Armure magique",
+    "studio": "Laika",
+    "annee": 2016,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 101,
+    "realisateur": "Travis Knight",
+    "affiche": "assets/affiches/kubo_et_l_armure_magique.jpg",
+    "repliques_cultes": [
+      "Si vous devez cligner des yeux, faites-le maintenant."
+    ],
+    "musique": {
+      "titre": "While My Guitar Gently Weeps",
+      "artiste": "Regina Spektor",
+      "extrait_audio": "assets/audio/musiques/kubo_et_l_armure_magique.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/kubo_et_l_armure_magique_difficile.jpg",
+      "moyenne": "assets/images/kubo_et_l_armure_magique_moyenne.jpg",
+      "facile": "assets/images/kubo_et_l_armure_magique_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_077",
+    "titre": "Trolls",
+    "studio": "DreamWorks",
+    "annee": 2016,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 92,
+    "realisateur": "Mike Mitchell & Walt Dohrn",
+    "affiche": "assets/affiches/trolls.jpg",
+    "repliques_cultes": [
+      "Rien n'est plus puissant que le bonheur !"
+    ],
+    "musique": {
+      "titre": "Can't Stop the Feeling!",
+      "artiste": "Justin Timberlake",
+      "extrait_audio": "assets/audio/musiques/trolls.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/trolls_difficile.jpg",
+      "moyenne": "assets/images/trolls_moyenne.jpg",
+      "facile": "assets/images/trolls_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_078",
+    "titre": "Le Grinch",
+    "studio": "Illumination",
+    "annee": 2018,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 85,
+    "realisateur": "Yarrow Cheney & Scott Mosier",
+    "affiche": "assets/affiches/le_grinch.jpg",
+    "repliques_cultes": [
+      "Je déteste Noël !"
+    ],
+    "musique": {
+      "titre": "You're a Mean One, Mr. Grinch",
+      "artiste": "Tyler, The Creator",
+      "extrait_audio": "assets/audio/musiques/le_grinch.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_grinch_difficile.jpg",
+      "moyenne": "assets/images/le_grinch_moyenne.jpg",
+      "facile": "assets/images/le_grinch_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_079",
+    "titre": "Spider-Man : New Generation",
+    "studio": "Sony Animation",
+    "annee": 2018,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 117,
+    "realisateur": "Bob Persichetti & Peter Ramsey & Rodney Rothman",
+    "affiche": "assets/affiches/spider_man_new_generation.jpg",
+    "repliques_cultes": [
+      "N'importe qui peut porter le masque."
+    ],
+    "musique": {
+      "titre": "Sunflower",
+      "artiste": "Post Malone",
+      "extrait_audio": "assets/audio/musiques/spider_man_new_generation.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/spider_man_new_generation_difficile.jpg",
+      "moyenne": "assets/images/spider_man_new_generation_moyenne.jpg",
+      "facile": "assets/images/spider_man_new_generation_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_080",
+    "titre": "Le Garçon et le Héron",
+    "studio": "Studio Ghibli",
+    "annee": 2023,
+    "genre": "Fantastique",
+    "pays": "Japon",
+    "duree_minutes": 124,
+    "realisateur": "Hayao Miyazaki",
+    "affiche": "assets/affiches/le_garcon_et_le_heron.jpg",
+    "repliques_cultes": [
+      "Ceci est une cicatrice faite par ma propre malveillance."
+    ],
+    "musique": {
+      "titre": "Spinning Globe",
+      "artiste": "Kenshi Yonezu",
+      "extrait_audio": "assets/audio/musiques/le_garcon_et_le_heron.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_garcon_et_le_heron_difficile.jpg",
+      "moyenne": "assets/images/le_garcon_et_le_heron_moyenne.jpg",
+      "facile": "assets/images/le_garcon_et_le_heron_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_081",
+    "titre": "Spider-Man : Across the Spider-Verse",
+    "studio": "Sony Animation",
+    "annee": 2023,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 140,
+    "realisateur": "Joaquim Dos Santos & Kemp Powers & Justin K. Thompson",
+    "affiche": "assets/affiches/spider_man_across_the_spider_verse.jpg",
+    "repliques_cultes": [
+      "C'est un évènement canonique, Miles !"
+    ],
+    "musique": {
+      "titre": "Am I Dreaming",
+      "artiste": "Metro Boomin",
+      "extrait_audio": "assets/audio/musiques/spider_man_across_the_spider_verse.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/spider_man_across_the_spider_verse_difficile.jpg",
+      "moyenne": "assets/images/spider_man_across_the_spider_verse_moyenne.jpg",
+      "facile": "assets/images/spider_man_across_the_spider_verse_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_082",
+    "titre": "Le Robot sauvage",
+    "studio": "DreamWorks",
+    "annee": 2024,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 102,
+    "realisateur": "Chris Sanders",
+    "affiche": "assets/affiches/le_robot_sauvage.jpg",
+    "repliques_cultes": [
+      "Mon nom est Roz. Je suis un robot."
+    ],
+    "musique": {
+      "titre": "Kiss the Sky",
+      "artiste": "Maren Morris",
+      "extrait_audio": "assets/audio/musiques/le_robot_sauvage.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_robot_sauvage_difficile.jpg",
+      "moyenne": "assets/images/le_robot_sauvage_moyenne.jpg",
+      "facile": "assets/images/le_robot_sauvage_facile.jpg"
+    }
+  }
+]

@@ -1,0 +1,1838 @@
+[
+  {
+    "id": "persoanim_001",
+    "nom": "Blanche-Neige",
+    "film_origine": "Blanche-Neige et les Sept Nains",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_002",
+    "nom": "La Reine",
+    "film_origine": "Blanche-Neige et les Sept Nains",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_003",
+    "nom": "Grincheux",
+    "film_origine": "Blanche-Neige et les Sept Nains",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_004",
+    "nom": "Jiminy Cricket",
+    "film_origine": "Pinocchio",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_005",
+    "nom": "Pinocchio",
+    "film_origine": "Pinocchio",
+    "studio": "Disney",
+    "type": "Jouet",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_006",
+    "nom": "Bambi",
+    "film_origine": "Bambi",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_007",
+    "nom": "Panpan",
+    "film_origine": "Bambi",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_008",
+    "nom": "Cendrillon",
+    "film_origine": "Cendrillon",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_009",
+    "nom": "Lady Trémaine",
+    "film_origine": "Cendrillon",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_010",
+    "nom": "Alice",
+    "film_origine": "Alice au pays des merveilles",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_011",
+    "nom": "Le Chapelier fou",
+    "film_origine": "Alice au pays des merveilles",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_012",
+    "nom": "Le Chat du Cheshire",
+    "film_origine": "Alice au pays des merveilles",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_013",
+    "nom": "La Reine de Cœur",
+    "film_origine": "Alice au pays des merveilles",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_014",
+    "nom": "Peter Pan",
+    "film_origine": "Peter Pan",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_015",
+    "nom": "Capitaine Crochet",
+    "film_origine": "Peter Pan",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_016",
+    "nom": "Fée Clochette",
+    "film_origine": "Peter Pan",
+    "studio": "Disney",
+    "type": "Créature",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_017",
+    "nom": "Maléfique",
+    "film_origine": "La Belle au bois dormant",
+    "studio": "Disney",
+    "type": "Créature",
+    "role": "Méchant",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_018",
+    "nom": "Mowgli",
+    "film_origine": "Le Livre de la jungle",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_019",
+    "nom": "Baloo",
+    "film_origine": "Le Livre de la jungle",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_020",
+    "nom": "Shere Khan",
+    "film_origine": "Le Livre de la jungle",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_021",
+    "nom": "Ariel",
+    "film_origine": "La Petite Sirène",
+    "studio": "Disney",
+    "type": "Créature",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_022",
+    "nom": "Sébastien",
+    "film_origine": "La Petite Sirène",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_023",
+    "nom": "Ursula",
+    "film_origine": "La Petite Sirène",
+    "studio": "Disney",
+    "type": "Créature",
+    "role": "Méchant",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_024",
+    "nom": "Belle",
+    "film_origine": "La Belle et la Bête",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_025",
+    "nom": "La Bête",
+    "film_origine": "La Belle et la Bête",
+    "studio": "Disney",
+    "type": "Créature",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_026",
+    "nom": "Gaston",
+    "film_origine": "La Belle et la Bête",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_027",
+    "nom": "Lumière",
+    "film_origine": "La Belle et la Bête",
+    "studio": "Disney",
+    "type": "Objet",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_028",
+    "nom": "Aladdin",
+    "film_origine": "Aladdin",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_029",
+    "nom": "Jasmine",
+    "film_origine": "Aladdin",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_030",
+    "nom": "Le Génie",
+    "film_origine": "Aladdin",
+    "studio": "Disney",
+    "type": "Créature",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_031",
+    "nom": "Jafar",
+    "film_origine": "Aladdin",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_032",
+    "nom": "Simba",
+    "film_origine": "Le Roi Lion",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_033",
+    "nom": "Scar",
+    "film_origine": "Le Roi Lion",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_034",
+    "nom": "Timon",
+    "film_origine": "Le Roi Lion",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_035",
+    "nom": "Pumbaa",
+    "film_origine": "Le Roi Lion",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_036",
+    "nom": "Mufasa",
+    "film_origine": "Le Roi Lion",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_037",
+    "nom": "Pocahontas",
+    "film_origine": "Pocahontas, une légende indienne",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_038",
+    "nom": "Quasimodo",
+    "film_origine": "Le Bossu de Notre-Dame",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_039",
+    "nom": "Frollo",
+    "film_origine": "Le Bossu de Notre-Dame",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_040",
+    "nom": "Hercule",
+    "film_origine": "Hercule",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_041",
+    "nom": "Hadès",
+    "film_origine": "Hercule",
+    "studio": "Disney",
+    "type": "Créature",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_042",
+    "nom": "Mulan",
+    "film_origine": "Mulan",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_043",
+    "nom": "Mushu",
+    "film_origine": "Mulan",
+    "studio": "Disney",
+    "type": "Créature",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_044",
+    "nom": "Stitch",
+    "film_origine": "Lilo & Stitch",
+    "studio": "Disney",
+    "type": "Créature",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_045",
+    "nom": "Lilo",
+    "film_origine": "Lilo & Stitch",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_046",
+    "nom": "Raiponce",
+    "film_origine": "Raiponce",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_047",
+    "nom": "Flynn Rider",
+    "film_origine": "Raiponce",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_048",
+    "nom": "Mère Gothel",
+    "film_origine": "Raiponce",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_049",
+    "nom": "Ralph",
+    "film_origine": "Les Mondes de Ralph",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_050",
+    "nom": "Vanellope",
+    "film_origine": "Les Mondes de Ralph",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_051",
+    "nom": "Elsa",
+    "film_origine": "La Reine des neiges",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_052",
+    "nom": "Anna",
+    "film_origine": "La Reine des neiges",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_053",
+    "nom": "Olaf",
+    "film_origine": "La Reine des neiges",
+    "studio": "Disney",
+    "type": "Créature",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_054",
+    "nom": "Kristoff",
+    "film_origine": "La Reine des neiges",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_055",
+    "nom": "Baymax",
+    "film_origine": "Les Nouveaux Héros",
+    "studio": "Disney",
+    "type": "Robot",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_056",
+    "nom": "Judy Hopps",
+    "film_origine": "Zootopie",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_057",
+    "nom": "Nick Wilde",
+    "film_origine": "Zootopie",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_058",
+    "nom": "Vaiana",
+    "film_origine": "Vaiana, la légende du bout du monde",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_059",
+    "nom": "Maui",
+    "film_origine": "Vaiana, la légende du bout du monde",
+    "studio": "Disney",
+    "type": "Créature",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_060",
+    "nom": "Mirabel",
+    "film_origine": "Encanto, la fantastique famille Madrigal",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_061",
+    "nom": "Raya",
+    "film_origine": "Raya et le Dernier Dragon",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_062",
+    "nom": "Woody",
+    "film_origine": "Toy Story",
+    "studio": "Pixar",
+    "type": "Jouet",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_063",
+    "nom": "Buzz l'Éclair",
+    "film_origine": "Toy Story",
+    "studio": "Pixar",
+    "type": "Jouet",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_064",
+    "nom": "Rex",
+    "film_origine": "Toy Story",
+    "studio": "Pixar",
+    "type": "Jouet",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_065",
+    "nom": "Sid",
+    "film_origine": "Toy Story",
+    "studio": "Pixar",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_066",
+    "nom": "Sulli",
+    "film_origine": "Monstres & Cie",
+    "studio": "Pixar",
+    "type": "Monstre",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_067",
+    "nom": "Bob Razowski",
+    "film_origine": "Monstres & Cie",
+    "studio": "Pixar",
+    "type": "Monstre",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_068",
+    "nom": "Boo",
+    "film_origine": "Monstres & Cie",
+    "studio": "Pixar",
+    "type": "Humain",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_069",
+    "nom": "Marin",
+    "film_origine": "Le Monde de Nemo",
+    "studio": "Pixar",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_070",
+    "nom": "Dory",
+    "film_origine": "Le Monde de Nemo",
+    "studio": "Pixar",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_071",
+    "nom": "Nemo",
+    "film_origine": "Le Monde de Nemo",
+    "studio": "Pixar",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_072",
+    "nom": "Mr Indestructible",
+    "film_origine": "Les Indestructibles",
+    "studio": "Pixar",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_073",
+    "nom": "Elastigirl",
+    "film_origine": "Les Indestructibles",
+    "studio": "Pixar",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_074",
+    "nom": "Edna Mode",
+    "film_origine": "Les Indestructibles",
+    "studio": "Pixar",
+    "type": "Humain",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_075",
+    "nom": "Syndrome",
+    "film_origine": "Les Indestructibles",
+    "studio": "Pixar",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_076",
+    "nom": "Flash McQueen",
+    "film_origine": "Cars",
+    "studio": "Pixar",
+    "type": "Véhicule",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_077",
+    "nom": "Martin",
+    "film_origine": "Cars",
+    "studio": "Pixar",
+    "type": "Véhicule",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_078",
+    "nom": "Rémy",
+    "film_origine": "Ratatouille",
+    "studio": "Pixar",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_079",
+    "nom": "Linguini",
+    "film_origine": "Ratatouille",
+    "studio": "Pixar",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_080",
+    "nom": "Anton Ego",
+    "film_origine": "Ratatouille",
+    "studio": "Pixar",
+    "type": "Humain",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_081",
+    "nom": "WALL-E",
+    "film_origine": "WALL-E",
+    "studio": "Pixar",
+    "type": "Robot",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_082",
+    "nom": "EVE",
+    "film_origine": "WALL-E",
+    "studio": "Pixar",
+    "type": "Robot",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_083",
+    "nom": "Carl Fredricksen",
+    "film_origine": "Là-haut",
+    "studio": "Pixar",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_084",
+    "nom": "Doug",
+    "film_origine": "Là-haut",
+    "studio": "Pixar",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_085",
+    "nom": "Merida",
+    "film_origine": "Rebelle",
+    "studio": "Pixar",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_086",
+    "nom": "Joie",
+    "film_origine": "Vice-versa",
+    "studio": "Pixar",
+    "type": "Créature",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_087",
+    "nom": "Tristesse",
+    "film_origine": "Vice-versa",
+    "studio": "Pixar",
+    "type": "Créature",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_088",
+    "nom": "Miguel",
+    "film_origine": "Coco",
+    "studio": "Pixar",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_089",
+    "nom": "Hector",
+    "film_origine": "Coco",
+    "studio": "Pixar",
+    "type": "Humain",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_090",
+    "nom": "Shrek",
+    "film_origine": "Shrek",
+    "studio": "DreamWorks",
+    "type": "Monstre",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_091",
+    "nom": "L'Âne",
+    "film_origine": "Shrek",
+    "studio": "DreamWorks",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_092",
+    "nom": "Fiona",
+    "film_origine": "Shrek",
+    "studio": "DreamWorks",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_093",
+    "nom": "Lord Farquaad",
+    "film_origine": "Shrek",
+    "studio": "DreamWorks",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_094",
+    "nom": "Alex le lion",
+    "film_origine": "Madagascar",
+    "studio": "DreamWorks",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_095",
+    "nom": "Marty le zèbre",
+    "film_origine": "Madagascar",
+    "studio": "DreamWorks",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_096",
+    "nom": "Po",
+    "film_origine": "Kung Fu Panda",
+    "studio": "DreamWorks",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_097",
+    "nom": "Maître Shifu",
+    "film_origine": "Kung Fu Panda",
+    "studio": "DreamWorks",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_098",
+    "nom": "Tai Lung",
+    "film_origine": "Kung Fu Panda",
+    "studio": "DreamWorks",
+    "type": "Animal",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_099",
+    "nom": "Harold",
+    "film_origine": "Dragons",
+    "studio": "DreamWorks",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_100",
+    "nom": "Krokmou",
+    "film_origine": "Dragons",
+    "studio": "DreamWorks",
+    "type": "Créature",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_101",
+    "nom": "Gru",
+    "film_origine": "Moi, moche et méchant",
+    "studio": "Illumination",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_102",
+    "nom": "Le Grinch",
+    "film_origine": "Le Grinch",
+    "studio": "Illumination",
+    "type": "Créature",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_103",
+    "nom": "Wallace",
+    "film_origine": "Wallace & Gromit : Le Mystère du lapin-garou",
+    "studio": "Aardman",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_104",
+    "nom": "Gromit",
+    "film_origine": "Wallace & Gromit : Le Mystère du lapin-garou",
+    "studio": "Aardman",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_105",
+    "nom": "Sid le paresseux",
+    "film_origine": "L'Âge de glace",
+    "studio": "Blue Sky",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_106",
+    "nom": "Totoro",
+    "film_origine": "Mon voisin Totoro",
+    "studio": "Studio Ghibli",
+    "type": "Créature",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_107",
+    "nom": "Chihiro",
+    "film_origine": "Le Voyage de Chihiro",
+    "studio": "Studio Ghibli",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_108",
+    "nom": "Sans-Visage",
+    "film_origine": "Le Voyage de Chihiro",
+    "studio": "Studio Ghibli",
+    "type": "Esprit",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_109",
+    "nom": "Haku",
+    "film_origine": "Le Voyage de Chihiro",
+    "studio": "Studio Ghibli",
+    "type": "Esprit",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_110",
+    "nom": "San",
+    "film_origine": "Princesse Mononoké",
+    "studio": "Studio Ghibli",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_111",
+    "nom": "Ashitaka",
+    "film_origine": "Princesse Mononoké",
+    "studio": "Studio Ghibli",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_112",
+    "nom": "Hauru",
+    "film_origine": "Le Château ambulant",
+    "studio": "Studio Ghibli",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_113",
+    "nom": "Kiki",
+    "film_origine": "Kiki la petite sorcière",
+    "studio": "Studio Ghibli",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_114",
+    "nom": "Ponyo",
+    "film_origine": "Ponyo sur la falaise",
+    "studio": "Studio Ghibli",
+    "type": "Créature",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_115",
+    "nom": "Porco Rosso",
+    "film_origine": "Porco Rosso",
+    "studio": "Studio Ghibli",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_116",
+    "nom": "Coraline",
+    "film_origine": "Coraline",
+    "studio": "Laika",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_117",
+    "nom": "Miles Morales",
+    "film_origine": "Spider-Man : New Generation",
+    "studio": "Sony Animation",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_118",
+    "nom": "Emmet",
+    "film_origine": "La Grande Aventure Lego",
+    "studio": "Warner",
+    "type": "Jouet",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_119",
+    "nom": "Tintin",
+    "film_origine": "Les Aventures de Tintin : Le Secret de La Licorne",
+    "studio": "Autre",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_120",
+    "nom": "Le Capitaine Haddock",
+    "film_origine": "Les Aventures de Tintin : Le Secret de La Licorne",
+    "studio": "Autre",
+    "type": "Humain",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_121",
+    "nom": "Kirikou",
+    "film_origine": "Kirikou et la Sorcière",
+    "studio": "Autre",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_122",
+    "nom": "Roz",
+    "film_origine": "Le Robot sauvage",
+    "studio": "DreamWorks",
+    "type": "Robot",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_123",
+    "nom": "Poppy",
+    "film_origine": "Trolls",
+    "studio": "DreamWorks",
+    "type": "Créature",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_124",
+    "nom": "Megamind",
+    "film_origine": "Megamind",
+    "studio": "DreamWorks",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_125",
+    "nom": "Dumbo",
+    "film_origine": "Dumbo",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_126",
+    "nom": "Timothée",
+    "film_origine": "Dumbo",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_127",
+    "nom": "Cruella d'Enfer",
+    "film_origine": "Les 101 Dalmatiens",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_128",
+    "nom": "Pongo",
+    "film_origine": "Les 101 Dalmatiens",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_129",
+    "nom": "Duchesse",
+    "film_origine": "Les Aristochats",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_130",
+    "nom": "Thomas O'Malley",
+    "film_origine": "Les Aristochats",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_131",
+    "nom": "Madame Médusa",
+    "film_origine": "Les Aventures de Bernard et Bianca",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_132",
+    "nom": "Bernard",
+    "film_origine": "Les Aventures de Bernard et Bianca",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_133",
+    "nom": "Bianca",
+    "film_origine": "Les Aventures de Bernard et Bianca",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_134",
+    "nom": "Kuzco",
+    "film_origine": "Les Nouvelles Aventures de l'empereur",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_135",
+    "nom": "Yzma",
+    "film_origine": "Les Nouvelles Aventures de l'empereur",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_136",
+    "nom": "Kronk",
+    "film_origine": "Les Nouvelles Aventures de l'empereur",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_137",
+    "nom": "Pacha",
+    "film_origine": "Les Nouvelles Aventures de l'empereur",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_138",
+    "nom": "Lewis Robinson",
+    "film_origine": "Bienvenue chez les Robinson",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_139",
+    "nom": "Le Chapeau Melon",
+    "film_origine": "Bienvenue chez les Robinson",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_140",
+    "nom": "Jessie",
+    "film_origine": "Toy Story 2",
+    "studio": "Pixar",
+    "type": "Jouet",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_141",
+    "nom": "Zurg",
+    "film_origine": "Toy Story 2",
+    "studio": "Pixar",
+    "type": "Robot",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_142",
+    "nom": "Stinky Pete",
+    "film_origine": "Toy Story 2",
+    "studio": "Pixar",
+    "type": "Jouet",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_143",
+    "nom": "Wendy",
+    "film_origine": "Peter Pan",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_144",
+    "nom": "Bagheera",
+    "film_origine": "Le Livre de la jungle",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_145",
+    "nom": "Kaa",
+    "film_origine": "Le Livre de la jungle",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_146",
+    "nom": "Le Roi Louie",
+    "film_origine": "Le Livre de la jungle",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_147",
+    "nom": "Polochon",
+    "film_origine": "La Petite Sirène",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_148",
+    "nom": "Triton",
+    "film_origine": "La Petite Sirène",
+    "studio": "Disney",
+    "type": "Créature",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_149",
+    "nom": "Mme Samovar",
+    "film_origine": "La Belle et la Bête",
+    "studio": "Disney",
+    "type": "Objet",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_150",
+    "nom": "Big Ben",
+    "film_origine": "La Belle et la Bête",
+    "studio": "Disney",
+    "type": "Objet",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_151",
+    "nom": "Abu",
+    "film_origine": "Aladdin",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_152",
+    "nom": "Iago",
+    "film_origine": "Aladdin",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_153",
+    "nom": "Rafiki",
+    "film_origine": "Le Roi Lion",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_154",
+    "nom": "Nala",
+    "film_origine": "Le Roi Lion",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_155",
+    "nom": "Zazu",
+    "film_origine": "Le Roi Lion",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_156",
+    "nom": "Mégara",
+    "film_origine": "Hercule",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_157",
+    "nom": "Philoctète",
+    "film_origine": "Hercule",
+    "studio": "Disney",
+    "type": "Créature",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_158",
+    "nom": "Pégase",
+    "film_origine": "Hercule",
+    "studio": "Disney",
+    "type": "Créature",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_159",
+    "nom": "Shang",
+    "film_origine": "Mulan",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_160",
+    "nom": "Nani",
+    "film_origine": "Lilo & Stitch",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_161",
+    "nom": "Pascal",
+    "film_origine": "Raiponce",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_162",
+    "nom": "Maximus",
+    "film_origine": "Raiponce",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_163",
+    "nom": "Hans",
+    "film_origine": "La Reine des neiges",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_164",
+    "nom": "Sven",
+    "film_origine": "La Reine des neiges",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_165",
+    "nom": "Chef Bogo",
+    "film_origine": "Zootopie",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_166",
+    "nom": "Clawhauser",
+    "film_origine": "Zootopie",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_167",
+    "nom": "Tamatoa",
+    "film_origine": "Vaiana, la légende du bout du monde",
+    "studio": "Disney",
+    "type": "Créature",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_168",
+    "nom": "Heihei",
+    "film_origine": "Vaiana, la légende du bout du monde",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_169",
+    "nom": "Bruno Madrigal",
+    "film_origine": "Encanto, la fantastique famille Madrigal",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_170",
+    "nom": "Luisa",
+    "film_origine": "Encanto, la fantastique famille Madrigal",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_171",
+    "nom": "Abuela Alma",
+    "film_origine": "Encanto, la fantastique famille Madrigal",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_172",
+    "nom": "Sisu",
+    "film_origine": "Raya et le Dernier Dragon",
+    "studio": "Disney",
+    "type": "Créature",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_173",
+    "nom": "Namaari",
+    "film_origine": "Raya et le Dernier Dragon",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_174",
+    "nom": "Hiro Hamada",
+    "film_origine": "Les Nouveaux Héros",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_175",
+    "nom": "Go Go",
+    "film_origine": "Les Nouveaux Héros",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_176",
+    "nom": "Mr Patate",
+    "film_origine": "Toy Story",
+    "studio": "Pixar",
+    "type": "Jouet",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_177",
+    "nom": "Hamm",
+    "film_origine": "Toy Story",
+    "studio": "Pixar",
+    "type": "Jouet",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_178",
+    "nom": "Bo la Bergère",
+    "film_origine": "Toy Story",
+    "studio": "Pixar",
+    "type": "Jouet",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_179",
+    "nom": "Lotso",
+    "film_origine": "Toy Story 3",
+    "studio": "Pixar",
+    "type": "Jouet",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_180",
+    "nom": "Ken",
+    "film_origine": "Toy Story 3",
+    "studio": "Pixar",
+    "type": "Jouet",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_181",
+    "nom": "Forky",
+    "film_origine": "Toy Story 4",
+    "studio": "Pixar",
+    "type": "Jouet",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_182",
+    "nom": "Duke Caboom",
+    "film_origine": "Toy Story 4",
+    "studio": "Pixar",
+    "type": "Jouet",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_183",
+    "nom": "Randall",
+    "film_origine": "Monstres & Cie",
+    "studio": "Pixar",
+    "type": "Monstre",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_184",
+    "nom": "Bruce",
+    "film_origine": "Le Monde de Nemo",
+    "studio": "Pixar",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_185",
+    "nom": "Crush",
+    "film_origine": "Le Monde de Nemo",
+    "studio": "Pixar",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_186",
+    "nom": "Violette Parr",
+    "film_origine": "Les Indestructibles",
+    "studio": "Pixar",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_187",
+    "nom": "Sally",
+    "film_origine": "Cars",
+    "studio": "Pixar",
+    "type": "Véhicule",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_188",
+    "nom": "Doc Hudson",
+    "film_origine": "Cars",
+    "studio": "Pixar",
+    "type": "Véhicule",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_189",
+    "nom": "Colette",
+    "film_origine": "Ratatouille",
+    "studio": "Pixar",
+    "type": "Humain",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_190",
+    "nom": "Russell",
+    "film_origine": "Là-haut",
+    "studio": "Pixar",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_191",
+    "nom": "Charles Muntz",
+    "film_origine": "Là-haut",
+    "studio": "Pixar",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_192",
+    "nom": "Kevin",
+    "film_origine": "Là-haut",
+    "studio": "Pixar",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_193",
+    "nom": "Reine Elinor",
+    "film_origine": "Rebelle",
+    "studio": "Pixar",
+    "type": "Humain",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_194",
+    "nom": "Colère",
+    "film_origine": "Vice-versa",
+    "studio": "Pixar",
+    "type": "Créature",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_195",
+    "nom": "Peur",
+    "film_origine": "Vice-versa",
+    "studio": "Pixar",
+    "type": "Créature",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_196",
+    "nom": "Dégoût",
+    "film_origine": "Vice-versa",
+    "studio": "Pixar",
+    "type": "Créature",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_197",
+    "nom": "Bing Bong",
+    "film_origine": "Vice-versa",
+    "studio": "Pixar",
+    "type": "Créature",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_198",
+    "nom": "Ernesto de la Cruz",
+    "film_origine": "Coco",
+    "studio": "Pixar",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_199",
+    "nom": "Dante",
+    "film_origine": "Coco",
+    "studio": "Pixar",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_200",
+    "nom": "Hank",
+    "film_origine": "Le Monde de Dory",
+    "studio": "Pixar",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_201",
+    "nom": "Alberto",
+    "film_origine": "Luca",
+    "studio": "Pixar",
+    "type": "Créature",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_202",
+    "nom": "Giulia",
+    "film_origine": "Luca",
+    "studio": "Pixar",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_203",
+    "nom": "Flam",
+    "film_origine": "Élémentaire",
+    "studio": "Pixar",
+    "type": "Esprit",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_204",
+    "nom": "Ondine",
+    "film_origine": "Élémentaire",
+    "studio": "Pixar",
+    "type": "Esprit",
+    "role": "Héros",
+    "sexe": "Homme"
+  }
+]
