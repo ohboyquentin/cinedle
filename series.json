@@ -11,7 +11,7 @@
     "statut": "Terminée",
     "acteur_principal": "Bryan Cranston",
     "lieu_culte": "assets/lieux/breaking_bad.jpg",
-    "titre_episode_culte": "Ozymandias",
+    "titre_episode_culte": "La Mouche",
     "generique": {
       "titre": "Main Title Theme",
       "artiste": "Dave Porter",
@@ -35,7 +35,7 @@
     "statut": "Terminée",
     "acteur_principal": "Jennifer Aniston",
     "lieu_culte": "assets/lieux/friends.jpg",
-    "titre_episode_culte": "The Last One",
+    "titre_episode_culte": "Celui qui découvre tout",
     "generique": {
       "titre": "I'll Be There for You",
       "artiste": "The Rembrandts",
@@ -59,7 +59,7 @@
     "statut": "Terminée",
     "acteur_principal": "Emilia Clarke",
     "lieu_culte": "assets/lieux/game_of_thrones.jpg",
-    "titre_episode_culte": "The Rains of Castamere",
+    "titre_episode_culte": "Les Noces Pourpres",
     "generique": {
       "titre": "Main Title",
       "artiste": "Ramin Djawadi",
@@ -83,7 +83,7 @@
     "statut": "En cours",
     "acteur_principal": "Millie Bobby Brown",
     "lieu_culte": "assets/lieux/stranger_things.jpg",
-    "titre_episode_culte": "The Vanishing of Will Byers",
+    "titre_episode_culte": "La Bataille de Starcourt",
     "generique": {
       "titre": "Stranger Things Theme",
       "artiste": "Kyle Dixon et Michael Stein",
@@ -131,7 +131,7 @@
     "statut": "Terminée",
     "acteur_principal": "Benedict Cumberbatch",
     "lieu_culte": "assets/lieux/sherlock.jpg",
-    "titre_episode_culte": "The Reichenbach Fall",
+    "titre_episode_culte": "La Chute du Reichenbach",
     "generique": {
       "titre": "Sherlock Main Title",
       "artiste": "David Arnold et Michael Price",
@@ -155,7 +155,7 @@
     "statut": "Terminée",
     "acteur_principal": "Cillian Murphy",
     "lieu_culte": "assets/lieux/peaky_blinders.jpg",
-    "titre_episode_culte": "Black Tuesday",
+    "titre_episode_culte": "Le choix de Tommy",
     "generique": {
       "titre": "Red Right Hand",
       "artiste": "Nick Cave and the Bad Seeds",
@@ -203,7 +203,7 @@
     "statut": "Terminée",
     "acteur_principal": "Claire Foy",
     "lieu_culte": "assets/lieux/the_crown.jpg",
-    "titre_episode_culte": "Hyde Park Corner",
+    "titre_episode_culte": "Aberfan",
     "generique": {
       "titre": "Main Title",
       "artiste": "Hans Zimmer et Rupert Gregson-Williams",
@@ -227,7 +227,7 @@
     "statut": "Terminée",
     "acteur_principal": "Louis Hofmann",
     "lieu_culte": "assets/lieux/dark.jpg",
-    "titre_episode_culte": "Secrets",
+    "titre_episode_culte": "Alpha und Omega (Alpha et Oméga)",
     "generique": {
       "titre": "Goodbye",
       "artiste": "Apparat",
@@ -251,7 +251,7 @@
     "statut": "Terminée",
     "acteur_principal": "Úrsula Corberó",
     "lieu_culte": "assets/lieux/la_casa_de_papel.jpg",
-    "titre_episode_culte": "Tokyo",
+    "titre_episode_culte": "48 mètres sous terre",
     "generique": {
       "titre": "Bella Ciao",
       "artiste": "Traditionnel",
@@ -323,7 +323,7 @@
     "statut": "En cours",
     "acteur_principal": "Matthew McConaughey",
     "lieu_culte": "assets/lieux/true_detective.jpg",
-    "titre_episode_culte": "The Long Bright Dark",
+    "titre_episode_culte": "Qui est là ? ( Who Goes There )",
     "generique": {
       "titre": "Far From Any Road",
       "artiste": "The Handsome Family",
@@ -371,7 +371,7 @@
     "statut": "En cours",
     "acteur_principal": "Pedro Pascal",
     "lieu_culte": "assets/lieux/mandalorian.jpg",
-    "titre_episode_culte": "Chapter 1",
+    "titre_episode_culte": "Chapitre 16 : Le Sauvetage",
     "generique": {
       "titre": "The Mandalorian Theme",
       "artiste": "Ludwig Göransson",
@@ -395,7 +395,7 @@
     "statut": "Terminée",
     "acteur_principal": "Kevin Spacey",
     "lieu_culte": "assets/lieux/house_of_cards.jpg",
-    "titre_episode_culte": "Chapter 1",
+    "titre_episode_culte": "Saison 1, Épisode 1 (Pilote)",
     "generique": {
       "titre": "Main Title",
       "artiste": "Jeff Beal",
@@ -419,7 +419,7 @@
     "statut": "Terminée",
     "acteur_principal": "Wagner Moura",
     "lieu_culte": "assets/lieux/narcos.jpg",
-    "titre_episode_culte": "Descenso",
+    "titre_episode_culte": "Descenso ( Tomber )",
     "generique": {
       "titre": "Tuyo",
       "artiste": "Rodrigo Amarante",
@@ -443,7 +443,7 @@
     "statut": "Terminée",
     "acteur_principal": "Wentworth Miller",
     "lieu_culte": "assets/lieux/prison_break.jpg",
-    "titre_episode_culte": "Pilot",
+    "titre_episode_culte": "La Grande Évasion / Pilot)",
     "generique": {
       "titre": "Prison Break Theme",
       "artiste": "Ramin Djawadi",
@@ -467,7 +467,7 @@
     "statut": "Terminée",
     "acteur_principal": "Josh Radnor",
     "lieu_culte": "assets/lieux/himym.jpg",
-    "titre_episode_culte": "Last Forever",
+    "titre_episode_culte": "L'Incident de l'ananas",
     "generique": {
       "titre": "Hey Beautiful",
       "artiste": "The Solids",
