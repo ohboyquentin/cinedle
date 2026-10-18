@@ -1158,5 +1158,725 @@
     "genre_film": "Science-fiction",
     "decennie_apparition": 2020,
     "sexe": "Autre"
+  },
+  {
+    "id": "perso_128",
+    "nom": "François Pignon",
+    "film_origine": "Le Dîner de cons",
+    "acteur": "Jacques Villeret",
+    "statut": "Héros",
+    "genre_film": "Comédie",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_129",
+    "nom": "Daniel Hillard",
+    "film_origine": "Mrs. Doubtfire",
+    "acteur": "Robin Williams",
+    "statut": "Héros",
+    "genre_film": "Comédie",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_130",
+    "nom": "Nicholas Angel",
+    "film_origine": "Hot Fuzz",
+    "acteur": "Simon Pegg",
+    "statut": "Héros",
+    "genre_film": "Comédie",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_131",
+    "nom": "Ace Ventura",
+    "film_origine": "Ace Ventura : Détective pour chiens et chats",
+    "acteur": "Jim Carrey",
+    "statut": "Héros",
+    "genre_film": "Comédie",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_132",
+    "nom": "Derek Zoolander",
+    "film_origine": "Zoolander",
+    "acteur": "Ben Stiller",
+    "statut": "Héros",
+    "genre_film": "Comédie",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_133",
+    "nom": "Mugatu",
+    "film_origine": "Zoolander",
+    "acteur": "Will Ferrell",
+    "statut": "Méchant",
+    "genre_film": "Comédie",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_134",
+    "nom": "Regan MacNeil",
+    "film_origine": "L'Exorciste",
+    "acteur": "Linda Blair",
+    "statut": "Second rôle",
+    "genre_film": "Horreur",
+    "decennie_apparition": 1970,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_135",
+    "nom": "Père Karras",
+    "film_origine": "L'Exorciste",
+    "acteur": "Jason Miller",
+    "statut": "Héros",
+    "genre_film": "Horreur",
+    "decennie_apparition": 1970,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_136",
+    "nom": "Ghostface",
+    "film_origine": "Scream",
+    "acteur": "Skeet Ulrich et Matthew Lillard",
+    "statut": "Méchant",
+    "genre_film": "Horreur",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_137",
+    "nom": "Sidney Prescott",
+    "film_origine": "Scream",
+    "acteur": "Neve Campbell",
+    "statut": "Héros",
+    "genre_film": "Horreur",
+    "decennie_apparition": 1990,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_138",
+    "nom": "Michael Myers",
+    "film_origine": "Halloween : La Nuit des masques",
+    "acteur": "Nick Castle",
+    "statut": "Méchant",
+    "genre_film": "Horreur",
+    "decennie_apparition": 1970,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_139",
+    "nom": "Laurie Strode",
+    "film_origine": "Halloween : La Nuit des masques",
+    "acteur": "Jamie Lee Curtis",
+    "statut": "Héros",
+    "genre_film": "Horreur",
+    "decennie_apparition": 1970,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_140",
+    "nom": "R.J. MacReady",
+    "film_origine": "The Thing",
+    "acteur": "Kurt Russell",
+    "statut": "Héros",
+    "genre_film": "Horreur",
+    "decennie_apparition": 1980,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_141",
+    "nom": "Annie Graham",
+    "film_origine": "Hérédité",
+    "acteur": "Toni Collette",
+    "statut": "Anti-héros",
+    "genre_film": "Horreur",
+    "decennie_apparition": 2010,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_142",
+    "nom": "Le Terminator (T-800)",
+    "film_origine": "Terminator",
+    "acteur": "Arnold Schwarzenegger",
+    "statut": "Méchant",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 1980,
+    "sexe": "Autre"
+  },
+  {
+    "id": "perso_143",
+    "nom": "Sarah Connor",
+    "film_origine": "Terminator",
+    "acteur": "Linda Hamilton",
+    "statut": "Héros",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 1980,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_144",
+    "nom": "Alex Murphy / RoboCop",
+    "film_origine": "RoboCop",
+    "acteur": "Peter Weller",
+    "statut": "Héros",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 1980,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_145",
+    "nom": "Le Predator",
+    "film_origine": "Predator",
+    "acteur": "Kevin Peter Hall",
+    "statut": "Méchant",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 1980,
+    "sexe": "Autre"
+  },
+  {
+    "id": "perso_146",
+    "nom": "Dutch",
+    "film_origine": "Predator",
+    "acteur": "Arnold Schwarzenegger",
+    "statut": "Héros",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 1980,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_147",
+    "nom": "Leeloo",
+    "film_origine": "Le Cinquième Élément",
+    "acteur": "Milla Jovovich",
+    "statut": "Héros",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 1990,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_148",
+    "nom": "Korben Dallas",
+    "film_origine": "Le Cinquième Élément",
+    "acteur": "Bruce Willis",
+    "statut": "Héros",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_149",
+    "nom": "Ava",
+    "film_origine": "Ex Machina",
+    "acteur": "Alicia Vikander",
+    "statut": "Anti-héros",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 2010,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_150",
+    "nom": "Ryan Stone",
+    "film_origine": "Gravity",
+    "acteur": "Sandra Bullock",
+    "statut": "Héros",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 2010,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_151",
+    "nom": "K",
+    "film_origine": "Blade Runner 2049",
+    "acteur": "Ryan Gosling",
+    "statut": "Héros",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_152",
+    "nom": "Joi",
+    "film_origine": "Blade Runner 2049",
+    "acteur": "Ana de Armas",
+    "statut": "Second rôle",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 2010,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_153",
+    "nom": "Le Protagoniste",
+    "film_origine": "Tenet",
+    "acteur": "John David Washington",
+    "statut": "Héros",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 2020,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_154",
+    "nom": "Maverick",
+    "film_origine": "Top Gun",
+    "acteur": "Tom Cruise",
+    "statut": "Héros",
+    "genre_film": "Action",
+    "decennie_apparition": 1980,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_155",
+    "nom": "Iceman",
+    "film_origine": "Top Gun",
+    "acteur": "Val Kilmer",
+    "statut": "Second rôle",
+    "genre_film": "Action",
+    "decennie_apparition": 1980,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_156",
+    "nom": "Ethan Hunt",
+    "film_origine": "Mission: Impossible",
+    "acteur": "Tom Cruise",
+    "statut": "Héros",
+    "genre_film": "Action",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_157",
+    "nom": "Frank Martin",
+    "film_origine": "Le Transporteur",
+    "acteur": "Jason Statham",
+    "statut": "Anti-héros",
+    "genre_film": "Action",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_158",
+    "nom": "Martin Riggs",
+    "film_origine": "L'Arme fatale",
+    "acteur": "Mel Gibson",
+    "statut": "Héros",
+    "genre_film": "Action",
+    "decennie_apparition": 1980,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_159",
+    "nom": "Roger Murtaugh",
+    "film_origine": "L'Arme fatale",
+    "acteur": "Danny Glover",
+    "statut": "Héros",
+    "genre_film": "Action",
+    "decennie_apparition": 1980,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_160",
+    "nom": "Verbal Kint",
+    "film_origine": "Usual Suspects",
+    "acteur": "Kevin Spacey",
+    "statut": "Anti-héros",
+    "genre_film": "Thriller",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_161",
+    "nom": "Keyser Söze",
+    "film_origine": "Usual Suspects",
+    "acteur": "Kevin Spacey",
+    "statut": "Méchant",
+    "genre_film": "Thriller",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_162",
+    "nom": "Cole Sear",
+    "film_origine": "Sixième Sens",
+    "acteur": "Haley Joel Osment",
+    "statut": "Héros",
+    "genre_film": "Thriller",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_163",
+    "nom": "Malcolm Crowe",
+    "film_origine": "Sixième Sens",
+    "acteur": "Bruce Willis",
+    "statut": "Héros",
+    "genre_film": "Thriller",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_164",
+    "nom": "Nina Sayers",
+    "film_origine": "Black Swan",
+    "acteur": "Natalie Portman",
+    "statut": "Anti-héros",
+    "genre_film": "Thriller",
+    "decennie_apparition": 2010,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_165",
+    "nom": "Betty Elms",
+    "film_origine": "Mulholland Drive",
+    "acteur": "Naomi Watts",
+    "statut": "Héros",
+    "genre_film": "Thriller",
+    "decennie_apparition": 2000,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_166",
+    "nom": "Rita",
+    "film_origine": "Mulholland Drive",
+    "acteur": "Laura Harring",
+    "statut": "Second rôle",
+    "genre_film": "Thriller",
+    "decennie_apparition": 2000,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_167",
+    "nom": "Park Doo-man",
+    "film_origine": "Memories of Murder",
+    "acteur": "Song Kang-ho",
+    "statut": "Héros",
+    "genre_film": "Thriller",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_168",
+    "nom": "Vito Corleone (jeune)",
+    "film_origine": "Le Parrain, 2e partie",
+    "acteur": "Robert De Niro",
+    "statut": "Anti-héros",
+    "genre_film": "Drame",
+    "decennie_apparition": 1970,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_169",
+    "nom": "Oskar Schindler",
+    "film_origine": "La Liste de Schindler",
+    "acteur": "Liam Neeson",
+    "statut": "Héros",
+    "genre_film": "Drame",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_170",
+    "nom": "Amon Göth",
+    "film_origine": "La Liste de Schindler",
+    "acteur": "Ralph Fiennes",
+    "statut": "Méchant",
+    "genre_film": "Drame",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_171",
+    "nom": "Władysław Szpilman",
+    "film_origine": "Le Pianiste",
+    "acteur": "Adrien Brody",
+    "statut": "Héros",
+    "genre_film": "Guerre",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_172",
+    "nom": "Charles Foster Kane",
+    "film_origine": "Citizen Kane",
+    "acteur": "Orson Welles",
+    "statut": "Anti-héros",
+    "genre_film": "Drame",
+    "decennie_apparition": 1940,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_173",
+    "nom": "Don Lockwood",
+    "film_origine": "Chantons sous la pluie",
+    "acteur": "Gene Kelly",
+    "statut": "Héros",
+    "genre_film": "Comédie musicale",
+    "decennie_apparition": 1950,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_174",
+    "nom": "Harmonica",
+    "film_origine": "Il était une fois dans l'Ouest",
+    "acteur": "Charles Bronson",
+    "statut": "Héros",
+    "genre_film": "Western",
+    "decennie_apparition": 1960,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_175",
+    "nom": "William Munny",
+    "film_origine": "Impitoyable",
+    "acteur": "Clint Eastwood",
+    "statut": "Anti-héros",
+    "genre_film": "Western",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_176",
+    "nom": "Chris Adams",
+    "film_origine": "Les Sept Mercenaires",
+    "acteur": "Yul Brynner",
+    "statut": "Héros",
+    "genre_film": "Western",
+    "decennie_apparition": 1960,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_177",
+    "nom": "Tommy",
+    "film_origine": "Dunkerque",
+    "acteur": "Fionn Whitehead",
+    "statut": "Héros",
+    "genre_film": "Guerre",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_178",
+    "nom": "Schofield",
+    "film_origine": "1917",
+    "acteur": "George MacKay",
+    "statut": "Héros",
+    "genre_film": "Guerre",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_179",
+    "nom": "Gollum",
+    "film_origine": "Le Seigneur des Anneaux : Les Deux Tours",
+    "acteur": "Andy Serkis",
+    "statut": "Anti-héros",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 2000,
+    "sexe": "Autre"
+  },
+  {
+    "id": "perso_180",
+    "nom": "Aragorn",
+    "film_origine": "Le Seigneur des Anneaux : Les Deux Tours",
+    "acteur": "Viggo Mortensen",
+    "statut": "Héros",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_181",
+    "nom": "Sauron",
+    "film_origine": "Le Seigneur des Anneaux : Le Retour du roi",
+    "acteur": "Sala Baker",
+    "statut": "Méchant",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 2000,
+    "sexe": "Autre"
+  },
+  {
+    "id": "perso_182",
+    "nom": "Yoda",
+    "film_origine": "Star Wars : L'Empire contre-attaque",
+    "acteur": "Frank Oz",
+    "statut": "Second rôle",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 1980,
+    "sexe": "Autre"
+  },
+  {
+    "id": "perso_183",
+    "nom": "Han Solo",
+    "film_origine": "Star Wars : L'Empire contre-attaque",
+    "acteur": "Harrison Ford",
+    "statut": "Anti-héros",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 1980,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_184",
+    "nom": "Peter Parker",
+    "film_origine": "Spider-Man",
+    "acteur": "Tobey Maguire",
+    "statut": "Héros",
+    "genre_film": "Action",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_185",
+    "nom": "Le Bouffon vert",
+    "film_origine": "Spider-Man",
+    "acteur": "Willem Dafoe",
+    "statut": "Méchant",
+    "genre_film": "Action",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_186",
+    "nom": "T'Challa",
+    "film_origine": "Black Panther",
+    "acteur": "Chadwick Boseman",
+    "statut": "Héros",
+    "genre_film": "Action",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_187",
+    "nom": "Killmonger",
+    "film_origine": "Black Panther",
+    "acteur": "Michael B. Jordan",
+    "statut": "Méchant",
+    "genre_film": "Action",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_188",
+    "nom": "Bilbon Sacquet",
+    "film_origine": "Le Hobbit : Un voyage inattendu",
+    "acteur": "Martin Freeman",
+    "statut": "Héros",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_189",
+    "nom": "Thorin Écu-de-Chêne",
+    "film_origine": "Le Hobbit : Un voyage inattendu",
+    "acteur": "Richard Armitage",
+    "statut": "Héros",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_190",
+    "nom": "Smaug",
+    "film_origine": "Le Hobbit : Un voyage inattendu",
+    "acteur": "Benedict Cumberbatch",
+    "statut": "Méchant",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 2010,
+    "sexe": "Autre"
+  },
+  {
+    "id": "perso_191",
+    "nom": "Satine",
+    "film_origine": "Moulin Rouge !",
+    "acteur": "Nicole Kidman",
+    "statut": "Héros",
+    "genre_film": "Comédie musicale",
+    "decennie_apparition": 2000,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_192",
+    "nom": "Freddie Mercury",
+    "film_origine": "Bohemian Rhapsody",
+    "acteur": "Rami Malek",
+    "statut": "Héros",
+    "genre_film": "Biopic",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_193",
+    "nom": "Danny Zuko",
+    "film_origine": "Grease",
+    "acteur": "John Travolta",
+    "statut": "Héros",
+    "genre_film": "Comédie musicale",
+    "decennie_apparition": 1970,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_194",
+    "nom": "Sandy Olsson",
+    "film_origine": "Grease",
+    "acteur": "Olivia Newton-John",
+    "statut": "Héros",
+    "genre_film": "Comédie musicale",
+    "decennie_apparition": 1970,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_195",
+    "nom": "Frank (le tueur de l'Ouest)",
+    "film_origine": "Il était une fois dans l'Ouest",
+    "acteur": "Henry Fonda",
+    "statut": "Méchant",
+    "genre_film": "Western",
+    "decennie_apparition": 1960,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_196",
+    "nom": "Godefroy de Montmirail",
+    "film_origine": "Les Visiteurs",
+    "acteur": "Jean Reno",
+    "statut": "Héros",
+    "genre_film": "Comédie",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_197",
+    "nom": "Zézette",
+    "film_origine": "Le Père Noël est une ordure",
+    "acteur": "Anémone",
+    "statut": "Héros",
+    "genre_film": "Comédie",
+    "decennie_apparition": 1980,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_198",
+    "nom": "Jean-Claude Dusse",
+    "film_origine": "Les Bronzés font du ski",
+    "acteur": "Michel Blanc",
+    "statut": "Anti-héros",
+    "genre_film": "Comédie",
+    "decennie_apparition": 1970,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_199",
+    "nom": "Commissaire Gibert",
+    "film_origine": "Taxi",
+    "acteur": "Bernard Farcy",
+    "statut": "Second rôle",
+    "genre_film": "Comédie",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
   }
 ]

@@ -5462,5 +5462,1577 @@
       "📞",
       "🏛️"
     ]
+  },
+  {
+    "id": "film_162",
+    "titre": "Le Dîner de cons",
+    "realisateur": "Francis Veber",
+    "annee": 1998,
+    "genre": "Comédie",
+    "pays": "France",
+    "duree_minutes": 80,
+    "acteur_principal": "Jacques Villeret",
+    "affiche": "assets/affiches/le_diner_de_cons.jpg",
+    "repliques_cultes": [
+      "Il s'appelle Juste Leblanc."
+    ],
+    "audio_replique": "assets/audio/repliques/le_diner_de_cons.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/le_diner_de_cons_difficile.jpg",
+      "moyenne": "assets/images/le_diner_de_cons_moyenne.jpg",
+      "facile": "assets/images/le_diner_de_cons_facile.jpg"
+    },
+    "emojis": [
+      "🍽️",
+      "🤡",
+      "🗼",
+      "🔥",
+      "📞",
+      "🤕"
+    ]
+  },
+  {
+    "id": "film_163",
+    "titre": "Mrs. Doubtfire",
+    "realisateur": "Chris Columbus",
+    "annee": 1993,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 125,
+    "acteur_principal": "Robin Williams",
+    "affiche": "assets/affiches/mrs_doubtfire.jpg",
+    "repliques_cultes": [
+      "It was a run-by fruiting!"
+    ],
+    "audio_replique": "assets/audio/repliques/mrs_doubtfire.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/mrs_doubtfire_difficile.jpg",
+      "moyenne": "assets/images/mrs_doubtfire_moyenne.jpg",
+      "facile": "assets/images/mrs_doubtfire_facile.jpg"
+    },
+    "emojis": [
+      "👵",
+      "👨",
+      "🍽️",
+      "🔥",
+      "👨‍👧‍👦",
+      "⚖️"
+    ]
+  },
+  {
+    "id": "film_164",
+    "titre": "Hot Fuzz",
+    "realisateur": "Edgar Wright",
+    "annee": 2007,
+    "genre": "Comédie",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 121,
+    "acteur_principal": "Simon Pegg",
+    "affiche": "assets/affiches/hot_fuzz.jpg",
+    "repliques_cultes": [
+      "Have you ever fired two guns whilst jumping through the air?"
+    ],
+    "audio_replique": "assets/audio/repliques/hot_fuzz.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/hot_fuzz_difficile.jpg",
+      "moyenne": "assets/images/hot_fuzz_moyenne.jpg",
+      "facile": "assets/images/hot_fuzz_facile.jpg"
+    },
+    "emojis": [
+      "👮",
+      "🚓",
+      "🦢",
+      "🔫",
+      "🏡",
+      "🌹"
+    ]
+  },
+  {
+    "id": "film_165",
+    "titre": "Superbad",
+    "realisateur": "Greg Mottola",
+    "annee": 2007,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 113,
+    "acteur_principal": "Jonah Hill",
+    "affiche": "assets/affiches/superbad.jpg",
+    "repliques_cultes": [
+      "I am McLovin."
+    ],
+    "audio_replique": "assets/audio/repliques/superbad.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/superbad_difficile.jpg",
+      "moyenne": "assets/images/superbad_moyenne.jpg",
+      "facile": "assets/images/superbad_facile.jpg"
+    },
+    "emojis": [
+      "🍻",
+      "🪪",
+      "🚓",
+      "🎓",
+      "🎉",
+      "🧑‍🎓"
+    ]
+  },
+  {
+    "id": "film_166",
+    "titre": "Ace Ventura : Détective pour chiens et chats",
+    "realisateur": "Tom Shadyac",
+    "annee": 1994,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 86,
+    "acteur_principal": "Jim Carrey",
+    "affiche": "assets/affiches/ace_ventura_detective_pour_chiens_et_chats.jpg",
+    "repliques_cultes": [
+      "Alrighty then!"
+    ],
+    "audio_replique": "assets/audio/repliques/ace_ventura_detective_pour_chiens_et_chats.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/ace_ventura_detective_pour_chiens_et_chats_difficile.jpg",
+      "moyenne": "assets/images/ace_ventura_detective_pour_chiens_et_chats_moyenne.jpg",
+      "facile": "assets/images/ace_ventura_detective_pour_chiens_et_chats_facile.jpg"
+    },
+    "emojis": [
+      "🐬",
+      "🕵️",
+      "🐾",
+      "🏈",
+      "💎",
+      "🍑"
+    ]
+  },
+  {
+    "id": "film_167",
+    "titre": "Zoolander",
+    "realisateur": "Ben Stiller",
+    "annee": 2001,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 90,
+    "acteur_principal": "Ben Stiller",
+    "affiche": "assets/affiches/zoolander.jpg",
+    "repliques_cultes": [
+      "What is this? A center for ants?"
+    ],
+    "audio_replique": "assets/audio/repliques/zoolander.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/zoolander_difficile.jpg",
+      "moyenne": "assets/images/zoolander_moyenne.jpg",
+      "facile": "assets/images/zoolander_facile.jpg"
+    },
+    "emojis": [
+      "👗",
+      "🪞",
+      "😎",
+      "🧼",
+      "🏢",
+      "🧠"
+    ]
+  },
+  {
+    "id": "film_168",
+    "titre": "Retour à la fac",
+    "realisateur": "Todd Phillips",
+    "annee": 2003,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 91,
+    "acteur_principal": "Luke Wilson",
+    "affiche": "assets/affiches/retour_a_la_fac.jpg",
+    "repliques_cultes": [
+      "We're going streaking!"
+    ],
+    "audio_replique": "assets/audio/repliques/retour_a_la_fac.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/retour_a_la_fac_difficile.jpg",
+      "moyenne": "assets/images/retour_a_la_fac_moyenne.jpg",
+      "facile": "assets/images/retour_a_la_fac_facile.jpg"
+    },
+    "emojis": [
+      "🍺",
+      "🏫",
+      "🥋",
+      "🏃‍♂️",
+      "🎓",
+      "🧓"
+    ]
+  },
+  {
+    "id": "film_169",
+    "titre": "L'Exorciste",
+    "realisateur": "William Friedkin",
+    "annee": 1973,
+    "genre": "Horreur",
+    "pays": "États-Unis",
+    "duree_minutes": 122,
+    "acteur_principal": "Ellen Burstyn",
+    "affiche": "assets/affiches/l_exorciste.jpg",
+    "repliques_cultes": [
+      "The power of Christ compels you!"
+    ],
+    "replique_vf": "La puissance du Christ te l'ordonne !",
+    "audio_replique": "assets/audio/repliques/l_exorciste.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/l_exorciste_difficile.jpg",
+      "moyenne": "assets/images/l_exorciste_moyenne.jpg",
+      "facile": "assets/images/l_exorciste_facile.jpg"
+    },
+    "emojis": [
+      "🧒",
+      "✝️",
+      "🪜",
+      "🏚️",
+      "😈",
+      "🤮"
+    ]
+  },
+  {
+    "id": "film_170",
+    "titre": "Scream",
+    "realisateur": "Wes Craven",
+    "annee": 1996,
+    "genre": "Horreur",
+    "pays": "États-Unis",
+    "duree_minutes": 111,
+    "acteur_principal": "Neve Campbell",
+    "affiche": "assets/affiches/scream.jpg",
+    "repliques_cultes": [
+      "What's your favorite scary movie?"
+    ],
+    "replique_vf": "C'est quoi ton film d'horreur préféré ?",
+    "audio_replique": "assets/audio/repliques/scream.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/scream_difficile.jpg",
+      "moyenne": "assets/images/scream_moyenne.jpg",
+      "facile": "assets/images/scream_facile.jpg"
+    },
+    "emojis": [
+      "📞",
+      "🔪",
+      "👻",
+      "🎭",
+      "🏠",
+      "🎬"
+    ]
+  },
+  {
+    "id": "film_171",
+    "titre": "Halloween : La Nuit des masques",
+    "realisateur": "John Carpenter",
+    "annee": 1978,
+    "genre": "Horreur",
+    "pays": "États-Unis",
+    "duree_minutes": 91,
+    "acteur_principal": "Jamie Lee Curtis",
+    "affiche": "assets/affiches/halloween_la_nuit_des_masques.jpg",
+    "repliques_cultes": [
+      "It's Halloween. Everyone's entitled to one good scare."
+    ],
+    "audio_replique": "assets/audio/repliques/halloween_la_nuit_des_masques.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/halloween_la_nuit_des_masques_difficile.jpg",
+      "moyenne": "assets/images/halloween_la_nuit_des_masques_moyenne.jpg",
+      "facile": "assets/images/halloween_la_nuit_des_masques_facile.jpg"
+    },
+    "emojis": [
+      "🎃",
+      "🔪",
+      "🎭",
+      "🌙",
+      "🏠",
+      "👩"
+    ]
+  },
+  {
+    "id": "film_172",
+    "titre": "The Thing",
+    "realisateur": "John Carpenter",
+    "annee": 1982,
+    "genre": "Horreur",
+    "pays": "États-Unis",
+    "duree_minutes": 109,
+    "acteur_principal": "Kurt Russell",
+    "affiche": "assets/affiches/the_thing.jpg",
+    "repliques_cultes": [
+      "Nobody trusts anybody now, and we're all very tired."
+    ],
+    "audio_replique": "assets/audio/repliques/the_thing.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/the_thing_difficile.jpg",
+      "moyenne": "assets/images/the_thing_moyenne.jpg",
+      "facile": "assets/images/the_thing_facile.jpg"
+    },
+    "emojis": [
+      "❄️",
+      "🐕",
+      "👽",
+      "🔥",
+      "🩸",
+      "🔬"
+    ]
+  },
+  {
+    "id": "film_173",
+    "titre": "Hérédité",
+    "realisateur": "Ari Aster",
+    "annee": 2018,
+    "genre": "Horreur",
+    "pays": "États-Unis",
+    "duree_minutes": 127,
+    "acteur_principal": "Toni Collette",
+    "affiche": "assets/affiches/heredite.jpg",
+    "repliques_cultes": [
+      "I never wanted to be your mother."
+    ],
+    "audio_replique": "assets/audio/repliques/heredite.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/heredite_difficile.jpg",
+      "moyenne": "assets/images/heredite_moyenne.jpg",
+      "facile": "assets/images/heredite_facile.jpg"
+    },
+    "emojis": [
+      "🏡",
+      "👵",
+      "👧",
+      "🪵",
+      "🕯️",
+      "👹"
+    ]
+  },
+  {
+    "id": "film_174",
+    "titre": "Terminator",
+    "realisateur": "James Cameron",
+    "annee": 1984,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 107,
+    "acteur_principal": "Arnold Schwarzenegger",
+    "affiche": "assets/affiches/terminator.jpg",
+    "repliques_cultes": [
+      "I'll be back."
+    ],
+    "replique_vf": "Je reviendrai.",
+    "audio_replique": "assets/audio/repliques/terminator.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/terminator_difficile.jpg",
+      "moyenne": "assets/images/terminator_moyenne.jpg",
+      "facile": "assets/images/terminator_facile.jpg"
+    },
+    "emojis": [
+      "🤖",
+      "🔫",
+      "🕶️",
+      "⏳",
+      "👩",
+      "🔥"
+    ]
+  },
+  {
+    "id": "film_175",
+    "titre": "RoboCop",
+    "realisateur": "Paul Verhoeven",
+    "annee": 1987,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 102,
+    "acteur_principal": "Peter Weller",
+    "affiche": "assets/affiches/robocop.jpg",
+    "repliques_cultes": [
+      "Dead or alive, you're coming with me."
+    ],
+    "replique_vf": "Mort ou vif, vous venez avec moi.",
+    "audio_replique": "assets/audio/repliques/robocop.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/robocop_difficile.jpg",
+      "moyenne": "assets/images/robocop_moyenne.jpg",
+      "facile": "assets/images/robocop_facile.jpg"
+    },
+    "emojis": [
+      "🤖",
+      "👮",
+      "🏙️",
+      "🔫",
+      "⚙️",
+      "🧠"
+    ]
+  },
+  {
+    "id": "film_176",
+    "titre": "Predator",
+    "realisateur": "John McTiernan",
+    "annee": 1987,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 107,
+    "acteur_principal": "Arnold Schwarzenegger",
+    "affiche": "assets/affiches/predator.jpg",
+    "repliques_cultes": [
+      "If it bleeds, we can kill it."
+    ],
+    "replique_vf": "S'il saigne, on peut le tuer.",
+    "audio_replique": "assets/audio/repliques/predator.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/predator_difficile.jpg",
+      "moyenne": "assets/images/predator_moyenne.jpg",
+      "facile": "assets/images/predator_facile.jpg"
+    },
+    "emojis": [
+      "🌴",
+      "👽",
+      "🔫",
+      "🔥",
+      "🩸",
+      "💪"
+    ]
+  },
+  {
+    "id": "film_177",
+    "titre": "Total Recall",
+    "realisateur": "Paul Verhoeven",
+    "annee": 1990,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 113,
+    "acteur_principal": "Arnold Schwarzenegger",
+    "affiche": "assets/affiches/total_recall.jpg",
+    "repliques_cultes": [
+      "Get your ass to Mars."
+    ],
+    "audio_replique": "assets/audio/repliques/total_recall.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/total_recall_difficile.jpg",
+      "moyenne": "assets/images/total_recall_moyenne.jpg",
+      "facile": "assets/images/total_recall_facile.jpg"
+    },
+    "emojis": [
+      "🔴",
+      "🧠",
+      "🪖",
+      "👩",
+      "👽",
+      "🚀"
+    ]
+  },
+  {
+    "id": "film_178",
+    "titre": "Le Cinquième Élément",
+    "realisateur": "Luc Besson",
+    "annee": 1997,
+    "genre": "Science-fiction",
+    "pays": "France",
+    "duree_minutes": 126,
+    "acteur_principal": "Bruce Willis",
+    "affiche": "assets/affiches/le_cinquieme_element.jpg",
+    "repliques_cultes": [
+      "Multipass!"
+    ],
+    "audio_replique": "assets/audio/repliques/le_cinquieme_element.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/le_cinquieme_element_difficile.jpg",
+      "moyenne": "assets/images/le_cinquieme_element_moyenne.jpg",
+      "facile": "assets/images/le_cinquieme_element_facile.jpg"
+    },
+    "emojis": [
+      "🚕",
+      "🏙️",
+      "👩‍🦰",
+      "🪨",
+      "🌍",
+      "🔟"
+    ]
+  },
+  {
+    "id": "film_179",
+    "titre": "Ex Machina",
+    "realisateur": "Alex Garland",
+    "annee": 2014,
+    "genre": "Science-fiction",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 108,
+    "acteur_principal": "Domhnall Gleeson",
+    "affiche": "assets/affiches/ex_machina.jpg",
+    "repliques_cultes": [
+      "Isn't it strange, to create something that hates you?"
+    ],
+    "audio_replique": "assets/audio/repliques/ex_machina.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/ex_machina_difficile.jpg",
+      "moyenne": "assets/images/ex_machina_moyenne.jpg",
+      "facile": "assets/images/ex_machina_facile.jpg"
+    },
+    "emojis": [
+      "🤖",
+      "🏔️",
+      "🧠",
+      "🔑",
+      "🚪",
+      "👩"
+    ]
+  },
+  {
+    "id": "film_180",
+    "titre": "Gravity",
+    "realisateur": "Alfonso Cuarón",
+    "annee": 2013,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 91,
+    "acteur_principal": "Sandra Bullock",
+    "affiche": "assets/affiches/gravity.jpg",
+    "repliques_cultes": [
+      "I hate space."
+    ],
+    "replique_vf": "Je déteste l'espace.",
+    "audio_replique": "assets/audio/repliques/gravity.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/gravity_difficile.jpg",
+      "moyenne": "assets/images/gravity_moyenne.jpg",
+      "facile": "assets/images/gravity_facile.jpg"
+    },
+    "emojis": [
+      "🚀",
+      "🛰️",
+      "🔥",
+      "🌍",
+      "🧑‍🚀",
+      "💥"
+    ]
+  },
+  {
+    "id": "film_181",
+    "titre": "Blade Runner 2049",
+    "realisateur": "Denis Villeneuve",
+    "annee": 2017,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 164,
+    "acteur_principal": "Ryan Gosling",
+    "affiche": "assets/affiches/blade_runner_2049.jpg",
+    "repliques_cultes": [
+      "You've never seen a miracle."
+    ],
+    "audio_replique": "assets/audio/repliques/blade_runner_2049.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/blade_runner_2049_difficile.jpg",
+      "moyenne": "assets/images/blade_runner_2049_moyenne.jpg",
+      "facile": "assets/images/blade_runner_2049_facile.jpg"
+    },
+    "emojis": [
+      "🌆",
+      "🤖",
+      "🐕",
+      "🌸",
+      "🔴",
+      "🔦"
+    ]
+  },
+  {
+    "id": "film_182",
+    "titre": "Tenet",
+    "realisateur": "Christopher Nolan",
+    "annee": 2020,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 150,
+    "acteur_principal": "John David Washington",
+    "affiche": "assets/affiches/tenet.jpg",
+    "repliques_cultes": [
+      "Don't try to understand it. Feel it."
+    ],
+    "replique_vf": "N'essaie pas de comprendre. Ressens-le.",
+    "audio_replique": "assets/audio/repliques/tenet.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/tenet_difficile.jpg",
+      "moyenne": "assets/images/tenet_moyenne.jpg",
+      "facile": "assets/images/tenet_facile.jpg"
+    },
+    "emojis": [
+      "⏪",
+      "🔫",
+      "✈️",
+      "🚗",
+      "🧿",
+      "🔄"
+    ]
+  },
+  {
+    "id": "film_183",
+    "titre": "Top Gun",
+    "realisateur": "Tony Scott",
+    "annee": 1986,
+    "genre": "Action",
+    "pays": "États-Unis",
+    "duree_minutes": 110,
+    "acteur_principal": "Tom Cruise",
+    "affiche": "assets/affiches/top_gun.jpg",
+    "repliques_cultes": [
+      "I feel the need... the need for speed!"
+    ],
+    "replique_vf": "J'ai besoin de vitesse !",
+    "audio_replique": "assets/audio/repliques/top_gun.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/top_gun_difficile.jpg",
+      "moyenne": "assets/images/top_gun_moyenne.jpg",
+      "facile": "assets/images/top_gun_facile.jpg"
+    },
+    "emojis": [
+      "✈️",
+      "😎",
+      "🏍️",
+      "🏐",
+      "🌅",
+      "🎖️"
+    ]
+  },
+  {
+    "id": "film_184",
+    "titre": "Mission: Impossible",
+    "realisateur": "Brian De Palma",
+    "annee": 1996,
+    "genre": "Action",
+    "pays": "États-Unis",
+    "duree_minutes": 110,
+    "acteur_principal": "Tom Cruise",
+    "affiche": "assets/affiches/mission_impossible.jpg",
+    "repliques_cultes": [
+      "Your mission, should you choose to accept it..."
+    ],
+    "replique_vf": "Votre mission, si vous l'acceptez...",
+    "audio_replique": "assets/audio/repliques/mission_impossible.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/mission_impossible_difficile.jpg",
+      "moyenne": "assets/images/mission_impossible_moyenne.jpg",
+      "facile": "assets/images/mission_impossible_facile.jpg"
+    },
+    "emojis": [
+      "🕵️",
+      "🧗",
+      "💻",
+      "🚄",
+      "💥",
+      "📼"
+    ]
+  },
+  {
+    "id": "film_185",
+    "titre": "Le Transporteur",
+    "realisateur": "Louis Leterrier",
+    "annee": 2002,
+    "genre": "Action",
+    "pays": "France",
+    "duree_minutes": 92,
+    "acteur_principal": "Jason Statham",
+    "affiche": "assets/affiches/le_transporteur.jpg",
+    "repliques_cultes": [
+      "Rule number one: never change the deal."
+    ],
+    "replique_vf": "Règle numéro un : ne jamais changer l'arrangement.",
+    "audio_replique": "assets/audio/repliques/le_transporteur.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/le_transporteur_difficile.jpg",
+      "moyenne": "assets/images/le_transporteur_moyenne.jpg",
+      "facile": "assets/images/le_transporteur_facile.jpg"
+    },
+    "emojis": [
+      "🚗",
+      "📦",
+      "👔",
+      "🥋",
+      "🛢️",
+      "🏖️"
+    ]
+  },
+  {
+    "id": "film_186",
+    "titre": "L'Arme fatale",
+    "realisateur": "Richard Donner",
+    "annee": 1987,
+    "genre": "Action",
+    "pays": "États-Unis",
+    "duree_minutes": 117,
+    "acteur_principal": "Mel Gibson",
+    "affiche": "assets/affiches/l_arme_fatale.jpg",
+    "repliques_cultes": [
+      "I'm too old for this shit."
+    ],
+    "replique_vf": "Je suis trop vieux pour ces conneries.",
+    "audio_replique": "assets/audio/repliques/l_arme_fatale.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/l_arme_fatale_difficile.jpg",
+      "moyenne": "assets/images/l_arme_fatale_moyenne.jpg",
+      "facile": "assets/images/l_arme_fatale_facile.jpg"
+    },
+    "emojis": [
+      "🔫",
+      "🎄",
+      "👮‍♂️",
+      "🧑‍🤝‍🧑",
+      "🚔",
+      "💥"
+    ]
+  },
+  {
+    "id": "film_187",
+    "titre": "Usual Suspects",
+    "realisateur": "Bryan Singer",
+    "annee": 1995,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 106,
+    "acteur_principal": "Kevin Spacey",
+    "affiche": "assets/affiches/usual_suspects.jpg",
+    "repliques_cultes": [
+      "The greatest trick the Devil ever pulled was convincing the world he didn't exist."
+    ],
+    "replique_vf": "Le plus beau tour du Diable est d'avoir convaincu le monde qu'il n'existait pas.",
+    "audio_replique": "assets/audio/repliques/usual_suspects.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/usual_suspects_difficile.jpg",
+      "moyenne": "assets/images/usual_suspects_moyenne.jpg",
+      "facile": "assets/images/usual_suspects_facile.jpg"
+    },
+    "emojis": [
+      "🚔",
+      "👥",
+      "🚢",
+      "🔥",
+      "☕",
+      "🦽"
+    ]
+  },
+  {
+    "id": "film_188",
+    "titre": "Sixième Sens",
+    "realisateur": "M. Night Shyamalan",
+    "annee": 1999,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 107,
+    "acteur_principal": "Bruce Willis",
+    "affiche": "assets/affiches/sixieme_sens.jpg",
+    "repliques_cultes": [
+      "I see dead people."
+    ],
+    "replique_vf": "Je vois des gens qui sont morts.",
+    "audio_replique": "assets/audio/repliques/sixieme_sens.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/sixieme_sens_difficile.jpg",
+      "moyenne": "assets/images/sixieme_sens_moyenne.jpg",
+      "facile": "assets/images/sixieme_sens_facile.jpg"
+    },
+    "emojis": [
+      "👦",
+      "👻",
+      "🚪",
+      "🔴",
+      "🧥",
+      "🕯️"
+    ]
+  },
+  {
+    "id": "film_189",
+    "titre": "Black Swan",
+    "realisateur": "Darren Aronofsky",
+    "annee": 2010,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 108,
+    "acteur_principal": "Natalie Portman",
+    "affiche": "assets/affiches/black_swan.jpg",
+    "repliques_cultes": [
+      "I was perfect."
+    ],
+    "replique_vf": "J'ai été parfaite.",
+    "audio_replique": "assets/audio/repliques/black_swan.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/black_swan_difficile.jpg",
+      "moyenne": "assets/images/black_swan_moyenne.jpg",
+      "facile": "assets/images/black_swan_facile.jpg"
+    },
+    "emojis": [
+      "🦢",
+      "🩰",
+      "🪞",
+      "🖤",
+      "🩸",
+      "🎭"
+    ]
+  },
+  {
+    "id": "film_190",
+    "titre": "Mulholland Drive",
+    "realisateur": "David Lynch",
+    "annee": 2001,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 147,
+    "acteur_principal": "Naomi Watts",
+    "affiche": "assets/affiches/mulholland_drive.jpg",
+    "repliques_cultes": [
+      "No hay banda. There is no band."
+    ],
+    "replique_vf": "Il n'y a pas d'orchestre.",
+    "audio_replique": "assets/audio/repliques/mulholland_drive.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/mulholland_drive_difficile.jpg",
+      "moyenne": "assets/images/mulholland_drive_moyenne.jpg",
+      "facile": "assets/images/mulholland_drive_facile.jpg"
+    },
+    "emojis": [
+      "🔑",
+      "📦",
+      "🌃",
+      "🎭",
+      "🔵",
+      "👩‍🦰"
+    ]
+  },
+  {
+    "id": "film_191",
+    "titre": "Memories of Murder",
+    "realisateur": "Bong Joon-ho",
+    "annee": 2003,
+    "genre": "Thriller",
+    "pays": "Corée du Sud",
+    "duree_minutes": 132,
+    "acteur_principal": "Song Kang-ho",
+    "affiche": "assets/affiches/memories_of_murder.jpg",
+    "repliques_cultes": [
+      "Les documents ne mentent jamais."
+    ],
+    "audio_replique": "assets/audio/repliques/memories_of_murder.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/memories_of_murder_difficile.jpg",
+      "moyenne": "assets/images/memories_of_murder_moyenne.jpg",
+      "facile": "assets/images/memories_of_murder_facile.jpg"
+    },
+    "emojis": [
+      "🌾",
+      "🔪",
+      "👮",
+      "🌧️",
+      "🩳",
+      "📄"
+    ]
+  },
+  {
+    "id": "film_192",
+    "titre": "Le Parrain, 2e partie",
+    "realisateur": "Francis Ford Coppola",
+    "annee": 1974,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 202,
+    "acteur_principal": "Al Pacino",
+    "affiche": "assets/affiches/le_parrain_2e_partie.jpg",
+    "repliques_cultes": [
+      "Keep your friends close, but your enemies closer."
+    ],
+    "replique_vf": "Garde tes amis près de toi, mais tes ennemis encore plus près.",
+    "audio_replique": "assets/audio/repliques/le_parrain_2e_partie.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/le_parrain_2e_partie_difficile.jpg",
+      "moyenne": "assets/images/le_parrain_2e_partie_moyenne.jpg",
+      "facile": "assets/images/le_parrain_2e_partie_facile.jpg"
+    },
+    "emojis": [
+      "🍊",
+      "🔫",
+      "🇮🇹",
+      "🌴",
+      "🥂",
+      "💋"
+    ]
+  },
+  {
+    "id": "film_193",
+    "titre": "La Liste de Schindler",
+    "realisateur": "Steven Spielberg",
+    "annee": 1993,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 195,
+    "acteur_principal": "Liam Neeson",
+    "affiche": "assets/affiches/la_liste_de_schindler.jpg",
+    "repliques_cultes": [
+      "Whoever saves one life, saves the world entire."
+    ],
+    "replique_vf": "Celui qui sauve une vie sauve l'univers tout entier.",
+    "audio_replique": "assets/audio/repliques/la_liste_de_schindler.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/la_liste_de_schindler_difficile.jpg",
+      "moyenne": "assets/images/la_liste_de_schindler_moyenne.jpg",
+      "facile": "assets/images/la_liste_de_schindler_facile.jpg"
+    },
+    "emojis": [
+      "🖤",
+      "🤍",
+      "👧",
+      "🔴",
+      "📜",
+      "🚂"
+    ]
+  },
+  {
+    "id": "film_194",
+    "titre": "Le Pianiste",
+    "realisateur": "Roman Polanski",
+    "annee": 2002,
+    "genre": "Guerre",
+    "pays": "France",
+    "duree_minutes": 150,
+    "acteur_principal": "Adrien Brody",
+    "affiche": "assets/affiches/le_pianiste.jpg",
+    "repliques_cultes": [
+      "What do you do? — I was a pianist."
+    ],
+    "replique_vf": "Qu'est-ce que vous faites ? — J'étais pianiste.",
+    "audio_replique": "assets/audio/repliques/le_pianiste.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/le_pianiste_difficile.jpg",
+      "moyenne": "assets/images/le_pianiste_moyenne.jpg",
+      "facile": "assets/images/le_pianiste_facile.jpg"
+    },
+    "emojis": [
+      "🎹",
+      "🏚️",
+      "🕊️",
+      "🇵🇱",
+      "🥫",
+      "🪖"
+    ]
+  },
+  {
+    "id": "film_195",
+    "titre": "Citizen Kane",
+    "realisateur": "Orson Welles",
+    "annee": 1941,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 119,
+    "acteur_principal": "Orson Welles",
+    "affiche": "assets/affiches/citizen_kane.jpg",
+    "repliques_cultes": [
+      "Rosebud."
+    ],
+    "audio_replique": "assets/audio/repliques/citizen_kane.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/citizen_kane_difficile.jpg",
+      "moyenne": "assets/images/citizen_kane_moyenne.jpg",
+      "facile": "assets/images/citizen_kane_facile.jpg"
+    },
+    "emojis": [
+      "🛷",
+      "❄️",
+      "📰",
+      "🏰",
+      "🌹",
+      "🤴"
+    ]
+  },
+  {
+    "id": "film_196",
+    "titre": "Chantons sous la pluie",
+    "realisateur": "Stanley Donen et Gene Kelly",
+    "annee": 1952,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 103,
+    "acteur_principal": "Gene Kelly",
+    "affiche": "assets/affiches/chantons_sous_la_pluie.jpg",
+    "repliques_cultes": [
+      "Dignity. Always dignity."
+    ],
+    "replique_vf": "La dignité, toujours la dignité.",
+    "audio_replique": "assets/audio/repliques/chantons_sous_la_pluie.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/chantons_sous_la_pluie_difficile.jpg",
+      "moyenne": "assets/images/chantons_sous_la_pluie_moyenne.jpg",
+      "facile": "assets/images/chantons_sous_la_pluie_facile.jpg"
+    },
+    "emojis": [
+      "☔",
+      "🕺",
+      "💃",
+      "🎬",
+      "🎤",
+      "💡"
+    ]
+  },
+  {
+    "id": "film_197",
+    "titre": "Il était une fois dans l'Ouest",
+    "realisateur": "Sergio Leone",
+    "annee": 1968,
+    "genre": "Western",
+    "pays": "Italie",
+    "duree_minutes": 165,
+    "acteur_principal": "Charles Bronson",
+    "affiche": "assets/affiches/il_etait_une_fois_dans_l_ouest.jpg",
+    "repliques_cultes": [
+      "You brought two too many."
+    ],
+    "replique_vf": "Vous en avez amené deux de trop.",
+    "audio_replique": "assets/audio/repliques/il_etait_une_fois_dans_l_ouest.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/il_etait_une_fois_dans_l_ouest_difficile.jpg",
+      "moyenne": "assets/images/il_etait_une_fois_dans_l_ouest_moyenne.jpg",
+      "facile": "assets/images/il_etait_une_fois_dans_l_ouest_facile.jpg"
+    },
+    "emojis": [
+      "🚂",
+      "🎶",
+      "🌵",
+      "🔫",
+      "⏳",
+      "🌅"
+    ]
+  },
+  {
+    "id": "film_198",
+    "titre": "Impitoyable",
+    "realisateur": "Clint Eastwood",
+    "annee": 1992,
+    "genre": "Western",
+    "pays": "États-Unis",
+    "duree_minutes": 130,
+    "acteur_principal": "Clint Eastwood",
+    "affiche": "assets/affiches/impitoyable.jpg",
+    "repliques_cultes": [
+      "Deserve's got nothin' to do with it."
+    ],
+    "replique_vf": "Le mérite n'a rien à voir là-dedans.",
+    "audio_replique": "assets/audio/repliques/impitoyable.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/impitoyable_difficile.jpg",
+      "moyenne": "assets/images/impitoyable_moyenne.jpg",
+      "facile": "assets/images/impitoyable_facile.jpg"
+    },
+    "emojis": [
+      "🐷",
+      "🔫",
+      "🌧️",
+      "🍺",
+      "🐎",
+      "⚰️"
+    ]
+  },
+  {
+    "id": "film_199",
+    "titre": "Les Sept Mercenaires",
+    "realisateur": "John Sturges",
+    "annee": 1960,
+    "genre": "Western",
+    "pays": "États-Unis",
+    "duree_minutes": 128,
+    "acteur_principal": "Yul Brynner",
+    "affiche": "assets/affiches/les_sept_mercenaires.jpg",
+    "repliques_cultes": [
+      "Only the farmers won. We lost. We'll always lose."
+    ],
+    "replique_vf": "Seuls les fermiers ont gagné. Nous, nous avons perdu. Nous perdrons toujours.",
+    "audio_replique": "assets/audio/repliques/les_sept_mercenaires.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/les_sept_mercenaires_difficile.jpg",
+      "moyenne": "assets/images/les_sept_mercenaires_moyenne.jpg",
+      "facile": "assets/images/les_sept_mercenaires_facile.jpg"
+    },
+    "emojis": [
+      "7️⃣",
+      "🔫",
+      "🌾",
+      "🐎",
+      "🤠",
+      "🎯"
+    ]
+  },
+  {
+    "id": "film_200",
+    "titre": "Dunkerque",
+    "realisateur": "Christopher Nolan",
+    "annee": 2017,
+    "genre": "Guerre",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 106,
+    "acteur_principal": "Fionn Whitehead",
+    "affiche": "assets/affiches/dunkerque.jpg",
+    "repliques_cultes": [
+      "We shall fight on the beaches."
+    ],
+    "replique_vf": "Nous nous battrons sur les plages.",
+    "audio_replique": "assets/audio/repliques/dunkerque.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/dunkerque_difficile.jpg",
+      "moyenne": "assets/images/dunkerque_moyenne.jpg",
+      "facile": "assets/images/dunkerque_facile.jpg"
+    },
+    "emojis": [
+      "🏖️",
+      "✈️",
+      "🚢",
+      "🌊",
+      "🪖",
+      "⏱️"
+    ]
+  },
+  {
+    "id": "film_201",
+    "titre": "1917",
+    "realisateur": "Sam Mendes",
+    "annee": 2019,
+    "genre": "Guerre",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 119,
+    "acteur_principal": "George MacKay",
+    "affiche": "assets/affiches/1917.jpg",
+    "repliques_cultes": [
+      "There's only one way this war ends: last man standing."
+    ],
+    "replique_vf": "Cette guerre ne peut finir que d'une façon : le dernier debout.",
+    "audio_replique": "assets/audio/repliques/1917.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/1917_difficile.jpg",
+      "moyenne": "assets/images/1917_moyenne.jpg",
+      "facile": "assets/images/1917_facile.jpg"
+    },
+    "emojis": [
+      "🪖",
+      "🏃",
+      "✉️",
+      "💥",
+      "🌸",
+      "🌉"
+    ]
+  },
+  {
+    "id": "film_202",
+    "titre": "Le Seigneur des Anneaux : Les Deux Tours",
+    "realisateur": "Peter Jackson",
+    "annee": 2002,
+    "genre": "Fantastique",
+    "pays": "Nouvelle-Zélande",
+    "duree_minutes": 179,
+    "acteur_principal": "Elijah Wood",
+    "affiche": "assets/affiches/le_seigneur_des_anneaux_les_deux_tours.jpg",
+    "repliques_cultes": [
+      "There's some good in this world, Mr. Frodo, and it's worth fighting for."
+    ],
+    "replique_vf": "Il y a encore du bon en ce monde, monsieur Frodon, et il vaut la peine de se battre pour lui.",
+    "audio_replique": "assets/audio/repliques/le_seigneur_des_anneaux_les_deux_tours.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/le_seigneur_des_anneaux_les_deux_tours_difficile.jpg",
+      "moyenne": "assets/images/le_seigneur_des_anneaux_les_deux_tours_moyenne.jpg",
+      "facile": "assets/images/le_seigneur_des_anneaux_les_deux_tours_facile.jpg"
+    },
+    "emojis": [
+      "🏰",
+      "🌳",
+      "🌊",
+      "💍",
+      "🧙‍♂️",
+      "🐺"
+    ]
+  },
+  {
+    "id": "film_203",
+    "titre": "Le Seigneur des Anneaux : Le Retour du roi",
+    "realisateur": "Peter Jackson",
+    "annee": 2003,
+    "genre": "Fantastique",
+    "pays": "Nouvelle-Zélande",
+    "duree_minutes": 201,
+    "acteur_principal": "Elijah Wood",
+    "affiche": "assets/affiches/le_seigneur_des_anneaux_le_retour_du_roi.jpg",
+    "repliques_cultes": [
+      "I can't carry it for you, but I can carry you!"
+    ],
+    "replique_vf": "Je ne peux pas le porter à votre place, mais je peux vous porter, vous !",
+    "audio_replique": "assets/audio/repliques/le_seigneur_des_anneaux_le_retour_du_roi.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/le_seigneur_des_anneaux_le_retour_du_roi_difficile.jpg",
+      "moyenne": "assets/images/le_seigneur_des_anneaux_le_retour_du_roi_moyenne.jpg",
+      "facile": "assets/images/le_seigneur_des_anneaux_le_retour_du_roi_facile.jpg"
+    },
+    "emojis": [
+      "👑",
+      "🌋",
+      "💍",
+      "🔥",
+      "🏔️",
+      "🦅"
+    ]
+  },
+  {
+    "id": "film_204",
+    "titre": "Star Wars : L'Empire contre-attaque",
+    "realisateur": "Irvin Kershner",
+    "annee": 1980,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 124,
+    "acteur_principal": "Mark Hamill",
+    "affiche": "assets/affiches/star_wars_l_empire_contre_attaque.jpg",
+    "repliques_cultes": [
+      "No. I am your father."
+    ],
+    "replique_vf": "Non, je suis ton père.",
+    "audio_replique": "assets/audio/repliques/star_wars_l_empire_contre_attaque.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/star_wars_l_empire_contre_attaque_difficile.jpg",
+      "moyenne": "assets/images/star_wars_l_empire_contre_attaque_moyenne.jpg",
+      "facile": "assets/images/star_wars_l_empire_contre_attaque_facile.jpg"
+    },
+    "emojis": [
+      "❄️",
+      "🐸",
+      "⚔️",
+      "🧊",
+      "🤖",
+      "🖐️"
+    ]
+  },
+  {
+    "id": "film_205",
+    "titre": "Spider-Man",
+    "realisateur": "Sam Raimi",
+    "annee": 2002,
+    "genre": "Action",
+    "pays": "États-Unis",
+    "duree_minutes": 121,
+    "acteur_principal": "Tobey Maguire",
+    "affiche": "assets/affiches/spider_man.jpg",
+    "repliques_cultes": [
+      "With great power comes great responsibility."
+    ],
+    "replique_vf": "Un grand pouvoir implique de grandes responsabilités.",
+    "audio_replique": "assets/audio/repliques/spider_man.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/spider_man_difficile.jpg",
+      "moyenne": "assets/images/spider_man_moyenne.jpg",
+      "facile": "assets/images/spider_man_facile.jpg"
+    },
+    "emojis": [
+      "🕷️",
+      "🕸️",
+      "🏙️",
+      "👵",
+      "🟢",
+      "🎭"
+    ]
+  },
+  {
+    "id": "film_206",
+    "titre": "Iron Man",
+    "realisateur": "Jon Favreau",
+    "annee": 2008,
+    "genre": "Action",
+    "pays": "États-Unis",
+    "duree_minutes": 126,
+    "acteur_principal": "Robert Downey Jr.",
+    "affiche": "assets/affiches/iron_man.jpg",
+    "repliques_cultes": [
+      "I am Iron Man."
+    ],
+    "replique_vf": "Je suis Iron Man.",
+    "audio_replique": "assets/audio/repliques/iron_man.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/iron_man_difficile.jpg",
+      "moyenne": "assets/images/iron_man_moyenne.jpg",
+      "facile": "assets/images/iron_man_facile.jpg"
+    },
+    "emojis": [
+      "🤖",
+      "🔴",
+      "🟡",
+      "🏜️",
+      "💥",
+      "🔋"
+    ]
+  },
+  {
+    "id": "film_207",
+    "titre": "Black Panther",
+    "realisateur": "Ryan Coogler",
+    "annee": 2018,
+    "genre": "Action",
+    "pays": "États-Unis",
+    "duree_minutes": 134,
+    "acteur_principal": "Chadwick Boseman",
+    "affiche": "assets/affiches/black_panther.jpg",
+    "repliques_cultes": [
+      "Wakanda forever!"
+    ],
+    "audio_replique": "assets/audio/repliques/black_panther.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/black_panther_difficile.jpg",
+      "moyenne": "assets/images/black_panther_moyenne.jpg",
+      "facile": "assets/images/black_panther_facile.jpg"
+    },
+    "emojis": [
+      "🐆",
+      "🌍",
+      "🔮",
+      "💜",
+      "🛡️",
+      "👑"
+    ]
+  },
+  {
+    "id": "film_208",
+    "titre": "Le Hobbit : Un voyage inattendu",
+    "realisateur": "Peter Jackson",
+    "annee": 2012,
+    "genre": "Fantastique",
+    "pays": "Nouvelle-Zélande",
+    "duree_minutes": 169,
+    "acteur_principal": "Martin Freeman",
+    "affiche": "assets/affiches/le_hobbit_un_voyage_inattendu.jpg",
+    "repliques_cultes": [
+      "In a hole in the ground there lived a hobbit."
+    ],
+    "replique_vf": "Dans un trou vivait un hobbit.",
+    "audio_replique": "assets/audio/repliques/le_hobbit_un_voyage_inattendu.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/le_hobbit_un_voyage_inattendu_difficile.jpg",
+      "moyenne": "assets/images/le_hobbit_un_voyage_inattendu_moyenne.jpg",
+      "facile": "assets/images/le_hobbit_un_voyage_inattendu_facile.jpg"
+    },
+    "emojis": [
+      "🕳️",
+      "🧙‍♂️",
+      "🐉",
+      "⛰️",
+      "💍",
+      "🧌"
+    ]
+  },
+  {
+    "id": "film_209",
+    "titre": "Moulin Rouge !",
+    "realisateur": "Baz Luhrmann",
+    "annee": 2001,
+    "genre": "Comédie musicale",
+    "pays": "Australie",
+    "duree_minutes": 127,
+    "acteur_principal": "Ewan McGregor",
+    "affiche": "assets/affiches/moulin_rouge.jpg",
+    "repliques_cultes": [
+      "The greatest thing you'll ever learn is just to love and be loved in return."
+    ],
+    "replique_vf": "La plus belle chose que tu apprendras, c'est d'aimer et d'être aimé en retour.",
+    "audio_replique": "assets/audio/repliques/moulin_rouge.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/moulin_rouge_difficile.jpg",
+      "moyenne": "assets/images/moulin_rouge_moyenne.jpg",
+      "facile": "assets/images/moulin_rouge_facile.jpg"
+    },
+    "emojis": [
+      "💃",
+      "🔴",
+      "🐘",
+      "🎩",
+      "💔",
+      "📖"
+    ]
+  },
+  {
+    "id": "film_210",
+    "titre": "Bohemian Rhapsody",
+    "realisateur": "Bryan Singer",
+    "annee": 2018,
+    "genre": "Biopic",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 134,
+    "acteur_principal": "Rami Malek",
+    "affiche": "assets/affiches/bohemian_rhapsody.jpg",
+    "repliques_cultes": [
+      "I decide who I am."
+    ],
+    "replique_vf": "C'est moi qui décide qui je suis.",
+    "audio_replique": "assets/audio/repliques/bohemian_rhapsody.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/bohemian_rhapsody_difficile.jpg",
+      "moyenne": "assets/images/bohemian_rhapsody_moyenne.jpg",
+      "facile": "assets/images/bohemian_rhapsody_facile.jpg"
+    },
+    "emojis": [
+      "🎤",
+      "👑",
+      "🎸",
+      "🎹",
+      "🦷",
+      "🏟️"
+    ]
+  },
+  {
+    "id": "film_211",
+    "titre": "Grease",
+    "realisateur": "Randal Kleiser",
+    "annee": 1978,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 110,
+    "acteur_principal": "John Travolta",
+    "affiche": "assets/affiches/grease.jpg",
+    "repliques_cultes": [
+      "Tell me about it, stud."
+    ],
+    "audio_replique": "assets/audio/repliques/grease.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/grease_difficile.jpg",
+      "moyenne": "assets/images/grease_moyenne.jpg",
+      "facile": "assets/images/grease_facile.jpg"
+    },
+    "emojis": [
+      "🚗",
+      "💋",
+      "🧥",
+      "🎶",
+      "🏫",
+      "🏁"
+    ]
+  },
+  {
+    "id": "film_212",
+    "titre": "Les Visiteurs",
+    "realisateur": "Jean-Marie Poiré",
+    "annee": 1993,
+    "genre": "Comédie",
+    "pays": "France",
+    "duree_minutes": 107,
+    "acteur_principal": "Jean Reno",
+    "affiche": "assets/affiches/les_visiteurs.jpg",
+    "repliques_cultes": [
+      "Que trépasse si je faiblis !"
+    ],
+    "audio_replique": "assets/audio/repliques/les_visiteurs.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/les_visiteurs_difficile.jpg",
+      "moyenne": "assets/images/les_visiteurs_moyenne.jpg",
+      "facile": "assets/images/les_visiteurs_facile.jpg"
+    },
+    "emojis": [
+      "🏰",
+      "⏳",
+      "🐸",
+      "🤢",
+      "🧙‍♂️",
+      "🚓"
+    ]
+  },
+  {
+    "id": "film_213",
+    "titre": "Le Père Noël est une ordure",
+    "realisateur": "Jean-Marie Poiré",
+    "annee": 1982,
+    "genre": "Comédie",
+    "pays": "France",
+    "duree_minutes": 87,
+    "acteur_principal": "Thierry Lhermitte",
+    "affiche": "assets/affiches/le_pere_noel_est_une_ordure.jpg",
+    "repliques_cultes": [
+      "Je ne vous jette pas la pierre, Pierre, mais j'étais à deux doigts de m'agacer."
+    ],
+    "audio_replique": "assets/audio/repliques/le_pere_noel_est_une_ordure.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/le_pere_noel_est_une_ordure_difficile.jpg",
+      "moyenne": "assets/images/le_pere_noel_est_une_ordure_moyenne.jpg",
+      "facile": "assets/images/le_pere_noel_est_une_ordure_facile.jpg"
+    },
+    "emojis": [
+      "🎅",
+      "🗑️",
+      "🎄",
+      "📞",
+      "🍫",
+      "🥂"
+    ]
+  },
+  {
+    "id": "film_214",
+    "titre": "Les Bronzés font du ski",
+    "realisateur": "Patrice Leconte",
+    "annee": 1979,
+    "genre": "Comédie",
+    "pays": "France",
+    "duree_minutes": 90,
+    "acteur_principal": "Michel Blanc",
+    "affiche": "assets/affiches/les_bronzes_font_du_ski.jpg",
+    "repliques_cultes": [
+      "Vous avez de la pâte ? Vous avez du sucre ? Avec la pâte, vous faites une crêpe et vous mettez du sucre dessus !"
+    ],
+    "audio_replique": "assets/audio/repliques/les_bronzes_font_du_ski.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/les_bronzes_font_du_ski_difficile.jpg",
+      "moyenne": "assets/images/les_bronzes_font_du_ski_moyenne.jpg",
+      "facile": "assets/images/les_bronzes_font_du_ski_facile.jpg"
+    },
+    "emojis": [
+      "⛷️",
+      "🏔️",
+      "🥞",
+      "🧀",
+      "🏠",
+      "😬"
+    ]
+  },
+  {
+    "id": "film_215",
+    "titre": "Taxi",
+    "realisateur": "Gérard Pirès",
+    "annee": 1998,
+    "genre": "Comédie",
+    "pays": "France",
+    "duree_minutes": 86,
+    "acteur_principal": "Samy Naceri",
+    "affiche": "assets/affiches/taxi.jpg",
+    "repliques_cultes": [
+      "Alerte générale !"
+    ],
+    "audio_replique": "assets/audio/repliques/taxi.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/taxi_difficile.jpg",
+      "moyenne": "assets/images/taxi_moyenne.jpg",
+      "facile": "assets/images/taxi_facile.jpg"
+    },
+    "emojis": [
+      "🚕",
+      "🏎️",
+      "🚨",
+      "👮",
+      "🍕",
+      "🏁"
+    ]
+  },
+  {
+    "id": "film_216",
+    "titre": "La Cité de la peur",
+    "realisateur": "Alain Berbérian",
+    "annee": 1994,
+    "genre": "Comédie",
+    "pays": "France",
+    "duree_minutes": 93,
+    "acteur_principal": "Alain Chabat",
+    "affiche": "assets/affiches/la_cite_de_la_peur.jpg",
+    "repliques_cultes": [
+      "Vous voulez un whisky ? Juste un doigt ! Vous ne voulez pas un whisky d'abord ?"
+    ],
+    "audio_replique": "assets/audio/repliques/la_cite_de_la_peur.mp3",
+    "images_defi6": {
+      "difficile": "assets/images/la_cite_de_la_peur_difficile.jpg",
+      "moyenne": "assets/images/la_cite_de_la_peur_moyenne.jpg",
+      "facile": "assets/images/la_cite_de_la_peur_facile.jpg"
+    },
+    "emojis": [
+      "🎬",
+      "🔪",
+      "🥃",
+      "🌴",
+      "🕵️",
+      "🎞️"
+    ]
   }
 ]
