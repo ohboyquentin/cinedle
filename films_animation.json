@@ -2230,5 +2230,629 @@
       "moyenne": "assets/images/vice_versa_2_moyenne.jpg",
       "facile": "assets/images/vice_versa_2_facile.jpg"
     }
+  },
+  {
+    "id": "anim_094",
+    "titre": "Fantasia",
+    "studio": "Disney",
+    "annee": 1940,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 125,
+    "realisateur": "Ben Sharpsteen",
+    "affiche": "assets/affiches/fantasia.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "L'Apprenti sorcier",
+      "artiste": "Paul Dukas",
+      "extrait_audio": "assets/audio/musiques/fantasia.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/fantasia_difficile.jpg",
+      "moyenne": "assets/images/fantasia_moyenne.jpg",
+      "facile": "assets/images/fantasia_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_095",
+    "titre": "La Belle et le Clochard",
+    "studio": "Disney",
+    "annee": 1955,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 76,
+    "realisateur": "Hamilton Luske",
+    "affiche": "assets/affiches/la_belle_et_le_clochard.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "Bella Notte",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/la_belle_et_le_clochard.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/la_belle_et_le_clochard_difficile.jpg",
+      "moyenne": "assets/images/la_belle_et_le_clochard_moyenne.jpg",
+      "facile": "assets/images/la_belle_et_le_clochard_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_096",
+    "titre": "Merlin l'enchanteur",
+    "studio": "Disney",
+    "annee": 1963,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "duree_minutes": 79,
+    "realisateur": "Wolfgang Reitherman",
+    "affiche": "assets/affiches/merlin_l_enchanteur.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "Higitus Figitus",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/merlin_l_enchanteur.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/merlin_l_enchanteur_difficile.jpg",
+      "moyenne": "assets/images/merlin_l_enchanteur_moyenne.jpg",
+      "facile": "assets/images/merlin_l_enchanteur_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_097",
+    "titre": "Robin des Bois",
+    "studio": "Disney",
+    "annee": 1973,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 83,
+    "realisateur": "Wolfgang Reitherman",
+    "affiche": "assets/affiches/robin_des_bois.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "Oo-De-Lally",
+      "artiste": "Roger Miller",
+      "extrait_audio": "assets/audio/musiques/robin_des_bois.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/robin_des_bois_difficile.jpg",
+      "moyenne": "assets/images/robin_des_bois_moyenne.jpg",
+      "facile": "assets/images/robin_des_bois_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_098",
+    "titre": "Les Aventures de Winnie l'ourson",
+    "studio": "Disney",
+    "annee": 1977,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 74,
+    "realisateur": "John Lounsbery",
+    "affiche": "assets/affiches/les_aventures_de_winnie_l_ourson.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "Winnie l'ourson (générique)",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/les_aventures_de_winnie_l_ourson.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_aventures_de_winnie_l_ourson_difficile.jpg",
+      "moyenne": "assets/images/les_aventures_de_winnie_l_ourson_moyenne.jpg",
+      "facile": "assets/images/les_aventures_de_winnie_l_ourson_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_099",
+    "titre": "Rox et Rouky",
+    "studio": "Disney",
+    "annee": 1981,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 83,
+    "realisateur": "Ted Berman",
+    "affiche": "assets/affiches/rox_et_rouky.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "Best of Friends",
+      "artiste": "Pearl Bailey",
+      "extrait_audio": "assets/audio/musiques/rox_et_rouky.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/rox_et_rouky_difficile.jpg",
+      "moyenne": "assets/images/rox_et_rouky_moyenne.jpg",
+      "facile": "assets/images/rox_et_rouky_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_100",
+    "titre": "Taram et le Chaudron magique",
+    "studio": "Disney",
+    "annee": 1985,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "duree_minutes": 80,
+    "realisateur": "Ted Berman",
+    "affiche": "assets/affiches/taram_et_le_chaudron_magique.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/taram_et_le_chaudron_magique.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/taram_et_le_chaudron_magique_difficile.jpg",
+      "moyenne": "assets/images/taram_et_le_chaudron_magique_moyenne.jpg",
+      "facile": "assets/images/taram_et_le_chaudron_magique_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_101",
+    "titre": "Basil, détective privé",
+    "studio": "Disney",
+    "annee": 1986,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 74,
+    "realisateur": "Ron Clements",
+    "affiche": "assets/affiches/basil_detective_prive.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "The World's Greatest Criminal Mind",
+      "artiste": "Vincent Price",
+      "extrait_audio": "assets/audio/musiques/basil_detective_prive.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/basil_detective_prive_difficile.jpg",
+      "moyenne": "assets/images/basil_detective_prive_moyenne.jpg",
+      "facile": "assets/images/basil_detective_prive_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_102",
+    "titre": "Oliver et Compagnie",
+    "studio": "Disney",
+    "annee": 1988,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 74,
+    "realisateur": "George Scribner",
+    "affiche": "assets/affiches/oliver_et_compagnie.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "Why Should I Worry?",
+      "artiste": "Billy Joel",
+      "extrait_audio": "assets/audio/musiques/oliver_et_compagnie.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/oliver_et_compagnie_difficile.jpg",
+      "moyenne": "assets/images/oliver_et_compagnie_moyenne.jpg",
+      "facile": "assets/images/oliver_et_compagnie_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_103",
+    "titre": "Les Aventures de Bernard et Bianca au pays des kangourous",
+    "studio": "Disney",
+    "annee": 1990,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 77,
+    "realisateur": "Hendel Butoy",
+    "affiche": "assets/affiches/les_aventures_de_bernard_et_bianca_au_pays_des_kangourous.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/les_aventures_de_bernard_et_bianca_au_pays_des_kangourous.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_aventures_de_bernard_et_bianca_au_pays_des_kangourous_difficile.jpg",
+      "moyenne": "assets/images/les_aventures_de_bernard_et_bianca_au_pays_des_kangourous_moyenne.jpg",
+      "facile": "assets/images/les_aventures_de_bernard_et_bianca_au_pays_des_kangourous_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_104",
+    "titre": "Tarzan",
+    "studio": "Disney",
+    "annee": 1999,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 88,
+    "realisateur": "Chris Buck",
+    "affiche": "assets/affiches/tarzan.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "You'll Be in My Heart",
+      "artiste": "Phil Collins",
+      "extrait_audio": "assets/audio/musiques/tarzan.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/tarzan_difficile.jpg",
+      "moyenne": "assets/images/tarzan_moyenne.jpg",
+      "facile": "assets/images/tarzan_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_105",
+    "titre": "Fantasia 2000",
+    "studio": "Disney",
+    "annee": 1999,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 74,
+    "realisateur": "Pixote Hunt",
+    "affiche": "assets/affiches/fantasia_2000.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "Rhapsody in Blue",
+      "artiste": "George Gershwin",
+      "extrait_audio": "assets/audio/musiques/fantasia_2000.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/fantasia_2000_difficile.jpg",
+      "moyenne": "assets/images/fantasia_2000_moyenne.jpg",
+      "facile": "assets/images/fantasia_2000_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_106",
+    "titre": "Dinosaure",
+    "studio": "Disney",
+    "annee": 2000,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 82,
+    "realisateur": "Ralph Zondag",
+    "affiche": "assets/affiches/dinosaure.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/dinosaure.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/dinosaure_difficile.jpg",
+      "moyenne": "assets/images/dinosaure_moyenne.jpg",
+      "facile": "assets/images/dinosaure_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_107",
+    "titre": "Atlantide, l'empire perdu",
+    "studio": "Disney",
+    "annee": 2001,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 95,
+    "realisateur": "Gary Trousdale",
+    "affiche": "assets/affiches/atlantide_l_empire_perdu.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/atlantide_l_empire_perdu.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/atlantide_l_empire_perdu_difficile.jpg",
+      "moyenne": "assets/images/atlantide_l_empire_perdu_moyenne.jpg",
+      "facile": "assets/images/atlantide_l_empire_perdu_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_108",
+    "titre": "La Planète au trésor",
+    "studio": "Disney",
+    "annee": 2002,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 95,
+    "realisateur": "Ron Clements",
+    "affiche": "assets/affiches/la_planete_au_tresor.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "I'm Still Here",
+      "artiste": "John Rzeznik",
+      "extrait_audio": "assets/audio/musiques/la_planete_au_tresor.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/la_planete_au_tresor_difficile.jpg",
+      "moyenne": "assets/images/la_planete_au_tresor_moyenne.jpg",
+      "facile": "assets/images/la_planete_au_tresor_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_109",
+    "titre": "Frère des ours",
+    "studio": "Disney",
+    "annee": 2003,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 85,
+    "realisateur": "Aaron Blaise",
+    "affiche": "assets/affiches/frere_des_ours.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "On My Way",
+      "artiste": "Phil Collins",
+      "extrait_audio": "assets/audio/musiques/frere_des_ours.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/frere_des_ours_difficile.jpg",
+      "moyenne": "assets/images/frere_des_ours_moyenne.jpg",
+      "facile": "assets/images/frere_des_ours_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_110",
+    "titre": "La Ferme se rebelle",
+    "studio": "Disney",
+    "annee": 2004,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 76,
+    "realisateur": "Will Finn",
+    "affiche": "assets/affiches/la_ferme_se_rebelle.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/la_ferme_se_rebelle.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/la_ferme_se_rebelle_difficile.jpg",
+      "moyenne": "assets/images/la_ferme_se_rebelle_moyenne.jpg",
+      "facile": "assets/images/la_ferme_se_rebelle_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_111",
+    "titre": "Chicken Little",
+    "studio": "Disney",
+    "annee": 2005,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 81,
+    "realisateur": "Mark Dindal",
+    "affiche": "assets/affiches/chicken_little.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "One Little Slip",
+      "artiste": "Barenaked Ladies",
+      "extrait_audio": "assets/audio/musiques/chicken_little.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/chicken_little_difficile.jpg",
+      "moyenne": "assets/images/chicken_little_moyenne.jpg",
+      "facile": "assets/images/chicken_little_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_112",
+    "titre": "Volt, star malgré lui",
+    "studio": "Disney",
+    "annee": 2008,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 96,
+    "realisateur": "Byron Howard",
+    "affiche": "assets/affiches/volt_star_malgre_lui.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "Barking at the Moon",
+      "artiste": "Jenny Lewis",
+      "extrait_audio": "assets/audio/musiques/volt_star_malgre_lui.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/volt_star_malgre_lui_difficile.jpg",
+      "moyenne": "assets/images/volt_star_malgre_lui_moyenne.jpg",
+      "facile": "assets/images/volt_star_malgre_lui_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_113",
+    "titre": "La Princesse et la Grenouille",
+    "studio": "Disney",
+    "annee": 2009,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 97,
+    "realisateur": "Ron Clements",
+    "affiche": "assets/affiches/la_princesse_et_la_grenouille.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "Almost There",
+      "artiste": "Anika Noni Rose",
+      "extrait_audio": "assets/audio/musiques/la_princesse_et_la_grenouille.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/la_princesse_et_la_grenouille_difficile.jpg",
+      "moyenne": "assets/images/la_princesse_et_la_grenouille_moyenne.jpg",
+      "facile": "assets/images/la_princesse_et_la_grenouille_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_114",
+    "titre": "Winnie l'ourson",
+    "studio": "Disney",
+    "annee": 2011,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 63,
+    "realisateur": "Stephen Anderson",
+    "affiche": "assets/affiches/winnie_l_ourson.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "Winnie the Pooh",
+      "artiste": "Zooey Deschanel",
+      "extrait_audio": "assets/audio/musiques/winnie_l_ourson.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/winnie_l_ourson_difficile.jpg",
+      "moyenne": "assets/images/winnie_l_ourson_moyenne.jpg",
+      "facile": "assets/images/winnie_l_ourson_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_115",
+    "titre": "Ralph 2.0",
+    "studio": "Disney",
+    "annee": 2018,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 112,
+    "realisateur": "Rich Moore",
+    "affiche": "assets/affiches/ralph_2_0.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "A Place Called Slaughter Race",
+      "artiste": "Sarah Silverman",
+      "extrait_audio": "assets/audio/musiques/ralph_2_0.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/ralph_2_0_difficile.jpg",
+      "moyenne": "assets/images/ralph_2_0_moyenne.jpg",
+      "facile": "assets/images/ralph_2_0_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_116",
+    "titre": "Avalonia : L'Étrange Voyage",
+    "studio": "Disney",
+    "annee": 2022,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 102,
+    "realisateur": "Don Hall",
+    "affiche": "assets/affiches/avalonia_l_etrange_voyage.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/avalonia_l_etrange_voyage.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/avalonia_l_etrange_voyage_difficile.jpg",
+      "moyenne": "assets/images/avalonia_l_etrange_voyage_moyenne.jpg",
+      "facile": "assets/images/avalonia_l_etrange_voyage_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_117",
+    "titre": "Wish, Asha et la bonne étoile",
+    "studio": "Disney",
+    "annee": 2023,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 95,
+    "realisateur": "Chris Buck",
+    "affiche": "assets/affiches/wish_asha_et_la_bonne_etoile.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "This Wish",
+      "artiste": "Ariana DeBose",
+      "extrait_audio": "assets/audio/musiques/wish_asha_et_la_bonne_etoile.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/wish_asha_et_la_bonne_etoile_difficile.jpg",
+      "moyenne": "assets/images/wish_asha_et_la_bonne_etoile_moyenne.jpg",
+      "facile": "assets/images/wish_asha_et_la_bonne_etoile_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_118",
+    "titre": "Vaiana 2",
+    "studio": "Disney",
+    "annee": 2024,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 100,
+    "realisateur": "David Derrick Jr.",
+    "affiche": "assets/affiches/vaiana_2.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "We're Back",
+      "artiste": "Dwayne Johnson",
+      "extrait_audio": "assets/audio/musiques/vaiana_2.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/vaiana_2_difficile.jpg",
+      "moyenne": "assets/images/vaiana_2_moyenne.jpg",
+      "facile": "assets/images/vaiana_2_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_119",
+    "titre": "Zootopie 2",
+    "studio": "Disney",
+    "annee": 2025,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 108,
+    "realisateur": "Jared Bush",
+    "affiche": "assets/affiches/zootopie_2.jpg",
+    "repliques_cultes": [
+      "[Ajouter replique]"
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/zootopie_2.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/zootopie_2_difficile.jpg",
+      "moyenne": "assets/images/zootopie_2_moyenne.jpg",
+      "facile": "assets/images/zootopie_2_facile.jpg"
+    }
   }
 ]

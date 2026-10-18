@@ -2278,5 +2278,749 @@
       "moyenne": "assets/images/oitnb_moyenne.jpg",
       "facile": "assets/images/oitnb_facile.jpg"
     }
+  },
+  {
+    "id": "serie_096",
+    "titre": "Kaamelott",
+    "createur": "Alexandre Astier",
+    "annee_debut": 2005,
+    "genre": "Comédie",
+    "pays": "France",
+    "nombre_saisons": 6,
+    "nombre_episodes": 458,
+    "statut": "Terminée",
+    "acteur_principal": "Alexandre Astier",
+    "lieu_culte": "assets/lieux/kaamelott.jpg",
+    "titre_episode_culte": "[Ajouter episode]",
+    "generique": {
+      "titre": "Kaamelott (générique)",
+      "artiste": "Alexandre Astier",
+      "extrait_audio": "assets/audio/generiques/kaamelott.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/kaamelott_difficile.jpg",
+      "moyenne": "assets/images/kaamelott_moyenne.jpg",
+      "facile": "assets/images/kaamelott_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_097",
+    "titre": "Dix pour cent",
+    "createur": "Fanny Herrero",
+    "annee_debut": 2015,
+    "genre": "Comédie",
+    "pays": "France",
+    "nombre_saisons": 4,
+    "nombre_episodes": 24,
+    "statut": "Terminée",
+    "acteur_principal": "Camille Cottin",
+    "lieu_culte": "assets/lieux/dix_pour_cent.jpg",
+    "titre_episode_culte": "[Ajouter episode]",
+    "generique": {
+      "titre": "[Ajouter generique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/generiques/dix_pour_cent.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/dix_pour_cent_difficile.jpg",
+      "moyenne": "assets/images/dix_pour_cent_moyenne.jpg",
+      "facile": "assets/images/dix_pour_cent_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_098",
+    "titre": "Les Revenants",
+    "createur": "Fabrice Gobert",
+    "annee_debut": 2012,
+    "genre": "Fantastique",
+    "pays": "France",
+    "nombre_saisons": 2,
+    "nombre_episodes": 16,
+    "statut": "Terminée",
+    "acteur_principal": "Yara Pilartz",
+    "lieu_culte": "assets/lieux/les_revenants.jpg",
+    "titre_episode_culte": "Camille",
+    "generique": {
+      "titre": "[Ajouter generique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/generiques/les_revenants.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_revenants_difficile.jpg",
+      "moyenne": "assets/images/les_revenants_moyenne.jpg",
+      "facile": "assets/images/les_revenants_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_099",
+    "titre": "Lupin",
+    "createur": "George Kay et François Uzan",
+    "annee_debut": 2021,
+    "genre": "Policier",
+    "pays": "France",
+    "nombre_saisons": 3,
+    "nombre_episodes": 17,
+    "statut": "En cours",
+    "acteur_principal": "Omar Sy",
+    "lieu_culte": "assets/lieux/lupin.jpg",
+    "titre_episode_culte": "Chapitre 1",
+    "generique": {
+      "titre": "[Ajouter generique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/generiques/lupin.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/lupin_difficile.jpg",
+      "moyenne": "assets/images/lupin_moyenne.jpg",
+      "facile": "assets/images/lupin_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_100",
+    "titre": "Le Bureau des légendes",
+    "createur": "Éric Rochant",
+    "annee_debut": 2015,
+    "genre": "Thriller",
+    "pays": "France",
+    "nombre_saisons": 5,
+    "nombre_episodes": 50,
+    "statut": "Terminée",
+    "acteur_principal": "Mathieu Kassovitz",
+    "lieu_culte": "assets/lieux/le_bureau_des_legendes.jpg",
+    "titre_episode_culte": "[Ajouter episode]",
+    "generique": {
+      "titre": "[Ajouter generique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/generiques/le_bureau_des_legendes.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_bureau_des_legendes_difficile.jpg",
+      "moyenne": "assets/images/le_bureau_des_legendes_moyenne.jpg",
+      "facile": "assets/images/le_bureau_des_legendes_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_101",
+    "titre": "Baron noir",
+    "createur": "Éric Benzekri et Jean-Baptiste Delafon",
+    "annee_debut": 2016,
+    "genre": "Drame",
+    "pays": "France",
+    "nombre_saisons": 3,
+    "nombre_episodes": 24,
+    "statut": "Terminée",
+    "acteur_principal": "Kad Merad",
+    "lieu_culte": "assets/lieux/baron_noir.jpg",
+    "titre_episode_culte": "[Ajouter episode]",
+    "generique": {
+      "titre": "[Ajouter generique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/generiques/baron_noir.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/baron_noir_difficile.jpg",
+      "moyenne": "assets/images/baron_noir_moyenne.jpg",
+      "facile": "assets/images/baron_noir_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_102",
+    "titre": "Engrenages",
+    "createur": "Alexandra Clert et Guy-Patrick Sainderichin",
+    "annee_debut": 2005,
+    "genre": "Policier",
+    "pays": "France",
+    "nombre_saisons": 8,
+    "nombre_episodes": 96,
+    "statut": "Terminée",
+    "acteur_principal": "Caroline Proust",
+    "lieu_culte": "assets/lieux/engrenages.jpg",
+    "titre_episode_culte": "[Ajouter episode]",
+    "generique": {
+      "titre": "[Ajouter generique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/generiques/engrenages.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/engrenages_difficile.jpg",
+      "moyenne": "assets/images/engrenages_moyenne.jpg",
+      "facile": "assets/images/engrenages_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_103",
+    "titre": "Squid Game",
+    "createur": "Hwang Dong-hyuk",
+    "annee_debut": 2021,
+    "genre": "Thriller",
+    "pays": "Corée du Sud",
+    "nombre_saisons": 3,
+    "nombre_episodes": 22,
+    "statut": "Terminée",
+    "acteur_principal": "Lee Jung-jae",
+    "lieu_culte": "assets/lieux/squid_game.jpg",
+    "titre_episode_culte": "Un, deux, trois, soleil",
+    "generique": {
+      "titre": "Way Back Then",
+      "artiste": "Jung Jae-il",
+      "extrait_audio": "assets/audio/generiques/squid_game.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/squid_game_difficile.jpg",
+      "moyenne": "assets/images/squid_game_moyenne.jpg",
+      "facile": "assets/images/squid_game_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_104",
+    "titre": "Black Mirror",
+    "createur": "Charlie Brooker",
+    "annee_debut": 2011,
+    "genre": "Science-fiction",
+    "pays": "Royaume-Uni",
+    "nombre_saisons": 7,
+    "nombre_episodes": 33,
+    "statut": "En cours",
+    "acteur_principal": "Distribution variable",
+    "lieu_culte": "assets/lieux/black_mirror.jpg",
+    "titre_episode_culte": "San Junipero",
+    "generique": {
+      "titre": "[Ajouter generique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/generiques/black_mirror.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/black_mirror_difficile.jpg",
+      "moyenne": "assets/images/black_mirror_moyenne.jpg",
+      "facile": "assets/images/black_mirror_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_105",
+    "titre": "Wednesday",
+    "createur": "Alfred Gough et Miles Millar",
+    "annee_debut": 2022,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "nombre_saisons": 2,
+    "nombre_episodes": 16,
+    "statut": "En cours",
+    "acteur_principal": "Jenna Ortega",
+    "lieu_culte": "assets/lieux/wednesday.jpg",
+    "titre_episode_culte": "Wednesday's Child Is Full of Woe",
+    "generique": {
+      "titre": "Wednesday Main Titles",
+      "artiste": "Danny Elfman",
+      "extrait_audio": "assets/audio/generiques/wednesday.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/wednesday_difficile.jpg",
+      "moyenne": "assets/images/wednesday_moyenne.jpg",
+      "facile": "assets/images/wednesday_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_106",
+    "titre": "Arcane",
+    "createur": "Christian Linke et Alex Yee",
+    "annee_debut": 2021,
+    "genre": "Animation",
+    "pays": "France",
+    "nombre_saisons": 2,
+    "nombre_episodes": 18,
+    "statut": "Terminée",
+    "acteur_principal": "Hailee Steinfeld",
+    "lieu_culte": "assets/lieux/arcane.jpg",
+    "titre_episode_culte": "The Monster You Created",
+    "generique": {
+      "titre": "Enemy",
+      "artiste": "Imagine Dragons et J.I.D",
+      "extrait_audio": "assets/audio/generiques/arcane.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/arcane_difficile.jpg",
+      "moyenne": "assets/images/arcane_moyenne.jpg",
+      "facile": "assets/images/arcane_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_107",
+    "titre": "House",
+    "createur": "David Shore",
+    "annee_debut": 2004,
+    "genre": "Drame médical",
+    "pays": "États-Unis",
+    "nombre_saisons": 8,
+    "nombre_episodes": 177,
+    "statut": "Terminée",
+    "acteur_principal": "Hugh Laurie",
+    "lieu_culte": "assets/lieux/house.jpg",
+    "titre_episode_culte": "Three Stories",
+    "generique": {
+      "titre": "Teardrop",
+      "artiste": "Massive Attack",
+      "extrait_audio": "assets/audio/generiques/house.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/house_difficile.jpg",
+      "moyenne": "assets/images/house_moyenne.jpg",
+      "facile": "assets/images/house_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_108",
+    "titre": "Hannibal",
+    "createur": "Bryan Fuller",
+    "annee_debut": 2013,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "nombre_saisons": 3,
+    "nombre_episodes": 39,
+    "statut": "Terminée",
+    "acteur_principal": "Mads Mikkelsen",
+    "lieu_culte": "assets/lieux/hannibal.jpg",
+    "titre_episode_culte": "Mizumono",
+    "generique": {
+      "titre": "Hannibal Main Title",
+      "artiste": "Brian Reitzell",
+      "extrait_audio": "assets/audio/generiques/hannibal.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/hannibal_difficile.jpg",
+      "moyenne": "assets/images/hannibal_moyenne.jpg",
+      "facile": "assets/images/hannibal_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_109",
+    "titre": "Mr. Robot",
+    "createur": "Sam Esmail",
+    "annee_debut": 2015,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "nombre_saisons": 4,
+    "nombre_episodes": 45,
+    "statut": "Terminée",
+    "acteur_principal": "Rami Malek",
+    "lieu_culte": "assets/lieux/mr_robot.jpg",
+    "titre_episode_culte": "eps1.0_hellofriend.mov",
+    "generique": {
+      "titre": "[Ajouter generique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/generiques/mr_robot.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/mr_robot_difficile.jpg",
+      "moyenne": "assets/images/mr_robot_moyenne.jpg",
+      "facile": "assets/images/mr_robot_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_110",
+    "titre": "Gossip Girl",
+    "createur": "Josh Schwartz et Stephanie Savage",
+    "annee_debut": 2007,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "nombre_saisons": 6,
+    "nombre_episodes": 121,
+    "statut": "Terminée",
+    "acteur_principal": "Blake Lively",
+    "lieu_culte": "assets/lieux/gossip_girl.jpg",
+    "titre_episode_culte": "Pilot",
+    "generique": {
+      "titre": "[Ajouter generique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/generiques/gossip_girl.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/gossip_girl_difficile.jpg",
+      "moyenne": "assets/images/gossip_girl_moyenne.jpg",
+      "facile": "assets/images/gossip_girl_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_111",
+    "titre": "Cobra Kai",
+    "createur": "Jon Hurwitz, Hayden Schlossberg et Josh Heald",
+    "annee_debut": 2018,
+    "genre": "Comédie dramatique",
+    "pays": "États-Unis",
+    "nombre_saisons": 6,
+    "nombre_episodes": 65,
+    "statut": "Terminée",
+    "acteur_principal": "Ralph Macchio",
+    "lieu_culte": "assets/lieux/cobra_kai.jpg",
+    "titre_episode_culte": "[Ajouter episode]",
+    "generique": {
+      "titre": "[Ajouter generique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/generiques/cobra_kai.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/cobra_kai_difficile.jpg",
+      "moyenne": "assets/images/cobra_kai_moyenne.jpg",
+      "facile": "assets/images/cobra_kai_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_112",
+    "titre": "Shōgun",
+    "createur": "Rachel Kondo et Justin Marks",
+    "annee_debut": 2024,
+    "genre": "Drame historique",
+    "pays": "États-Unis",
+    "nombre_saisons": 1,
+    "nombre_episodes": 10,
+    "statut": "En cours",
+    "acteur_principal": "Hiroyuki Sanada",
+    "lieu_culte": "assets/lieux/shogun.jpg",
+    "titre_episode_culte": "Anjin",
+    "generique": {
+      "titre": "[Ajouter generique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/generiques/shogun.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/shogun_difficile.jpg",
+      "moyenne": "assets/images/shogun_moyenne.jpg",
+      "facile": "assets/images/shogun_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_113",
+    "titre": "Fallout",
+    "createur": "Geneva Robertson-Dworet et Graham Wagner",
+    "annee_debut": 2024,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "nombre_saisons": 2,
+    "nombre_episodes": 16,
+    "statut": "En cours",
+    "acteur_principal": "Ella Purnell",
+    "lieu_culte": "assets/lieux/fallout.jpg",
+    "titre_episode_culte": "The End",
+    "generique": {
+      "titre": "Fallout Main Theme",
+      "artiste": "Ramin Djawadi",
+      "extrait_audio": "assets/audio/generiques/fallout.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/fallout_difficile.jpg",
+      "moyenne": "assets/images/fallout_moyenne.jpg",
+      "facile": "assets/images/fallout_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_114",
+    "titre": "Ripley",
+    "createur": "Steven Zaillian",
+    "annee_debut": 2024,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "nombre_saisons": 1,
+    "nombre_episodes": 8,
+    "statut": "Terminée",
+    "acteur_principal": "Andrew Scott",
+    "lieu_culte": "assets/lieux/ripley.jpg",
+    "titre_episode_culte": "[Ajouter episode]",
+    "generique": {
+      "titre": "[Ajouter generique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/generiques/ripley.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/ripley_difficile.jpg",
+      "moyenne": "assets/images/ripley_moyenne.jpg",
+      "facile": "assets/images/ripley_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_115",
+    "titre": "Slow Horses",
+    "createur": "Will Smith",
+    "annee_debut": 2022,
+    "genre": "Thriller",
+    "pays": "Royaume-Uni",
+    "nombre_saisons": 5,
+    "nombre_episodes": 30,
+    "statut": "En cours",
+    "acteur_principal": "Gary Oldman",
+    "lieu_culte": "assets/lieux/slow_horses.jpg",
+    "titre_episode_culte": "[Ajouter episode]",
+    "generique": {
+      "titre": "Strange Games",
+      "artiste": "Mick Jagger",
+      "extrait_audio": "assets/audio/generiques/slow_horses.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/slow_horses_difficile.jpg",
+      "moyenne": "assets/images/slow_horses_moyenne.jpg",
+      "facile": "assets/images/slow_horses_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_116",
+    "titre": "The White Lotus",
+    "createur": "Mike White",
+    "annee_debut": 2021,
+    "genre": "Comédie dramatique",
+    "pays": "États-Unis",
+    "nombre_saisons": 3,
+    "nombre_episodes": 21,
+    "statut": "En cours",
+    "acteur_principal": "Jennifer Coolidge",
+    "lieu_culte": "assets/lieux/the_white_lotus.jpg",
+    "titre_episode_culte": "Arrivals",
+    "generique": {
+      "titre": "Aloha!",
+      "artiste": "Cristobal Tapia de Veer",
+      "extrait_audio": "assets/audio/generiques/the_white_lotus.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/the_white_lotus_difficile.jpg",
+      "moyenne": "assets/images/the_white_lotus_moyenne.jpg",
+      "facile": "assets/images/the_white_lotus_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_117",
+    "titre": "Only Murders in the Building",
+    "createur": "Steve Martin et John Hoffman",
+    "annee_debut": 2021,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "nombre_saisons": 4,
+    "nombre_episodes": 40,
+    "statut": "En cours",
+    "acteur_principal": "Steve Martin",
+    "lieu_culte": "assets/lieux/only_murders_in_the_building.jpg",
+    "titre_episode_culte": "True Crime",
+    "generique": {
+      "titre": "[Ajouter generique]",
+      "artiste": "Siddhartha Khosla",
+      "extrait_audio": "assets/audio/generiques/only_murders_in_the_building.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/only_murders_in_the_building_difficile.jpg",
+      "moyenne": "assets/images/only_murders_in_the_building_moyenne.jpg",
+      "facile": "assets/images/only_murders_in_the_building_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_118",
+    "titre": "Bridgerton",
+    "createur": "Chris Van Dusen",
+    "annee_debut": 2020,
+    "genre": "Drame historique",
+    "pays": "États-Unis",
+    "nombre_saisons": 4,
+    "nombre_episodes": 32,
+    "statut": "En cours",
+    "acteur_principal": "Phoebe Dynevor",
+    "lieu_culte": "assets/lieux/bridgerton.jpg",
+    "titre_episode_culte": "Diamond of the First Water",
+    "generique": {
+      "titre": "[Ajouter generique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/generiques/bridgerton.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/bridgerton_difficile.jpg",
+      "moyenne": "assets/images/bridgerton_moyenne.jpg",
+      "facile": "assets/images/bridgerton_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_119",
+    "titre": "Rome",
+    "createur": "Bruno Heller, John Milius et William J. MacDonald",
+    "annee_debut": 2005,
+    "genre": "Drame historique",
+    "pays": "États-Unis",
+    "nombre_saisons": 2,
+    "nombre_episodes": 22,
+    "statut": "Terminée",
+    "acteur_principal": "Kevin McKidd",
+    "lieu_culte": "assets/lieux/rome.jpg",
+    "titre_episode_culte": "The Stolen Eagle",
+    "generique": {
+      "titre": "Rome Main Title",
+      "artiste": "Jeff Beal",
+      "extrait_audio": "assets/audio/generiques/rome.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/rome_difficile.jpg",
+      "moyenne": "assets/images/rome_moyenne.jpg",
+      "facile": "assets/images/rome_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_120",
+    "titre": "True Blood",
+    "createur": "Alan Ball",
+    "annee_debut": 2008,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "nombre_saisons": 7,
+    "nombre_episodes": 80,
+    "statut": "Terminée",
+    "acteur_principal": "Anna Paquin",
+    "lieu_culte": "assets/lieux/true_blood.jpg",
+    "titre_episode_culte": "Strange Love",
+    "generique": {
+      "titre": "Bad Things",
+      "artiste": "Jace Everett",
+      "extrait_audio": "assets/audio/generiques/true_blood.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/true_blood_difficile.jpg",
+      "moyenne": "assets/images/true_blood_moyenne.jpg",
+      "facile": "assets/images/true_blood_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_121",
+    "titre": "The Pitt",
+    "createur": "R. Scott Gemmill",
+    "annee_debut": 2025,
+    "genre": "Drame médical",
+    "pays": "États-Unis",
+    "nombre_saisons": 2,
+    "nombre_episodes": 30,
+    "statut": "En cours",
+    "acteur_principal": "Noah Wyle",
+    "lieu_culte": "assets/lieux/the_pitt.jpg",
+    "titre_episode_culte": "7:00 A.M.",
+    "generique": {
+      "titre": "[Ajouter generique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/generiques/the_pitt.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/the_pitt_difficile.jpg",
+      "moyenne": "assets/images/the_pitt_moyenne.jpg",
+      "facile": "assets/images/the_pitt_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_122",
+    "titre": "Narcos : Mexico",
+    "createur": "Chris Brancato, Carlo Bernard et Doug Miro",
+    "annee_debut": 2018,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "nombre_saisons": 3,
+    "nombre_episodes": 30,
+    "statut": "Terminée",
+    "acteur_principal": "Diego Luna",
+    "lieu_culte": "assets/lieux/narcos_mexico.jpg",
+    "titre_episode_culte": "Camelot",
+    "generique": {
+      "titre": "Tuyo",
+      "artiste": "Rodrigo Amarante",
+      "extrait_audio": "assets/audio/generiques/narcos_mexico.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/narcos_mexico_difficile.jpg",
+      "moyenne": "assets/images/narcos_mexico_moyenne.jpg",
+      "facile": "assets/images/narcos_mexico_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_123",
+    "titre": "Gomorra",
+    "createur": "Roberto Saviano",
+    "annee_debut": 2014,
+    "genre": "Policier",
+    "pays": "Italie",
+    "nombre_saisons": 5,
+    "nombre_episodes": 58,
+    "statut": "Terminée",
+    "acteur_principal": "Marco D'Amore",
+    "lieu_culte": "assets/lieux/gomorra.jpg",
+    "titre_episode_culte": "[Ajouter episode]",
+    "generique": {
+      "titre": "[Ajouter generique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/generiques/gomorra.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/gomorra_difficile.jpg",
+      "moyenne": "assets/images/gomorra_moyenne.jpg",
+      "facile": "assets/images/gomorra_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_124",
+    "titre": "Widow's Bay",
+    "createur": "Katie Dippold",
+    "annee_debut": 2026,
+    "genre": "Horreur",
+    "pays": "États-Unis",
+    "nombre_saisons": 1,
+    "nombre_episodes": 10,
+    "statut": "En cours",
+    "acteur_principal": "Matthew Rhys",
+    "lieu_culte": "assets/lieux/widow_s_bay.jpg",
+    "titre_episode_culte": "Welcome to Widow's Bay",
+    "generique": {
+      "titre": "[Ajouter generique]",
+      "artiste": "David Fleming",
+      "extrait_audio": "assets/audio/generiques/widow_s_bay.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/widow_s_bay_difficile.jpg",
+      "moyenne": "assets/images/widow_s_bay_moyenne.jpg",
+      "facile": "assets/images/widow_s_bay_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_125",
+    "titre": "Silo",
+    "createur": "Graham Yost",
+    "annee_debut": 2023,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "nombre_saisons": 3,
+    "nombre_episodes": 30,
+    "statut": "En cours",
+    "acteur_principal": "Rebecca Ferguson",
+    "lieu_culte": "assets/lieux/silo.jpg",
+    "titre_episode_culte": "Freedom Day",
+    "generique": {
+      "titre": "[Ajouter generique]",
+      "artiste": "Atli Örvarsson",
+      "extrait_audio": "assets/audio/generiques/silo.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/silo_difficile.jpg",
+      "moyenne": "assets/images/silo_moyenne.jpg",
+      "facile": "assets/images/silo_facile.jpg"
+    }
+  },
+  {
+    "id": "serie_126",
+    "titre": "Malcolm",
+    "createur": "Linwood Boomer",
+    "annee_debut": 2000,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "nombre_saisons": 7,
+    "nombre_episodes": 151,
+    "statut": "Terminée",
+    "acteur_principal": "Frankie Muniz",
+    "lieu_culte": "assets/lieux/malcolm.jpg",
+    "titre_episode_culte": "Bowling",
+    "generique": {
+      "titre": "Boss of Me",
+      "artiste": "They Might Be Giants",
+      "extrait_audio": "assets/audio/generiques/malcolm.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/malcolm_difficile.jpg",
+      "moyenne": "assets/images/malcolm_moyenne.jpg",
+      "facile": "assets/images/malcolm_facile.jpg"
+    }
   }
 ]

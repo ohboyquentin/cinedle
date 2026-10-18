@@ -1834,5 +1834,311 @@
     "type": "Humain",
     "role": "Héros",
     "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_207",
+    "nom": "Mickey (L'Apprenti sorcier)",
+    "film_origine": "Fantasia",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_208",
+    "nom": "Lady",
+    "film_origine": "La Belle et le Clochard",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_209",
+    "nom": "Le Clochard",
+    "film_origine": "La Belle et le Clochard",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_210",
+    "nom": "Merlin",
+    "film_origine": "Merlin l'enchanteur",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_211",
+    "nom": "Moustique (Arthur)",
+    "film_origine": "Merlin l'enchanteur",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_212",
+    "nom": "Robin des Bois",
+    "film_origine": "Robin des Bois",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_213",
+    "nom": "Prince Jean",
+    "film_origine": "Robin des Bois",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_214",
+    "nom": "Winnie l'ourson",
+    "film_origine": "Les Aventures de Winnie l'ourson",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_215",
+    "nom": "Tigrou",
+    "film_origine": "Les Aventures de Winnie l'ourson",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_216",
+    "nom": "Rox",
+    "film_origine": "Rox et Rouky",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_217",
+    "nom": "Rouky",
+    "film_origine": "Rox et Rouky",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_218",
+    "nom": "Taram",
+    "film_origine": "Taram et le Chaudron magique",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_219",
+    "nom": "Le Roi des Morts",
+    "film_origine": "Taram et le Chaudron magique",
+    "studio": "Disney",
+    "type": "Créature",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_220",
+    "nom": "Oliver",
+    "film_origine": "Oliver et Compagnie",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_221",
+    "nom": "Dodger",
+    "film_origine": "Oliver et Compagnie",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_222",
+    "nom": "Tarzan",
+    "film_origine": "Tarzan",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_223",
+    "nom": "Jane",
+    "film_origine": "Tarzan",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_224",
+    "nom": "Aladar",
+    "film_origine": "Dinosaure",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_225",
+    "nom": "Milo Thatch",
+    "film_origine": "Atlantide, l'empire perdu",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_226",
+    "nom": "Kida",
+    "film_origine": "Atlantide, l'empire perdu",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_227",
+    "nom": "Jim Hawkins",
+    "film_origine": "La Planète au trésor",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_228",
+    "nom": "Long John Silver",
+    "film_origine": "La Planète au trésor",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_229",
+    "nom": "Kenai",
+    "film_origine": "Frère des ours",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_230",
+    "nom": "Koda",
+    "film_origine": "Frère des ours",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_231",
+    "nom": "Otis",
+    "film_origine": "La Ferme se rebelle",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_232",
+    "nom": "Chicken Little",
+    "film_origine": "Chicken Little",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_233",
+    "nom": "Volt",
+    "film_origine": "Volt, star malgré lui",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_234",
+    "nom": "Mittens",
+    "film_origine": "Volt, star malgré lui",
+    "studio": "Disney",
+    "type": "Animal",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_235",
+    "nom": "Tiana",
+    "film_origine": "La Princesse et la Grenouille",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_236",
+    "nom": "Docteur Facilier",
+    "film_origine": "La Princesse et la Grenouille",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_237",
+    "nom": "Shank",
+    "film_origine": "Ralph 2.0",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Second rôle",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_238",
+    "nom": "Searcher Clade",
+    "film_origine": "Avalonia : L'Étrange Voyage",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Homme"
+  },
+  {
+    "id": "persoanim_239",
+    "nom": "Asha",
+    "film_origine": "Wish, Asha et la bonne étoile",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Héros",
+    "sexe": "Femme"
+  },
+  {
+    "id": "persoanim_240",
+    "nom": "Roi Magnifico",
+    "film_origine": "Wish, Asha et la bonne étoile",
+    "studio": "Disney",
+    "type": "Humain",
+    "role": "Méchant",
+    "sexe": "Homme"
   }
 ]
