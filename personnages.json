@@ -1008,5 +1008,155 @@
     "genre_film": "Biopic",
     "decennie_apparition": 2010,
     "sexe": "Homme"
+  },
+  {
+    "id": "perso_111",
+    "nom": "John Wick",
+    "film_origine": "John Wick",
+    "acteur": "Keanu Reeves",
+    "statut": "Héros",
+    "genre_film": "Action",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_112",
+    "nom": "John McClane",
+    "film_origine": "Die Hard : Piège de cristal",
+    "acteur": "Bruce Willis",
+    "statut": "Héros",
+    "genre_film": "Action",
+    "decennie_apparition": 1980,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_113",
+    "nom": "Hans Gruber",
+    "film_origine": "Die Hard : Piège de cristal",
+    "acteur": "Alan Rickman",
+    "statut": "Méchant",
+    "genre_film": "Action",
+    "decennie_apparition": 1980,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_114",
+    "nom": "Agent J",
+    "film_origine": "Men in Black",
+    "acteur": "Will Smith",
+    "statut": "Héros",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_115",
+    "nom": "Agent K",
+    "film_origine": "Men in Black",
+    "acteur": "Tommy Lee Jones",
+    "statut": "Second rôle",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_116",
+    "nom": "Donnie Darko",
+    "film_origine": "Donnie Darko",
+    "acteur": "Jake Gyllenhaal",
+    "statut": "Anti-héros",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_117",
+    "nom": "Frank",
+    "film_origine": "Donnie Darko",
+    "acteur": "James Duval",
+    "statut": "Second rôle",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_118",
+    "nom": "Gizmo",
+    "film_origine": "Gremlins",
+    "acteur": "Howie Mandel",
+    "statut": "Héros",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 1980,
+    "sexe": "Autre"
+  },
+  {
+    "id": "perso_119",
+    "nom": "Eggsy",
+    "film_origine": "Kingsman : Services secrets",
+    "acteur": "Taron Egerton",
+    "statut": "Héros",
+    "genre_film": "Action",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_121",
+    "nom": "Katniss Everdeen",
+    "film_origine": "Hunger Games",
+    "acteur": "Jennifer Lawrence",
+    "statut": "Héros",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 2010,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_123",
+    "nom": "Jason Bourne",
+    "film_origine": "La Mémoire dans la peau",
+    "acteur": "Matt Damon",
+    "statut": "Héros",
+    "genre_film": "Espionnage",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_124",
+    "nom": "J. Robert Oppenheimer",
+    "film_origine": "Oppenheimer",
+    "acteur": "Cillian Murphy",
+    "statut": "Héros",
+    "genre_film": "Biopic",
+    "decennie_apparition": 2020,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_125",
+    "nom": "Stanley Ipkiss",
+    "film_origine": "The Mask",
+    "acteur": "Jim Carrey",
+    "statut": "Anti-héros",
+    "genre_film": "Comédie",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_126",
+    "nom": "Alonzo Harris",
+    "film_origine": "Training Day",
+    "acteur": "Denzel Washington",
+    "statut": "Anti-héros",
+    "genre_film": "Policier",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_127",
+    "nom": "Rocky (l'Éridien)",
+    "film_origine": "Projet Dernière Chance",
+    "acteur": "James Ortiz",
+    "statut": "Second rôle",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 2020,
+    "sexe": "Autre"
   }
 ]

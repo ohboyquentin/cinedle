@@ -115,6 +115,12 @@
   .poster-frame{ position: relative; width: 100%; max-width: 280px; margin: 0 auto 18px; aspect-ratio: 2/3; border-radius: 14px; overflow: hidden; border: 1px solid var(--border); box-shadow: 0 20px 50px var(--shadow); background:#000; }
   .poster-placeholder{ width:100%; height:100%; display:flex; align-items:center; justify-content:center; background: radial-gradient(circle at 30% 20%, rgba(var(--accent-rgb),0.35), transparent 55%), radial-gradient(circle at 70% 80%, rgba(63,158,109,0.25), transparent 55%), linear-gradient(160deg, #1c1830 0%, #0e0d16 100%); filter: blur(24px) saturate(1.1); transform: scale(1.15); transition: filter 0.6s ease; font-size:34px; position:relative; }
   .poster-img{ position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+  .emoji-board{ display:flex; flex-wrap:wrap; justify-content:center; gap:10px; margin:0 auto 14px; max-width:420px; padding:18px 14px; background:var(--surface,#14151c); border:1px solid var(--border); border-radius:14px; position:relative; }
+  .emoji-slot{ width:52px; height:52px; display:flex; align-items:center; justify-content:center; font-size:32px; border-radius:12px; background:rgba(255,255,255,0.04); border:1px dashed var(--border); color:var(--muted,#888); }
+  .emoji-slot.on{ border-style:solid; background:rgba(255,255,255,0.08); animation:emojiPop .35s ease; }
+  .emoji-slot.off{ font-size:20px; opacity:.45; }
+  @keyframes emojiPop{ from{ transform:scale(.4); opacity:0 } to{ transform:scale(1); opacity:1 } }
+  .emoji-board .attempts-badge{ top:-10px; right:10px; }
   .attempts-badge{ position:absolute; top: 10px; right: 10px; background: rgba(18,19,26,0.85); border: 1px solid var(--border); color: var(--accent); font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; padding: 4px 10px; border-radius: 100px; z-index: 2; }
 
   .replique-box{ background: var(--bg-raised); border: 1px solid var(--border); border-radius: 12px; padding: 22px; text-align:center; font-size: 17px; font-style: italic; color: var(--ivory); margin-bottom: 16px; line-height:1.5; }
@@ -332,12 +338,10 @@ const THEMES = {
           clueHtml: repliqueHtml(DAILY_CINEMA.defi4),
           voiceHintAfter: 5, hintAudioSrc: DAILY_CINEMA.defi4.audio_replique,
           resultMeta:t=>`${t.realisateur} · ${t.annee}`, completionName:'Réplique' }) },
-      { n:5, icon:'🎵', name:'Musique', desc:'Extrait audio',
-        render: () => renderClueGuessDefi({ eyebrow:'Défi 5', title:'Devine la musique', labelKey:'titre',
+      { n:5, icon:'🎭', name:'Film en emojis', desc:'Le film en emojis',
+        render: () => renderEmojiDefi({ eyebrow:'Défi 5', title:'Devine le film en emojis', labelKey:'titre',
           placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi5,
-          clueHtml: `<div class="replique-box">🎵 Extrait de « ${DAILY_CINEMA.defi5.musique.titre} » — ${DAILY_CINEMA.defi5.musique.artiste}</div>`,
-          audioSrc: DAILY_CINEMA.defi5.musique.extrait_audio,
-          resultMeta:t=>`${t.musique.titre} · ${t.musique.artiste}`, completionName:'Musique' }) },
+          resultMeta:t=>`${t.realisateur} · ${t.annee}`, completionName:'Film en emojis' }) },
       { n:6, icon:'📸', name:'3 Images', desc:'Difficulté croissante',
         render: () => renderImagesDefi({ eyebrow:'Défi 6', title:'3 images du film', labelKey:'titre',
           placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi6,
@@ -825,6 +829,78 @@ function renderBlurDefi(cfg){
 /* =========================================================
    MOTEUR GÉNÉRIQUE — DÉFI INDICE (Réplique / Titre épisode / Musique / Générique)
    ========================================================= */
+function renderEmojiDefi(cfg){
+  let wrongGuesses = [];
+  const prog = getProgress(cfg.eyebrow);
+  const EMOJI_START = 2;
+  const emojis = cfg.target.emojis || [];
+  app.innerHTML = `
+    ${backButton()}${progressDots()}
+    <header class="defi-header"><div class="defi-eyebrow">${cfg.eyebrow}</div><h2 class="defi-title">${cfg.title}</h2></header>
+    <div class="emoji-board" id="emoji-board"><div class="attempts-badge" id="badge">0 essai</div></div>
+    <div class="wrong-list" id="wrong-list"></div>
+    <div class="search-wrap" id="search-wrap">
+      <input type="text" id="search-input" placeholder="${cfg.placeholder}" autocomplete="off">
+      <div class="suggestions" id="suggestions"></div>
+    </div>
+    <div id="result-zone"></div>
+  `;
+  wireBack();
+  const input = document.getElementById('search-input');
+  const suggestionsBox = document.getElementById('suggestions');
+  const board = document.getElementById('emoji-board');
+  const badge = document.getElementById('badge');
+  const wrongList = document.getElementById('wrong-list');
+  wireAutocomplete(input, suggestionsBox, cfg.pool, cfg.labelKey, [], submit);
+
+  let shown = 0;
+  function drawBoard(count){
+    board.querySelectorAll('.emoji-slot').forEach(n=>n.remove());
+    emojis.forEach((e,i)=>{
+      const d=document.createElement('div');
+      const on = i<count;
+      d.className='emoji-slot '+(on?'on':'off');
+      if(on && i>=shown) {} else if(on) d.style.animation='none';
+      d.textContent = on ? e : '❓';
+      board.appendChild(d);
+    });
+    shown = count;
+  }
+  function refreshWrong(){
+    drawBoard(Math.min(emojis.length, EMOJI_START + wrongGuesses.length));
+    badge.textContent = wrongGuesses.length + (wrongGuesses.length>1?' essais':' essai');
+    wrongList.innerHTML='';
+    wrongGuesses.forEach(f => { const c=document.createElement('div'); c.className='wrong-chip'; c.textContent=f[cfg.labelKey]; wrongList.appendChild(c); });
+  }
+  function submit(item){
+    input.value=''; suggestionsBox.classList.remove('open'); suggestionsBox.innerHTML='';
+    if(item[cfg.labelKey] === cfg.target[cfg.labelKey]){
+      saveProgress(cfg.eyebrow, wrongGuesses.map(f => f[cfg.labelKey]), true, wrongGuesses.length + 1);
+      finish(); return;
+    }
+    wrongGuesses.push(item);
+    saveProgress(cfg.eyebrow, wrongGuesses.map(f => f[cfg.labelKey]), false, wrongGuesses.length);
+    refreshWrong();
+  }
+  function finish(){
+    input.disabled = true;
+    drawBoard(emojis.length); badge.textContent='Trouvé';
+    document.getElementById('result-zone').innerHTML = `
+      <div class="result">
+        <div class="film-title">${cfg.target[cfg.labelKey]}</div>
+        <div class="meta">${cfg.resultMeta(cfg.target)}</div>
+        <div class="meta">Trouvé en ${wrongGuesses.length+1} tentative${wrongGuesses.length>0?'s':''}</div>
+      </div>`;
+    onDefiComplete(cfg.completionName, wrongGuesses.length+1);
+  }
+
+  // Reprise de la progression du jour
+  wrongGuesses = restoreItems(cfg.pool, cfg.labelKey, prog.guesses);
+  drawBoard(Math.min(emojis.length, EMOJI_START + wrongGuesses.length));
+  if(wrongGuesses.length){ refreshWrong(); }
+  if(prog.done){ finish(); }
+}
+
 function renderClueGuessDefi(cfg){
   let wrongGuesses = [];
   const prog = getProgress(cfg.eyebrow);

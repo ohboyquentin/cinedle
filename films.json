@@ -23,7 +23,15 @@
       "difficile": "assets/images/pulp_fiction_difficile.jpg",
       "moyenne": "assets/images/pulp_fiction_moyenne.jpg",
       "facile": "assets/images/pulp_fiction_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🍔",
+      "💼",
+      "🕺",
+      "💉",
+      "🔫",
+      "🩸"
+    ]
   },
   {
     "id": "film_002",
@@ -49,7 +57,15 @@
       "difficile": "assets/images/lotr_1_difficile.jpg",
       "moyenne": "assets/images/lotr_1_moyenne.jpg",
       "facile": "assets/images/lotr_1_facile.jpg"
-    }
+    },
+    "emojis": [
+      "💍",
+      "🧙‍♂️",
+      "🏹",
+      "🌋",
+      "🥾",
+      "🧝"
+    ]
   },
   {
     "id": "film_003",
@@ -74,7 +90,15 @@
       "difficile": "assets/images/parasite_difficile.jpg",
       "moyenne": "assets/images/parasite_moyenne.jpg",
       "facile": "assets/images/parasite_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🏠",
+      "🪨",
+      "🌧️",
+      "🍜",
+      "🔪",
+      "🪲"
+    ]
   },
   {
     "id": "film_004",
@@ -99,7 +123,15 @@
       "difficile": "assets/images/amelie_poulain_difficile.jpg",
       "moyenne": "assets/images/amelie_poulain_moyenne.jpg",
       "facile": "assets/images/amelie_poulain_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🍓",
+      "📷",
+      "🚇",
+      "💘",
+      "🇫🇷",
+      "🧚‍♀️"
+    ]
   },
   {
     "id": "film_005",
@@ -125,7 +157,15 @@
       "difficile": "assets/images/fight_club_difficile.jpg",
       "moyenne": "assets/images/fight_club_moyenne.jpg",
       "facile": "assets/images/fight_club_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🧼",
+      "👊",
+      "🤫",
+      "🏢",
+      "💥",
+      "🕶️"
+    ]
   },
   {
     "id": "film_006",
@@ -150,7 +190,15 @@
       "difficile": "assets/images/la_haine_difficile.jpg",
       "moyenne": "assets/images/la_haine_moyenne.jpg",
       "facile": "assets/images/la_haine_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🏙️",
+      "🔫",
+      "🕰️",
+      "🪟",
+      "😠",
+      "🇫🇷"
+    ]
   },
   {
     "id": "film_007",
@@ -176,7 +224,15 @@
       "difficile": "assets/images/beetlejuice_difficile.jpg",
       "moyenne": "assets/images/beetlejuice_moyenne.jpg",
       "facile": "assets/images/beetlejuice_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🪲",
+      "🧃",
+      "👻",
+      "🏚️",
+      "🪱",
+      "🎩"
+    ]
   },
   {
     "id": "film_008",
@@ -202,7 +258,15 @@
       "difficile": "assets/images/inception_difficile.jpg",
       "moyenne": "assets/images/inception_moyenne.jpg",
       "facile": "assets/images/inception_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🌀",
+      "💤",
+      "🏙️",
+      "⏳",
+      "🪀",
+      "🧠"
+    ]
   },
   {
     "id": "film_009",
@@ -228,7 +292,15 @@
       "difficile": "assets/images/gladiator_difficile.jpg",
       "moyenne": "assets/images/gladiator_moyenne.jpg",
       "facile": "assets/images/gladiator_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🛡️",
+      "⚔️",
+      "🏟️",
+      "👑",
+      "🐎",
+      "🏛️"
+    ]
   },
   {
     "id": "film_010",
@@ -254,7 +326,15 @@
       "difficile": "assets/images/titanic_difficile.jpg",
       "moyenne": "assets/images/titanic_moyenne.jpg",
       "facile": "assets/images/titanic_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🚢",
+      "🧊",
+      "❤️",
+      "🎨",
+      "🌊",
+      "🚪"
+    ]
   },
   {
     "id": "film_011",
@@ -280,7 +360,15 @@
       "difficile": "assets/images/fargo_difficile.jpg",
       "moyenne": "assets/images/fargo_moyenne.jpg",
       "facile": "assets/images/fargo_facile.jpg"
-    }
+    },
+    "emojis": [
+      "❄️",
+      "🚔",
+      "🩸",
+      "🌲",
+      "💰",
+      "👶"
+    ]
   },
   {
     "id": "film_012",
@@ -306,7 +394,15 @@
       "difficile": "assets/images/retour_futur_difficile.jpg",
       "moyenne": "assets/images/retour_futur_moyenne.jpg",
       "facile": "assets/images/retour_futur_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🚗",
+      "⏰",
+      "⚡",
+      "🛹",
+      "🔙",
+      "🔜"
+    ]
   },
   {
     "id": "film_013",
@@ -332,7 +428,15 @@
       "difficile": "assets/images/leon_difficile.jpg",
       "moyenne": "assets/images/leon_moyenne.jpg",
       "facile": "assets/images/leon_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🌿",
+      "🥛",
+      "🔫",
+      "🧒",
+      "🕶️",
+      "🗽"
+    ]
   },
   {
     "id": "film_014",
@@ -358,7 +462,15 @@
       "difficile": "assets/images/old_boy_difficile.jpg",
       "moyenne": "assets/images/old_boy_moyenne.jpg",
       "facile": "assets/images/old_boy_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🐙",
+      "🔨",
+      "🚪",
+      "⏳",
+      "👊",
+      "🤐"
+    ]
   },
   {
     "id": "film_015",
@@ -384,7 +496,15 @@
       "difficile": "assets/images/interstellar_difficile.jpg",
       "moyenne": "assets/images/interstellar_moyenne.jpg",
       "facile": "assets/images/interstellar_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🌽",
+      "🌌",
+      "🕳️",
+      "⏳",
+      "🚀",
+      "📚"
+    ]
   },
   {
     "id": "film_016",
@@ -410,7 +530,15 @@
       "difficile": "assets/images/forrest_gump_difficile.jpg",
       "moyenne": "assets/images/forrest_gump_moyenne.jpg",
       "facile": "assets/images/forrest_gump_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🪶",
+      "🍫",
+      "🏃",
+      "🍤",
+      "🏓",
+      "🇺🇸"
+    ]
   },
   {
     "id": "film_017",
@@ -436,7 +564,15 @@
       "difficile": "assets/images/le_parrain_difficile.jpg",
       "moyenne": "assets/images/le_parrain_moyenne.jpg",
       "facile": "assets/images/le_parrain_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🐴",
+      "🌹",
+      "🍝",
+      "🔫",
+      "🤌",
+      "🇮🇹"
+    ]
   },
   {
     "id": "film_018",
@@ -462,7 +598,15 @@
       "difficile": "assets/images/star_wars_4_difficile.jpg",
       "moyenne": "assets/images/star_wars_4_moyenne.jpg",
       "facile": "assets/images/star_wars_4_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🌠",
+      "⚔️",
+      "🤖",
+      "🌌",
+      "🧙‍♂️",
+      "🌑"
+    ]
   },
   {
     "id": "film_019",
@@ -488,7 +632,15 @@
       "difficile": "assets/images/matrix_difficile.jpg",
       "moyenne": "assets/images/matrix_moyenne.jpg",
       "facile": "assets/images/matrix_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🕶️",
+      "💊",
+      "🐇",
+      "🥄",
+      "🔴",
+      "💻"
+    ]
   },
   {
     "id": "film_020",
@@ -514,7 +666,15 @@
       "difficile": "assets/images/casino_royale_difficile.jpg",
       "moyenne": "assets/images/casino_royale_moyenne.jpg",
       "facile": "assets/images/casino_royale_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🃏",
+      "🍸",
+      "🚗",
+      "🏝️",
+      "🔫",
+      "♠️"
+    ]
   },
   {
     "id": "film_021",
@@ -540,7 +700,15 @@
       "difficile": "assets/images/silence_agneaux_difficile.jpg",
       "moyenne": "assets/images/silence_agneaux_moyenne.jpg",
       "facile": "assets/images/silence_agneaux_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🐑",
+      "🦋",
+      "😷",
+      "🍷",
+      "🕯️",
+      "🔪"
+    ]
   },
   {
     "id": "film_022",
@@ -566,7 +734,15 @@
       "difficile": "assets/images/django_difficile.jpg",
       "moyenne": "assets/images/django_moyenne.jpg",
       "facile": "assets/images/django_facile.jpg"
-    }
+    },
+    "emojis": [
+      "⛓️",
+      "🤠",
+      "🔫",
+      "🌵",
+      "🩸",
+      "💥"
+    ]
   },
   {
     "id": "film_023",
@@ -592,7 +768,15 @@
       "difficile": "assets/images/whiplash_difficile.jpg",
       "moyenne": "assets/images/whiplash_moyenne.jpg",
       "facile": "assets/images/whiplash_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🥁",
+      "🩸",
+      "🎷",
+      "⏱️",
+      "🧑‍🏫",
+      "😠"
+    ]
   },
   {
     "id": "film_024",
@@ -618,7 +802,15 @@
       "difficile": "assets/images/la_la_land_difficile.jpg",
       "moyenne": "assets/images/la_la_land_moyenne.jpg",
       "facile": "assets/images/la_la_land_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🌟",
+      "🎹",
+      "🎷",
+      "🌃",
+      "💃",
+      "🎬"
+    ]
   },
   {
     "id": "film_025",
@@ -644,7 +836,15 @@
       "difficile": "assets/images/joker_difficile.jpg",
       "moyenne": "assets/images/joker_moyenne.jpg",
       "facile": "assets/images/joker_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🤡",
+      "🪜",
+      "🚇",
+      "🃏",
+      "🔫",
+      "📺"
+    ]
   },
   {
     "id": "film_026",
@@ -670,7 +870,15 @@
       "difficile": "assets/images/avengers_endgame_difficile.jpg",
       "moyenne": "assets/images/avengers_endgame_moyenne.jpg",
       "facile": "assets/images/avengers_endgame_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🧤",
+      "⏳",
+      "🦸",
+      "🔨",
+      "🛡️",
+      "⚡"
+    ]
   },
   {
     "id": "film_027",
@@ -696,7 +904,15 @@
       "difficile": "assets/images/blade_runner_difficile.jpg",
       "moyenne": "assets/images/blade_runner_moyenne.jpg",
       "facile": "assets/images/blade_runner_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🤖",
+      "🌧️",
+      "🏙️",
+      "🦄",
+      "👁️",
+      "🕊️"
+    ]
   },
   {
     "id": "film_028",
@@ -722,7 +938,15 @@
       "difficile": "assets/images/shining_difficile.jpg",
       "moyenne": "assets/images/shining_moyenne.jpg",
       "facile": "assets/images/shining_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🏨",
+      "❄️",
+      "🧒",
+      "🪓",
+      "🚪",
+      "🌲"
+    ]
   },
   {
     "id": "film_029",
@@ -748,7 +972,15 @@
       "difficile": "assets/images/the_lighthouse_difficile.jpg",
       "moyenne": "assets/images/the_lighthouse_moyenne.jpg",
       "facile": "assets/images/the_lighthouse_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🗼",
+      "🐦",
+      "🌊",
+      "🐙",
+      "🦞",
+      "🍺"
+    ]
   },
   {
     "id": "film_030",
@@ -774,7 +1006,15 @@
       "difficile": "assets/images/hell_or_high_water_difficile.jpg",
       "moyenne": "assets/images/hell_or_high_water_moyenne.jpg",
       "facile": "assets/images/hell_or_high_water_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🤠",
+      "🏦",
+      "🐎",
+      "🚗",
+      "🌵",
+      "🔫"
+    ]
   },
   {
     "id": "film_031",
@@ -800,7 +1040,15 @@
       "difficile": "assets/images/once_upon_a_time_in_hollywood_difficile.jpg",
       "moyenne": "assets/images/once_upon_a_time_in_hollywood_moyenne.jpg",
       "facile": "assets/images/once_upon_a_time_in_hollywood_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🎬",
+      "🌟",
+      "🚗",
+      "🕺",
+      "🔫",
+      "🔥"
+    ]
   },
   {
     "id": "film_032",
@@ -826,7 +1074,15 @@
       "difficile": "assets/images/trainspotting_difficile.jpg",
       "moyenne": "assets/images/trainspotting_moyenne.jpg",
       "facile": "assets/images/trainspotting_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🏃",
+      "💊",
+      "🚂",
+      "🎵",
+      "🛋️",
+      "🇬🇧"
+    ]
   },
   {
     "id": "film_033",
@@ -851,7 +1107,15 @@
       "difficile": "assets/images/grand_bleu_difficile.jpg",
       "moyenne": "assets/images/grand_bleu_moyenne.jpg",
       "facile": "assets/images/grand_bleu_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🐬",
+      "🌊",
+      "🤿",
+      "🇫🇷",
+      "💙",
+      "🏊"
+    ]
   },
   {
     "id": "film_034",
@@ -876,7 +1140,15 @@
       "difficile": "assets/images/tontons_flingueurs_difficile.jpg",
       "moyenne": "assets/images/tontons_flingueurs_moyenne.jpg",
       "facile": "assets/images/tontons_flingueurs_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🥃",
+      "🔫",
+      "🍷",
+      "🕴️",
+      "💥",
+      "🇫🇷"
+    ]
   },
   {
     "id": "film_035",
@@ -902,7 +1174,15 @@
       "difficile": "assets/images/amadeus_difficile.jpg",
       "moyenne": "assets/images/amadeus_moyenne.jpg",
       "facile": "assets/images/amadeus_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🎼",
+      "🎹",
+      "👑",
+      "😈",
+      "🎭",
+      "⚰️"
+    ]
   },
   {
     "id": "film_036",
@@ -928,7 +1208,15 @@
       "difficile": "assets/images/requiem_for_a_dream_difficile.jpg",
       "moyenne": "assets/images/requiem_for_a_dream_moyenne.jpg",
       "facile": "assets/images/requiem_for_a_dream_facile.jpg"
-    }
+    },
+    "emojis": [
+      "📺",
+      "💊",
+      "🍬",
+      "⚡",
+      "🧠",
+      "🏚️"
+    ]
   },
   {
     "id": "film_037",
@@ -954,7 +1242,15 @@
       "difficile": "assets/images/american_history_x_difficile.jpg",
       "moyenne": "assets/images/american_history_x_moyenne.jpg",
       "facile": "assets/images/american_history_x_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🧑‍🦲",
+      "🔫",
+      "🏀",
+      "👨‍👦",
+      "🏫",
+      "⚖️"
+    ]
   },
   {
     "id": "film_038",
@@ -980,7 +1276,15 @@
       "difficile": "assets/images/sin_city_difficile.jpg",
       "moyenne": "assets/images/sin_city_moyenne.jpg",
       "facile": "assets/images/sin_city_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🖤",
+      "🤍",
+      "🌃",
+      "🔫",
+      "💋",
+      "🗡️"
+    ]
   },
   {
     "id": "film_039",
@@ -1006,7 +1310,15 @@
       "difficile": "assets/images/kill_bill_1_difficile.jpg",
       "moyenne": "assets/images/kill_bill_1_moyenne.jpg",
       "facile": "assets/images/kill_bill_1_facile.jpg"
-    }
+    },
+    "emojis": [
+      "👰",
+      "🟡",
+      "⚔️",
+      "🩸",
+      "🇯🇵",
+      "🏍️"
+    ]
   },
   {
     "id": "film_040",
@@ -1032,7 +1344,15 @@
       "difficile": "assets/images/very_bad_trip_difficile.jpg",
       "moyenne": "assets/images/very_bad_trip_moyenne.jpg",
       "facile": "assets/images/very_bad_trip_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🎰",
+      "🍻",
+      "🦷",
+      "🐯",
+      "🏨",
+      "👶"
+    ]
   },
   {
     "id": "film_041",
@@ -1057,7 +1377,15 @@
       "difficile": "assets/images/oss117_difficile.jpg",
       "moyenne": "assets/images/oss117_moyenne.jpg",
       "facile": "assets/images/oss117_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🕵️",
+      "🐪",
+      "🇪🇬",
+      "🕶️",
+      "🎩",
+      "🔫"
+    ]
   },
   {
     "id": "film_042",
@@ -1082,7 +1410,15 @@
       "difficile": "assets/images/intouchables_difficile.jpg",
       "moyenne": "assets/images/intouchables_moyenne.jpg",
       "facile": "assets/images/intouchables_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🦽",
+      "🤝",
+      "🚗",
+      "🎵",
+      "🪂",
+      "🇫🇷"
+    ]
   },
   {
     "id": "film_043",
@@ -1107,7 +1443,15 @@
       "difficile": "assets/images/chtis_difficile.jpg",
       "moyenne": "assets/images/chtis_moyenne.jpg",
       "facile": "assets/images/chtis_facile.jpg"
-    }
+    },
+    "emojis": [
+      "✉️",
+      "🚗",
+      "🌧️",
+      "🏖️",
+      "🧀",
+      "🍺"
+    ]
   },
   {
     "id": "film_044",
@@ -1132,7 +1476,15 @@
       "difficile": "assets/images/asterix_cleopatre_difficile.jpg",
       "moyenne": "assets/images/asterix_cleopatre_moyenne.jpg",
       "facile": "assets/images/asterix_cleopatre_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🏗️",
+      "🐍",
+      "👸",
+      "🏛️",
+      "🧪",
+      "🇫🇷"
+    ]
   },
   {
     "id": "film_045",
@@ -1158,7 +1510,15 @@
       "difficile": "assets/images/dune_difficile.jpg",
       "moyenne": "assets/images/dune_moyenne.jpg",
       "facile": "assets/images/dune_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🏜️",
+      "🪱",
+      "🪐",
+      "👁️",
+      "⚔️",
+      "👑"
+    ]
   },
   {
     "id": "film_046",
@@ -1184,7 +1544,15 @@
       "difficile": "assets/images/eeaao_difficile.jpg",
       "moyenne": "assets/images/eeaao_moyenne.jpg",
       "facile": "assets/images/eeaao_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🥯",
+      "🌌",
+      "🪨",
+      "🧾",
+      "👀",
+      "🦸"
+    ]
   },
   {
     "id": "film_047",
@@ -1210,7 +1578,15 @@
       "difficile": "assets/images/get_out_difficile.jpg",
       "moyenne": "assets/images/get_out_moyenne.jpg",
       "facile": "assets/images/get_out_facile.jpg"
-    }
+    },
+    "emojis": [
+      "☕",
+      "🥄",
+      "🏡",
+      "😱",
+      "🧠",
+      "🦌"
+    ]
   },
   {
     "id": "film_048",
@@ -1236,7 +1612,15 @@
       "difficile": "assets/images/her_difficile.jpg",
       "moyenne": "assets/images/her_moyenne.jpg",
       "facile": "assets/images/her_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🎧",
+      "📱",
+      "❤️",
+      "🗣️",
+      "👨",
+      "🌆"
+    ]
   },
   {
     "id": "film_049",
@@ -1262,7 +1646,15 @@
       "difficile": "assets/images/prisoners_difficile.jpg",
       "moyenne": "assets/images/prisoners_moyenne.jpg",
       "facile": "assets/images/prisoners_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🚐",
+      "🌧️",
+      "🙏",
+      "🔦",
+      "👨‍👧",
+      "🕳️"
+    ]
   },
   {
     "id": "film_050",
@@ -1288,7 +1680,15 @@
       "difficile": "assets/images/grand_budapest_hotel_difficile.jpg",
       "moyenne": "assets/images/grand_budapest_hotel_moyenne.jpg",
       "facile": "assets/images/grand_budapest_hotel_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🏨",
+      "🎩",
+      "🍰",
+      "🔑",
+      "🏔️",
+      "🎨"
+    ]
   },
   {
     "id": "film_051",
@@ -1314,7 +1714,15 @@
       "difficile": "assets/images/scarface_difficile.jpg",
       "moyenne": "assets/images/scarface_moyenne.jpg",
       "facile": "assets/images/scarface_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🌴",
+      "💰",
+      "❄️",
+      "🔫",
+      "🏙️",
+      "👔"
+    ]
   },
   {
     "id": "film_052",
@@ -1340,7 +1748,15 @@
       "difficile": "assets/images/taxi_driver_difficile.jpg",
       "moyenne": "assets/images/taxi_driver_moyenne.jpg",
       "facile": "assets/images/taxi_driver_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🚕",
+      "🌃",
+      "🪞",
+      "🗣️",
+      "💈",
+      "🔫"
+    ]
   },
   {
     "id": "film_053",
@@ -1366,7 +1782,15 @@
       "difficile": "assets/images/les_affranchis_difficile.jpg",
       "moyenne": "assets/images/les_affranchis_moyenne.jpg",
       "facile": "assets/images/les_affranchis_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🕴️",
+      "🍝",
+      "🍷",
+      "💰",
+      "🔫",
+      "🥩"
+    ]
   },
   {
     "id": "film_054",
@@ -1392,7 +1816,15 @@
       "difficile": "assets/images/les_infiltres_difficile.jpg",
       "moyenne": "assets/images/les_infiltres_moyenne.jpg",
       "facile": "assets/images/les_infiltres_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🐀",
+      "🚔",
+      "🕴️",
+      "🍀",
+      "🔫",
+      "🏢"
+    ]
   },
   {
     "id": "film_055",
@@ -1418,7 +1850,15 @@
       "difficile": "assets/images/heat_difficile.jpg",
       "moyenne": "assets/images/heat_moyenne.jpg",
       "facile": "assets/images/heat_facile.jpg"
-    }
+    },
+    "emojis": [
+      "☕",
+      "🏦",
+      "🔫",
+      "🌃",
+      "🚓",
+      "🏃"
+    ]
   },
   {
     "id": "film_056",
@@ -1444,7 +1884,15 @@
       "difficile": "assets/images/no_country_difficile.jpg",
       "moyenne": "assets/images/no_country_moyenne.jpg",
       "facile": "assets/images/no_country_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🪙",
+      "💼",
+      "🏜️",
+      "🔫",
+      "🐄",
+      "💇"
+    ]
   },
   {
     "id": "film_057",
@@ -1470,7 +1918,15 @@
       "difficile": "assets/images/big_lebowski_difficile.jpg",
       "moyenne": "assets/images/big_lebowski_moyenne.jpg",
       "facile": "assets/images/big_lebowski_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🎳",
+      "🥛",
+      "🧖",
+      "🛋️",
+      "🏠",
+      "🎤"
+    ]
   },
   {
     "id": "film_058",
@@ -1496,7 +1952,15 @@
       "difficile": "assets/images/inglourious_basterds_difficile.jpg",
       "moyenne": "assets/images/inglourious_basterds_moyenne.jpg",
       "facile": "assets/images/inglourious_basterds_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🪖",
+      "🎬",
+      "🔥",
+      "🇫🇷",
+      "🎯",
+      "🍰"
+    ]
   },
   {
     "id": "film_059",
@@ -1522,7 +1986,15 @@
       "difficile": "assets/images/les_evades_difficile.jpg",
       "moyenne": "assets/images/les_evades_moyenne.jpg",
       "facile": "assets/images/les_evades_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🏢",
+      "🪨",
+      "🔨",
+      "🎞️",
+      "🕳️",
+      "🌧️"
+    ]
   },
   {
     "id": "film_060",
@@ -1548,7 +2020,15 @@
       "difficile": "assets/images/dark_knight_difficile.jpg",
       "moyenne": "assets/images/dark_knight_moyenne.jpg",
       "facile": "assets/images/dark_knight_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🦇",
+      "🃏",
+      "🏙️",
+      "🔥",
+      "🚔",
+      "🖤"
+    ]
   },
   {
     "id": "film_061",
@@ -1574,7 +2054,15 @@
       "difficile": "assets/images/se7en_difficile.jpg",
       "moyenne": "assets/images/se7en_moyenne.jpg",
       "facile": "assets/images/se7en_facile.jpg"
-    }
+    },
+    "emojis": [
+      "📦",
+      "🌧️",
+      "🚔",
+      "🔢",
+      "😱",
+      "💀"
+    ]
   },
   {
     "id": "film_062",
@@ -1600,7 +2088,15 @@
       "difficile": "assets/images/truman_show_difficile.jpg",
       "moyenne": "assets/images/truman_show_moyenne.jpg",
       "facile": "assets/images/truman_show_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🏝️",
+      "📺",
+      "👁️",
+      "🌊",
+      "🚪",
+      "☀️"
+    ]
   },
   {
     "id": "film_063",
@@ -1626,7 +2122,15 @@
       "difficile": "assets/images/eternal_sunshine_difficile.jpg",
       "moyenne": "assets/images/eternal_sunshine_moyenne.jpg",
       "facile": "assets/images/eternal_sunshine_facile.jpg"
-    }
+    },
+    "emojis": [
+      "💔",
+      "🧠",
+      "🧹",
+      "🚆",
+      "❄️",
+      "🏖️"
+    ]
   },
   {
     "id": "film_064",
@@ -1652,7 +2156,15 @@
       "difficile": "assets/images/ligne_verte_difficile.jpg",
       "moyenne": "assets/images/ligne_verte_moyenne.jpg",
       "facile": "assets/images/ligne_verte_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🟢",
+      "🐭",
+      "⚡",
+      "🙏",
+      "⛓️",
+      "😢"
+    ]
   },
   {
     "id": "film_065",
@@ -1678,7 +2190,15 @@
       "difficile": "assets/images/orange_mecanique_difficile.jpg",
       "moyenne": "assets/images/orange_mecanique_moyenne.jpg",
       "facile": "assets/images/orange_mecanique_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🥛",
+      "🍊",
+      "⚙️",
+      "👁️",
+      "🎶",
+      "🎩"
+    ]
   },
   {
     "id": "film_066",
@@ -1704,7 +2224,15 @@
       "difficile": "assets/images/reservoir_dogs_difficile.jpg",
       "moyenne": "assets/images/reservoir_dogs_moyenne.jpg",
       "facile": "assets/images/reservoir_dogs_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🕴️",
+      "🕶️",
+      "💎",
+      "🚗",
+      "🔫",
+      "🐕"
+    ]
   },
   {
     "id": "film_067",
@@ -1730,7 +2258,15 @@
       "difficile": "assets/images/v_pour_vendetta_difficile.jpg",
       "moyenne": "assets/images/v_pour_vendetta_moyenne.jpg",
       "facile": "assets/images/v_pour_vendetta_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🎭",
+      "🎆",
+      "📅",
+      "💣",
+      "🇬🇧",
+      "🧑‍🎤"
+    ]
   },
   {
     "id": "film_068",
@@ -1756,7 +2292,15 @@
       "difficile": "assets/images/le_prestige_difficile.jpg",
       "moyenne": "assets/images/le_prestige_moyenne.jpg",
       "facile": "assets/images/le_prestige_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🎩",
+      "🕊️",
+      "🧪",
+      "⚡",
+      "🔄",
+      "👯"
+    ]
   },
   {
     "id": "film_069",
@@ -1782,7 +2326,15 @@
       "difficile": "assets/images/memento_difficile.jpg",
       "moyenne": "assets/images/memento_moyenne.jpg",
       "facile": "assets/images/memento_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🧠",
+      "📸",
+      "📝",
+      "⏪",
+      "🔍",
+      "🩸"
+    ]
   },
   {
     "id": "film_070",
@@ -1808,7 +2360,15 @@
       "difficile": "assets/images/crimson_peak_difficile.jpg",
       "moyenne": "assets/images/crimson_peak_moyenne.jpg",
       "facile": "assets/images/crimson_peak_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🏚️",
+      "👻",
+      "🩸",
+      "❄️",
+      "🕯️",
+      "🧣"
+    ]
   },
   {
     "id": "film_071",
@@ -1834,7 +2394,15 @@
       "difficile": "assets/images/jurassic_park_difficile.jpg",
       "moyenne": "assets/images/jurassic_park_moyenne.jpg",
       "facile": "assets/images/jurassic_park_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🧬",
+      "🦖",
+      "🚙",
+      "🏝️",
+      "🥚",
+      "💧"
+    ]
   },
   {
     "id": "film_072",
@@ -1860,7 +2428,15 @@
       "difficile": "assets/images/et_difficile.jpg",
       "moyenne": "assets/images/et_moyenne.jpg",
       "facile": "assets/images/et_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🌙",
+      "🚲",
+      "👽",
+      "📞",
+      "🛸",
+      "🏡"
+    ]
   },
   {
     "id": "film_073",
@@ -1886,7 +2462,15 @@
       "difficile": "assets/images/indiana_jones_difficile.jpg",
       "moyenne": "assets/images/indiana_jones_moyenne.jpg",
       "facile": "assets/images/indiana_jones_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🤠",
+      "🐍",
+      "🪨",
+      "🏺",
+      "🚚",
+      "🏜️"
+    ]
   },
   {
     "id": "film_074",
@@ -1912,7 +2496,15 @@
       "difficile": "assets/images/soldat_ryan_difficile.jpg",
       "moyenne": "assets/images/soldat_ryan_moyenne.jpg",
       "facile": "assets/images/soldat_ryan_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🏖️",
+      "🌊",
+      "🪖",
+      "🔫",
+      "🇺🇸",
+      "🇫🇷"
+    ]
   },
   {
     "id": "film_075",
@@ -1938,7 +2530,15 @@
       "difficile": "assets/images/dents_de_la_mer_difficile.jpg",
       "moyenne": "assets/images/dents_de_la_mer_moyenne.jpg",
       "facile": "assets/images/dents_de_la_mer_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🌊",
+      "🦈",
+      "🏖️",
+      "🚤",
+      "🩸",
+      "🛟"
+    ]
   },
   {
     "id": "film_076",
@@ -1964,7 +2564,15 @@
       "difficile": "assets/images/2001_odyssee_difficile.jpg",
       "moyenne": "assets/images/2001_odyssee_moyenne.jpg",
       "facile": "assets/images/2001_odyssee_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🦴",
+      "🦍",
+      "🛸",
+      "🔴",
+      "🤖",
+      "🌌"
+    ]
   },
   {
     "id": "film_077",
@@ -1990,7 +2598,15 @@
       "difficile": "assets/images/full_metal_jacket_difficile.jpg",
       "moyenne": "assets/images/full_metal_jacket_moyenne.jpg",
       "facile": "assets/images/full_metal_jacket_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🪖",
+      "🎯",
+      "🔫",
+      "🇻🇳",
+      "🧱",
+      "🏋️"
+    ]
   },
   {
     "id": "film_078",
@@ -2016,7 +2632,15 @@
       "difficile": "assets/images/apocalypse_now_difficile.jpg",
       "moyenne": "assets/images/apocalypse_now_moyenne.jpg",
       "facile": "assets/images/apocalypse_now_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🚁",
+      "🌴",
+      "🔥",
+      "🌅",
+      "🛶",
+      "🇻🇳"
+    ]
   },
   {
     "id": "film_079",
@@ -2042,7 +2666,15 @@
       "difficile": "assets/images/casablanca_difficile.jpg",
       "moyenne": "assets/images/casablanca_moyenne.jpg",
       "facile": "assets/images/casablanca_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🥃",
+      "🎹",
+      "✈️",
+      "🌫️",
+      "💔",
+      "🎩"
+    ]
   },
   {
     "id": "film_080",
@@ -2068,7 +2700,15 @@
       "difficile": "assets/images/psychose_difficile.jpg",
       "moyenne": "assets/images/psychose_moyenne.jpg",
       "facile": "assets/images/psychose_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🚿",
+      "🔪",
+      "🏨",
+      "🐦",
+      "🏚️",
+      "😱"
+    ]
   },
   {
     "id": "film_081",
@@ -2094,7 +2734,15 @@
       "difficile": "assets/images/vertigo_difficile.jpg",
       "moyenne": "assets/images/vertigo_moyenne.jpg",
       "facile": "assets/images/vertigo_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🌀",
+      "👁️",
+      "👱‍♀️",
+      "⛪",
+      "🧗",
+      "😵"
+    ]
   },
   {
     "id": "film_082",
@@ -2120,7 +2768,15 @@
       "difficile": "assets/images/fenetre_sur_cour_difficile.jpg",
       "moyenne": "assets/images/fenetre_sur_cour_moyenne.jpg",
       "facile": "assets/images/fenetre_sur_cour_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🪟",
+      "🔭",
+      "🦽",
+      "🌃",
+      "📷",
+      "🔍"
+    ]
   },
   {
     "id": "film_083",
@@ -2146,7 +2802,15 @@
       "difficile": "assets/images/alien_difficile.jpg",
       "moyenne": "assets/images/alien_moyenne.jpg",
       "facile": "assets/images/alien_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🥚",
+      "🚀",
+      "🩸",
+      "👽",
+      "🐈",
+      "🔥"
+    ]
   },
   {
     "id": "film_084",
@@ -2172,7 +2836,15 @@
       "difficile": "assets/images/aliens_le_retour_difficile.jpg",
       "moyenne": "assets/images/aliens_le_retour_moyenne.jpg",
       "facile": "assets/images/aliens_le_retour_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🥚",
+      "🔫",
+      "👩‍🚀",
+      "👧",
+      "🚜",
+      "👽"
+    ]
   },
   {
     "id": "film_085",
@@ -2198,7 +2870,15 @@
       "difficile": "assets/images/terminator_2_difficile.jpg",
       "moyenne": "assets/images/terminator_2_moyenne.jpg",
       "facile": "assets/images/terminator_2_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🤖",
+      "🏍️",
+      "🕶️",
+      "👦",
+      "🔥",
+      "👍"
+    ]
   },
   {
     "id": "film_086",
@@ -2224,7 +2904,15 @@
       "difficile": "assets/images/avatar_difficile.jpg",
       "moyenne": "assets/images/avatar_moyenne.jpg",
       "facile": "assets/images/avatar_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🔵",
+      "🌳",
+      "🦅",
+      "🐉",
+      "👁️",
+      "✨"
+    ]
   },
   {
     "id": "film_087",
@@ -2250,7 +2938,15 @@
       "difficile": "assets/images/il_etait_une_fois_amerique_difficile.jpg",
       "moyenne": "assets/images/il_etait_une_fois_amerique_moyenne.jpg",
       "facile": "assets/images/il_etait_une_fois_amerique_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🍰",
+      "🕰️",
+      "🏙️",
+      "🔫",
+      "💰",
+      "🇺🇸"
+    ]
   },
   {
     "id": "film_088",
@@ -2276,7 +2972,15 @@
       "difficile": "assets/images/bon_brute_truand_difficile.jpg",
       "moyenne": "assets/images/bon_brute_truand_moyenne.jpg",
       "facile": "assets/images/bon_brute_truand_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🤠",
+      "🔫",
+      "🏜️",
+      "🎺",
+      "⚰️",
+      "💰"
+    ]
   },
   {
     "id": "film_089",
@@ -2302,7 +3006,15 @@
       "difficile": "assets/images/rocky_difficile.jpg",
       "moyenne": "assets/images/rocky_moyenne.jpg",
       "facile": "assets/images/rocky_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🥊",
+      "🥩",
+      "🏃",
+      "🥚",
+      "🎶",
+      "🏛️"
+    ]
   },
   {
     "id": "film_090",
@@ -2328,7 +3040,15 @@
       "difficile": "assets/images/rain_man_difficile.jpg",
       "moyenne": "assets/images/rain_man_moyenne.jpg",
       "facile": "assets/images/rain_man_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🃏",
+      "🧮",
+      "🚗",
+      "👬",
+      "🎰",
+      "🛣️"
+    ]
   },
   {
     "id": "film_091",
@@ -2354,7 +3074,15 @@
       "difficile": "assets/images/discours_roi_difficile.jpg",
       "moyenne": "assets/images/discours_roi_moyenne.jpg",
       "facile": "assets/images/discours_roi_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🗣️",
+      "👑",
+      "🎙️",
+      "🇬🇧",
+      "📻",
+      "🎻"
+    ]
   },
   {
     "id": "film_092",
@@ -2380,7 +3108,15 @@
       "difficile": "assets/images/slumdog_millionaire_difficile.jpg",
       "moyenne": "assets/images/slumdog_millionaire_moyenne.jpg",
       "facile": "assets/images/slumdog_millionaire_facile.jpg"
-    }
+    },
+    "emojis": [
+      "📺",
+      "💰",
+      "🏙️",
+      "🇮🇳",
+      "🚂",
+      "🎶"
+    ]
   },
   {
     "id": "film_093",
@@ -2406,7 +3142,15 @@
       "difficile": "assets/images/american_beauty_difficile.jpg",
       "moyenne": "assets/images/american_beauty_moyenne.jpg",
       "facile": "assets/images/american_beauty_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🌹",
+      "🏡",
+      "🛍️",
+      "🎥",
+      "💨",
+      "❤️"
+    ]
   },
   {
     "id": "film_094",
@@ -2431,7 +3175,15 @@
       "difficile": "assets/images/million_dollar_baby_difficile.jpg",
       "moyenne": "assets/images/million_dollar_baby_moyenne.jpg",
       "facile": "assets/images/million_dollar_baby_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🥊",
+      "👩",
+      "🧑‍🏫",
+      "🛏️",
+      "😢",
+      "🏆"
+    ]
   },
   {
     "id": "film_095",
@@ -2457,7 +3209,15 @@
       "difficile": "assets/images/mystic_river_difficile.jpg",
       "moyenne": "assets/images/mystic_river_moyenne.jpg",
       "facile": "assets/images/mystic_river_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🧒",
+      "🚗",
+      "🌊",
+      "🚓",
+      "🔫",
+      "🕯️"
+    ]
   },
   {
     "id": "film_096",
@@ -2483,7 +3243,15 @@
       "difficile": "assets/images/gran_torino_difficile.jpg",
       "moyenne": "assets/images/gran_torino_moyenne.jpg",
       "facile": "assets/images/gran_torino_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🚗",
+      "🧓",
+      "🌿",
+      "🔫",
+      "🏠",
+      "🇺🇸"
+    ]
   },
   {
     "id": "film_097",
@@ -2509,7 +3277,15 @@
       "difficile": "assets/images/birdman_difficile.jpg",
       "moyenne": "assets/images/birdman_moyenne.jpg",
       "facile": "assets/images/birdman_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🦅",
+      "🎭",
+      "🥁",
+      "🏙️",
+      "🪽",
+      "🎬"
+    ]
   },
   {
     "id": "film_098",
@@ -2535,7 +3311,15 @@
       "difficile": "assets/images/the_revenant_difficile.jpg",
       "moyenne": "assets/images/the_revenant_moyenne.jpg",
       "facile": "assets/images/the_revenant_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🐻",
+      "🌨️",
+      "🐴",
+      "🩸",
+      "🏹",
+      "🔥"
+    ]
   },
   {
     "id": "film_099",
@@ -2561,7 +3345,15 @@
       "difficile": "assets/images/21_grammes_difficile.jpg",
       "moyenne": "assets/images/21_grammes_moyenne.jpg",
       "facile": "assets/images/21_grammes_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🚗",
+      "❤️",
+      "⚖️",
+      "🩸",
+      "🧪",
+      "🔢"
+    ]
   },
   {
     "id": "film_100",
@@ -2587,7 +3379,15 @@
       "difficile": "assets/images/babel_difficile.jpg",
       "moyenne": "assets/images/babel_moyenne.jpg",
       "facile": "assets/images/babel_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🗼",
+      "🔫",
+      "🌍",
+      "🗣️",
+      "🧳",
+      "🐎"
+    ]
   },
   {
     "id": "film_101",
@@ -2613,7 +3413,15 @@
       "difficile": "assets/images/there_will_be_blood_difficile.jpg",
       "moyenne": "assets/images/there_will_be_blood_moyenne.jpg",
       "facile": "assets/images/there_will_be_blood_facile.jpg"
-    }
+    },
+    "emojis": [
+      "⛏️",
+      "🛢️",
+      "⛪",
+      "💰",
+      "🥤",
+      "🩸"
+    ]
   },
   {
     "id": "film_102",
@@ -2639,7 +3447,15 @@
       "difficile": "assets/images/magnolia_difficile.jpg",
       "moyenne": "assets/images/magnolia_moyenne.jpg",
       "facile": "assets/images/magnolia_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🌸",
+      "🐸",
+      "🌧️",
+      "📺",
+      "🎤",
+      "🏡"
+    ]
   },
   {
     "id": "film_103",
@@ -2665,7 +3481,15 @@
       "difficile": "assets/images/boogie_nights_difficile.jpg",
       "moyenne": "assets/images/boogie_nights_moyenne.jpg",
       "facile": "assets/images/boogie_nights_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🎞️",
+      "🎬",
+      "🕺",
+      "🌃",
+      "📼",
+      "💎"
+    ]
   },
   {
     "id": "film_104",
@@ -2691,7 +3515,15 @@
       "difficile": "assets/images/social_network_difficile.jpg",
       "moyenne": "assets/images/social_network_moyenne.jpg",
       "facile": "assets/images/social_network_facile.jpg"
-    }
+    },
+    "emojis": [
+      "💻",
+      "🏫",
+      "👥",
+      "👍",
+      "⚖️",
+      "💰"
+    ]
   },
   {
     "id": "film_105",
@@ -2717,7 +3549,15 @@
       "difficile": "assets/images/gone_girl_difficile.jpg",
       "moyenne": "assets/images/gone_girl_moyenne.jpg",
       "facile": "assets/images/gone_girl_facile.jpg"
-    }
+    },
+    "emojis": [
+      "📝",
+      "👩",
+      "🏠",
+      "❓",
+      "🩸",
+      "📺"
+    ]
   },
   {
     "id": "film_106",
@@ -2743,7 +3583,15 @@
       "difficile": "assets/images/zodiac_difficile.jpg",
       "moyenne": "assets/images/zodiac_moyenne.jpg",
       "facile": "assets/images/zodiac_facile.jpg"
-    }
+    },
+    "emojis": [
+      "♈",
+      "🔐",
+      "📰",
+      "🕵️",
+      "🔪",
+      "🌉"
+    ]
   },
   {
     "id": "film_107",
@@ -2769,7 +3617,15 @@
       "difficile": "assets/images/nightcrawler_difficile.jpg",
       "moyenne": "assets/images/nightcrawler_moyenne.jpg",
       "facile": "assets/images/nightcrawler_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🎥",
+      "🌃",
+      "🚓",
+      "🩸",
+      "📸",
+      "🚗"
+    ]
   },
   {
     "id": "film_108",
@@ -2795,7 +3651,15 @@
       "difficile": "assets/images/drive_difficile.jpg",
       "moyenne": "assets/images/drive_moyenne.jpg",
       "facile": "assets/images/drive_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🦂",
+      "🚗",
+      "🌃",
+      "🧤",
+      "🔫",
+      "🎶"
+    ]
   },
   {
     "id": "film_109",
@@ -2821,7 +3685,15 @@
       "difficile": "assets/images/only_god_forgives_difficile.jpg",
       "moyenne": "assets/images/only_god_forgives_moyenne.jpg",
       "facile": "assets/images/only_god_forgives_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🇹🇭",
+      "🥊",
+      "🔴",
+      "🔪",
+      "👩",
+      "🕯️"
+    ]
   },
   {
     "id": "film_110",
@@ -2847,7 +3719,15 @@
       "difficile": "assets/images/mad_max_fury_road_difficile.jpg",
       "moyenne": "assets/images/mad_max_fury_road_moyenne.jpg",
       "facile": "assets/images/mad_max_fury_road_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🏜️",
+      "🚛",
+      "🔥",
+      "🎸",
+      "👩",
+      "🛢️"
+    ]
   },
   {
     "id": "film_111",
@@ -2873,7 +3753,15 @@
       "difficile": "assets/images/loup_wall_street_difficile.jpg",
       "moyenne": "assets/images/loup_wall_street_moyenne.jpg",
       "facile": "assets/images/loup_wall_street_facile.jpg"
-    }
+    },
+    "emojis": [
+      "💰",
+      "🐺",
+      "🏢",
+      "💊",
+      "🛥️",
+      "🤑"
+    ]
   },
   {
     "id": "film_112",
@@ -2899,7 +3787,15 @@
       "difficile": "assets/images/shutter_island_difficile.jpg",
       "moyenne": "assets/images/shutter_island_moyenne.jpg",
       "facile": "assets/images/shutter_island_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🏝️",
+      "🌧️",
+      "🚢",
+      "🕵️",
+      "🧠",
+      "🔒"
+    ]
   },
   {
     "id": "film_113",
@@ -2925,7 +3821,15 @@
       "difficile": "assets/images/fantastic_mr_fox_difficile.jpg",
       "moyenne": "assets/images/fantastic_mr_fox_moyenne.jpg",
       "facile": "assets/images/fantastic_mr_fox_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🦊",
+      "🐔",
+      "🚜",
+      "🌳",
+      "🥧",
+      "🏃"
+    ]
   },
   {
     "id": "film_114",
@@ -2951,7 +3855,15 @@
       "difficile": "assets/images/jumanji_difficile.jpg",
       "moyenne": "assets/images/jumanji_moyenne.jpg",
       "facile": "assets/images/jumanji_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🎲",
+      "🏠",
+      "🌴",
+      "🦏",
+      "🐒",
+      "🕰️"
+    ]
   },
   {
     "id": "film_115",
@@ -2977,7 +3889,15 @@
       "difficile": "assets/images/la_famille_tenenbaum_difficile.jpg",
       "moyenne": "assets/images/la_famille_tenenbaum_moyenne.jpg",
       "facile": "assets/images/la_famille_tenenbaum_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🏠",
+      "👨‍👩‍👧‍👦",
+      "🎾",
+      "🦅",
+      "💸",
+      "🧓"
+    ]
   },
   {
     "id": "film_116",
@@ -3003,7 +3923,15 @@
       "difficile": "assets/images/pirates_caraibes_difficile.jpg",
       "moyenne": "assets/images/pirates_caraibes_moyenne.jpg",
       "facile": "assets/images/pirates_caraibes_facile.jpg"
-    }
+    },
+    "emojis": [
+      "☠️",
+      "⚓",
+      "🏴‍☠️",
+      "🍾",
+      "💎",
+      "🪙"
+    ]
   },
   {
     "id": "film_117",
@@ -3029,7 +3957,15 @@
       "difficile": "assets/images/harry_potter_1_difficile.jpg",
       "moyenne": "assets/images/harry_potter_1_moyenne.jpg",
       "facile": "assets/images/harry_potter_1_facile.jpg"
-    }
+    },
+    "emojis": [
+      "⚡",
+      "🦉",
+      "🪄",
+      "🧹",
+      "🏰",
+      "👓"
+    ]
   },
   {
     "id": "film_118",
@@ -3055,7 +3991,15 @@
       "difficile": "assets/images/harry_potter_7_2_difficile.jpg",
       "moyenne": "assets/images/harry_potter_7_2_moyenne.jpg",
       "facile": "assets/images/harry_potter_7_2_facile.jpg"
-    }
+    },
+    "emojis": [
+      "⚡",
+      "🪄",
+      "🐍",
+      "🏰",
+      "⚔️",
+      "🔥"
+    ]
   },
   {
     "id": "film_119",
@@ -3081,7 +4025,15 @@
       "difficile": "assets/images/300_difficile.jpg",
       "moyenne": "assets/images/300_moyenne.jpg",
       "facile": "assets/images/300_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🛡️",
+      "⚔️",
+      "🏹",
+      "🇬🇷",
+      "🔥",
+      "🦵"
+    ]
   },
   {
     "id": "film_120",
@@ -3107,7 +4059,15 @@
       "difficile": "assets/images/man_of_steel_difficile.jpg",
       "moyenne": "assets/images/man_of_steel_moyenne.jpg",
       "facile": "assets/images/man_of_steel_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🌽",
+      "🚀",
+      "🦸",
+      "🌍",
+      "🔴",
+      "💥"
+    ]
   },
   {
     "id": "film_121",
@@ -3133,7 +4093,15 @@
       "difficile": "assets/images/big_fish_difficile.jpg",
       "moyenne": "assets/images/big_fish_moyenne.jpg",
       "facile": "assets/images/big_fish_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🐟",
+      "🗣️",
+      "🌊",
+      "👴",
+      "💍",
+      "⭕"
+    ]
   },
   {
     "id": "film_122",
@@ -3159,7 +4127,15 @@
       "difficile": "assets/images/edward_mains_argent_difficile.jpg",
       "moyenne": "assets/images/edward_mains_argent_moyenne.jpg",
       "facile": "assets/images/edward_mains_argent_facile.jpg"
-    }
+    },
+    "emojis": [
+      "✂️",
+      "🏰",
+      "❄️",
+      "🏘️",
+      "💔",
+      "🌸"
+    ]
   },
   {
     "id": "film_123",
@@ -3185,7 +4161,15 @@
       "difficile": "assets/images/sweeney_todd_difficile.jpg",
       "moyenne": "assets/images/sweeney_todd_moyenne.jpg",
       "facile": "assets/images/sweeney_todd_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🪒",
+      "🥧",
+      "🩸",
+      "🎭",
+      "🏙️",
+      "✂️"
+    ]
   },
   {
     "id": "film_124",
@@ -3211,7 +4195,15 @@
       "difficile": "assets/images/shape_of_water_difficile.jpg",
       "moyenne": "assets/images/shape_of_water_moyenne.jpg",
       "facile": "assets/images/shape_of_water_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🌊",
+      "🥚",
+      "🧜‍♂️",
+      "🔬",
+      "🤫",
+      "❤️"
+    ]
   },
   {
     "id": "film_125",
@@ -3237,7 +4229,15 @@
       "difficile": "assets/images/labyrinthe_pan_difficile.jpg",
       "moyenne": "assets/images/labyrinthe_pan_moyenne.jpg",
       "facile": "assets/images/labyrinthe_pan_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🧚",
+      "🌲",
+      "🗝️",
+      "👹",
+      "🌑",
+      "🏚️"
+    ]
   },
   {
     "id": "film_126",
@@ -3263,7 +4263,15 @@
       "difficile": "assets/images/hellboy_difficile.jpg",
       "moyenne": "assets/images/hellboy_moyenne.jpg",
       "facile": "assets/images/hellboy_facile.jpg"
-    }
+    },
+    "emojis": [
+      "👹",
+      "🔴",
+      "🪨",
+      "🔥",
+      "🐱",
+      "🔧"
+    ]
   },
   {
     "id": "film_127",
@@ -3289,7 +4297,15 @@
       "difficile": "assets/images/big_difficile.jpg",
       "moyenne": "assets/images/big_moyenne.jpg",
       "facile": "assets/images/big_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🧒",
+      "🧞",
+      "🎹",
+      "🏙️",
+      "🎠",
+      "👔"
+    ]
   },
   {
     "id": "film_128",
@@ -3315,7 +4331,15 @@
       "difficile": "assets/images/will_hunting_difficile.jpg",
       "moyenne": "assets/images/will_hunting_moyenne.jpg",
       "facile": "assets/images/will_hunting_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🧮",
+      "🏫",
+      "🧠",
+      "🛋️",
+      "🍻",
+      "🧹"
+    ]
   },
   {
     "id": "film_129",
@@ -3341,7 +4365,15 @@
       "difficile": "assets/images/cercle_poetes_difficile.jpg",
       "moyenne": "assets/images/cercle_poetes_moyenne.jpg",
       "facile": "assets/images/cercle_poetes_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🏫",
+      "📖",
+      "🪑",
+      "🌅",
+      "🪶",
+      "✏️"
+    ]
   },
   {
     "id": "film_130",
@@ -3367,7 +4399,15 @@
       "difficile": "assets/images/into_the_wild_difficile.jpg",
       "moyenne": "assets/images/into_the_wild_moyenne.jpg",
       "facile": "assets/images/into_the_wild_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🎒",
+      "🚌",
+      "🌲",
+      "🏔️",
+      "🍃",
+      "🧍"
+    ]
   },
   {
     "id": "film_131",
@@ -3393,7 +4433,15 @@
       "difficile": "assets/images/homme_exception_difficile.jpg",
       "moyenne": "assets/images/homme_exception_moyenne.jpg",
       "facile": "assets/images/homme_exception_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🔢",
+      "🧠",
+      "🕵️",
+      "🏫",
+      "🧮",
+      "🍎"
+    ]
   },
   {
     "id": "film_132",
@@ -3419,7 +4467,15 @@
       "difficile": "assets/images/apollo_13_difficile.jpg",
       "moyenne": "assets/images/apollo_13_moyenne.jpg",
       "facile": "assets/images/apollo_13_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🚀",
+      "🌙",
+      "🆘",
+      "🛰️",
+      "🗣️",
+      "🔢"
+    ]
   },
   {
     "id": "film_133",
@@ -3445,7 +4501,15 @@
       "difficile": "assets/images/catch_me_if_you_can_difficile.jpg",
       "moyenne": "assets/images/catch_me_if_you_can_moyenne.jpg",
       "facile": "assets/images/catch_me_if_you_can_facile.jpg"
-    }
+    },
+    "emojis": [
+      "✈️",
+      "👔",
+      "💵",
+      "🕵️",
+      "🏃",
+      "🧳"
+    ]
   },
   {
     "id": "film_134",
@@ -3471,7 +4535,15 @@
       "difficile": "assets/images/minority_report_difficile.jpg",
       "moyenne": "assets/images/minority_report_moyenne.jpg",
       "facile": "assets/images/minority_report_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🔮",
+      "👁️",
+      "🚔",
+      "🏃",
+      "🔍",
+      "🖐️"
+    ]
   },
   {
     "id": "film_135",
@@ -3497,7 +4569,15 @@
       "difficile": "assets/images/lincoln_difficile.jpg",
       "moyenne": "assets/images/lincoln_moyenne.jpg",
       "facile": "assets/images/lincoln_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🎩",
+      "📜",
+      "🇺🇸",
+      "⚖️",
+      "🏛️",
+      "🧔"
+    ]
   },
   {
     "id": "film_136",
@@ -3523,7 +4603,15 @@
       "difficile": "assets/images/green_book_difficile.jpg",
       "moyenne": "assets/images/green_book_moyenne.jpg",
       "facile": "assets/images/green_book_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🚗",
+      "📗",
+      "🍗",
+      "🎹",
+      "🛣️",
+      "🇺🇸"
+    ]
   },
   {
     "id": "film_137",
@@ -3549,7 +4637,15 @@
       "difficile": "assets/images/moonlight_difficile.jpg",
       "moyenne": "assets/images/moonlight_moyenne.jpg",
       "facile": "assets/images/moonlight_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🌙",
+      "💙",
+      "🏖️",
+      "🌊",
+      "🥊",
+      "🚬"
+    ]
   },
   {
     "id": "film_138",
@@ -3575,7 +4671,15 @@
       "difficile": "assets/images/12_years_a_slave_difficile.jpg",
       "moyenne": "assets/images/12_years_a_slave_moyenne.jpg",
       "facile": "assets/images/12_years_a_slave_facile.jpg"
-    }
+    },
+    "emojis": [
+      "⛓️",
+      "🎻",
+      "🌾",
+      "🔨",
+      "🇺🇸",
+      "📆"
+    ]
   },
   {
     "id": "film_139",
@@ -3601,7 +4705,15 @@
       "difficile": "assets/images/manchester_by_the_sea_difficile.jpg",
       "moyenne": "assets/images/manchester_by_the_sea_moyenne.jpg",
       "facile": "assets/images/manchester_by_the_sea_facile.jpg"
-    }
+    },
+    "emojis": [
+      "❄️",
+      "🌊",
+      "⛵",
+      "🧒",
+      "🔥",
+      "🏠"
+    ]
   },
   {
     "id": "film_140",
@@ -3627,6 +4739,728 @@
       "difficile": "assets/images/nomadland_difficile.jpg",
       "moyenne": "assets/images/nomadland_moyenne.jpg",
       "facile": "assets/images/nomadland_facile.jpg"
-    }
+    },
+    "emojis": [
+      "🚐",
+      "🏜️",
+      "🌌",
+      "🧳",
+      "🔥",
+      "🏠"
+    ]
+  },
+  {
+    "id": "film_141",
+    "titre": "Vol au-dessus d'un nid de coucou",
+    "realisateur": "Milos Forman",
+    "annee": 1975,
+    "genre": "Drame",
+    "pays": "États-Unis",
+    "duree_minutes": 133,
+    "acteur_principal": "Jack Nicholson",
+    "affiche": "assets/affiches/vol_au_dessus_d_un_nid_de_coucou.jpg",
+    "repliques_cultes": [
+      "But I tried, didn't I? Goddamnit, at least I did that."
+    ],
+    "replique_vf": "Mais j'ai essayé, non ? Nom de Dieu, au moins ça, je l'ai fait.",
+    "audio_replique": "assets/audio/repliques/vol_au_dessus_d_un_nid_de_coucou.mp3",
+    "musique": {
+      "titre": "Main Theme",
+      "artiste": "Jack Nitzsche",
+      "extrait_audio": "assets/audio/musiques/vol_au_dessus_d_un_nid_de_coucou.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/vol_au_dessus_d_un_nid_de_coucou_difficile.jpg",
+      "moyenne": "assets/images/vol_au_dessus_d_un_nid_de_coucou_moyenne.jpg",
+      "facile": "assets/images/vol_au_dessus_d_un_nid_de_coucou_facile.jpg"
+    },
+    "emojis": [
+      "🐦",
+      "🏥",
+      "🧠",
+      "⚡",
+      "🪟",
+      "🛶"
+    ]
+  },
+  {
+    "id": "film_142",
+    "titre": "John Wick",
+    "realisateur": "Chad Stahelski",
+    "annee": 2014,
+    "genre": "Action",
+    "pays": "États-Unis",
+    "duree_minutes": 101,
+    "acteur_principal": "Keanu Reeves",
+    "affiche": "assets/affiches/john_wick.jpg",
+    "repliques_cultes": [
+      "People keep asking if I'm back. I haven't had an answer, but now, yeah, I'm thinking I'm back."
+    ],
+    "replique_vf": "On n'arrête pas de me demander si je suis de retour. Je n'avais pas de réponse, mais maintenant, oui, je crois que je suis de retour.",
+    "audio_replique": "assets/audio/repliques/john_wick.mp3",
+    "musique": {
+      "titre": "Killing Strangers",
+      "artiste": "Marilyn Manson",
+      "extrait_audio": "assets/audio/musiques/john_wick.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/john_wick_difficile.jpg",
+      "moyenne": "assets/images/john_wick_moyenne.jpg",
+      "facile": "assets/images/john_wick_facile.jpg"
+    },
+    "emojis": [
+      "🐶",
+      "🚗",
+      "🔫",
+      "🕴️",
+      "💰",
+      "🌃"
+    ]
+  },
+  {
+    "id": "film_143",
+    "titre": "Die Hard : Piège de cristal",
+    "realisateur": "John McTiernan",
+    "annee": 1988,
+    "genre": "Action",
+    "pays": "États-Unis",
+    "duree_minutes": 132,
+    "acteur_principal": "Bruce Willis",
+    "affiche": "assets/affiches/die_hard_piege_de_cristal.jpg",
+    "repliques_cultes": [
+      "Yippee-ki-yay, motherfucker!"
+    ],
+    "replique_vf": "Youpi-ka-yé, salopard !",
+    "audio_replique": "assets/audio/repliques/die_hard_piege_de_cristal.mp3",
+    "musique": {
+      "titre": "Christmas in Hollis",
+      "artiste": "Run-D.M.C.",
+      "extrait_audio": "assets/audio/musiques/die_hard_piege_de_cristal.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/die_hard_piege_de_cristal_difficile.jpg",
+      "moyenne": "assets/images/die_hard_piege_de_cristal_moyenne.jpg",
+      "facile": "assets/images/die_hard_piege_de_cristal_facile.jpg"
+    },
+    "emojis": [
+      "🎄",
+      "🏢",
+      "👞",
+      "🔫",
+      "💥",
+      "🔥"
+    ]
+  },
+  {
+    "id": "film_144",
+    "titre": "Men in Black",
+    "realisateur": "Barry Sonnenfeld",
+    "annee": 1997,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 98,
+    "acteur_principal": "Will Smith",
+    "affiche": "assets/affiches/men_in_black.jpg",
+    "repliques_cultes": [
+      "Elvis is not dead. He just went home."
+    ],
+    "replique_vf": "Elvis n'est pas mort. Il est juste rentré chez lui.",
+    "audio_replique": "assets/audio/repliques/men_in_black.mp3",
+    "musique": {
+      "titre": "Main Theme",
+      "artiste": "Danny Elfman",
+      "extrait_audio": "assets/audio/musiques/men_in_black.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/men_in_black_difficile.jpg",
+      "moyenne": "assets/images/men_in_black_moyenne.jpg",
+      "facile": "assets/images/men_in_black_facile.jpg"
+    },
+    "emojis": [
+      "🕶️",
+      "🕴️",
+      "👽",
+      "⚡",
+      "🪲",
+      "🛸"
+    ]
+  },
+  {
+    "id": "film_145",
+    "titre": "Little Miss Sunshine",
+    "realisateur": "Jonathan Dayton et Valerie Faris",
+    "annee": 2006,
+    "genre": "Comédie dramatique",
+    "pays": "États-Unis",
+    "duree_minutes": 101,
+    "acteur_principal": "Greg Kinnear",
+    "affiche": "assets/affiches/little_miss_sunshine.jpg",
+    "repliques_cultes": [
+      "A real loser is somebody who's so afraid of not winning, they don't even try."
+    ],
+    "replique_vf": "Un vrai perdant, c'est quelqu'un qui a tellement peur de ne pas gagner qu'il n'essaie même pas.",
+    "audio_replique": "assets/audio/repliques/little_miss_sunshine.mp3",
+    "musique": {
+      "titre": "Super Freak",
+      "artiste": "Rick James",
+      "extrait_audio": "assets/audio/musiques/little_miss_sunshine.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/little_miss_sunshine_difficile.jpg",
+      "moyenne": "assets/images/little_miss_sunshine_moyenne.jpg",
+      "facile": "assets/images/little_miss_sunshine_facile.jpg"
+    },
+    "emojis": [
+      "🚐",
+      "🏆",
+      "👧",
+      "👴",
+      "💃",
+      "🚌"
+    ]
+  },
+  {
+    "id": "film_146",
+    "titre": "Seul sur Mars",
+    "realisateur": "Ridley Scott",
+    "annee": 2015,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 144,
+    "acteur_principal": "Matt Damon",
+    "affiche": "assets/affiches/seul_sur_mars.jpg",
+    "repliques_cultes": [
+      "I'm gonna have to science the shit out of this."
+    ],
+    "replique_vf": "Il va falloir que je fasse parler la science.",
+    "audio_replique": "assets/audio/repliques/seul_sur_mars.mp3",
+    "musique": {
+      "titre": "Starman",
+      "artiste": "David Bowie",
+      "extrait_audio": "assets/audio/musiques/seul_sur_mars.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/seul_sur_mars_difficile.jpg",
+      "moyenne": "assets/images/seul_sur_mars_moyenne.jpg",
+      "facile": "assets/images/seul_sur_mars_facile.jpg"
+    },
+    "emojis": [
+      "🔴",
+      "🥔",
+      "🚀",
+      "🧑‍🚀",
+      "📻",
+      "🌌"
+    ]
+  },
+  {
+    "id": "film_147",
+    "titre": "127 heures",
+    "realisateur": "Danny Boyle",
+    "annee": 2010,
+    "genre": "Drame",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 94,
+    "acteur_principal": "James Franco",
+    "affiche": "assets/affiches/127_heures.jpg",
+    "repliques_cultes": [
+      "This rock has been waiting for me my entire life."
+    ],
+    "replique_vf": "Ce rocher m'attend depuis toujours.",
+    "audio_replique": "assets/audio/repliques/127_heures.mp3",
+    "musique": {
+      "titre": "If I Rise",
+      "artiste": "A. R. Rahman & Dido",
+      "extrait_audio": "assets/audio/musiques/127_heures.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/127_heures_difficile.jpg",
+      "moyenne": "assets/images/127_heures_moyenne.jpg",
+      "facile": "assets/images/127_heures_facile.jpg"
+    },
+    "emojis": [
+      "⛰️",
+      "🪨",
+      "🥤",
+      "🎥",
+      "🔪",
+      "⏳"
+    ]
+  },
+  {
+    "id": "film_148",
+    "titre": "Arrival",
+    "realisateur": "Denis Villeneuve",
+    "annee": 2016,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 116,
+    "acteur_principal": "Amy Adams",
+    "affiche": "assets/affiches/arrival.jpg",
+    "repliques_cultes": [
+      "If you could see your whole life from start to finish, would you change things?"
+    ],
+    "replique_vf": "Si tu pouvais voir toute ta vie du début à la fin, changerais-tu des choses ?",
+    "audio_replique": "assets/audio/repliques/arrival.mp3",
+    "musique": {
+      "titre": "On the Nature of Daylight",
+      "artiste": "Max Richter",
+      "extrait_audio": "assets/audio/musiques/arrival.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/arrival_difficile.jpg",
+      "moyenne": "assets/images/arrival_moyenne.jpg",
+      "facile": "assets/images/arrival_facile.jpg"
+    },
+    "emojis": [
+      "🛸",
+      "🗣️",
+      "⚫",
+      "✋",
+      "⏳",
+      "👩"
+    ]
+  },
+  {
+    "id": "film_149",
+    "titre": "Donnie Darko",
+    "realisateur": "Richard Kelly",
+    "annee": 2001,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 113,
+    "acteur_principal": "Jake Gyllenhaal",
+    "affiche": "assets/affiches/donnie_darko.jpg",
+    "repliques_cultes": [
+      "Why are you wearing that stupid man suit?"
+    ],
+    "replique_vf": "Pourquoi tu portes ce costume de bonhomme stupide ?",
+    "audio_replique": "assets/audio/repliques/donnie_darko.mp3",
+    "musique": {
+      "titre": "Mad World",
+      "artiste": "Gary Jules & Michael Andrews",
+      "extrait_audio": "assets/audio/musiques/donnie_darko.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/donnie_darko_difficile.jpg",
+      "moyenne": "assets/images/donnie_darko_moyenne.jpg",
+      "facile": "assets/images/donnie_darko_facile.jpg"
+    },
+    "emojis": [
+      "🐰",
+      "🌀",
+      "🛏️",
+      "⏳",
+      "✈️",
+      "🌑"
+    ]
+  },
+  {
+    "id": "film_150",
+    "titre": "Gremlins",
+    "realisateur": "Joe Dante",
+    "annee": 1984,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "duree_minutes": 106,
+    "acteur_principal": "Zach Galligan",
+    "affiche": "assets/affiches/gremlins.jpg",
+    "repliques_cultes": [
+      "Keep him out of bright light, never get him wet, and never, ever feed him after midnight."
+    ],
+    "replique_vf": "Ne l'expose jamais à une lumière vive, ne le mouille jamais et, surtout, ne lui donne jamais à manger après minuit.",
+    "audio_replique": "assets/audio/repliques/gremlins.mp3",
+    "musique": {
+      "titre": "Main Theme",
+      "artiste": "Jerry Goldsmith",
+      "extrait_audio": "assets/audio/musiques/gremlins.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/gremlins_difficile.jpg",
+      "moyenne": "assets/images/gremlins_moyenne.jpg",
+      "facile": "assets/images/gremlins_facile.jpg"
+    },
+    "emojis": [
+      "🐹",
+      "💧",
+      "🕛",
+      "🍔",
+      "👹",
+      "🎄"
+    ]
+  },
+  {
+    "id": "film_151",
+    "titre": "Kingsman : Services secrets",
+    "realisateur": "Matthew Vaughn",
+    "annee": 2014,
+    "genre": "Action",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 129,
+    "acteur_principal": "Taron Egerton",
+    "affiche": "assets/affiches/kingsman_services_secrets.jpg",
+    "repliques_cultes": [
+      "Manners maketh man."
+    ],
+    "replique_vf": "Les manières font l'homme.",
+    "audio_replique": "assets/audio/repliques/kingsman_services_secrets.mp3",
+    "musique": {
+      "titre": "Free Bird",
+      "artiste": "Lynyrd Skynyrd",
+      "extrait_audio": "assets/audio/musiques/kingsman_services_secrets.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/kingsman_services_secrets_difficile.jpg",
+      "moyenne": "assets/images/kingsman_services_secrets_moyenne.jpg",
+      "facile": "assets/images/kingsman_services_secrets_facile.jpg"
+    },
+    "emojis": [
+      "🕴️",
+      "☂️",
+      "👞",
+      "🎩",
+      "🇬🇧",
+      "🔫"
+    ]
+  },
+  {
+    "id": "film_152",
+    "titre": "Hunger Games",
+    "realisateur": "Gary Ross",
+    "annee": 2012,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 142,
+    "acteur_principal": "Jennifer Lawrence",
+    "affiche": "assets/affiches/hunger_games.jpg",
+    "repliques_cultes": [
+      "May the odds be ever in your favor."
+    ],
+    "replique_vf": "Que le sort vous soit favorable.",
+    "audio_replique": "assets/audio/repliques/hunger_games.mp3",
+    "musique": {
+      "titre": "Safe & Sound",
+      "artiste": "Taylor Swift & The Civil Wars",
+      "extrait_audio": "assets/audio/musiques/hunger_games.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/hunger_games_difficile.jpg",
+      "moyenne": "assets/images/hunger_games_moyenne.jpg",
+      "facile": "assets/images/hunger_games_facile.jpg"
+    },
+    "emojis": [
+      "🏹",
+      "🔥",
+      "🕊️",
+      "🏟️",
+      "🍞",
+      "👧"
+    ]
+  },
+  {
+    "id": "film_153",
+    "titre": "La Mémoire dans la peau",
+    "realisateur": "Doug Liman",
+    "annee": 2002,
+    "genre": "Espionnage",
+    "pays": "États-Unis",
+    "duree_minutes": 119,
+    "acteur_principal": "Matt Damon",
+    "affiche": "assets/affiches/la_memoire_dans_la_peau.jpg",
+    "repliques_cultes": [
+      "I can tell you the license plate numbers of all six cars outside."
+    ],
+    "replique_vf": "Je peux vous donner les numéros d'immatriculation des six voitures dehors.",
+    "audio_replique": "assets/audio/repliques/la_memoire_dans_la_peau.mp3",
+    "musique": {
+      "titre": "Extreme Ways",
+      "artiste": "Moby",
+      "extrait_audio": "assets/audio/musiques/la_memoire_dans_la_peau.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/la_memoire_dans_la_peau_difficile.jpg",
+      "moyenne": "assets/images/la_memoire_dans_la_peau_moyenne.jpg",
+      "facile": "assets/images/la_memoire_dans_la_peau_facile.jpg"
+    },
+    "emojis": [
+      "🕵️",
+      "🧠",
+      "💼",
+      "🔫",
+      "🚗",
+      "🌊"
+    ]
+  },
+  {
+    "id": "film_154",
+    "titre": "Love Actually",
+    "realisateur": "Richard Curtis",
+    "annee": 2003,
+    "genre": "Romance",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 135,
+    "acteur_principal": "Hugh Grant",
+    "affiche": "assets/affiches/love_actually.jpg",
+    "repliques_cultes": [
+      "To me, you are perfect."
+    ],
+    "replique_vf": "Pour moi, tu es parfaite.",
+    "audio_replique": "assets/audio/repliques/love_actually.mp3",
+    "musique": {
+      "titre": "Love Is All Around",
+      "artiste": "Bill Nighy",
+      "extrait_audio": "assets/audio/musiques/love_actually.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/love_actually_difficile.jpg",
+      "moyenne": "assets/images/love_actually_moyenne.jpg",
+      "facile": "assets/images/love_actually_facile.jpg"
+    },
+    "emojis": [
+      "❤️",
+      "🎄",
+      "🎙️",
+      "📝",
+      "🛬",
+      "🎹"
+    ]
+  },
+  {
+    "id": "film_155",
+    "titre": "Coup de foudre à Notting Hill",
+    "realisateur": "Roger Michell",
+    "annee": 1999,
+    "genre": "Romance",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 124,
+    "acteur_principal": "Hugh Grant",
+    "affiche": "assets/affiches/coup_de_foudre_a_notting_hill.jpg",
+    "repliques_cultes": [
+      "I'm just a girl, standing in front of a boy, asking him to love her."
+    ],
+    "replique_vf": "Je ne suis qu'une fille, debout devant un garçon, qui lui demande de l'aimer.",
+    "audio_replique": "assets/audio/repliques/coup_de_foudre_a_notting_hill.mp3",
+    "musique": {
+      "titre": "She",
+      "artiste": "Elvis Costello",
+      "extrait_audio": "assets/audio/musiques/coup_de_foudre_a_notting_hill.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/coup_de_foudre_a_notting_hill_difficile.jpg",
+      "moyenne": "assets/images/coup_de_foudre_a_notting_hill_moyenne.jpg",
+      "facile": "assets/images/coup_de_foudre_a_notting_hill_facile.jpg"
+    },
+    "emojis": [
+      "📚",
+      "🍊",
+      "🚪",
+      "🎬",
+      "💕",
+      "🇬🇧"
+    ]
+  },
+  {
+    "id": "film_156",
+    "titre": "SOS Fantômes (Ghostbusters)",
+    "realisateur": "Ivan Reitman",
+    "annee": 1984,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 105,
+    "acteur_principal": "Bill Murray",
+    "affiche": "assets/affiches/sos_fantomes_ghostbusters.jpg",
+    "repliques_cultes": [
+      "Ray, when someone asks you if you're a god, you say yes!"
+    ],
+    "replique_vf": "Ray, quand on te demande si tu es un dieu, tu réponds oui !",
+    "audio_replique": "assets/audio/repliques/sos_fantomes_ghostbusters.mp3",
+    "musique": {
+      "titre": "Main Theme",
+      "artiste": "Elmer Bernstein",
+      "extrait_audio": "assets/audio/musiques/sos_fantomes_ghostbusters.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/sos_fantomes_ghostbusters_difficile.jpg",
+      "moyenne": "assets/images/sos_fantomes_ghostbusters_moyenne.jpg",
+      "facile": "assets/images/sos_fantomes_ghostbusters_facile.jpg"
+    },
+    "emojis": [
+      "👻",
+      "🚫",
+      "🚗",
+      "🎒",
+      "📞",
+      "🏢"
+    ]
+  },
+  {
+    "id": "film_157",
+    "titre": "Oppenheimer",
+    "realisateur": "Christopher Nolan",
+    "annee": 2023,
+    "genre": "Biopic",
+    "pays": "États-Unis",
+    "duree_minutes": 180,
+    "acteur_principal": "Cillian Murphy",
+    "affiche": "assets/affiches/oppenheimer.jpg",
+    "repliques_cultes": [
+      "Now I am become Death, the destroyer of worlds."
+    ],
+    "replique_vf": "Je suis devenu la Mort, le destructeur des mondes.",
+    "audio_replique": "assets/audio/repliques/oppenheimer.mp3",
+    "musique": {
+      "titre": "Can You Hear the Music",
+      "artiste": "Ludwig Göransson",
+      "extrait_audio": "assets/audio/musiques/oppenheimer.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/oppenheimer_difficile.jpg",
+      "moyenne": "assets/images/oppenheimer_moyenne.jpg",
+      "facile": "assets/images/oppenheimer_facile.jpg"
+    },
+    "emojis": [
+      "🎩",
+      "👨‍🔬",
+      "🏜️",
+      "☢️",
+      "💥",
+      "⚖️"
+    ]
+  },
+  {
+    "id": "film_158",
+    "titre": "The Mask",
+    "realisateur": "Chuck Russell",
+    "annee": 1994,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 101,
+    "acteur_principal": "Jim Carrey",
+    "affiche": "assets/affiches/the_mask.jpg",
+    "repliques_cultes": [
+      "Somebody stop me!"
+    ],
+    "replique_vf": "Quelqu'un peut m'arrêter ?",
+    "audio_replique": "assets/audio/repliques/the_mask.mp3",
+    "musique": {
+      "titre": "Cuban Pete",
+      "artiste": "Jim Carrey",
+      "extrait_audio": "assets/audio/musiques/the_mask.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/the_mask_difficile.jpg",
+      "moyenne": "assets/images/the_mask_moyenne.jpg",
+      "facile": "assets/images/the_mask_facile.jpg"
+    },
+    "emojis": [
+      "🎭",
+      "🟢",
+      "🐶",
+      "💃",
+      "😁",
+      "🌀"
+    ]
+  },
+  {
+    "id": "film_159",
+    "titre": "Training Day",
+    "realisateur": "Antoine Fuqua",
+    "annee": 2001,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "duree_minutes": 122,
+    "acteur_principal": "Denzel Washington",
+    "affiche": "assets/affiches/training_day.jpg",
+    "repliques_cultes": [
+      "King Kong ain't got shit on me!"
+    ],
+    "replique_vf": "King Kong, c'est de la merde à côté de moi !",
+    "audio_replique": "assets/audio/repliques/training_day.mp3",
+    "musique": {
+      "titre": "Main Theme",
+      "artiste": "Mark Mancina",
+      "extrait_audio": "assets/audio/musiques/training_day.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/training_day_difficile.jpg",
+      "moyenne": "assets/images/training_day_moyenne.jpg",
+      "facile": "assets/images/training_day_facile.jpg"
+    },
+    "emojis": [
+      "👮",
+      "🌆",
+      "💰",
+      "🔫",
+      "👑",
+      "🦍"
+    ]
+  },
+  {
+    "id": "film_160",
+    "titre": "Projet Dernière Chance",
+    "realisateur": "Phil Lord et Christopher Miller",
+    "annee": 2026,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 156,
+    "acteur_principal": "Ryan Gosling",
+    "affiche": "assets/affiches/projet_derniere_chance.jpg",
+    "repliques_cultes": [
+      "Amaze, amaze, amaze!"
+    ],
+    "replique_vf": "Incroyable, incroyable, incroyable !",
+    "audio_replique": "assets/audio/repliques/projet_derniere_chance.mp3",
+    "musique": {
+      "titre": "Main Theme",
+      "artiste": "Daniel Pemberton",
+      "extrait_audio": "assets/audio/musiques/projet_derniere_chance.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/projet_derniere_chance_difficile.jpg",
+      "moyenne": "assets/images/projet_derniere_chance_moyenne.jpg",
+      "facile": "assets/images/projet_derniere_chance_facile.jpg"
+    },
+    "emojis": [
+      "🧑‍🚀",
+      "🌌",
+      "☀️",
+      "🧪",
+      "👽",
+      "🤝"
+    ]
+  },
+  {
+    "id": "film_161",
+    "titre": "Burn After Reading",
+    "realisateur": "Joel et Ethan Coen",
+    "annee": 2008,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 96,
+    "acteur_principal": "George Clooney",
+    "affiche": "assets/affiches/burn_after_reading.jpg",
+    "repliques_cultes": [
+      "Report back to me when you figure out what it is we've learned."
+    ],
+    "replique_vf": "Revenez me voir quand vous aurez compris ce que nous avons appris.",
+    "audio_replique": "assets/audio/repliques/burn_after_reading.mp3",
+    "musique": {
+      "titre": "Main Theme",
+      "artiste": "Carter Burwell",
+      "extrait_audio": "assets/audio/musiques/burn_after_reading.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/burn_after_reading_difficile.jpg",
+      "moyenne": "assets/images/burn_after_reading_moyenne.jpg",
+      "facile": "assets/images/burn_after_reading_facile.jpg"
+    },
+    "emojis": [
+      "🔥",
+      "💿",
+      "🕵️",
+      "🏋️",
+      "📞",
+      "🏛️"
+    ]
   }
 ]
