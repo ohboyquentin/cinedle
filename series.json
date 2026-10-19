@@ -1033,26 +1033,26 @@
   },
   {
     "id": "serie_044",
-    "titre": "Firefly",
-    "createur": "Joss Whedon",
-    "annee_debut": 2002,
-    "genre": "Science-fiction",
-    "pays": "États-Unis",
-    "nombre_saisons": 1,
-    "nombre_episodes": 14,
+    "titre": "Caméra Café",
+    "createur": "Bruno Solo, Yvan Le Bolloc'h et Alain Kappauf",
+    "annee_debut": 2001,
+    "genre": "Comédie",
+    "pays": "France",
+    "nombre_saisons": 3,
+    "nombre_episodes": 700,
     "statut": "Terminée",
-    "acteur_principal": "Nathan Fillion",
-    "lieu_culte": "assets/lieux/firefly.jpg",
-    "titre_episode_culte": "Ariel ",
+    "acteur_principal": "Bruno Solo",
+    "lieu_culte": "assets/lieux/camera_cafe.jpg",
+    "titre_episode_culte": "[Ajouter episode]",
     "generique": {
-      "titre": "The Ballad of Serenity",
-      "artiste": "Joss Whedon",
-      "extrait_audio": "assets/audio/generiques/firefly.mp3"
+      "titre": "[Ajouter generique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/generiques/camera_cafe.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/firefly_difficile.jpg",
-      "moyenne": "assets/images/firefly_moyenne.jpg",
-      "facile": "assets/images/firefly_facile.jpg"
+      "difficile": "assets/images/camera_cafe_difficile.jpg",
+      "moyenne": "assets/images/camera_cafe_moyenne.jpg",
+      "facile": "assets/images/camera_cafe_facile.jpg"
     }
   },
   {
@@ -1441,26 +1441,26 @@
   },
   {
     "id": "serie_061",
-    "titre": "Atlanta",
-    "createur": "Donald Glover",
-    "annee_debut": 2016,
+    "titre": "H",
+    "createur": "Abd-el-Kader Aoun, Xavier Matthieu et Éric Judor",
+    "annee_debut": 1998,
     "genre": "Comédie",
-    "pays": "États-Unis",
+    "pays": "France",
     "nombre_saisons": 4,
-    "nombre_episodes": 41,
+    "nombre_episodes": 71,
     "statut": "Terminée",
-    "acteur_principal": "Donald Glover",
-    "lieu_culte": "assets/lieux/atlanta.jpg",
-    "titre_episode_culte": "Teddy Perkins",
+    "acteur_principal": "Jamel Debbouze",
+    "lieu_culte": "assets/lieux/h.jpg",
+    "titre_episode_culte": "[Ajouter episode]",
     "generique": {
-      "titre": "Atlanta Theme",
-      "artiste": "Stephen Glover",
-      "extrait_audio": "assets/audio/generiques/atlanta.mp3"
+      "titre": "[Ajouter generique]",
+      "artiste": "DJ Abdel",
+      "extrait_audio": "assets/audio/generiques/h.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/atlanta_difficile.jpg",
-      "moyenne": "assets/images/atlanta_moyenne.jpg",
-      "facile": "assets/images/atlanta_facile.jpg"
+      "difficile": "assets/images/h_difficile.jpg",
+      "moyenne": "assets/images/h_moyenne.jpg",
+      "facile": "assets/images/h_facile.jpg"
     }
   },
   {
@@ -1489,74 +1489,74 @@
   },
   {
     "id": "serie_063",
-    "titre": "Killing Eve",
-    "createur": "Phoebe Waller-Bridge",
-    "annee_debut": 2018,
-    "genre": "Thriller",
-    "pays": "Royaume-Uni",
-    "nombre_saisons": 4,
-    "nombre_episodes": 32,
+    "titre": "Desperate Housewives",
+    "createur": "Marc Cherry",
+    "annee_debut": 2004,
+    "genre": "Comédie dramatique",
+    "pays": "États-Unis",
+    "nombre_saisons": 8,
+    "nombre_episodes": 180,
     "statut": "Terminée",
-    "acteur_principal": "Sandra Oh",
-    "lieu_culte": "assets/lieux/killing_eve.jpg",
-    "titre_episode_culte": "Nice Face",
+    "acteur_principal": "Teri Hatcher",
+    "lieu_culte": "assets/lieux/desperate_housewives.jpg",
+    "titre_episode_culte": "Pilot",
     "generique": {
-      "titre": "Killing Eve Theme",
-      "artiste": "David Holmes",
-      "extrait_audio": "assets/audio/generiques/killing_eve.mp3"
+      "titre": "[Ajouter generique]",
+      "artiste": "Danny Elfman",
+      "extrait_audio": "assets/audio/generiques/desperate_housewives.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/killing_eve_difficile.jpg",
-      "moyenne": "assets/images/killing_eve_moyenne.jpg",
-      "facile": "assets/images/killing_eve_facile.jpg"
+      "difficile": "assets/images/desperate_housewives_difficile.jpg",
+      "moyenne": "assets/images/desperate_housewives_moyenne.jpg",
+      "facile": "assets/images/desperate_housewives_facile.jpg"
     }
   },
   {
     "id": "serie_064",
-    "titre": "Sex Education",
-    "createur": "Laurie Nunn",
-    "annee_debut": 2019,
+    "titre": "Sex and the City",
+    "createur": "Darren Star",
+    "annee_debut": 1998,
     "genre": "Comédie",
-    "pays": "Royaume-Uni",
-    "nombre_saisons": 4,
-    "nombre_episodes": 33,
+    "pays": "États-Unis",
+    "nombre_saisons": 6,
+    "nombre_episodes": 94,
     "statut": "Terminée",
-    "acteur_principal": "Asa Butterfield",
-    "lieu_culte": "assets/lieux/sex_education.jpg",
-    "titre_episode_culte": "Episode 1",
+    "acteur_principal": "Sarah Jessica Parker",
+    "lieu_culte": "assets/lieux/sex_and_the_city.jpg",
+    "titre_episode_culte": "My Motherboard, My Self",
     "generique": {
-      "titre": "Sex Education Theme",
-      "artiste": "Ezra Furman",
-      "extrait_audio": "assets/audio/generiques/sex_education.mp3"
+      "titre": "Sex and the City Theme",
+      "artiste": "Douglas J. Cuomo et Tom Findlay",
+      "extrait_audio": "assets/audio/generiques/sex_and_the_city.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/sex_education_difficile.jpg",
-      "moyenne": "assets/images/sex_education_moyenne.jpg",
-      "facile": "assets/images/sex_education_facile.jpg"
+      "difficile": "assets/images/sex_and_the_city_difficile.jpg",
+      "moyenne": "assets/images/sex_and_the_city_moyenne.jpg",
+      "facile": "assets/images/sex_and_the_city_facile.jpg"
     }
   },
   {
     "id": "serie_065",
-    "titre": "Derry Girls",
-    "createur": "Lisa McGee",
-    "annee_debut": 2018,
-    "genre": "Comédie",
-    "pays": "Royaume-Uni",
-    "nombre_saisons": 3,
-    "nombre_episodes": 19,
+    "titre": "The Mentalist",
+    "createur": "Bruno Heller",
+    "annee_debut": 2008,
+    "genre": "Policier",
+    "pays": "États-Unis",
+    "nombre_saisons": 7,
+    "nombre_episodes": 151,
     "statut": "Terminée",
-    "acteur_principal": "Saoirse-Monica Jackson",
-    "lieu_culte": "assets/lieux/derry_girls.jpg",
-    "titre_episode_culte": "Episode 1",
+    "acteur_principal": "Simon Baker",
+    "lieu_culte": "assets/lieux/the_mentalist.jpg",
+    "titre_episode_culte": "[Ajouter episode]",
     "generique": {
-      "titre": "Dreams",
-      "artiste": "The Cranberries",
-      "extrait_audio": "assets/audio/generiques/derry_girls.mp3"
+      "titre": "[Ajouter generique]",
+      "artiste": "Blake Neely",
+      "extrait_audio": "assets/audio/generiques/the_mentalist.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/derry_girls_difficile.jpg",
-      "moyenne": "assets/images/derry_girls_moyenne.jpg",
-      "facile": "assets/images/derry_girls_facile.jpg"
+      "difficile": "assets/images/the_mentalist_difficile.jpg",
+      "moyenne": "assets/images/the_mentalist_moyenne.jpg",
+      "facile": "assets/images/the_mentalist_facile.jpg"
     }
   },
   {
@@ -1657,26 +1657,26 @@
   },
   {
     "id": "serie_070",
-    "titre": "Justified",
-    "createur": "Graham Yost",
-    "annee_debut": 2010,
-    "genre": "Policier",
+    "titre": "Charmed",
+    "createur": "Constance M. Burge",
+    "annee_debut": 1998,
+    "genre": "Fantastique",
     "pays": "États-Unis",
-    "nombre_saisons": 6,
-    "nombre_episodes": 78,
+    "nombre_saisons": 8,
+    "nombre_episodes": 178,
     "statut": "Terminée",
-    "acteur_principal": "Timothy Olyphant",
-    "lieu_culte": "assets/lieux/justified.jpg",
-    "titre_episode_culte": "Fire in the Hole",
+    "acteur_principal": "Alyssa Milano",
+    "lieu_culte": "assets/lieux/charmed.jpg",
+    "titre_episode_culte": "All Hell Breaks Loose",
     "generique": {
-      "titre": "Long Hard Times to Come",
-      "artiste": "Gangstagrass",
-      "extrait_audio": "assets/audio/generiques/justified.mp3"
+      "titre": "How Soon Is Now?",
+      "artiste": "Love Spit Love",
+      "extrait_audio": "assets/audio/generiques/charmed.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/justified_difficile.jpg",
-      "moyenne": "assets/images/justified_moyenne.jpg",
-      "facile": "assets/images/justified_facile.jpg"
+      "difficile": "assets/images/charmed_difficile.jpg",
+      "moyenne": "assets/images/charmed_moyenne.jpg",
+      "facile": "assets/images/charmed_facile.jpg"
     }
   },
   {
@@ -1705,98 +1705,98 @@
   },
   {
     "id": "serie_072",
-    "titre": "The Leftovers",
-    "createur": "Damon Lindelof",
+    "titre": "Penny Dreadful",
+    "createur": "John Logan",
     "annee_debut": 2014,
-    "genre": "Drame",
-    "pays": "États-Unis",
+    "genre": "Horreur",
+    "pays": "Royaume-Uni",
     "nombre_saisons": 3,
-    "nombre_episodes": 28,
+    "nombre_episodes": 27,
     "statut": "Terminée",
-    "acteur_principal": "Justin Theroux",
-    "lieu_culte": "assets/lieux/the_leftovers.jpg",
-    "titre_episode_culte": "International Assassin",
+    "acteur_principal": "Eva Green",
+    "lieu_culte": "assets/lieux/penny_dreadful.jpg",
+    "titre_episode_culte": "Closer than Sisters",
     "generique": {
-      "titre": "The Leftovers Theme",
-      "artiste": "Max Richter",
-      "extrait_audio": "assets/audio/generiques/the_leftovers.mp3"
+      "titre": "Demimonde",
+      "artiste": "Abel Korzeniowski",
+      "extrait_audio": "assets/audio/generiques/penny_dreadful.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/the_leftovers_difficile.jpg",
-      "moyenne": "assets/images/the_leftovers_moyenne.jpg",
-      "facile": "assets/images/the_leftovers_facile.jpg"
+      "difficile": "assets/images/penny_dreadful_difficile.jpg",
+      "moyenne": "assets/images/penny_dreadful_moyenne.jpg",
+      "facile": "assets/images/penny_dreadful_facile.jpg"
     }
   },
   {
     "id": "serie_073",
-    "titre": "Sharp Objects",
-    "createur": "Marti Noxon",
-    "annee_debut": 2018,
-    "genre": "Thriller",
-    "pays": "États-Unis",
-    "nombre_saisons": 1,
-    "nombre_episodes": 8,
+    "titre": "Orphan Black",
+    "createur": "Graeme Manson et John Fawcett",
+    "annee_debut": 2013,
+    "genre": "Science-fiction",
+    "pays": "Canada",
+    "nombre_saisons": 5,
+    "nombre_episodes": 50,
     "statut": "Terminée",
-    "acteur_principal": "Amy Adams",
-    "lieu_culte": "assets/lieux/sharp_objects.jpg",
-    "titre_episode_culte": "Vanish",
+    "acteur_principal": "Tatiana Maslany",
+    "lieu_culte": "assets/lieux/orphan_black.jpg",
+    "titre_episode_culte": "[Ajouter episode]",
     "generique": {
-      "titre": "Sharp Objects Theme",
-      "artiste": "Various",
-      "extrait_audio": "assets/audio/generiques/sharp_objects.mp3"
+      "titre": "[Ajouter generique]",
+      "artiste": "Two Fingers",
+      "extrait_audio": "assets/audio/generiques/orphan_black.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/sharp_objects_difficile.jpg",
-      "moyenne": "assets/images/sharp_objects_moyenne.jpg",
-      "facile": "assets/images/sharp_objects_facile.jpg"
+      "difficile": "assets/images/orphan_black_difficile.jpg",
+      "moyenne": "assets/images/orphan_black_moyenne.jpg",
+      "facile": "assets/images/orphan_black_facile.jpg"
     }
   },
   {
     "id": "serie_074",
-    "titre": "Big Little Lies",
-    "createur": "David E. Kelley",
-    "annee_debut": 2017,
-    "genre": "Drame",
+    "titre": "Heroes",
+    "createur": "Tim Kring",
+    "annee_debut": 2006,
+    "genre": "Fantastique",
     "pays": "États-Unis",
-    "nombre_saisons": 2,
-    "nombre_episodes": 14,
+    "nombre_saisons": 4,
+    "nombre_episodes": 78,
     "statut": "Terminée",
-    "acteur_principal": "Reese Witherspoon",
-    "lieu_culte": "assets/lieux/big_little_lies.jpg",
-    "titre_episode_culte": "Somebody's Dead",
+    "acteur_principal": "Milo Ventimiglia",
+    "lieu_culte": "assets/lieux/heroes.jpg",
+    "titre_episode_culte": "Company Man",
     "generique": {
-      "titre": "Cold Little Heart",
-      "artiste": "Michael Kiwanuka",
-      "extrait_audio": "assets/audio/generiques/big_little_lies.mp3"
+      "titre": "[Ajouter generique]",
+      "artiste": "Wendy Melvoin et Lisa Coleman",
+      "extrait_audio": "assets/audio/generiques/heroes.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/big_little_lies_difficile.jpg",
-      "moyenne": "assets/images/big_little_lies_moyenne.jpg",
-      "facile": "assets/images/big_little_lies_facile.jpg"
+      "difficile": "assets/images/heroes_difficile.jpg",
+      "moyenne": "assets/images/heroes_moyenne.jpg",
+      "facile": "assets/images/heroes_facile.jpg"
     }
   },
   {
     "id": "serie_075",
-    "titre": "Watchmen",
-    "createur": "Damon Lindelof",
-    "annee_debut": 2019,
+    "titre": "Pluribus",
+    "createur": "Vince Gilligan",
+    "annee_debut": 2025,
     "genre": "Science-fiction",
     "pays": "États-Unis",
     "nombre_saisons": 1,
     "nombre_episodes": 9,
-    "statut": "Terminée",
-    "acteur_principal": "Regina King",
-    "lieu_culte": "assets/lieux/watchmen.jpg",
-    "titre_episode_culte": "This Extraordinary Being",
+    "statut": "En cours",
+    "acteur_principal": "Rhea Seehorn",
+    "lieu_culte": "assets/lieux/pluribus.jpg",
+    "titre_episode_culte": "We Is Us",
     "generique": {
-      "titre": "Watchmen Theme",
-      "artiste": "Trent Reznor et Atticus Ross",
-      "extrait_audio": "assets/audio/generiques/watchmen.mp3"
+      "titre": "[Ajouter generique]",
+      "artiste": "Dave Porter",
+      "extrait_audio": "assets/audio/generiques/pluribus.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/watchmen_difficile.jpg",
-      "moyenne": "assets/images/watchmen_moyenne.jpg",
-      "facile": "assets/images/watchmen_facile.jpg"
+      "difficile": "assets/images/pluribus_difficile.jpg",
+      "moyenne": "assets/images/pluribus_moyenne.jpg",
+      "facile": "assets/images/pluribus_facile.jpg"
     }
   },
   {
@@ -1849,26 +1849,26 @@
   },
   {
     "id": "serie_078",
-    "titre": "Poker Face",
-    "createur": "Rian Johnson",
-    "annee_debut": 2023,
-    "genre": "Policier",
+    "titre": "Preacher",
+    "createur": "Sam Catlin, Seth Rogen et Evan Goldberg",
+    "annee_debut": 2016,
+    "genre": "Fantastique",
     "pays": "États-Unis",
-    "nombre_saisons": 2,
-    "nombre_episodes": 23,
-    "statut": "En cours",
-    "acteur_principal": "Natasha Lyonne",
-    "lieu_culte": "assets/lieux/poker_face.jpg",
-    "titre_episode_culte": "Dead Man's Hand",
+    "nombre_saisons": 4,
+    "nombre_episodes": 43,
+    "statut": "Terminée",
+    "acteur_principal": "Dominic Cooper",
+    "lieu_culte": "assets/lieux/preacher.jpg",
+    "titre_episode_culte": "Angelville",
     "generique": {
-      "titre": "Poker Face Theme",
-      "artiste": "Various",
-      "extrait_audio": "assets/audio/generiques/poker_face.mp3"
+      "titre": "[Ajouter generique]",
+      "artiste": "Dave Porter",
+      "extrait_audio": "assets/audio/generiques/preacher.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/poker_face_difficile.jpg",
-      "moyenne": "assets/images/poker_face_moyenne.jpg",
-      "facile": "assets/images/poker_face_facile.jpg"
+      "difficile": "assets/images/preacher_difficile.jpg",
+      "moyenne": "assets/images/preacher_moyenne.jpg",
+      "facile": "assets/images/preacher_facile.jpg"
     }
   },
   {
@@ -2089,122 +2089,98 @@
   },
   {
     "id": "serie_088",
-    "titre": "Schitt's Creek",
-    "createur": "Dan Levy et Eugene Levy",
-    "annee_debut": 2015,
-    "genre": "Comédie",
-    "pays": "Canada",
-    "nombre_saisons": 6,
-    "nombre_episodes": 80,
+    "titre": "The Haunting of Hill House",
+    "createur": "Mike Flanagan",
+    "annee_debut": 2018,
+    "genre": "Horreur",
+    "pays": "États-Unis",
+    "nombre_saisons": 1,
+    "nombre_episodes": 10,
     "statut": "Terminée",
-    "acteur_principal": "Eugene Levy",
-    "lieu_culte": "assets/lieux/schitts_creek.jpg",
-    "titre_episode_culte": "Moira's Nudes",
+    "acteur_principal": "Michiel Huisman",
+    "lieu_culte": "assets/lieux/the_haunting_of_hill_house.jpg",
+    "titre_episode_culte": "The Bent-Neck Lady",
     "generique": {
-      "titre": "Schitt's Creek Theme",
-      "artiste": "Bob Rock",
-      "extrait_audio": "assets/audio/generiques/schitts_creek.mp3"
+      "titre": "[Ajouter generique]",
+      "artiste": "The Newton Brothers",
+      "extrait_audio": "assets/audio/generiques/the_haunting_of_hill_house.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/schitts_creek_difficile.jpg",
-      "moyenne": "assets/images/schitts_creek_moyenne.jpg",
-      "facile": "assets/images/schitts_creek_facile.jpg"
+      "difficile": "assets/images/the_haunting_of_hill_house_difficile.jpg",
+      "moyenne": "assets/images/the_haunting_of_hill_house_moyenne.jpg",
+      "facile": "assets/images/the_haunting_of_hill_house_facile.jpg"
     }
   },
   {
     "id": "serie_089",
-    "titre": "It's Always Sunny in Philadelphia",
-    "createur": "Rob McElhenney",
-    "annee_debut": 2005,
-    "genre": "Comédie",
+    "titre": "Le Jeu de la dame",
+    "createur": "Scott Frank et Allan Scott",
+    "annee_debut": 2020,
+    "genre": "Drame",
     "pays": "États-Unis",
-    "nombre_saisons": 16,
-    "nombre_episodes": 172,
-    "statut": "En cours",
-    "acteur_principal": "Charlie Day",
-    "lieu_culte": "assets/lieux/always_sunny.jpg",
-    "titre_episode_culte": "The Gang Gets Racist",
+    "nombre_saisons": 1,
+    "nombre_episodes": 7,
+    "statut": "Terminée",
+    "acteur_principal": "Anya Taylor-Joy",
+    "lieu_culte": "assets/lieux/le_jeu_de_la_dame.jpg",
+    "titre_episode_culte": "End Game",
     "generique": {
-      "titre": "Temptation Sensation",
-      "artiste": "Heinz Kiessling",
-      "extrait_audio": "assets/audio/generiques/always_sunny.mp3"
+      "titre": "[Ajouter generique]",
+      "artiste": "Carlos Rafael Rivera",
+      "extrait_audio": "assets/audio/generiques/le_jeu_de_la_dame.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/always_sunny_difficile.jpg",
-      "moyenne": "assets/images/always_sunny_moyenne.jpg",
-      "facile": "assets/images/always_sunny_facile.jpg"
+      "difficile": "assets/images/le_jeu_de_la_dame_difficile.jpg",
+      "moyenne": "assets/images/le_jeu_de_la_dame_moyenne.jpg",
+      "facile": "assets/images/le_jeu_de_la_dame_facile.jpg"
     }
   },
   {
     "id": "serie_090",
-    "titre": "Barry",
-    "createur": "Alec Berg et Bill Hader",
-    "annee_debut": 2018,
-    "genre": "Comédie noire",
+    "titre": "Futurama",
+    "createur": "Matt Groening et David X. Cohen",
+    "annee_debut": 1999,
+    "genre": "Animation",
     "pays": "États-Unis",
-    "nombre_saisons": 4,
-    "nombre_episodes": 32,
-    "statut": "Terminée",
-    "acteur_principal": "Bill Hader",
-    "lieu_culte": "assets/lieux/barry.jpg",
-    "titre_episode_culte": "Chapter One: Make Your Mark",
+    "nombre_saisons": 11,
+    "nombre_episodes": 175,
+    "statut": "En cours",
+    "acteur_principal": "Billy West",
+    "lieu_culte": "assets/lieux/futurama.jpg",
+    "titre_episode_culte": "Jurassic Bark",
     "generique": {
-      "titre": "Barry Theme",
-      "artiste": "David Wingo et Jeff Russo",
-      "extrait_audio": "assets/audio/generiques/barry.mp3"
+      "titre": "Theme from Futurama",
+      "artiste": "Christopher Tyng",
+      "extrait_audio": "assets/audio/generiques/futurama.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/barry_difficile.jpg",
-      "moyenne": "assets/images/barry_moyenne.jpg",
-      "facile": "assets/images/barry_facile.jpg"
+      "difficile": "assets/images/futurama_difficile.jpg",
+      "moyenne": "assets/images/futurama_moyenne.jpg",
+      "facile": "assets/images/futurama_facile.jpg"
     }
   },
   {
     "id": "serie_091",
-    "titre": "Reservation Dogs",
-    "createur": "Sterlin Harjo",
-    "annee_debut": 2021,
-    "genre": "Comédie",
+    "titre": "Star Trek",
+    "createur": "Gene Roddenberry",
+    "annee_debut": 1966,
+    "genre": "Science-fiction",
     "pays": "États-Unis",
     "nombre_saisons": 3,
-    "nombre_episodes": 28,
+    "nombre_episodes": 79,
     "statut": "Terminée",
-    "acteur_principal": "D'Pharaoh Woon-A-Tai",
-    "lieu_culte": "assets/lieux/reservation_dogs.jpg",
-    "titre_episode_culte": "Pilot",
+    "acteur_principal": "William Shatner",
+    "lieu_culte": "assets/lieux/star_trek.jpg",
+    "titre_episode_culte": "The City on the Edge of Forever",
     "generique": {
-      "titre": "Reservation Dogs Theme",
-      "artiste": "Mato Wayuhi",
-      "extrait_audio": "assets/audio/generiques/reservation_dogs.mp3"
+      "titre": "Theme from Star Trek",
+      "artiste": "Alexander Courage",
+      "extrait_audio": "assets/audio/generiques/star_trek.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/reservation_dogs_difficile.jpg",
-      "moyenne": "assets/images/reservation_dogs_moyenne.jpg",
-      "facile": "assets/images/reservation_dogs_facile.jpg"
-    }
-  },
-  {
-    "id": "serie_092",
-    "titre": "Pose",
-    "createur": "Ryan Murphy",
-    "annee_debut": 2018,
-    "genre": "Drame",
-    "pays": "États-Unis",
-    "nombre_saisons": 3,
-    "nombre_episodes": 26,
-    "statut": "Terminée",
-    "acteur_principal": "Mj Rodriguez",
-    "lieu_culte": "assets/lieux/pose.jpg",
-    "titre_episode_culte": "Pilot",
-    "generique": {
-      "titre": "Pose Theme",
-      "artiste": "Various",
-      "extrait_audio": "assets/audio/generiques/pose.mp3"
-    },
-    "images_defi6": {
-      "difficile": "assets/images/pose_difficile.jpg",
-      "moyenne": "assets/images/pose_moyenne.jpg",
-      "facile": "assets/images/pose_facile.jpg"
+      "difficile": "assets/images/star_trek_difficile.jpg",
+      "moyenne": "assets/images/star_trek_moyenne.jpg",
+      "facile": "assets/images/star_trek_facile.jpg"
     }
   },
   {
@@ -2328,30 +2304,6 @@
     }
   },
   {
-    "id": "serie_098",
-    "titre": "Les Revenants",
-    "createur": "Fabrice Gobert",
-    "annee_debut": 2012,
-    "genre": "Fantastique",
-    "pays": "France",
-    "nombre_saisons": 2,
-    "nombre_episodes": 16,
-    "statut": "Terminée",
-    "acteur_principal": "Yara Pilartz",
-    "lieu_culte": "assets/lieux/les_revenants.jpg",
-    "titre_episode_culte": "Camille",
-    "generique": {
-      "titre": "[Ajouter generique]",
-      "artiste": "[Ajouter artiste]",
-      "extrait_audio": "assets/audio/generiques/les_revenants.mp3"
-    },
-    "images_defi6": {
-      "difficile": "assets/images/les_revenants_difficile.jpg",
-      "moyenne": "assets/images/les_revenants_moyenne.jpg",
-      "facile": "assets/images/les_revenants_facile.jpg"
-    }
-  },
-  {
     "id": "serie_099",
     "titre": "Lupin",
     "createur": "George Kay et François Uzan",
@@ -2421,30 +2373,6 @@
       "difficile": "assets/images/baron_noir_difficile.jpg",
       "moyenne": "assets/images/baron_noir_moyenne.jpg",
       "facile": "assets/images/baron_noir_facile.jpg"
-    }
-  },
-  {
-    "id": "serie_102",
-    "titre": "Engrenages",
-    "createur": "Alexandra Clert et Guy-Patrick Sainderichin",
-    "annee_debut": 2005,
-    "genre": "Policier",
-    "pays": "France",
-    "nombre_saisons": 8,
-    "nombre_episodes": 96,
-    "statut": "Terminée",
-    "acteur_principal": "Caroline Proust",
-    "lieu_culte": "assets/lieux/engrenages.jpg",
-    "titre_episode_culte": "[Ajouter episode]",
-    "generique": {
-      "titre": "[Ajouter generique]",
-      "artiste": "[Ajouter artiste]",
-      "extrait_audio": "assets/audio/generiques/engrenages.mp3"
-    },
-    "images_defi6": {
-      "difficile": "assets/images/engrenages_difficile.jpg",
-      "moyenne": "assets/images/engrenages_moyenne.jpg",
-      "facile": "assets/images/engrenages_facile.jpg"
     }
   },
   {
@@ -2712,30 +2640,6 @@
     }
   },
   {
-    "id": "serie_114",
-    "titre": "Ripley",
-    "createur": "Steven Zaillian",
-    "annee_debut": 2024,
-    "genre": "Thriller",
-    "pays": "États-Unis",
-    "nombre_saisons": 1,
-    "nombre_episodes": 8,
-    "statut": "Terminée",
-    "acteur_principal": "Andrew Scott",
-    "lieu_culte": "assets/lieux/ripley.jpg",
-    "titre_episode_culte": "[Ajouter episode]",
-    "generique": {
-      "titre": "[Ajouter generique]",
-      "artiste": "[Ajouter artiste]",
-      "extrait_audio": "assets/audio/generiques/ripley.mp3"
-    },
-    "images_defi6": {
-      "difficile": "assets/images/ripley_difficile.jpg",
-      "moyenne": "assets/images/ripley_moyenne.jpg",
-      "facile": "assets/images/ripley_facile.jpg"
-    }
-  },
-  {
     "id": "serie_115",
     "titre": "Slow Horses",
     "createur": "Will Smith",
@@ -2832,30 +2736,6 @@
     }
   },
   {
-    "id": "serie_119",
-    "titre": "Rome",
-    "createur": "Bruno Heller, John Milius et William J. MacDonald",
-    "annee_debut": 2005,
-    "genre": "Drame historique",
-    "pays": "États-Unis",
-    "nombre_saisons": 2,
-    "nombre_episodes": 22,
-    "statut": "Terminée",
-    "acteur_principal": "Kevin McKidd",
-    "lieu_culte": "assets/lieux/rome.jpg",
-    "titre_episode_culte": "The Stolen Eagle",
-    "generique": {
-      "titre": "Rome Main Title",
-      "artiste": "Jeff Beal",
-      "extrait_audio": "assets/audio/generiques/rome.mp3"
-    },
-    "images_defi6": {
-      "difficile": "assets/images/rome_difficile.jpg",
-      "moyenne": "assets/images/rome_moyenne.jpg",
-      "facile": "assets/images/rome_facile.jpg"
-    }
-  },
-  {
     "id": "serie_120",
     "titre": "True Blood",
     "createur": "Alan Ball",
@@ -2877,30 +2757,6 @@
       "difficile": "assets/images/true_blood_difficile.jpg",
       "moyenne": "assets/images/true_blood_moyenne.jpg",
       "facile": "assets/images/true_blood_facile.jpg"
-    }
-  },
-  {
-    "id": "serie_121",
-    "titre": "The Pitt",
-    "createur": "R. Scott Gemmill",
-    "annee_debut": 2025,
-    "genre": "Drame médical",
-    "pays": "États-Unis",
-    "nombre_saisons": 2,
-    "nombre_episodes": 30,
-    "statut": "En cours",
-    "acteur_principal": "Noah Wyle",
-    "lieu_culte": "assets/lieux/the_pitt.jpg",
-    "titre_episode_culte": "7:00 A.M.",
-    "generique": {
-      "titre": "[Ajouter generique]",
-      "artiste": "[Ajouter artiste]",
-      "extrait_audio": "assets/audio/generiques/the_pitt.mp3"
-    },
-    "images_defi6": {
-      "difficile": "assets/images/the_pitt_difficile.jpg",
-      "moyenne": "assets/images/the_pitt_moyenne.jpg",
-      "facile": "assets/images/the_pitt_facile.jpg"
     }
   },
   {

@@ -550,17 +550,6 @@
     "saison_apparition": 1
   },
   {
-    "id": "perso_serie_051",
-    "nom": "Malcolm Reynolds",
-    "serie_origine": "Firefly",
-    "acteur": "Nathan Fillion",
-    "statut": "Héros",
-    "genre_serie": "Science-fiction",
-    "decennie_apparition": 2000,
-    "sexe": "Homme",
-    "saison_apparition": 1
-  },
-  {
     "id": "perso_serie_052",
     "nom": "Buffy Summers",
     "serie_origine": "Buffy contre les vampires",
@@ -715,55 +704,11 @@
     "saison_apparition": 1
   },
   {
-    "id": "perso_serie_066",
-    "nom": "Earnest Marks",
-    "serie_origine": "Atlanta",
-    "acteur": "Donald Glover",
-    "statut": "Héros",
-    "genre_serie": "Comédie",
-    "decennie_apparition": 2010,
-    "sexe": "Homme",
-    "saison_apparition": 1
-  },
-  {
     "id": "perso_serie_067",
     "nom": "Fleabag",
     "serie_origine": "Fleabag",
     "acteur": "Phoebe Waller-Bridge",
     "statut": "Anti-héros",
-    "genre_serie": "Comédie",
-    "decennie_apparition": 2010,
-    "sexe": "Femme",
-    "saison_apparition": 1
-  },
-  {
-    "id": "perso_serie_068",
-    "nom": "Eve Polastri",
-    "serie_origine": "Killing Eve",
-    "acteur": "Sandra Oh",
-    "statut": "Héros",
-    "genre_serie": "Thriller",
-    "decennie_apparition": 2010,
-    "sexe": "Femme",
-    "saison_apparition": 1
-  },
-  {
-    "id": "perso_serie_069",
-    "nom": "Otis Milburn",
-    "serie_origine": "Sex Education",
-    "acteur": "Asa Butterfield",
-    "statut": "Héros",
-    "genre_serie": "Comédie",
-    "decennie_apparition": 2010,
-    "sexe": "Homme",
-    "saison_apparition": 1
-  },
-  {
-    "id": "perso_serie_070",
-    "nom": "Erin Quinn",
-    "serie_origine": "Derry Girls",
-    "acteur": "Saoirse-Monica Jackson",
-    "statut": "Héros",
     "genre_serie": "Comédie",
     "decennie_apparition": 2010,
     "sexe": "Femme",
@@ -814,17 +759,6 @@
     "saison_apparition": 1
   },
   {
-    "id": "perso_serie_075",
-    "nom": "Raylan Givens",
-    "serie_origine": "Justified",
-    "acteur": "Timothy Olyphant",
-    "statut": "Héros",
-    "genre_serie": "Policier",
-    "decennie_apparition": 2010,
-    "sexe": "Homme",
-    "saison_apparition": 1
-  },
-  {
     "id": "perso_serie_076",
     "nom": "Lucas Hood",
     "serie_origine": "Banshee",
@@ -833,28 +767,6 @@
     "genre_serie": "Policier",
     "decennie_apparition": 2010,
     "sexe": "Homme",
-    "saison_apparition": 1
-  },
-  {
-    "id": "perso_serie_077",
-    "nom": "Kevin Garvey",
-    "serie_origine": "The Leftovers",
-    "acteur": "Justin Theroux",
-    "statut": "Héros",
-    "genre_serie": "Drame",
-    "decennie_apparition": 2010,
-    "sexe": "Homme",
-    "saison_apparition": 1
-  },
-  {
-    "id": "perso_serie_078",
-    "nom": "Camille Preaker",
-    "serie_origine": "Sharp Objects",
-    "acteur": "Amy Adams",
-    "statut": "Héros",
-    "genre_serie": "Thriller",
-    "decennie_apparition": 2010,
-    "sexe": "Femme",
     "saison_apparition": 1
   },
   {
@@ -877,17 +789,6 @@
     "genre_serie": "Western",
     "decennie_apparition": 2020,
     "sexe": "Homme",
-    "saison_apparition": 1
-  },
-  {
-    "id": "perso_serie_081",
-    "nom": "Charlie Cale",
-    "serie_origine": "Poker Face",
-    "acteur": "Natasha Lyonne",
-    "statut": "Héros",
-    "genre_serie": "Policier",
-    "decennie_apparition": 2020,
-    "sexe": "Femme",
     "saison_apparition": 1
   },
   {
@@ -990,50 +891,6 @@
     "saison_apparition": 1
   },
   {
-    "id": "perso_serie_091",
-    "nom": "Moira Rose",
-    "serie_origine": "Schitt's Creek",
-    "acteur": "Catherine O'Hara",
-    "statut": "Second rôle",
-    "genre_serie": "Comédie",
-    "decennie_apparition": 2010,
-    "sexe": "Femme",
-    "saison_apparition": 1
-  },
-  {
-    "id": "perso_serie_092",
-    "nom": "Dennis Reynolds",
-    "serie_origine": "It's Always Sunny in Philadelphia",
-    "acteur": "Glenn Howerton",
-    "statut": "Anti-héros",
-    "genre_serie": "Comédie",
-    "decennie_apparition": 2000,
-    "sexe": "Homme",
-    "saison_apparition": 1
-  },
-  {
-    "id": "perso_serie_093",
-    "nom": "Barry Berkman",
-    "serie_origine": "Barry",
-    "acteur": "Bill Hader",
-    "statut": "Anti-héros",
-    "genre_serie": "Comédie noire",
-    "decennie_apparition": 2010,
-    "sexe": "Homme",
-    "saison_apparition": 1
-  },
-  {
-    "id": "perso_serie_094",
-    "nom": "Bear Smallhill",
-    "serie_origine": "Reservation Dogs",
-    "acteur": "D'Pharaoh Woon-A-Tai",
-    "statut": "Héros",
-    "genre_serie": "Comédie",
-    "decennie_apparition": 2020,
-    "sexe": "Homme",
-    "saison_apparition": 1
-  },
-  {
     "id": "perso_serie_095",
     "nom": "Piper Chapman",
     "serie_origine": "Orange Is the New Black",
@@ -1122,17 +979,6 @@
     "saison_apparition": 1
   },
   {
-    "id": "perso_serie_103",
-    "nom": "Camille Séguret",
-    "serie_origine": "Les Revenants",
-    "acteur": "Yara Pilartz",
-    "statut": "Héros",
-    "genre_serie": "Fantastique",
-    "decennie_apparition": 2010,
-    "sexe": "Femme",
-    "saison_apparition": 1
-  },
-  {
     "id": "perso_serie_104",
     "nom": "Assane Diop",
     "serie_origine": "Lupin",
@@ -1163,17 +1009,6 @@
     "genre_serie": "Drame",
     "decennie_apparition": 2010,
     "sexe": "Homme",
-    "saison_apparition": 1
-  },
-  {
-    "id": "perso_serie_107",
-    "nom": "Laure Berthaud",
-    "serie_origine": "Engrenages",
-    "acteur": "Caroline Proust",
-    "statut": "Héros",
-    "genre_serie": "Policier",
-    "decennie_apparition": 2000,
-    "sexe": "Femme",
     "saison_apparition": 1
   },
   {
@@ -1287,17 +1122,6 @@
     "saison_apparition": 1
   },
   {
-    "id": "perso_serie_118",
-    "nom": "Tom Ripley",
-    "serie_origine": "Ripley",
-    "acteur": "Andrew Scott",
-    "statut": "Anti-héros",
-    "genre_serie": "Thriller",
-    "decennie_apparition": 2020,
-    "sexe": "Homme",
-    "saison_apparition": 1
-  },
-  {
     "id": "perso_serie_119",
     "nom": "Jackson Lamb",
     "serie_origine": "Slow Horses",
@@ -1342,17 +1166,6 @@
     "saison_apparition": 1
   },
   {
-    "id": "perso_serie_123",
-    "nom": "Lucius Vorenus",
-    "serie_origine": "Rome",
-    "acteur": "Kevin McKidd",
-    "statut": "Héros",
-    "genre_serie": "Drame historique",
-    "decennie_apparition": 2000,
-    "sexe": "Homme",
-    "saison_apparition": 1
-  },
-  {
     "id": "perso_serie_124",
     "nom": "Sookie Stackhouse",
     "serie_origine": "True Blood",
@@ -1361,17 +1174,6 @@
     "genre_serie": "Fantastique",
     "decennie_apparition": 2000,
     "sexe": "Femme",
-    "saison_apparition": 1
-  },
-  {
-    "id": "perso_serie_125",
-    "nom": "Michael « Robby » Robinavitch",
-    "serie_origine": "The Pitt",
-    "acteur": "Noah Wyle",
-    "statut": "Héros",
-    "genre_serie": "Drame médical",
-    "decennie_apparition": 2020,
-    "sexe": "Homme",
     "saison_apparition": 1
   },
   {
@@ -1537,50 +1339,6 @@
     "genre_serie": "Fantastique",
     "decennie_apparition": 2000,
     "sexe": "Homme",
-    "saison_apparition": 1
-  },
-  {
-    "id": "perso_serie_141",
-    "nom": "Madeline Mackenzie",
-    "serie_origine": "Big Little Lies",
-    "acteur": "Reese Witherspoon",
-    "statut": "Héros",
-    "genre_serie": "Drame",
-    "decennie_apparition": 2010,
-    "sexe": "Femme",
-    "saison_apparition": 1
-  },
-  {
-    "id": "perso_serie_142",
-    "nom": "Celeste Wright",
-    "serie_origine": "Big Little Lies",
-    "acteur": "Nicole Kidman",
-    "statut": "Héros",
-    "genre_serie": "Drame",
-    "decennie_apparition": 2010,
-    "sexe": "Femme",
-    "saison_apparition": 1
-  },
-  {
-    "id": "perso_serie_143",
-    "nom": "Angela Abar (Sister Night)",
-    "serie_origine": "Watchmen",
-    "acteur": "Regina King",
-    "statut": "Héros",
-    "genre_serie": "Science-fiction",
-    "decennie_apparition": 2010,
-    "sexe": "Femme",
-    "saison_apparition": 1
-  },
-  {
-    "id": "perso_serie_144",
-    "nom": "Blanca Evangelista",
-    "serie_origine": "Pose",
-    "acteur": "MJ Rodriguez",
-    "statut": "Héros",
-    "genre_serie": "Drame",
-    "decennie_apparition": 2010,
-    "sexe": "Femme",
     "saison_apparition": 1
   },
   {
@@ -1835,5 +1593,181 @@
     "decennie_apparition": 2010,
     "sexe": "Homme",
     "saison_apparition": 6
+  },
+  {
+    "id": "perso_serie_168",
+    "nom": "Hervé Dumont",
+    "serie_origine": "Caméra Café",
+    "acteur": "Bruno Solo",
+    "statut": "Héros",
+    "genre_serie": "Comédie",
+    "decennie_apparition": 2000,
+    "sexe": "Homme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_169",
+    "nom": "Jamel Driddi",
+    "serie_origine": "H",
+    "acteur": "Jamel Debbouze",
+    "statut": "Héros",
+    "genre_serie": "Comédie",
+    "decennie_apparition": 1990,
+    "sexe": "Homme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_170",
+    "nom": "Susan Mayer",
+    "serie_origine": "Desperate Housewives",
+    "acteur": "Teri Hatcher",
+    "statut": "Héros",
+    "genre_serie": "Comédie dramatique",
+    "decennie_apparition": 2000,
+    "sexe": "Femme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_171",
+    "nom": "Carrie Bradshaw",
+    "serie_origine": "Sex and the City",
+    "acteur": "Sarah Jessica Parker",
+    "statut": "Héros",
+    "genre_serie": "Comédie",
+    "decennie_apparition": 1990,
+    "sexe": "Femme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_172",
+    "nom": "Patrick Jane",
+    "serie_origine": "The Mentalist",
+    "acteur": "Simon Baker",
+    "statut": "Héros",
+    "genre_serie": "Policier",
+    "decennie_apparition": 2000,
+    "sexe": "Homme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_173",
+    "nom": "Piper Halliwell",
+    "serie_origine": "Charmed",
+    "acteur": "Holly Marie Combs",
+    "statut": "Héros",
+    "genre_serie": "Fantastique",
+    "decennie_apparition": 1990,
+    "sexe": "Femme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_174",
+    "nom": "Vanessa Ives",
+    "serie_origine": "Penny Dreadful",
+    "acteur": "Eva Green",
+    "statut": "Héros",
+    "genre_serie": "Horreur",
+    "decennie_apparition": 2010,
+    "sexe": "Femme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_175",
+    "nom": "Sarah Manning",
+    "serie_origine": "Orphan Black",
+    "acteur": "Tatiana Maslany",
+    "statut": "Héros",
+    "genre_serie": "Science-fiction",
+    "decennie_apparition": 2010,
+    "sexe": "Femme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_176",
+    "nom": "Peter Petrelli",
+    "serie_origine": "Heroes",
+    "acteur": "Milo Ventimiglia",
+    "statut": "Héros",
+    "genre_serie": "Fantastique",
+    "decennie_apparition": 2000,
+    "sexe": "Homme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_177",
+    "nom": "Carol Sturka",
+    "serie_origine": "Pluribus",
+    "acteur": "Rhea Seehorn",
+    "statut": "Héros",
+    "genre_serie": "Science-fiction",
+    "decennie_apparition": 2020,
+    "sexe": "Femme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_178",
+    "nom": "Jesse Custer",
+    "serie_origine": "Preacher",
+    "acteur": "Dominic Cooper",
+    "statut": "Héros",
+    "genre_serie": "Fantastique",
+    "decennie_apparition": 2010,
+    "sexe": "Homme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_179",
+    "nom": "Nell Crain",
+    "serie_origine": "The Haunting of Hill House",
+    "acteur": "Victoria Pedretti",
+    "statut": "Héros",
+    "genre_serie": "Horreur",
+    "decennie_apparition": 2010,
+    "sexe": "Femme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_180",
+    "nom": "Beth Harmon",
+    "serie_origine": "Le Jeu de la dame",
+    "acteur": "Anya Taylor-Joy",
+    "statut": "Héros",
+    "genre_serie": "Drame",
+    "decennie_apparition": 2020,
+    "sexe": "Femme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_181",
+    "nom": "Philip J. Fry",
+    "serie_origine": "Futurama",
+    "acteur": "Billy West",
+    "statut": "Héros",
+    "genre_serie": "Animation",
+    "decennie_apparition": 1990,
+    "sexe": "Homme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_182",
+    "nom": "James T. Kirk",
+    "serie_origine": "Star Trek",
+    "acteur": "William Shatner",
+    "statut": "Héros",
+    "genre_serie": "Science-fiction",
+    "decennie_apparition": 1960,
+    "sexe": "Homme",
+    "saison_apparition": 1
+  },
+  {
+    "id": "perso_serie_183",
+    "nom": "Spock",
+    "serie_origine": "Star Trek",
+    "acteur": "Leonard Nimoy",
+    "statut": "Second rôle",
+    "genre_serie": "Science-fiction",
+    "decennie_apparition": 1960,
+    "sexe": "Homme",
+    "saison_apparition": 1
   }
 ]
