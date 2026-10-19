@@ -5632,34 +5632,6 @@
     ]
   },
   {
-    "id": "film_168",
-    "titre": "Retour à la fac",
-    "realisateur": "Todd Phillips",
-    "annee": 2003,
-    "genre": "Comédie",
-    "pays": "États-Unis",
-    "duree_minutes": 91,
-    "acteur_principal": "Luke Wilson",
-    "affiche": "assets/affiches/retour_a_la_fac.jpg",
-    "repliques_cultes": [
-      "We're going streaking!"
-    ],
-    "audio_replique": "assets/audio/repliques/retour_a_la_fac.mp3",
-    "images_defi6": {
-      "difficile": "assets/images/retour_a_la_fac_difficile.jpg",
-      "moyenne": "assets/images/retour_a_la_fac_moyenne.jpg",
-      "facile": "assets/images/retour_a_la_fac_facile.jpg"
-    },
-    "emojis": [
-      "🍺",
-      "🏫",
-      "🥋",
-      "🏃‍♂️",
-      "🎓",
-      "🧓"
-    ]
-  },
-  {
     "id": "film_169",
     "titre": "L'Exorciste",
     "realisateur": "William Friedkin",

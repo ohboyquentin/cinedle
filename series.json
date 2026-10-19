@@ -491,7 +491,7 @@
     "statut": "Terminée",
     "acteur_principal": "Jim Parsons",
     "lieu_culte": "assets/lieux/tbbt.jpg",
-    "titre_episode_culte": "The Pilot",
+    "titre_episode_culte": "The Bath Item Gift Hypothesis",
     "generique": {
       "titre": "History of Everything",
       "artiste": "Barenaked Ladies",
@@ -515,7 +515,7 @@
     "statut": "Terminée",
     "acteur_principal": "Michael C. Hall",
     "lieu_culte": "assets/lieux/dexter.jpg",
-    "titre_episode_culte": "Born Free",
+    "titre_episode_culte": "Born Free (Libre comme l'air)",
     "generique": {
       "titre": "Main Title Theme",
       "artiste": "Rolfe Kent",
@@ -539,7 +539,7 @@
     "statut": "Terminée",
     "acteur_principal": "Matthew Fox",
     "lieu_culte": "assets/lieux/lost.jpg",
-    "titre_episode_culte": "The End",
+    "titre_episode_culte": " The Constant",
     "generique": {
       "titre": "Lost Theme",
       "artiste": "Michael Giacchino",
@@ -563,7 +563,7 @@
     "statut": "Terminée",
     "acteur_principal": "Andrew Lincoln",
     "lieu_culte": "assets/lieux/twd.jpg",
-    "titre_episode_culte": "Days Gone Bye",
+    "titre_episode_culte": "No Way Out",
     "generique": {
       "titre": "The Walking Dead Main Title",
       "artiste": "Bear McCreary",
@@ -587,7 +587,7 @@
     "statut": "Terminée",
     "acteur_principal": "Travis Fimmel",
     "lieu_culte": "assets/lieux/vikings.jpg",
-    "titre_episode_culte": "Rites of Passage",
+    "titre_episode_culte": "Burial of the Dead ( l'Ultime Drakkar )",
     "generique": {
       "titre": "If I Had a Heart",
       "artiste": "Fever Ray",
@@ -611,7 +611,7 @@
     "statut": "Terminée",
     "acteur_principal": "Dominic West",
     "lieu_culte": "assets/lieux/the_wire.jpg",
-    "titre_episode_culte": "The Target",
+    "titre_episode_culte": "Middle Ground",
     "generique": {
       "titre": "Way Down in the Hole",
       "artiste": "The Blind Boys of Alabama",
@@ -635,7 +635,7 @@
     "statut": "Terminée",
     "acteur_principal": "Steve Buscemi",
     "lieu_culte": "assets/lieux/boardwalk_empire.jpg",
-    "titre_episode_culte": "Pilot",
+    "titre_episode_culte": "Margate Sands",
     "generique": {
       "titre": "Straight Up and Down",
       "artiste": "The Brian Jonestown Massacre",
@@ -659,7 +659,7 @@
     "statut": "Terminée",
     "acteur_principal": "Jon Hamm",
     "lieu_culte": "assets/lieux/mad_men.jpg",
-    "titre_episode_culte": "The Suitcase",
+    "titre_episode_culte": "Shut the Door. Have a Seat",
     "generique": {
       "titre": "A Beautiful Mine",
       "artiste": "RJD2",
@@ -683,7 +683,7 @@
     "statut": "Terminée",
     "acteur_principal": "James Gandolfini",
     "lieu_culte": "assets/lieux/les_soprano.jpg",
-    "titre_episode_culte": "Made in America",
+    "titre_episode_culte": "Whitecaps",
     "generique": {
       "titre": "Woke Up This Morning",
       "artiste": "Alabama 3",
@@ -707,7 +707,7 @@
     "statut": "Terminée",
     "acteur_principal": "Claire Danes",
     "lieu_culte": "assets/lieux/homeland.jpg",
-    "titre_episode_culte": "Pilot",
+    "titre_episode_culte": "The Weekend",
     "generique": {
       "titre": "Homeland Theme",
       "artiste": "Sean Callery",
@@ -731,7 +731,7 @@
     "statut": "Terminée",
     "acteur_principal": "Kiefer Sutherland",
     "lieu_culte": "assets/lieux/24_heures_chrono.jpg",
-    "titre_episode_culte": "Day 1: 12:00am-1:00am",
+    "titre_episode_culte": "Day 24: 11:00 p.m. – 12:00 a.m.",
     "generique": {
       "titre": "24 Theme",
       "artiste": "Sean Callery",
@@ -755,7 +755,7 @@
     "statut": "En cours",
     "acteur_principal": "Ellen Pompeo",
     "lieu_culte": "assets/lieux/greys_anatomy.jpg",
-    "titre_episode_culte": "A Hard Day's Night",
+    "titre_episode_culte": "As We Know It (Il n'y a pas de mot simple)",
     "generique": {
       "titre": "Cosy in the Rocket",
       "artiste": "Psapp",
@@ -803,7 +803,7 @@
     "statut": "Terminée",
     "acteur_principal": "Hugh Bonneville",
     "lieu_culte": "assets/lieux/downton_abbey.jpg",
-    "titre_episode_culte": "Episode 1",
+    "titre_episode_culte": "A Journey to the Highlands",
     "generique": {
       "titre": "Downton Abbey Theme",
       "artiste": "John Lunn",
@@ -827,7 +827,7 @@
     "statut": "Terminée",
     "acteur_principal": "Gabriel Macht",
     "lieu_culte": "assets/lieux/suits.jpg",
-    "titre_episode_culte": "Pilot",
+    "titre_episode_culte": "Sucker Punch",
     "generique": {
       "titre": "Greenback Boogie",
       "artiste": "Ima Robot",
@@ -851,7 +851,7 @@
     "statut": "Terminée",
     "acteur_principal": "Ed O'Neill",
     "lieu_culte": "assets/lieux/modern_family.jpg",
-    "titre_episode_culte": "Pilot",
+    "titre_episode_culte": "Connection Lost (Connexion perdue)",
     "generique": {
       "titre": "Modern Family Theme",
       "artiste": "Gabriel Mann",
@@ -875,7 +875,7 @@
     "statut": "Terminée",
     "acteur_principal": "Jason Bateman",
     "lieu_culte": "assets/lieux/arrested_development.jpg",
-    "titre_episode_culte": "Pilot",
+    "titre_episode_culte": "Afternoon Delight",
     "generique": {
       "titre": "Arrested Development Theme",
       "artiste": "David Schwartz",
@@ -899,7 +899,7 @@
     "statut": "Terminée",
     "acteur_principal": "Elisabeth Moss",
     "lieu_culte": "assets/lieux/handmaids_tale.jpg",
-    "titre_episode_culte": "Offred",
+    "titre_episode_culte": "Mayday",
     "generique": {
       "titre": "The Handmaid's Tale Theme",
       "artiste": "Adam Taylor",
@@ -947,7 +947,7 @@
     "statut": "En cours",
     "acteur_principal": "Zendaya",
     "lieu_culte": "assets/lieux/euphoria.jpg",
-    "titre_episode_culte": "Pilot",
+    "titre_episode_culte": "Shook Ones Pt II",
     "generique": {
       "titre": "Euphoria Theme",
       "artiste": "Labrinth",
@@ -971,7 +971,7 @@
     "statut": "Terminée",
     "acteur_principal": "Kyle MacLachlan",
     "lieu_culte": "assets/lieux/twin_peaks.jpg",
-    "titre_episode_culte": "Pilot",
+    "titre_episode_culte": "Zen, or the Skill to Catch a Killer",
     "generique": {
       "titre": "Twin Peaks Theme",
       "artiste": "Angelo Badalamenti",
@@ -995,7 +995,7 @@
     "statut": "Terminée",
     "acteur_principal": "David Duchovny",
     "lieu_culte": "assets/lieux/x_files.jpg",
-    "titre_episode_culte": "Pilot",
+    "titre_episode_culte": "Projet Arctique",
     "generique": {
       "titre": "The X-Files Theme",
       "artiste": "Mark Snow",
@@ -1043,7 +1043,7 @@
     "statut": "Terminée",
     "acteur_principal": "Nathan Fillion",
     "lieu_culte": "assets/lieux/firefly.jpg",
-    "titre_episode_culte": "Serenity",
+    "titre_episode_culte": "Ariel ",
     "generique": {
       "titre": "The Ballad of Serenity",
       "artiste": "Joss Whedon",
@@ -1067,7 +1067,7 @@
     "statut": "Terminée",
     "acteur_principal": "Sarah Michelle Gellar",
     "lieu_culte": "assets/lieux/buffy.jpg",
-    "titre_episode_culte": "Hush",
+    "titre_episode_culte": "Hush (Un silence de mort)",
     "generique": {
       "titre": "Buffy the Vampire Slayer Theme",
       "artiste": "Nerf Herder",
@@ -1091,7 +1091,7 @@
     "statut": "Terminée",
     "acteur_principal": "Jared Padalecki",
     "lieu_culte": "assets/lieux/supernatural.jpg",
-    "titre_episode_culte": "Pilot",
+    "titre_episode_culte": "Mystery Spot (Un Jour sans fin)",
     "generique": {
       "titre": "Carry On Wayward Son",
       "artiste": "Kansas",
@@ -1115,7 +1115,7 @@
     "statut": "Terminée",
     "acteur_principal": "Zach Braff",
     "lieu_culte": "assets/lieux/scrubs.jpg",
-    "titre_episode_culte": "My Lunch",
+    "titre_episode_culte": "My Lunch (Mon déjeuner)",
     "generique": {
       "titre": "I'm No Superman",
       "artiste": "Lazlo Bane",
@@ -1187,7 +1187,7 @@
     "statut": "Terminée",
     "acteur_principal": "Andy Samberg",
     "lieu_culte": "assets/lieux/brooklyn_99.jpg",
-    "titre_episode_culte": "Pilot",
+    "titre_episode_culte": "Halloween Heist",
     "generique": {
       "titre": "Brooklyn Nine-Nine Theme",
       "artiste": "Bill Boyer",
@@ -1211,7 +1211,7 @@
     "statut": "Terminée",
     "acteur_principal": "Nicholas Hoult",
     "lieu_culte": "assets/lieux/skins.jpg",
-    "titre_episode_culte": "Tony",
+    "titre_episode_culte": "Cassie",
     "generique": {
       "titre": "Wolfgang Amadeus Mozart",
       "artiste": "Cut Copy",
@@ -1235,7 +1235,7 @@
     "statut": "Terminée",
     "acteur_principal": "Iwan Rheon",
     "lieu_culte": "assets/lieux/misfits.jpg",
-    "titre_episode_culte": "Episode 1",
+    "titre_episode_culte": "Milkman",
     "generique": {
       "titre": "Misfits Theme",
       "artiste": "Various",
@@ -1259,7 +1259,7 @@
     "statut": "En cours",
     "acteur_principal": "Karl Urban",
     "lieu_culte": "assets/lieux/the_boys.jpg",
-    "titre_episode_culte": "The Name of the Game",
+    "titre_episode_culte": "The Name of the Game (Le nom du jeu)",
     "generique": {
       "titre": "The Boys Main Title",
       "artiste": "Christopher Lennertz",
@@ -1283,7 +1283,7 @@
     "statut": "Terminée",
     "acteur_principal": "Jason Bateman",
     "lieu_culte": "assets/lieux/ozark.jpg",
-    "titre_episode_culte": "Sugarwood",
+    "titre_episode_culte": "Enceinte rose (Fire Pink)",
     "generique": {
       "titre": "Ozark Theme",
       "artiste": "Danny Bensi et Saunder Jurriaans",
@@ -1331,7 +1331,7 @@
     "statut": "En cours",
     "acteur_principal": "Justin Roiland",
     "lieu_culte": "assets/lieux/rick_and_morty.jpg",
-    "titre_episode_culte": "Pilot",
+    "titre_episode_culte": "Pickle Rick",
     "generique": {
       "titre": "Rick and Morty Theme",
       "artiste": "Ryan Elder",
@@ -1379,7 +1379,7 @@
     "statut": "En cours",
     "acteur_principal": "Trey Parker",
     "lieu_culte": "assets/lieux/south_park.jpg",
-    "titre_episode_culte": "Cartman Gets an Anal Probe",
+    "titre_episode_culte": "Make Love, Not Warcraft",
     "generique": {
       "titre": "South Park Theme",
       "artiste": "Primus",
@@ -1403,7 +1403,7 @@
     "statut": "En cours",
     "acteur_principal": "Dan Castellaneta",
     "lieu_culte": "assets/lieux/les_simpson.jpg",
-    "titre_episode_culte": "Simpsons Roasting on an Open Fire",
+    "titre_episode_culte": "Cape Feare (Lac Terreur)",
     "generique": {
       "titre": "The Simpsons Theme",
       "artiste": "Danny Elfman",
@@ -1427,7 +1427,7 @@
     "statut": "En cours",
     "acteur_principal": "Seth MacFarlane",
     "lieu_culte": "assets/lieux/family_guy.jpg",
-    "titre_episode_culte": "Death Has a Shadow",
+    "titre_episode_culte": "Road to the Multiverse",
     "generique": {
       "titre": "Family Guy Theme",
       "artiste": "Walter Murphy",
@@ -1475,7 +1475,7 @@
     "statut": "Terminée",
     "acteur_principal": "Phoebe Waller-Bridge",
     "lieu_culte": "assets/lieux/fleabag.jpg",
-    "titre_episode_culte": "Episode 1",
+    "titre_episode_culte": "Le Dîner de Famille",
     "generique": {
       "titre": "Fleabag Theme",
       "artiste": "Isobel Waller-Bridge",
@@ -1571,7 +1571,7 @@
     "statut": "Terminée",
     "acteur_principal": "Elliot Page",
     "lieu_culte": "assets/lieux/umbrella_academy.jpg",
-    "titre_episode_culte": "We Only See Each Other at Weddings and Funerals",
+    "titre_episode_culte": "The White Violin",
     "generique": {
       "titre": "The Umbrella Academy Theme",
       "artiste": "Jeff Russo",
@@ -1595,7 +1595,7 @@
     "statut": "Terminée",
     "acteur_principal": "Charlie Cox",
     "lieu_culte": "assets/lieux/daredevil.jpg",
-    "titre_episode_culte": "Into the Ring",
+    "titre_episode_culte": "Cut Man",
     "generique": {
       "titre": "Daredevil Theme",
       "artiste": "John Paesano",
@@ -1619,7 +1619,7 @@
     "statut": "Terminée",
     "acteur_principal": "Mike Colter",
     "lieu_culte": "assets/lieux/luke_cage.jpg",
-    "titre_episode_culte": "Moment of Truth",
+    "titre_episode_culte": "Step in the Arena",
     "generique": {
       "titre": "Luke Cage Theme",
       "artiste": "Adrian Younge et Ali Shaheed Muhammad",
@@ -1643,7 +1643,7 @@
     "statut": "Terminée",
     "acteur_principal": "Charlie Hunnam",
     "lieu_culte": "assets/lieux/sons_of_anarchy.jpg",
-    "titre_episode_culte": "Pilot",
+    "titre_episode_culte": "Papa's Goods",
     "generique": {
       "titre": "This Life",
       "artiste": "Curtis Stigers et The Forest Rangers",
@@ -1691,7 +1691,7 @@
     "statut": "Terminée",
     "acteur_principal": "Antony Starr",
     "lieu_culte": "assets/lieux/banshee.jpg",
-    "titre_episode_culte": "Pilot",
+    "titre_episode_culte": "Tribal",
     "generique": {
       "titre": "Banshee Theme",
       "artiste": "Methodic Doubt",
@@ -1835,7 +1835,7 @@
     "statut": "Terminée",
     "acteur_principal": "Tim McGraw",
     "lieu_culte": "assets/lieux/1883.jpg",
-    "titre_episode_culte": "1883",
+    "titre_episode_culte": "Racing Clouds",
     "generique": {
       "titre": "1883 Theme",
       "artiste": "Brian Tyler",
@@ -1883,7 +1883,7 @@
     "statut": "En cours",
     "acteur_principal": "Jeremy Allen White",
     "lieu_culte": "assets/lieux/the_bear.jpg",
-    "titre_episode_culte": "System",
+    "titre_episode_culte": "Fishes",
     "generique": {
       "titre": "The Bear Theme",
       "artiste": "Various",
@@ -1907,7 +1907,7 @@
     "statut": "En cours",
     "acteur_principal": "Adam Scott",
     "lieu_culte": "assets/lieux/severance.jpg",
-    "titre_episode_culte": "Good News About Hell",
+    "titre_episode_culte": "The We We Are",
     "generique": {
       "titre": "Severance Theme",
       "artiste": "Theodore Shapiro",
@@ -1931,7 +1931,7 @@
     "statut": "Terminée",
     "acteur_principal": "Diego Luna",
     "lieu_culte": "assets/lieux/andor.jpg",
-    "titre_episode_culte": "Kassa",
+    "titre_episode_culte": "One Way Out",
     "generique": {
       "titre": "Andor Theme",
       "artiste": "Nicholas Britell",
@@ -1955,7 +1955,7 @@
     "statut": "Terminée",
     "acteur_principal": "Tom Hiddleston",
     "lieu_culte": "assets/lieux/loki.jpg",
-    "titre_episode_culte": "Glorious Purpose",
+    "titre_episode_culte": "Glorious Purpose (Un destin exceptionnel)",
     "generique": {
       "titre": "Loki Theme",
       "artiste": "Natalie Holt",
@@ -1979,7 +1979,7 @@
     "statut": "Terminée",
     "acteur_principal": "Elizabeth Olsen",
     "lieu_culte": "assets/lieux/wandavision.jpg",
-    "titre_episode_culte": "Previously On",
+    "titre_episode_culte": "Previously On (Précédemment dans...)",
     "generique": {
       "titre": "WandaVision Theme",
       "artiste": "Christophe Beck",
@@ -2003,7 +2003,7 @@
     "statut": "En cours",
     "acteur_principal": "Pedro Pascal",
     "lieu_culte": "assets/lieux/the_last_of_us.jpg",
-    "titre_episode_culte": "Long, Long Time",
+    "titre_episode_culte": "Long, Long Time ( Pour l'éternité)",
     "generique": {
       "titre": "The Last of Us Theme",
       "artiste": "Gustavo Santaolalla",
@@ -2027,7 +2027,7 @@
     "statut": "En cours",
     "acteur_principal": "Matt Smith",
     "lieu_culte": "assets/lieux/house_of_the_dragon.jpg",
-    "titre_episode_culte": "The Heirs of the Dragon",
+    "titre_episode_culte": "The Lord of the Tides",
     "generique": {
       "titre": "House of the Dragon Theme",
       "artiste": "Ramin Djawadi",
@@ -2051,7 +2051,7 @@
     "statut": "En cours",
     "acteur_principal": "Henry Cavill",
     "lieu_culte": "assets/lieux/the_witcher.jpg",
-    "titre_episode_culte": "The End's Beginning",
+    "titre_episode_culte": "Betrayer Moon (La Lune trahie)",
     "generique": {
       "titre": "The Witcher Theme",
       "artiste": "Sonya Belousova et Giona Ostinelli",
@@ -2075,7 +2075,7 @@
     "statut": "Terminée",
     "acteur_principal": "Jason Sudeikis",
     "lieu_culte": "assets/lieux/ted_lasso.jpg",
-    "titre_episode_culte": "Pilot",
+    "titre_episode_culte": "The Diamond Dogs",
     "generique": {
       "titre": "Ted Lasso Theme",
       "artiste": "Marcus Mumford",
@@ -2219,7 +2219,7 @@
     "statut": "En cours",
     "acteur_principal": "Evan Peters",
     "lieu_culte": "assets/lieux/american_horror_story.jpg",
-    "titre_episode_culte": "Pilot",
+    "titre_episode_culte": "Soir d'élection (Election Night)",
     "generique": {
       "titre": "American Horror Story Theme",
       "artiste": "Cesar Davila-Irizarry et Charlie Clouser",
@@ -2243,7 +2243,7 @@
     "statut": "Terminée",
     "acteur_principal": "Lea Michele",
     "lieu_culte": "assets/lieux/glee.jpg",
-    "titre_episode_culte": "Pilot",
+    "titre_episode_culte": "The Quarterback",
     "generique": {
       "titre": "Glee Theme",
       "artiste": "Various",
@@ -2267,7 +2267,7 @@
     "statut": "Terminée",
     "acteur_principal": "Taylor Schilling",
     "lieu_culte": "assets/lieux/oitnb.jpg",
-    "titre_episode_culte": "I Wasn't Ready",
+    "titre_episode_culte": "Can't Fix Crazy",
     "generique": {
       "titre": "You've Got Time",
       "artiste": "Regina Spektor",
@@ -2291,7 +2291,7 @@
     "statut": "Terminée",
     "acteur_principal": "Alexandre Astier",
     "lieu_culte": "assets/lieux/kaamelott.jpg",
-    "titre_episode_culte": "[Ajouter episode]",
+    "titre_episode_culte": "La tarte aux myrtilles",
     "generique": {
       "titre": "Kaamelott (générique)",
       "artiste": "Alexandre Astier",
@@ -2315,7 +2315,7 @@
     "statut": "Terminée",
     "acteur_principal": "Camille Cottin",
     "lieu_culte": "assets/lieux/dix_pour_cent.jpg",
-    "titre_episode_culte": "[Ajouter episode]",
+    "titre_episode_culte": "Épisode avec Cécile de France",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
@@ -2363,7 +2363,7 @@
     "statut": "En cours",
     "acteur_principal": "Omar Sy",
     "lieu_culte": "assets/lieux/lupin.jpg",
-    "titre_episode_culte": "Chapitre 1",
+    "titre_episode_culte": "Le Collier de la Reine",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
@@ -2387,7 +2387,7 @@
     "statut": "Terminée",
     "acteur_principal": "Mathieu Kassovitz",
     "lieu_culte": "assets/lieux/le_bureau_des_legendes.jpg",
-    "titre_episode_culte": "[Ajouter episode]",
+    "titre_episode_culte": "Le test du bar",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
@@ -2411,7 +2411,7 @@
     "statut": "Terminée",
     "acteur_principal": "Kad Merad",
     "lieu_culte": "assets/lieux/baron_noir.jpg",
-    "titre_episode_culte": "[Ajouter episode]",
+    "titre_episode_culte": "Jupiter",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
@@ -2483,7 +2483,7 @@
     "statut": "En cours",
     "acteur_principal": "Distribution variable",
     "lieu_culte": "assets/lieux/black_mirror.jpg",
-    "titre_episode_culte": "San Junipero",
+    "titre_episode_culte": "Hang the DJ",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
@@ -2507,7 +2507,7 @@
     "statut": "En cours",
     "acteur_principal": "Jenna Ortega",
     "lieu_culte": "assets/lieux/wednesday.jpg",
-    "titre_episode_culte": "Wednesday's Child Is Full of Woe",
+    "titre_episode_culte": "Woe What a Night (Le bal des malheurs)",
     "generique": {
       "titre": "Wednesday Main Titles",
       "artiste": "Danny Elfman",
@@ -2531,7 +2531,7 @@
     "statut": "Terminée",
     "acteur_principal": "Hailee Steinfeld",
     "lieu_culte": "assets/lieux/arcane.jpg",
-    "titre_episode_culte": "The Monster You Created",
+    "titre_episode_culte": "The Monster You Created (Le monstre que tu as créé)",
     "generique": {
       "titre": "Enemy",
       "artiste": "Imagine Dragons et J.I.D",
@@ -2555,7 +2555,7 @@
     "statut": "Terminée",
     "acteur_principal": "Hugh Laurie",
     "lieu_culte": "assets/lieux/house.jpg",
-    "titre_episode_culte": "Three Stories",
+    "titre_episode_culte": "Three Stories ( Trois histoires)",
     "generique": {
       "titre": "Teardrop",
       "artiste": "Massive Attack",
@@ -2579,7 +2579,7 @@
     "statut": "Terminée",
     "acteur_principal": "Mads Mikkelsen",
     "lieu_culte": "assets/lieux/hannibal.jpg",
-    "titre_episode_culte": "Mizumono",
+    "titre_episode_culte": "Mukōzuke",
     "generique": {
       "titre": "Hannibal Main Title",
       "artiste": "Brian Reitzell",
@@ -2627,7 +2627,7 @@
     "statut": "Terminée",
     "acteur_principal": "Blake Lively",
     "lieu_culte": "assets/lieux/gossip_girl.jpg",
-    "titre_episode_culte": "Pilot",
+    "titre_episode_culte": "Summer, Kind of Wonderful (Fête en blanc)",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
@@ -2651,7 +2651,7 @@
     "statut": "Terminée",
     "acteur_principal": "Ralph Macchio",
     "lieu_culte": "assets/lieux/cobra_kai.jpg",
-    "titre_episode_culte": "[Ajouter episode]",
+    "titre_episode_culte": "No Mercy (Sans pitié)",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
@@ -2675,7 +2675,7 @@
     "statut": "En cours",
     "acteur_principal": "Hiroyuki Sanada",
     "lieu_culte": "assets/lieux/shogun.jpg",
-    "titre_episode_culte": "Anjin",
+    "titre_episode_culte": "Crimson Sky (Le ciel rouge)",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
@@ -2699,7 +2699,7 @@
     "statut": "En cours",
     "acteur_principal": "Ella Purnell",
     "lieu_culte": "assets/lieux/fallout.jpg",
-    "titre_episode_culte": "The End",
+    "titre_episode_culte": "The End (La Fin)",
     "generique": {
       "titre": "Fallout Main Theme",
       "artiste": "Ramin Djawadi",
@@ -2747,7 +2747,7 @@
     "statut": "En cours",
     "acteur_principal": "Gary Oldman",
     "lieu_culte": "assets/lieux/slow_horses.jpg",
-    "titre_episode_culte": "[Ajouter episode]",
+    "titre_episode_culte": "Résurrection",
     "generique": {
       "titre": "Strange Games",
       "artiste": "Mick Jagger",
@@ -2771,7 +2771,7 @@
     "statut": "En cours",
     "acteur_principal": "Jennifer Coolidge",
     "lieu_culte": "assets/lieux/the_white_lotus.jpg",
-    "titre_episode_culte": "Arrivals",
+    "titre_episode_culte": "Arrivederci",
     "generique": {
       "titre": "Aloha!",
       "artiste": "Cristobal Tapia de Veer",
@@ -2795,7 +2795,7 @@
     "statut": "En cours",
     "acteur_principal": "Steve Martin",
     "lieu_culte": "assets/lieux/only_murders_in_the_building.jpg",
-    "titre_episode_culte": "True Crime",
+    "titre_episode_culte": "The Boy from 6B (Le garçon du 6B)",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "Siddhartha Khosla",
@@ -2819,7 +2819,7 @@
     "statut": "En cours",
     "acteur_principal": "Phoebe Dynevor",
     "lieu_culte": "assets/lieux/bridgerton.jpg",
-    "titre_episode_culte": "Diamond of the First Water",
+    "titre_episode_culte": "The Duke and I",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
@@ -2867,7 +2867,7 @@
     "statut": "Terminée",
     "acteur_principal": "Anna Paquin",
     "lieu_culte": "assets/lieux/true_blood.jpg",
-    "titre_episode_culte": "Strange Love",
+    "titre_episode_culte": "I Will Rise Up (Je me relèverai)",
     "generique": {
       "titre": "Bad Things",
       "artiste": "Jace Everett",
@@ -2915,7 +2915,7 @@
     "statut": "Terminée",
     "acteur_principal": "Diego Luna",
     "lieu_culte": "assets/lieux/narcos_mexico.jpg",
-    "titre_episode_culte": "Camelot",
+    "titre_episode_culte": "Leyenda",
     "generique": {
       "titre": "Tuyo",
       "artiste": "Rodrigo Amarante",
@@ -2939,7 +2939,7 @@
     "statut": "Terminée",
     "acteur_principal": "Marco D'Amore",
     "lieu_culte": "assets/lieux/gomorra.jpg",
-    "titre_episode_culte": "[Ajouter episode]",
+    "titre_episode_culte": "La fine del giorno (La fin du jour)",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
@@ -2963,7 +2963,7 @@
     "statut": "En cours",
     "acteur_principal": "Matthew Rhys",
     "lieu_culte": "assets/lieux/widow_s_bay.jpg",
-    "titre_episode_culte": "Welcome to Widow's Bay",
+    "titre_episode_culte": "Our History (Notre histoire)",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "David Fleming",
@@ -2987,7 +2987,7 @@
     "statut": "En cours",
     "acteur_principal": "Rebecca Ferguson",
     "lieu_culte": "assets/lieux/silo.jpg",
-    "titre_episode_culte": "Freedom Day",
+    "titre_episode_culte": "Outside (À l'extérieur)",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "Atli Örvarsson",
@@ -3011,7 +3011,7 @@
     "statut": "Terminée",
     "acteur_principal": "Frankie Muniz",
     "lieu_culte": "assets/lieux/malcolm.jpg",
-    "titre_episode_culte": "Bowling",
+    "titre_episode_culte": "Pile et face",
     "generique": {
       "titre": "Boss of Me",
       "artiste": "They Might Be Giants",
