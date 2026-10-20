@@ -1043,7 +1043,7 @@
     "statut": "Terminée",
     "acteur_principal": "Bruno Solo",
     "lieu_culte": "assets/lieux/camera_cafe.jpg",
-    "titre_episode_culte": "[Ajouter episode]",
+    "titre_episode_culte": "Le Stage de survie",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
@@ -1451,7 +1451,7 @@
     "statut": "Terminée",
     "acteur_principal": "Jamel Debbouze",
     "lieu_culte": "assets/lieux/h.jpg",
-    "titre_episode_culte": "[Ajouter episode]",
+    "titre_episode_culte": "Une histoire de poste",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "DJ Abdel",
@@ -1499,7 +1499,7 @@
     "statut": "Terminée",
     "acteur_principal": "Teri Hatcher",
     "lieu_culte": "assets/lieux/desperate_housewives.jpg",
-    "titre_episode_culte": "Pilot",
+    "titre_episode_culte": "Something's Coming (La vie ne tient qu'à un fil)",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "Danny Elfman",
@@ -1547,7 +1547,7 @@
     "statut": "Terminée",
     "acteur_principal": "Simon Baker",
     "lieu_culte": "assets/lieux/the_mentalist.jpg",
-    "titre_episode_culte": "[Ajouter episode]",
+    "titre_episode_culte": "Strawberries and Cream (Les masques tombent)",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "Blake Neely",
@@ -1667,7 +1667,7 @@
     "statut": "Terminée",
     "acteur_principal": "Alyssa Milano",
     "lieu_culte": "assets/lieux/charmed.jpg",
-    "titre_episode_culte": "All Hell Breaks Loose",
+    "titre_episode_culte": "All Hell Breaks Loose (Adieux)",
     "generique": {
       "titre": "How Soon Is Now?",
       "artiste": "Love Spit Love",
@@ -1715,7 +1715,7 @@
     "statut": "Terminée",
     "acteur_principal": "Eva Green",
     "lieu_culte": "assets/lieux/penny_dreadful.jpg",
-    "titre_episode_culte": "Closer than Sisters",
+    "titre_episode_culte": "Seance (Séance)",
     "generique": {
       "titre": "Demimonde",
       "artiste": "Abel Korzeniowski",
@@ -1739,7 +1739,7 @@
     "statut": "Terminée",
     "acteur_principal": "Tatiana Maslany",
     "lieu_culte": "assets/lieux/orphan_black.jpg",
-    "titre_episode_culte": "[Ajouter episode]",
+    "titre_episode_culte": "The Scandal of Altruism",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "Two Fingers",
@@ -1787,7 +1787,7 @@
     "statut": "En cours",
     "acteur_principal": "Rhea Seehorn",
     "lieu_culte": "assets/lieux/pluribus.jpg",
-    "titre_episode_culte": "We Is Us",
+    "titre_episode_culte": "We Is Us (On, c'est nous)",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "Dave Porter",
@@ -1859,7 +1859,7 @@
     "statut": "Terminée",
     "acteur_principal": "Dominic Cooper",
     "lieu_culte": "assets/lieux/preacher.jpg",
-    "titre_episode_culte": "Angelville",
+    "titre_episode_culte": "Call and Response (Le Grand Jour)",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "Dave Porter",
@@ -2099,7 +2099,7 @@
     "statut": "Terminée",
     "acteur_principal": "Michiel Huisman",
     "lieu_culte": "assets/lieux/the_haunting_of_hill_house.jpg",
-    "titre_episode_culte": "The Bent-Neck Lady",
+    "titre_episode_culte": "The Bent-Neck Lady (La Dame au cou tordu)",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "The Newton Brothers",
@@ -2123,7 +2123,7 @@
     "statut": "Terminée",
     "acteur_principal": "Anya Taylor-Joy",
     "lieu_culte": "assets/lieux/le_jeu_de_la_dame.jpg",
-    "titre_episode_culte": "End Game",
+    "titre_episode_culte": "End Game (Fin de partie)",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "Carlos Rafael Rivera",
@@ -2147,7 +2147,7 @@
     "statut": "En cours",
     "acteur_principal": "Billy West",
     "lieu_culte": "assets/lieux/futurama.jpg",
-    "titre_episode_culte": "Jurassic Bark",
+    "titre_episode_culte": "Jurassic Bark (Toujours fidèle)",
     "generique": {
       "titre": "Theme from Futurama",
       "artiste": "Christopher Tyng",
@@ -2171,7 +2171,7 @@
     "statut": "Terminée",
     "acteur_principal": "William Shatner",
     "lieu_culte": "assets/lieux/star_trek.jpg",
-    "titre_episode_culte": "The City on the Edge of Forever",
+    "titre_episode_culte": "The City on the Edge of Forever (Contretemps)",
     "generique": {
       "titre": "Theme from Star Trek",
       "artiste": "Alexander Courage",
@@ -2531,7 +2531,7 @@
     "statut": "Terminée",
     "acteur_principal": "Rami Malek",
     "lieu_culte": "assets/lieux/mr_robot.jpg",
-    "titre_episode_culte": "eps1.0_hellofriend.mov",
+    "titre_episode_culte": "407 Proxy Authentication Required",
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
