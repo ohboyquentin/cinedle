@@ -1878,5 +1878,705 @@
     "genre_film": "Comédie",
     "decennie_apparition": 1990,
     "sexe": "Homme"
+  },
+  {
+    "id": "perso_200",
+    "nom": "Dobby",
+    "film_origine": "Harry Potter et la Chambre des secrets",
+    "acteur": "Toby Jones",
+    "statut": "Second rôle",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 2000,
+    "sexe": "Autre"
+  },
+  {
+    "id": "perso_201",
+    "nom": "Sirius Black",
+    "film_origine": "Harry Potter et le Prisonnier d'Azkaban",
+    "acteur": "Gary Oldman",
+    "statut": "Second rôle",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_202",
+    "nom": "Cedric Diggory",
+    "film_origine": "Harry Potter et la Coupe de feu",
+    "acteur": "Robert Pattinson",
+    "statut": "Second rôle",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_203",
+    "nom": "Dolores Ombrage",
+    "film_origine": "Harry Potter et l'Ordre du Phénix",
+    "acteur": "Imelda Staunton",
+    "statut": "Méchant",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 2000,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_204",
+    "nom": "Severus Rogue",
+    "film_origine": "Harry Potter et le Prince de sang-mêlé",
+    "acteur": "Alan Rickman",
+    "statut": "Anti-héros",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_205",
+    "nom": "Hermione Granger",
+    "film_origine": "Harry Potter et les Reliques de la Mort - Partie 1",
+    "acteur": "Emma Watson",
+    "statut": "Héros",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 2010,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_206",
+    "nom": "Davy Jones",
+    "film_origine": "Pirates des Caraïbes : Le Secret du coffre maudit",
+    "acteur": "Bill Nighy",
+    "statut": "Méchant",
+    "genre_film": "Aventure",
+    "decennie_apparition": 2000,
+    "sexe": "Autre"
+  },
+  {
+    "id": "perso_207",
+    "nom": "Hector Barbossa",
+    "film_origine": "Pirates des Caraïbes : Jusqu'au bout du monde",
+    "acteur": "Geoffrey Rush",
+    "statut": "Anti-héros",
+    "genre_film": "Aventure",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_208",
+    "nom": "Barbe Noire",
+    "film_origine": "Pirates des Caraïbes : La Fontaine de jouvence",
+    "acteur": "Ian McShane",
+    "statut": "Méchant",
+    "genre_film": "Aventure",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_209",
+    "nom": "Capitaine Salazar",
+    "film_origine": "Pirates des Caraïbes : La Vengeance de Salazar",
+    "acteur": "Javier Bardem",
+    "statut": "Méchant",
+    "genre_film": "Aventure",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_210",
+    "nom": "Colonel Stuart",
+    "film_origine": "Die Hard 2 : 58 minutes pour vivre",
+    "acteur": "William Sadler",
+    "statut": "Méchant",
+    "genre_film": "Action",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_211",
+    "nom": "Simon Gruber",
+    "film_origine": "Die Hard : Une journée en enfer",
+    "acteur": "Jeremy Irons",
+    "statut": "Méchant",
+    "genre_film": "Action",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_212",
+    "nom": "Mola Ram",
+    "film_origine": "Indiana Jones et le Temple maudit",
+    "acteur": "Amrish Puri",
+    "statut": "Méchant",
+    "genre_film": "Aventure",
+    "decennie_apparition": 1980,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_213",
+    "nom": "Henry Jones Sr.",
+    "film_origine": "Indiana Jones et la Dernière Croisade",
+    "acteur": "Sean Connery",
+    "statut": "Second rôle",
+    "genre_film": "Aventure",
+    "decennie_apparition": 1980,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_214",
+    "nom": "Irina Spalko",
+    "film_origine": "Indiana Jones et le Royaume du crâne de cristal",
+    "acteur": "Cate Blanchett",
+    "statut": "Méchant",
+    "genre_film": "Aventure",
+    "decennie_apparition": 2000,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_215",
+    "nom": "Jürgen Voller",
+    "film_origine": "Indiana Jones et le Cadran de la destinée",
+    "acteur": "Mads Mikkelsen",
+    "statut": "Méchant",
+    "genre_film": "Aventure",
+    "decennie_apparition": 2020,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_216",
+    "nom": "Haymitch Abernathy",
+    "film_origine": "Hunger Games : L'Embrasement",
+    "acteur": "Woody Harrelson",
+    "statut": "Second rôle",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_217",
+    "nom": "Ian Malcolm",
+    "film_origine": "Le Monde perdu : Jurassic Park",
+    "acteur": "Jeff Goldblum",
+    "statut": "Héros",
+    "genre_film": "Science-fiction",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_218",
+    "nom": "Pamela Landy",
+    "film_origine": "La Mort dans la peau",
+    "acteur": "Joan Allen",
+    "statut": "Second rôle",
+    "genre_film": "Action",
+    "decennie_apparition": 2000,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_219",
+    "nom": "Batman (version Burton)",
+    "film_origine": "Batman",
+    "acteur": "Michael Keaton",
+    "statut": "Héros",
+    "genre_film": "Action",
+    "decennie_apparition": 1980,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_220",
+    "nom": "L'Homme-Mystère",
+    "film_origine": "The Batman",
+    "acteur": "Paul Dano",
+    "statut": "Méchant",
+    "genre_film": "Thriller",
+    "decennie_apparition": 2020,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_221",
+    "nom": "Kevin Wendell Crumb",
+    "film_origine": "Split",
+    "acteur": "James McAvoy",
+    "statut": "Anti-héros",
+    "genre_film": "Thriller",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_222",
+    "nom": "Elijah Price (Mr. Glass)",
+    "film_origine": "Glass",
+    "acteur": "Samuel L. Jackson",
+    "statut": "Méchant",
+    "genre_film": "Thriller",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_223",
+    "nom": "Raoul Silva",
+    "film_origine": "Skyfall",
+    "acteur": "Javier Bardem",
+    "statut": "Méchant",
+    "genre_film": "Espionnage",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_224",
+    "nom": "Dominic Greene",
+    "film_origine": "Quantum of Solace",
+    "acteur": "Mathieu Amalric",
+    "statut": "Méchant",
+    "genre_film": "Espionnage",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_225",
+    "nom": "Ernst Stavro Blofeld",
+    "film_origine": "Spectre",
+    "acteur": "Christoph Waltz",
+    "statut": "Méchant",
+    "genre_film": "Espionnage",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_226",
+    "nom": "Lyutsifer Safin",
+    "film_origine": "Mourir peut attendre",
+    "acteur": "Rami Malek",
+    "statut": "Méchant",
+    "genre_film": "Espionnage",
+    "decennie_apparition": 2020,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_227",
+    "nom": "Auric Goldfinger",
+    "film_origine": "Goldfinger",
+    "acteur": "Gert Fröbe",
+    "statut": "Méchant",
+    "genre_film": "Espionnage",
+    "decennie_apparition": 1960,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_228",
+    "nom": "Alejandro Gillick",
+    "film_origine": "Sicario",
+    "acteur": "Benicio del Toro",
+    "statut": "Anti-héros",
+    "genre_film": "Thriller",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_229",
+    "nom": "Robert Wakefield",
+    "film_origine": "Traffic",
+    "acteur": "Michael Douglas",
+    "statut": "Héros",
+    "genre_film": "Drame",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_230",
+    "nom": "Dwight Evans",
+    "film_origine": "Blue Ruin",
+    "acteur": "Macon Blair",
+    "statut": "Anti-héros",
+    "genre_film": "Thriller",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_231",
+    "nom": "Ree Dolly",
+    "film_origine": "Winter's Bone",
+    "acteur": "Jennifer Lawrence",
+    "statut": "Héros",
+    "genre_film": "Drame",
+    "decennie_apparition": 2010,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_232",
+    "nom": "Joe",
+    "film_origine": "You Were Never Really Here",
+    "acteur": "Joaquin Phoenix",
+    "statut": "Anti-héros",
+    "genre_film": "Thriller",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_233",
+    "nom": "Adam Bell",
+    "film_origine": "Enemy",
+    "acteur": "Jake Gyllenhaal",
+    "statut": "Anti-héros",
+    "genre_film": "Thriller",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_234",
+    "nom": "Susan Morrow",
+    "film_origine": "Nocturnal Animals",
+    "acteur": "Amy Adams",
+    "statut": "Héros",
+    "genre_film": "Thriller",
+    "decennie_apparition": 2010,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_235",
+    "nom": "Suzy Bannion",
+    "film_origine": "Suspiria",
+    "acteur": "Jessica Harper",
+    "statut": "Héros",
+    "genre_film": "Horreur",
+    "decennie_apparition": 1970,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_236",
+    "nom": "Elisabeth Sparkle",
+    "film_origine": "The Substance",
+    "acteur": "Demi Moore",
+    "statut": "Anti-héros",
+    "genre_film": "Horreur",
+    "decennie_apparition": 2020,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_237",
+    "nom": "Howard Ratner",
+    "film_origine": "Uncut Gems",
+    "acteur": "Adam Sandler",
+    "statut": "Anti-héros",
+    "genre_film": "Thriller",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_238",
+    "nom": "Larry Gopnik",
+    "film_origine": "A Serious Man",
+    "acteur": "Michael Stuhlbarg",
+    "statut": "Héros",
+    "genre_film": "Comédie dramatique",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_239",
+    "nom": "Ernest Burkhart",
+    "film_origine": "Killers of the Flower Moon",
+    "acteur": "Leonardo DiCaprio",
+    "statut": "Anti-héros",
+    "genre_film": "Drame",
+    "decennie_apparition": 2020,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_240",
+    "nom": "Major Marquis Warren",
+    "film_origine": "Les 8 Salopards",
+    "acteur": "Samuel L. Jackson",
+    "statut": "Héros",
+    "genre_film": "Western",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_241",
+    "nom": "Bob Ferguson",
+    "film_origine": "One Battle After Another",
+    "acteur": "Leonardo DiCaprio",
+    "statut": "Héros",
+    "genre_film": "Thriller",
+    "decennie_apparition": 2020,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_242",
+    "nom": "László Tóth",
+    "film_origine": "The Brutalist",
+    "acteur": "Adrien Brody",
+    "statut": "Héros",
+    "genre_film": "Drame",
+    "decennie_apparition": 2020,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_243",
+    "nom": "Paul Hunham",
+    "film_origine": "The Holdovers",
+    "acteur": "Paul Giamatti",
+    "statut": "Héros",
+    "genre_film": "Comédie dramatique",
+    "decennie_apparition": 2020,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_244",
+    "nom": "Steve Zissou",
+    "film_origine": "La Vie aquatique",
+    "acteur": "Bill Murray",
+    "statut": "Héros",
+    "genre_film": "Comédie",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_245",
+    "nom": "Sam Shakusky",
+    "film_origine": "Moonrise Kingdom",
+    "acteur": "Jared Gilman",
+    "statut": "Héros",
+    "genre_film": "Comédie dramatique",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_246",
+    "nom": "Arthur Howitzer Jr.",
+    "film_origine": "The French Dispatch",
+    "acteur": "Bill Murray",
+    "statut": "Héros",
+    "genre_film": "Comédie",
+    "decennie_apparition": 2020,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_247",
+    "nom": "Augie Steenbeck",
+    "film_origine": "Asteroid City",
+    "acteur": "Jason Schwartzman",
+    "statut": "Héros",
+    "genre_film": "Comédie dramatique",
+    "decennie_apparition": 2020,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_248",
+    "nom": "Larry Lipton",
+    "film_origine": "Meurtre mystérieux à Manhattan",
+    "acteur": "Woody Allen",
+    "statut": "Héros",
+    "genre_film": "Comédie",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_249",
+    "nom": "Gil Pender",
+    "film_origine": "Midnight in Paris",
+    "acteur": "Owen Wilson",
+    "statut": "Héros",
+    "genre_film": "Comédie",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_250",
+    "nom": "Ben Cash",
+    "film_origine": "Captain Fantastic",
+    "acteur": "Viggo Mortensen",
+    "statut": "Héros",
+    "genre_film": "Comédie dramatique",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_251",
+    "nom": "Le Fantôme",
+    "film_origine": "A Ghost Story",
+    "acteur": "Casey Affleck",
+    "statut": "Héros",
+    "genre_film": "Drame",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_252",
+    "nom": "Viktor Navorski",
+    "film_origine": "Le Terminal",
+    "acteur": "Tom Hanks",
+    "statut": "Héros",
+    "genre_film": "Comédie dramatique",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_253",
+    "nom": "Mikey Walsh",
+    "film_origine": "Les Goonies",
+    "acteur": "Sean Astin",
+    "statut": "Héros",
+    "genre_film": "Aventure",
+    "decennie_apparition": 1980,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_254",
+    "nom": "Phil Connors",
+    "film_origine": "Un jour sans fin",
+    "acteur": "Bill Murray",
+    "statut": "Anti-héros",
+    "genre_film": "Comédie",
+    "decennie_apparition": 1990,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_255",
+    "nom": "Jackson Maine",
+    "film_origine": "A Star Is Born",
+    "acteur": "Bradley Cooper",
+    "statut": "Anti-héros",
+    "genre_film": "Drame",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_256",
+    "nom": "Nawal Marwan",
+    "film_origine": "Incendies",
+    "acteur": "Lubna Azabal",
+    "statut": "Héros",
+    "genre_film": "Drame",
+    "decennie_apparition": 2010,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_257",
+    "nom": "Raimunda",
+    "film_origine": "Volver",
+    "acteur": "Penélope Cruz",
+    "statut": "Héros",
+    "genre_film": "Comédie dramatique",
+    "decennie_apparition": 2000,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_258",
+    "nom": "Sam Cahill",
+    "film_origine": "Brothers",
+    "acteur": "Tobey Maguire",
+    "statut": "Héros",
+    "genre_film": "Drame",
+    "decennie_apparition": 2000,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_259",
+    "nom": "Baby",
+    "film_origine": "Baby Driver",
+    "acteur": "Ansel Elgort",
+    "statut": "Héros",
+    "genre_film": "Action",
+    "decennie_apparition": 2010,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_260",
+    "nom": "Coccinelle (Ladybug)",
+    "film_origine": "Bullet Train",
+    "acteur": "Brad Pitt",
+    "statut": "Héros",
+    "genre_film": "Action",
+    "decennie_apparition": 2020,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_261",
+    "nom": "Juré n°8",
+    "film_origine": "12 hommes en colère",
+    "acteur": "Henry Fonda",
+    "statut": "Héros",
+    "genre_film": "Drame",
+    "decennie_apparition": 1950,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_262",
+    "nom": "T. E. Lawrence",
+    "film_origine": "Lawrence d'Arabie",
+    "acteur": "Peter O'Toole",
+    "statut": "Héros",
+    "genre_film": "Biopic",
+    "decennie_apparition": 1960,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_263",
+    "nom": "C. C. Baxter",
+    "film_origine": "La Garçonnière",
+    "acteur": "Jack Lemmon",
+    "statut": "Héros",
+    "genre_film": "Comédie dramatique",
+    "decennie_apparition": 1960,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_264",
+    "nom": "Kambei Shimada",
+    "film_origine": "Les Sept Samouraïs",
+    "acteur": "Takashi Shimura",
+    "statut": "Héros",
+    "genre_film": "Aventure",
+    "decennie_apparition": 1950,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_265",
+    "nom": "Roger Thornhill",
+    "film_origine": "La Mort aux trousses",
+    "acteur": "Cary Grant",
+    "statut": "Héros",
+    "genre_film": "Thriller",
+    "decennie_apparition": 1950,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_266",
+    "nom": "Judah Ben-Hur",
+    "film_origine": "Ben-Hur",
+    "acteur": "Charlton Heston",
+    "statut": "Héros",
+    "genre_film": "Péplum",
+    "decennie_apparition": 1950,
+    "sexe": "Homme"
+  },
+  {
+    "id": "perso_267",
+    "nom": "Regina Lampert",
+    "film_origine": "Charade",
+    "acteur": "Audrey Hepburn",
+    "statut": "Héros",
+    "genre_film": "Thriller",
+    "decennie_apparition": 1960,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_268",
+    "nom": "Melanie Daniels",
+    "film_origine": "Les Oiseaux",
+    "acteur": "Tippi Hedren",
+    "statut": "Héros",
+    "genre_film": "Horreur",
+    "decennie_apparition": 1960,
+    "sexe": "Femme"
+  },
+  {
+    "id": "perso_269",
+    "nom": "Dorothy Gale",
+    "film_origine": "Le Magicien d'Oz",
+    "acteur": "Judy Garland",
+    "statut": "Héros",
+    "genre_film": "Fantastique",
+    "decennie_apparition": 1930,
+    "sexe": "Femme"
   }
 ]
