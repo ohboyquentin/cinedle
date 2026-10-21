@@ -112,7 +112,7 @@
     "acteur_principal": "Audrey Tautou",
     "affiche": "assets/affiches/amelie_poulain.jpg",
     "repliques_cultes": [
-      "Les jours de grand vent, on peut s'exercer au patin à roulettes."
+      "Vous n'avez pas des os en verre, vous pouvez vous cogner à la vie."
     ],
     "audio_replique": "assets/audio/repliques/amelie_poulain.mp3",
     "musique": {
@@ -179,7 +179,7 @@
     "acteur_principal": "Vincent Cassel",
     "affiche": "assets/affiches/la_haine.jpg",
     "repliques_cultes": [
-      "Jusqu'ici tout va bien."
+      "Jusqu'ici tout va bien... Mais l'important, c'est pas la chute. C'est l'atterrissage."
     ],
     "audio_replique": "assets/audio/repliques/la_haine.mp3",
     "musique": {
@@ -212,9 +212,9 @@
     "acteur_principal": "Michael Keaton",
     "affiche": "assets/affiches/beetlejuice.jpg",
     "repliques_cultes": [
-      "It's showtime!"
+      "My whole life is a darkroom. One big, dark room."
     ],
-    "replique_vf": "C'est l'heure du spectacle !",
+    "replique_vf": "Ma vie est une grande chambre noire.",
     "audio_replique": "assets/audio/repliques/beetlejuice.mp3",
     "musique": {
       "titre": "Day-O (The Banana Boat Song)",
@@ -246,9 +246,9 @@
     "acteur_principal": "Leonardo DiCaprio",
     "affiche": "assets/affiches/inception.jpg",
     "repliques_cultes": [
-      "We need to go deeper."
+      "You're waiting for a train. A train that'll take you far away. You know where you hope this train will take you, but you can't be sure. It doesn't matter."
     ],
-    "replique_vf": "Il faut aller plus profond.",
+    "replique_vf": "Tu attends un train. Un train qui va t'emmener loin d'ici. Tu n'es pas sûr de l'endroit où il va t'emmener mais tu t'en moques car nous serons toujours ensemble.",
     "audio_replique": "assets/audio/repliques/inception.mp3",
     "musique": {
       "titre": "Time",
@@ -282,7 +282,7 @@
     "repliques_cultes": [
       "Are you not entertained?"
     ],
-    "replique_vf": "Vous n'êtes pas divertis ?",
+    "replique_vf": "N'êtes-vous pas divertis ?",
     "audio_replique": "assets/audio/repliques/gladiator.mp3",
     "musique": {
       "titre": "Now We Are Free",
@@ -348,9 +348,9 @@
     "acteur_principal": "Frances McDormand",
     "affiche": "assets/affiches/fargo.jpg",
     "repliques_cultes": [
-      "And for what? For a little bit of money? There's more to life than a little money, you know."
+      "There's more to life than a little money, you know. Don't you know that?"
     ],
-    "replique_vf": "Et pour quoi ? Pour un peu d'argent ? Il y a plus dans la vie qu'un peu d'argent, vous savez.",
+    "replique_vf": "La vie vaut plus qu'une poignée de billets… Vous ne le saviez pas ?",
     "audio_replique": "assets/audio/repliques/fargo.mp3",
     "musique": {
       "titre": "Main Titles",
@@ -485,7 +485,7 @@
     "acteur_principal": "Matthew McConaughey",
     "affiche": "assets/affiches/interstellar.jpg",
     "repliques_cultes": [
-      "Love is the one thing we're capable of perceiving that transcends time and space."
+      "Love is the one thing we're capable of perceiving that transcends dimensions of time and space."
     ],
     "replique_vf": "L'amour est la seule chose que nous soyons capables de percevoir qui transcende le temps et l'espace.",
     "audio_replique": "assets/audio/repliques/interstellar.mp3",
@@ -623,9 +623,9 @@
     "acteur_principal": "Keanu Reeves",
     "affiche": "assets/affiches/matrix.jpg",
     "repliques_cultes": [
-      "There is no spoon."
+      "Do not try and bend the spoon, that's impossible. Instead, only try to realize the truth... there is no spoon."
     ],
-    "replique_vf": "Il n'y a pas de cuillère.",
+    "replique_vf": "N'essaie pas de tordre la cuillère, c'est impossible... la cuillère n'existe pas.",
     "audio_replique": "assets/audio/repliques/matrix.mp3",
     "musique": {
       "titre": "Clubbed to Death",
@@ -657,9 +657,9 @@
     "acteur_principal": "Daniel Craig",
     "affiche": "assets/affiches/casino_royale.jpg",
     "repliques_cultes": [
-      "The name's Bond. James Bond."
+      "Take the next elevator. There isn't enough space for me and your ego."
     ],
-    "replique_vf": "Mon nom est Bond. James Bond.",
+    "replique_vf": "Prenez l'ascenseur suivant, il n'y a pas assez de place pour moi et votre égo.",
     "audio_replique": "assets/audio/repliques/casino_royale.mp3",
     "musique": {
       "titre": "You Know My Name",
@@ -692,9 +692,9 @@
     "acteur_principal": "Jodie Foster",
     "affiche": "assets/affiches/silence_agneaux.jpg",
     "repliques_cultes": [
-      "Hello, Clarice."
+      " I do wish we could chat longer, but I'm having an old friend for dinner"
     ],
-    "replique_vf": "Bonsoir, Clarice.",
+    "replique_vf": "J'aimerais bien que nous puissions discuter plus longtemps, mais... Je vais dîner avec un vieil ami.",
     "audio_replique": "assets/audio/repliques/silence_agneaux.mp3",
     "musique": {
       "titre": "Main Title",
@@ -760,9 +760,9 @@
     "acteur_principal": "Miles Teller",
     "affiche": "assets/affiches/whiplash.jpg",
     "repliques_cultes": [
-      "Not quite my tempo."
+      "There are no two words in the English language more harmful than good job."
     ],
-    "replique_vf": "Pas tout à fait mon tempo.",
+    "replique_vf": "Il n'y a pas deux mots plus néfastes dans la langue anglaise que bon boulot.",
     "audio_replique": "assets/audio/repliques/whiplash.mp3",
     "musique": {
       "titre": "Whiplash",
@@ -828,9 +828,9 @@
     "acteur_principal": "Joaquin Phoenix",
     "affiche": "assets/affiches/joker.jpg",
     "repliques_cultes": [
-      "Is it just me, or is it getting crazier out there?"
+      "I used to think that my life was a tragedy. But now I realize, it’s a comedy."
     ],
-    "replique_vf": "C'est moi, ou le monde devient de plus en plus fou ?",
+    "replique_vf": "Avant je pensais que ma vie était une tragédie. Mais maintenant je réalise que c’est une comédie !",
     "audio_replique": "assets/audio/repliques/joker.mp3",
     "musique": {
       "titre": "Call Me Joker",
@@ -862,9 +862,9 @@
     "acteur_principal": "Robert Downey Jr.",
     "affiche": "assets/affiches/avengers_endgame.jpg",
     "repliques_cultes": [
-      "I am Iron Man."
+      "I love you 3000."
     ],
-    "replique_vf": "Je suis Iron Man.",
+    "replique_vf": "Je t'aime 3000.",
     "audio_replique": "assets/audio/repliques/avengers_endgame.mp3",
     "musique": {
       "titre": "Main on End",
@@ -897,9 +897,9 @@
     "acteur_principal": "Harrison Ford",
     "affiche": "assets/affiches/blade_runner.jpg",
     "repliques_cultes": [
-      "All those moments will be lost in time, like tears in rain."
+      "All those moments will be lost in time... like tears in rain... Time to die."
     ],
-    "replique_vf": "Tous ces moments se perdront dans l'oubli, comme des larmes dans la pluie.",
+    "replique_vf": "Tous ces moments se perdront dans le temps... comme... les larmes dans la pluie... Il est temps de mourir.",
     "audio_replique": "assets/audio/repliques/blade_runner.mp3",
     "musique": {
       "titre": "Blade Runner Blues",
@@ -934,7 +934,7 @@
     "repliques_cultes": [
       "Here's Johnny!"
     ],
-    "replique_vf": "Voilà Johnny !",
+    "replique_vf": "Voilà Johnny ! ou Coucou chérie !",
     "audio_replique": "assets/audio/repliques/shining.mp3",
     "musique": {
       "titre": "Main Title",
@@ -1102,7 +1102,7 @@
     "acteur_principal": "Jean-Marc Barr",
     "affiche": "assets/affiches/grand_bleu.jpg",
     "repliques_cultes": [
-      "Je dois descendre, Johana."
+      "Voir quoi ? Il n'y a rien à voir Jacques, c'est noir et froid rien d'autre ! Y'a personne. Et moi je suis là, je suis vivante, et j'existe ! "
     ],
     "audio_replique": "assets/audio/repliques/grand_bleu.mp3",
     "musique": {
@@ -1202,9 +1202,9 @@
     "acteur_principal": "Jared Leto",
     "affiche": "assets/affiches/requiem_for_a_dream.jpg",
     "repliques_cultes": [
-      "I'm somebody now, Harry."
+      "I'm somebody now, Harry. Everybody likes me. Soon, a million people will see me and they'll all like me."
     ],
-    "replique_vf": "Je suis quelqu'un, maintenant, Harry.",
+    "replique_vf": "Je suis quelqu'un maintenant, Harry. Tout le monde m'aime bien. Bientôt, des millions de personnes me verront et m'aimeront toutes.",
     "audio_replique": "assets/audio/repliques/requiem_for_a_dream.mp3",
     "musique": {
       "titre": "Lux Aeterna",
@@ -1236,9 +1236,9 @@
     "acteur_principal": "Edward Norton",
     "affiche": "assets/affiches/american_history_x.jpg",
     "repliques_cultes": [
-      "Has anything you've done made your life better?"
+      "Hate is baggage. Life's too short to be pissed off all the time. It's just not worth it."
     ],
-    "replique_vf": "Est-ce que ce que tu as fait a rendu ta vie meilleure ?",
+    "replique_vf": "La haine est un bagage. La vie est trop courte pour s'énerver tout le temps. Ça n'en vaut tout simplement pas la peine.",
     "audio_replique": "assets/audio/repliques/american_history_x.mp3",
     "musique": {
       "titre": "Main Titles",
@@ -1270,9 +1270,9 @@
     "acteur_principal": "Mickey Rourke",
     "affiche": "assets/affiches/sin_city.jpg",
     "repliques_cultes": [
-      "An old man dies, a young man lives."
+      "An old man dies. A young girl lives. Fair trade."
     ],
-    "replique_vf": "Un vieil homme meurt, un jeune homme vit.",
+    "replique_vf": "Un vieil homme meurt. Une jeune femme vit. Un commerce équitable.",
     "audio_replique": "assets/audio/repliques/sin_city.mp3",
     "musique": {
       "titre": "Sin City Main Title",
@@ -1304,9 +1304,9 @@
     "acteur_principal": "Uma Thurman",
     "affiche": "assets/affiches/kill_bill_1.jpg",
     "repliques_cultes": [
-      "It's mercy, compassion, and forgiveness I lack, not rationality."
+      "Do you find me sadistic? You know, I'll bet I could fry an egg on your head right now if I wanted to."
     ],
-    "replique_vf": "C'est la pitié, la compassion et le pardon qui me manquent, pas la rationalité.",
+    "replique_vf": "(Tu me trouves sadique ? Je parie qu'on pourrait faire frire un œuf sur ton front.",
     "audio_replique": "assets/audio/repliques/kill_bill_1.mp3",
     "musique": {
       "titre": "Battle Without Honor or Humanity",
@@ -1339,9 +1339,9 @@
     "acteur_principal": "Bradley Cooper",
     "affiche": "assets/affiches/very_bad_trip.jpg",
     "repliques_cultes": [
-      "What happens in Vegas stays in Vegas."
+      "Tigers love pepper. They hate cinnamon."
     ],
-    "replique_vf": "Ce qui se passe à Vegas reste à Vegas.",
+    "replique_vf": "Les tigres adorent le poivre, ils détestent la cannelle.",
     "audio_replique": "assets/audio/repliques/very_bad_trip.mp3",
     "musique": {
       "titre": "Stu's Song",
@@ -1373,7 +1373,7 @@
     "acteur_principal": "Jean Dujardin",
     "affiche": "assets/affiches/oss117.jpg",
     "repliques_cultes": [
-      "Je ne suis pas raciste, j'ai un ami noir."
+      "J'aime me beurrer la biscotte !"
     ],
     "audio_replique": "assets/audio/repliques/oss117.mp3",
     "musique": {
@@ -1406,7 +1406,7 @@
     "acteur_principal": "François Cluzet",
     "affiche": "assets/affiches/intouchables.jpg",
     "repliques_cultes": [
-      "Sans les bras !"
+      "Pas d'bras, pas d'chocolat !"
     ],
     "audio_replique": "assets/audio/repliques/intouchables.mp3",
     "musique": {
@@ -1439,7 +1439,7 @@
     "acteur_principal": "Kad Merad",
     "affiche": "assets/affiches/chtis.jpg",
     "repliques_cultes": [
-      "Quand un Ch'ti pleure en arrivant, il en pleure deux fois plus en partant."
+      "Quand on vient dans le Nord on braie deux fois : quand on arrive et quand on repart"
     ],
     "audio_replique": "assets/audio/repliques/chtis.mp3",
     "musique": {
@@ -1472,7 +1472,7 @@
     "acteur_principal": "Christian Clavier",
     "affiche": "assets/affiches/asterix_cleopatre.jpg",
     "repliques_cultes": [
-      "Ils sont fous ces Romains."
+      "Mais vous savez, moi je ne crois pas qu'il y ait de bonne ou de mauvaise situation. Moi, si je devais résumer ma vie aujourd'hui avec vous, je dirais que c'est d'abord des rencontres."
     ],
     "audio_replique": "assets/audio/repliques/asterix_cleopatre.mp3",
     "musique": {
@@ -1505,9 +1505,9 @@
     "acteur_principal": "Timothée Chalamet",
     "affiche": "assets/affiches/dune.jpg",
     "repliques_cultes": [
-      "Fear is the mind-killer."
+      "I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. "
     ],
-    "replique_vf": "La peur tue l'esprit.",
+    "replique_vf": "Je ne connaîtrai pas la peur, car la peur tue l’esprit. La peur est la petite mort qui conduit à l'oblitération totale.",
     "audio_replique": "assets/audio/repliques/dune.mp3",
     "musique": {
       "titre": "Paul's Dream",
@@ -1539,9 +1539,9 @@
     "acteur_principal": "Michelle Yeoh",
     "affiche": "assets/affiches/eeaao.jpg",
     "repliques_cultes": [
-      "The universe is so much bigger than you realize."
+      "In another life, I would have really liked just doing laundry and taxes with you."
     ],
-    "replique_vf": "L'univers est bien plus grand que tu ne l'imagines.",
+    "replique_vf": "Dans une autre vie, j'aurais vraiment aimé faire juste de la lessive et des impôts avec toi.",
     "audio_replique": "assets/audio/repliques/eeaao.mp3",
     "musique": {
       "titre": "Regular Life",
@@ -1607,9 +1607,9 @@
     "acteur_principal": "Joaquin Phoenix",
     "affiche": "assets/affiches/her.jpg",
     "repliques_cultes": [
-      "You helped me discover my ability to want."
+      "The past is just a story we tell ourselves."
     ],
-    "replique_vf": "Tu m'as aidée à découvrir ma capacité à désirer.",
+    "replique_vf": "Le passé, c'est juste une histoire qu'on se raconte.",
     "audio_replique": "assets/audio/repliques/her.mp3",
     "musique": {
       "titre": "The Moon Song",
@@ -1643,7 +1643,7 @@
     "repliques_cultes": [
       "Pray for the best, prepare for the worst."
     ],
-    "replique_vf": "Prie pour le meilleur, prépare-toi au pire.",
+    "replique_vf": "Priez pour le meilleur, préparez-vous au pire.",
     "audio_replique": "assets/audio/repliques/prisoners.mp3",
     "musique": {
       "titre": "The Keller Home",
@@ -1675,9 +1675,9 @@
     "acteur_principal": "Ralph Fiennes",
     "affiche": "assets/affiches/grand_budapest_hotel.jpg",
     "repliques_cultes": [
-      "You see, there are still faint glimmers of civilization."
+      "You see? There are still faint glimmers of civilization left in this barbaric slaughterhouse that was once known as humanity. Indeed that's what we provide in our own modest, humble, insignificant... [soupir] Oh, fuck it."
     ],
-    "replique_vf": "Vous voyez, il reste encore quelques lueurs de civilisation.",
+    "replique_vf": "Vous voyez ? Il y a encore de faibles lueurs de civilisation dans cet abattoir barbare que l'on appelait autrefois l'humanité. C'est précisément ce que nous offrons, à notre échelle modeste, humble, insignifiante... Ah, et puis merde.",
     "audio_replique": "assets/audio/repliques/grand_budapest_hotel.mp3",
     "musique": {
       "titre": "Mr. Moustafa",
@@ -1711,7 +1711,7 @@
     "repliques_cultes": [
       "Say hello to my little friend!"
     ],
-    "replique_vf": "Dites bonjour à mon petit ami !",
+    "replique_vf": "Dis bonjour à mon petit copain !",
     "audio_replique": "assets/audio/repliques/scarface.mp3",
     "musique": {
       "titre": "Push It to the Limit",
@@ -1845,9 +1845,9 @@
     "acteur_principal": "Al Pacino",
     "affiche": "assets/affiches/heat.jpg",
     "repliques_cultes": [
-      "I do what I do best, I take scores."
+      "I do what I do best, I take scores.You do what you do best.Try to stop guys like me."
     ],
-    "replique_vf": "Je fais ce que je fais le mieux : je fais des coups.",
+    "replique_vf": "Je fais ce que je sais faire, je monte des coups. Tu fais ce que tu sais faire, essaie d'arrêter les gars comme moi.",
     "audio_replique": "assets/audio/repliques/heat.mp3",
     "musique": {
       "titre": "Heat Theme",
@@ -1879,9 +1879,9 @@
     "acteur_principal": "Javier Bardem",
     "affiche": "assets/affiches/no_country.jpg",
     "repliques_cultes": [
-      "Call it, friendo."
+      "What's the most you ever lost on a coin toss?"
     ],
-    "replique_vf": "Choisis, l'ami.",
+    "replique_vf": "C'est quoi le plus gros que vous ayez perdu à pile ou face ?",
     "audio_replique": "assets/audio/repliques/no_country.mp3",
     "musique": {
       "titre": "No Country Old Men Theme",
@@ -1915,7 +1915,7 @@
     "repliques_cultes": [
       "The Dude abides."
     ],
-    "replique_vf": "Le Dude tient le coup.",
+    "replique_vf": "Le Duc s'en sort toujours.",
     "audio_replique": "assets/audio/repliques/big_lebowski.mp3",
     "musique": {
       "titre": "The Man in Me",
@@ -2015,9 +2015,9 @@
     "acteur_principal": "Christian Bale",
     "affiche": "assets/affiches/dark_knight.jpg",
     "repliques_cultes": [
-      "Why so serious?"
+      "You either die a hero or you live long enough to see yourself become the villain."
     ],
-    "replique_vf": "Pourquoi tant de sérieux ?",
+    "replique_vf": "(« Soit on meurt en héros, soit on vit assez longtemps pour se voir endosser le costume de méchant.",
     "audio_replique": "assets/audio/repliques/dark_knight.mp3",
     "musique": {
       "titre": "Why So Serious?",
@@ -2050,9 +2050,9 @@
     "acteur_principal": "Brad Pitt",
     "affiche": "assets/affiches/se7en.jpg",
     "repliques_cultes": [
-      "What's in the box?"
+      "Ernest Hemingway once wrote, 'The world is a fine place and worth fighting for.' I agree with the second part."
     ],
-    "replique_vf": "Qu'est-ce qu'il y a dans la boîte ?",
+    "replique_vf": "Ernest Hemingway a écrit un jour : Le monde est un bel endroit qui vaut la peine qu'on se batte pour lui. Je suis d'accord avec la seconde partie.",
     "audio_replique": "assets/audio/repliques/se7en.mp3",
     "musique": {
       "titre": "Se7en Theme",
@@ -2086,7 +2086,7 @@
     "repliques_cultes": [
       "In case I don't see ya, good afternoon, good evening, and good night!"
     ],
-    "replique_vf": "Au cas où je ne vous verrais pas : bonjour, bonsoir et bonne nuit !",
+    "replique_vf": "Au cas où on ne se reverrait pas d'ici là, je vous souhaite une bonne journée, une bonne après-midi et une bonne soirée !",
     "audio_replique": "assets/audio/repliques/truman_show.mp3",
     "musique": {
       "titre": "Truman Sleeps",
@@ -2118,9 +2118,9 @@
     "acteur_principal": "Jim Carrey",
     "affiche": "assets/affiches/eternal_sunshine.jpg",
     "repliques_cultes": [
-      "Meet me in Montauk."
+      "I'm not a concept, Joel. I'm just a fucked-up girl who's looking for my own peace of mind. I'm not perfect."
     ],
-    "replique_vf": "Retrouve-moi à Montauk.",
+    "replique_vf": "Je ne suis pas un concept, Joël, je suis juste une fille paumée qui cherche sa propre paix intérieure. Je ne suis pas parfaite !",
     "audio_replique": "assets/audio/repliques/eternal_sunshine.mp3",
     "musique": {
       "titre": "Blue Ruin",
@@ -2152,9 +2152,9 @@
     "acteur_principal": "Tom Hanks",
     "affiche": "assets/affiches/ligne_verte.jpg",
     "repliques_cultes": [
-      "I'm tired, boss."
+      "I'm tired, boss.Tired of bein' on the road, lonely as a sparrow in the rain."
     ],
-    "replique_vf": "Je suis fatigué, patron.",
+    "replique_vf": "Je suis fatigué, patron, fatigué de devoir courir les routes et d'être seul comme un moineau sous la pluie.",
     "audio_replique": "assets/audio/repliques/ligne_verte.mp3",
     "musique": {
       "titre": "The Green Mile Theme",
@@ -2254,9 +2254,9 @@
     "acteur_principal": "Hugo Weaving",
     "affiche": "assets/affiches/v_pour_vendetta.jpg",
     "repliques_cultes": [
-      "Remember, remember, the fifth of November."
+      "People should not be afraid of their governments. Governments should be afraid of their people."
     ],
-    "replique_vf": "Souvenez-vous, souvenez-vous du cinq novembre.",
+    "replique_vf": "Les peuples ne devraient pas avoir peur de leurs gouvernements. Les gouvernements devraient avoir peur du peuple.",
     "audio_replique": "assets/audio/repliques/v_pour_vendetta.mp3",
     "musique": {
       "titre": "1812 Overture",
@@ -2322,9 +2322,9 @@
     "acteur_principal": "Guy Pearce",
     "affiche": "assets/affiches/memento.jpg",
     "repliques_cultes": [
-      "I have to believe in a world outside my own mind."
+      "I have to believe in a world outside my own mind. I have to believe that my actions still have meaning, even if I can't remember them."
     ],
-    "replique_vf": "Je dois croire en un monde en dehors de mon esprit.",
+    "replique_vf": "Je dois croire en un monde en dehors de mon esprit.Il faut que je croie que mes actes ont encore un sens même si je les oublie.",
     "audio_replique": "assets/audio/repliques/memento.mp3",
     "musique": {
       "titre": "Memento Theme",
@@ -2358,7 +2358,7 @@
     "repliques_cultes": [
       "Ghosts are real, this much I know."
     ],
-    "replique_vf": "Les fantômes existent, ça au moins, je le sais.",
+    "replique_vf": "Les fantômes existent, j'en suis certaine.",
     "audio_replique": "assets/audio/repliques/crimson_peak.mp3",
     "musique": {
       "titre": "Main Theme",
@@ -2494,9 +2494,9 @@
     "acteur_principal": "Tom Hanks",
     "affiche": "assets/affiches/soldat_ryan.jpg",
     "repliques_cultes": [
-      "Earn this."
+      "James, earn this... earn it."
     ],
-    "replique_vf": "Mérite-le.",
+    "replique_vf": "James, gagne ça... mérite-le.",
     "audio_replique": "assets/audio/repliques/soldat_ryan.mp3",
     "musique": {
       "titre": "Hymn to the Fallen",
@@ -2596,9 +2596,9 @@
     "acteur_principal": "Matthew Modine",
     "affiche": "assets/affiches/full_metal_jacket.jpg",
     "repliques_cultes": [
-      "Is that you, John Wayne? Is this me?"
+      "Let me see your war face !"
     ],
-    "replique_vf": "C'est toi, John Wayne ? Ou c'est moi ?",
+    "replique_vf": "Montre-moi ta gueule de guerrier !",
     "audio_replique": "assets/audio/repliques/full_metal_jacket.mp3",
     "musique": {
       "titre": "I Wanna Be Your Drill Instructor",
@@ -2664,9 +2664,9 @@
     "acteur_principal": "Humphrey Bogart",
     "affiche": "assets/affiches/casablanca.jpg",
     "repliques_cultes": [
-      "Here's looking at you, kid."
+      "Louis, I think this is the beginning of a beautiful friendship."
     ],
-    "replique_vf": "À tes beaux yeux, petite.",
+    "replique_vf": "Louis, je crois que ceci est le début d'une merveilleuse amitié.",
     "audio_replique": "assets/audio/repliques/casablanca.mp3",
     "musique": {
       "titre": "As Time Goes By",
