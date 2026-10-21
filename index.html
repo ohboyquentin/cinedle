@@ -246,7 +246,7 @@ function compareActeurMemeFilm(g,t,item,target){
 const COLS_PERSO_CINEMA = [
   { label:'Film', get:i=>i.film_origine, compare:compareFilmProche },
   { label:'Acteur', get:i=>i.acteur, compare:compareActeurMemeFilm },
-  { label:'Nature', get:i=>i.nature, compare:compareTextRaw },
+  { label:'Nature', get:i=>i.nature||'Humain', compare:compareTextRaw },
   { label:'Statut', get:i=>i.statut, compare:compareTextRaw },
   { label:'Genre', get:i=>i.genre_film, compare:compareTextRaw },
   { label:'Décennie', get:i=>i.decennie_apparition, compare:compareNumArrow(10), format:v=>v+'s' },
