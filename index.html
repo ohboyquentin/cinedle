@@ -228,9 +228,25 @@ const COLS_FILM = [
   { label:'Durée', get:i=>i.duree_minutes, compare:compareNumArrow(15), format:v=>v+' min' },
   { label:'Acteur', get:i=>i.acteur_principal, compare:compareTextRaw },
 ];
+// Film : orange si même saga ou même réalisateur que le film du personnage à trouver
+function compareFilmProche(g,t){
+  if(g===t) return {cls:'correct',arrow:''};
+  const fg = FILMS.find(f=>f.titre===g), ft = FILMS.find(f=>f.titre===t);
+  if(fg && ft && ((fg.saga && fg.saga===ft.saga) || (fg.realisateur && fg.realisateur===ft.realisateur))) return {cls:'close',arrow:''};
+  return {cls:'wrong',arrow:''};
+}
+// Acteur : orange si l'acteur proposé a aussi joué dans le film du personnage à trouver
+function compareActeurMemeFilm(g,t,item,target){
+  if(g===t) return {cls:'correct',arrow:''};
+  const film = FILMS.find(f=>f.titre===target.film_origine);
+  const cast = new Set(PERSONNAGES.filter(p=>p.film_origine===target.film_origine).map(p=>p.acteur));
+  if(film && film.acteur_principal) cast.add(film.acteur_principal);
+  return {cls: cast.has(g) ? 'close' : 'wrong', arrow:''};
+}
 const COLS_PERSO_CINEMA = [
-  { label:'Film', get:i=>i.film_origine, compare:compareTextRaw },
-  { label:'Acteur', get:i=>i.acteur, compare:compareTextRaw },
+  { label:'Film', get:i=>i.film_origine, compare:compareFilmProche },
+  { label:'Acteur', get:i=>i.acteur, compare:compareActeurMemeFilm },
+  { label:'Nature', get:i=>i.nature, compare:compareTextRaw },
   { label:'Statut', get:i=>i.statut, compare:compareTextRaw },
   { label:'Genre', get:i=>i.genre_film, compare:compareTextRaw },
   { label:'Décennie', get:i=>i.decennie_apparition, compare:compareNumArrow(10), format:v=>v+'s' },
@@ -307,6 +323,13 @@ const makeHints = (key, noun) => [
   { after:10, reveal:true, label:'Cliquer pour découvrir la réponse', html: t => t[key] },
 ];
 const HINTS_PERSO = makeHints('nom', 'nom');   // défi 2 : on devine un nom
+// Cinéma, défi 2 : 1re lettre après 3 essais, pendu après 5, acteur après 7, réponse cachée après 10
+const HINTS_PERSO_CINEMA = [
+  { after:3, html: t => `Le nom commence par « ${t.nom.trim()[0].toUpperCase()} »` },
+  { ...HINTS_PERSO[0], after:5 },
+  { after:7, html: t => `Il est incarné par <strong>${t.acteur}</strong>` },
+  { ...HINTS_PERSO[2], after:10 },
+];
 const HINTS_TITRE = makeHints('titre', 'titre'); // défi 1 : on devine un titre (mêmes indices)
 
 // Réplique en VO puis en VF, sur 2 lignes (une seule ligne si le film n'a pas de VF distincte, ex. films français)
@@ -325,7 +348,7 @@ const THEMES = {
           placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi1, columns:COLS_FILM,
           resultMeta:t=>`${t.realisateur} · ${t.annee} · ${t.genre}`, completionName:'Film' }) },
       { n:2, icon:'🧑', name:'Personnage', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', yesterday: yesterdayPersoHtml(), hints: HINTS_PERSO, itemLabel:'Perso', labelKey:'nom',
+        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', yesterday: yesterdayPersoHtml(), hints: HINTS_PERSO_CINEMA, itemLabel:'Perso', labelKey:'nom',
           placeholder:"Tape le nom d'un personnage...", pool:PERSONNAGES, target:DAILY_CINEMA.defi2, columns:COLS_PERSO_CINEMA,
           resultMeta:t=>`${t.film_origine} · ${t.acteur}`, completionName:'Personnage' }) },
       { n:3, icon:'🖼️', name:'Affiche', desc:'Floutage',
@@ -723,7 +746,7 @@ function renderGridDefi(cfg){
       const t = document.createElement('div'); t.className='cell title'; t.textContent = item[cfg.labelKey]; row.appendChild(t);
       cfg.columns.forEach(col => {
         const gRaw = col.get(item), tRaw = col.get(cfg.target);
-        const cmp = col.compare(gRaw, tRaw);
+        const cmp = col.compare(gRaw, tRaw, item, cfg.target);
         const display = col.format ? col.format(gRaw) : gRaw;
         row.appendChild(makeCell(display, cmp.cls, cmp.arrow));
       });
