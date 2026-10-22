@@ -4718,9 +4718,9 @@
     "acteur_principal": "Arnold Schwarzenegger",
     "affiche": "assets/affiches/terminator_2.jpg",
     "repliques_cultes": [
-      "I'll be back."
+      "Come with me if you want to live."
     ],
-    "replique_vf": "Je reviendrai.",
+    "replique_vf": "Viens avec moi, si tu veux vivre.",
     "audio_replique": "assets/audio/repliques/terminator_2.mp3",
     "musique": {
       "titre": "Terminator 2 Theme",
@@ -5839,9 +5839,9 @@
     "acteur_principal": "Ben Affleck",
     "affiche": "assets/affiches/gone_girl.jpg",
     "repliques_cultes": [
-      "I'm the cool girl."
+      "I'll practice believing that my husband loves me. But I could be wrong."
     ],
-    "replique_vf": "Je suis la fille cool.",
+    "replique_vf": "Je m'entraînerai à croire que mon mari m'aime. Mais je peux me tromper.",
     "audio_replique": "assets/audio/repliques/gone_girl.mp3",
     "musique": {
       "titre": "Technically, Missing",
@@ -5895,9 +5895,9 @@
     "acteur_principal": "Jake Gyllenhaal",
     "affiche": "assets/affiches/zodiac.jpg",
     "repliques_cultes": [
-      "I need to know who he is."
+      "Just because you can't prove it, doesn't mean it's not true."
     ],
-    "replique_vf": "J'ai besoin de savoir qui il est.",
+    "replique_vf": "Ce n'est pas parce que vous ne pouvez pas le prouver que ce n'est pas vrai.",
     "audio_replique": "assets/audio/repliques/zodiac.mp3",
     "musique": {
       "titre": "Zodiac Theme",
@@ -6007,9 +6007,9 @@
     "acteur_principal": "Ryan Gosling",
     "affiche": "assets/affiches/drive.jpg",
     "repliques_cultes": [
-      "I drive."
+      "If I drive for you, you give me a time and a place. I give you a five-minute window, anything happens in that five minutes and I'm yours no matter what. I don't sit in while you're running it down; I don't carry a gun… I drive."
     ],
-    "replique_vf": "Je conduis.",
+    "replique_vf": "Vous me donnez une heure et un lieu. Je vous donne un créneau de cinq minutes, pendant ces cinq minutes, je vous lâche pas, quoiqu'il arrive. J'interviens pas pendant le braquage, je ne porte pas d'arme… Je conduis.",
     "audio_replique": "assets/audio/repliques/drive.mp3",
     "musique": {
       "titre": "A Real Hero",
@@ -6175,9 +6175,9 @@
     "acteur_principal": "Leonardo DiCaprio",
     "affiche": "assets/affiches/loup_wall_street.jpg",
     "repliques_cultes": [
-      "I'm not leaving."
+      " I'm not fucking leaving!"
     ],
-    "replique_vf": "Je ne pars pas.",
+    "replique_vf": "Je ne m'en vais pas, putain !",
     "audio_replique": "assets/audio/repliques/loup_wall_street.mp3",
     "musique": {
       "titre": "Mrs. Robinson",
@@ -6569,9 +6569,9 @@
     "acteur_principal": "Daniel Radcliffe",
     "affiche": "assets/affiches/harry_potter_7_2.jpg",
     "repliques_cultes": [
-      "After all this time? Always."
+      "I've always wanted to use that spell!"
     ],
-    "replique_vf": "Après tout ce temps ? Toujours.",
+    "replique_vf": "J'ai toujours voulu utiliser ce sort !",
     "audio_replique": "assets/audio/repliques/harry_potter_7_2.mp3",
     "musique": {
       "titre": "Statues",
@@ -6682,9 +6682,9 @@
     "acteur_principal": "Henry Cavill",
     "affiche": "assets/affiches/man_of_steel.jpg",
     "repliques_cultes": [
-      "I'm from Kansas."
+      "People are afraid of what they don't understand."
     ],
-    "replique_vf": "Je viens du Kansas.",
+    "replique_vf": "Les gens ont peur de ce qu'ils ne comprennent pas.",
     "audio_replique": "assets/audio/repliques/man_of_steel.mp3",
     "musique": {
       "titre": "An Ideal of Hope",
@@ -7074,9 +7074,9 @@
     "acteur_principal": "Tom Hanks",
     "affiche": "assets/affiches/big.jpg",
     "repliques_cultes": [
-      "I want to be big."
+      " I’m your best friend. What could be more important than that, huh?"
     ],
-    "replique_vf": "Je veux être grand.",
+    "replique_vf": "Je suis ton meilleur ami. Qu’y a-t-il de plus important que ça, hein ?",
     "audio_replique": "assets/audio/repliques/big.mp3",
     "musique": {
       "titre": "Heart and Soul",
@@ -7466,9 +7466,9 @@
     "acteur_principal": "Tom Cruise",
     "affiche": "assets/affiches/minority_report.jpg",
     "repliques_cultes": [
-      "Everybody runs."
+      "We don't choose the things we believe in; they choose us."
     ],
-    "replique_vf": "Tout le monde court.",
+    "replique_vf": "Nous ne choisissons pas les choses auxquelles nous croyons ; ce sont elles qui nous choisissent.",
     "audio_replique": "assets/audio/repliques/minority_report.mp3",
     "musique": {
       "titre": "Minority Report Theme",
@@ -7634,9 +7634,9 @@
     "acteur_principal": "Trevante Rhodes",
     "affiche": "assets/affiches/moonlight.jpg",
     "repliques_cultes": [
-      "Who is you, Chiron?"
+      "At some point, you gotta decide for yourself who you gonna be. Can't let nobody make that decision for you."
     ],
-    "replique_vf": "Qui es-tu, Chiron ?",
+    "replique_vf": "À un moment donné, tu dois décider toi-même qui tu vas devenir. Ne laisse personne prendre cette décision à votre place.",
     "audio_replique": "assets/audio/repliques/moonlight.mp3",
     "musique": {
       "titre": "Middle of the World",
@@ -7972,7 +7972,7 @@
     "repliques_cultes": [
       "Yippee-ki-yay, motherfucker!"
     ],
-    "replique_vf": "Youpi-ka-yé, salopard !",
+    "replique_vf": "Yippee-ki-yay, pauvre con !",
     "audio_replique": "assets/audio/repliques/die_hard_piege_de_cristal.mp3",
     "musique": {
       "titre": "Christmas in Hollis",
@@ -9087,8 +9087,9 @@
     "acteur_principal": "Robin Williams",
     "affiche": "assets/affiches/mrs_doubtfire.jpg",
     "repliques_cultes": [
-      "It was a run-by fruiting!"
+      "All my love to you, poppet. You're going to be all right. Bye bye."
     ],
+    "replique_vf": "Tout mon amour pour toi, mon poussin. Tu vas t'en sortir. Au revoir.",
     "audio_replique": "assets/audio/repliques/mrs_doubtfire.mp3",
     "images_defi6": {
       "difficile": "assets/images/mrs_doubtfire_difficile.jpg",
@@ -9137,8 +9138,9 @@
     "acteur_principal": "Simon Pegg",
     "affiche": "assets/affiches/hot_fuzz.jpg",
     "repliques_cultes": [
-      "Have you ever fired two guns whilst jumping through the air?"
+      "No, I've never fired my gun in the air and gone 'ahhh!'."
     ],
+    "replique_vf": "Non, je n'ai jamais tiré en l'air en criant AAAAAAAAH !",
     "audio_replique": "assets/audio/repliques/hot_fuzz.mp3",
     "images_defi6": {
       "difficile": "assets/images/hot_fuzz_difficile.jpg",
@@ -9189,6 +9191,7 @@
     "repliques_cultes": [
       "I am McLovin."
     ],
+    "replique_vf": "Je suis McLovin",
     "audio_replique": "assets/audio/repliques/superbad.mp3",
     "images_defi6": {
       "difficile": "assets/images/superbad_difficile.jpg",
@@ -9237,8 +9240,9 @@
     "acteur_principal": "Jim Carrey",
     "affiche": "assets/affiches/ace_ventura_detective_pour_chiens_et_chats.jpg",
     "repliques_cultes": [
-      "Alrighty then!"
+      "If I'm not back in five minutes... just wait longer !"
     ],
+    "replique_vf": "Si je ne suis pas de retour dans 5 minutes... Attendez plus longtemps !",
     "audio_replique": "assets/audio/repliques/ace_ventura_detective_pour_chiens_et_chats.mp3",
     "images_defi6": {
       "difficile": "assets/images/ace_ventura_detective_pour_chiens_et_chats_difficile.jpg",
@@ -9287,8 +9291,9 @@
     "acteur_principal": "Ben Stiller",
     "affiche": "assets/affiches/zoolander.jpg",
     "repliques_cultes": [
-      "What is this? A center for ants?"
+      "What is this? A center for ants?! How can we be expected to teach children to learn how to read... if they can't even fit inside the building?"
     ],
+    "replique_vf": "Qu'est-ce que c'est ? Un centre pour les fourmis ?! Comment peut-on s'attendre à ce qu'on apprenne aux enfants à lire... s'ils ne peuvent même pas tenir à l'intérieur du bâtiment ?",
     "audio_replique": "assets/audio/repliques/zoolander.mp3",
     "images_defi6": {
       "difficile": "assets/images/zoolander_difficile.jpg",
@@ -9491,8 +9496,9 @@
     "acteur_principal": "Jamie Lee Curtis",
     "affiche": "assets/affiches/halloween_la_nuit_des_masques.jpg",
     "repliques_cultes": [
-      "It's Halloween. Everyone's entitled to one good scare."
+      "Death has come to your little town, Sheriff."
     ],
+    "replique_vf": "La mort est arrivée dans ta petite ville, shérif.",
     "audio_replique": "assets/audio/repliques/halloween_la_nuit_des_masques.mp3",
     "images_defi6": {
       "difficile": "assets/images/halloween_la_nuit_des_masques_difficile.jpg",
@@ -9543,6 +9549,7 @@
     "repliques_cultes": [
       "Nobody trusts anybody now, and we're all very tired."
     ],
+    "replique_vf": "Personne ne fait confiance à personne maintenant, et nous sommes tous très fatigués.",
     "audio_replique": "assets/audio/repliques/the_thing.mp3",
     "images_defi6": {
       "difficile": "assets/images/the_thing_difficile.jpg",
@@ -9593,6 +9600,7 @@
     "repliques_cultes": [
       "I never wanted to be your mother."
     ],
+    "replique_vf": "Je n'ai jamais voulu être ta mère",
     "audio_replique": "assets/audio/repliques/heredite.mp3",
     "images_defi6": {
       "difficile": "assets/images/heredite_difficile.jpg",
@@ -9795,8 +9803,9 @@
     "acteur_principal": "Arnold Schwarzenegger",
     "affiche": "assets/affiches/total_recall.jpg",
     "repliques_cultes": [
-      "Get your ass to Mars."
+      "A man is defined by his actions, not his memory."
     ],
+    "replique_vf": "Un homme se définit par ses actes et non par ses souvenirs.",
     "audio_replique": "assets/audio/repliques/total_recall.mp3",
     "images_defi6": {
       "difficile": "assets/images/total_recall_difficile.jpg",
@@ -9845,8 +9854,9 @@
     "acteur_principal": "Bruce Willis",
     "affiche": "assets/affiches/le_cinquieme_element.jpg",
     "repliques_cultes": [
-      "Multipass!"
+      "Leeloo Dallas Multipass !"
     ],
+    "replique_vf": "Leeloo Dallas Multipass !",
     "audio_replique": "assets/audio/repliques/le_cinquieme_element.mp3",
     "images_defi6": {
       "difficile": "assets/images/le_cinquieme_element_difficile.jpg",
@@ -9897,6 +9907,7 @@
     "repliques_cultes": [
       "Isn't it strange, to create something that hates you?"
     ],
+    "replique_vf": "N'est-ce pas étrange de créer quelque chose qui vous déteste ?",
     "audio_replique": "assets/audio/repliques/ex_machina.mp3",
     "images_defi6": {
       "difficile": "assets/images/ex_machina_difficile.jpg",
@@ -9996,8 +10007,9 @@
     "acteur_principal": "Ryan Gosling",
     "affiche": "assets/affiches/blade_runner_2049.jpg",
     "repliques_cultes": [
-      "You've never seen a miracle."
+      "I've had memories, they're not mine. They're someone else's."
     ],
+    "replique_vf": "J'ai des souvenirs, mais ils ne sont pas à moi. Ce sont ceux de quelqu'un d'autre.",
     "audio_replique": "assets/audio/repliques/blade_runner_2049.mp3",
     "images_defi6": {
       "difficile": "assets/images/blade_runner_2049_difficile.jpg",
@@ -10506,7 +10518,7 @@
     "acteur_principal": "Song Kang-ho",
     "affiche": "assets/affiches/memories_of_murder.jpg",
     "repliques_cultes": [
-      "Les documents ne mentent jamais."
+      "Est-ce que tu manges à ta faim ?"
     ],
     "audio_replique": "assets/audio/repliques/memories_of_murder.mp3",
     "images_defi6": {
@@ -10712,6 +10724,7 @@
     "repliques_cultes": [
       "Rosebud."
     ],
+    "replique_vf": "Bouton de rose",
     "audio_replique": "assets/audio/repliques/citizen_kane.mp3",
     "images_defi6": {
       "difficile": "assets/images/citizen_kane_difficile.jpg",
@@ -11530,8 +11543,9 @@
     "acteur_principal": "John Travolta",
     "affiche": "assets/affiches/grease.jpg",
     "repliques_cultes": [
-      "Tell me about it, stud."
+      "You better shape up, 'Cause I need a man, And my heart is set on you."
     ],
+    "replique_vf": "Tu as intérêt à te bouger, parce que j'ai besoin d'un homme, et mon cœur n'hésite plus, c'est toi que je veux.",
     "audio_replique": "assets/audio/repliques/grease.mp3",
     "images_defi6": {
       "difficile": "assets/images/grease_difficile.jpg",
@@ -11882,9 +11896,9 @@
     "acteur_principal": "Daniel Radcliffe",
     "affiche": "assets/affiches/harry_potter_et_la_coupe_de_feu.jpg",
     "repliques_cultes": [
-      "Constant vigilance!"
+      "Don't turn your back on me, Harry Potter! I want you to look at me when I kill you! I want to see the light go out in your eyes."
     ],
-    "replique_vf": "Vigilance constante !",
+    "replique_vf": "Ne me tourne pas le dos Harry Potter, je veux que tu me regardes quand je te tuerai, je veux voir s'éteindre la lumière dans tes yeux.",
     "audio_replique": "assets/audio/repliques/harry_potter_et_la_coupe_de_feu.mp3",
     "images_defi6": {
       "difficile": "assets/images/harry_potter_et_la_coupe_de_feu_difficile.jpg",
@@ -11934,9 +11948,9 @@
     "acteur_principal": "Daniel Radcliffe",
     "affiche": "assets/affiches/harry_potter_et_l_ordre_du_phenix.jpg",
     "repliques_cultes": [
-      "Hem, hem."
+      "You’re the weak one. You’ll never know love, or friendship. And I feel sorry for you."
     ],
-    "replique_vf": "Hum, hum.",
+    "replique_vf": "Tu es le faible, car tu ne connaîtras jamais l'amour ou l'amitié.",
     "audio_replique": "assets/audio/repliques/harry_potter_et_l_ordre_du_phenix.mp3",
     "images_defi6": {
       "difficile": "assets/images/harry_potter_et_l_ordre_du_phenix_difficile.jpg",
@@ -11986,9 +12000,9 @@
     "acteur_principal": "Daniel Radcliffe",
     "affiche": "assets/affiches/harry_potter_et_le_prince_de_sang_mele.jpg",
     "repliques_cultes": [
-      "I am the Half-Blood Prince."
+      "Sectumsempra !"
     ],
-    "replique_vf": "Je suis le Prince de Sang-Mêlé.",
+    "replique_vf": "Sectumsempra !",
     "audio_replique": "assets/audio/repliques/harry_potter_et_le_prince_de_sang_mele.mp3",
     "images_defi6": {
       "difficile": "assets/images/harry_potter_et_le_prince_de_sang_mele_difficile.jpg",
@@ -12038,8 +12052,9 @@
     "acteur_principal": "Daniel Radcliffe",
     "affiche": "assets/affiches/harry_potter_et_les_reliques_de_la_mort_partie_1.jpg",
     "repliques_cultes": [
-      "Dobby has no master. Dobby is a free elf, and Dobby has come to save Harry Potter and his friends!"
+      "Such a beautiful place... to be with friends. Dobby is happy to be with his friend... Harry Potter."
     ],
+    "replique_vf": "C'est un endroit magnifique pour être avec des amis. Dobby est heureux d'être avec les siens... son ami Harry Potter.",
     "audio_replique": "assets/audio/repliques/harry_potter_et_les_reliques_de_la_mort_partie_1.mp3",
     "images_defi6": {
       "difficile": "assets/images/harry_potter_et_les_reliques_de_la_mort_partie_1_difficile.jpg",
@@ -12089,8 +12104,9 @@
     "acteur_principal": "Johnny Depp",
     "affiche": "assets/affiches/pirates_des_caraibes_le_secret_du_coffre_maudit.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "ou are without a doubt the worst pirate I've ever heard of."
     ],
+    "replique_vf": "Vous êtes sans nul doute le pirate le plus pitoyable dont on m'ait parlé.",
     "audio_replique": "assets/audio/repliques/pirates_des_caraibes_le_secret_du_coffre_maudit.mp3",
     "images_defi6": {
       "difficile": "assets/images/pirates_des_caraibes_le_secret_du_coffre_maudit_difficile.jpg",
@@ -12140,8 +12156,9 @@
     "acteur_principal": "Johnny Depp",
     "affiche": "assets/affiches/pirates_des_caraibes_jusqu_au_bout_du_monde.jpg",
     "repliques_cultes": [
-      "Drink up, me hearties, yo ho!"
+      "It's not just about living forever, Jackie. The trick is living with yourself forever."
     ],
+    "replique_vf": "Il ne s'agit pas seulement de vivre éternellement, Jackie. Le truc, c'est de continuer à vivre avec soi-même pour toujours. ",
     "audio_replique": "assets/audio/repliques/pirates_des_caraibes_jusqu_au_bout_du_monde.mp3",
     "images_defi6": {
       "difficile": "assets/images/pirates_des_caraibes_jusqu_au_bout_du_monde_difficile.jpg",
@@ -12191,8 +12208,9 @@
     "acteur_principal": "Johnny Depp",
     "affiche": "assets/affiches/pirates_des_caraibes_la_fontaine_de_jouvence.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "You know the feeling you get when standing in a high place, the sudden urge to jump... I don't have it."
     ],
+    "replique_vf": "Vous arrive-t-il d'éprouver, au bord d'une falaise, l'envie de sauter dans le vide ? Une irrésistible envie ? ... Et bien pas moi !",
     "audio_replique": "assets/audio/repliques/pirates_des_caraibes_la_fontaine_de_jouvence.mp3",
     "images_defi6": {
       "difficile": "assets/images/pirates_des_caraibes_la_fontaine_de_jouvence_difficile.jpg",
@@ -12242,8 +12260,9 @@
     "acteur_principal": "Johnny Depp",
     "affiche": "assets/affiches/pirates_des_caraibes_la_vengeance_de_salazar.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "Guillotine? That sounds French. I love the French! How bad could it be? It's French."
     ],
+    "replique_vf": "Guillotine ? Ça a l'air français. J'adore le français ! À quel point cela peut-il être grave ? C'est français.",
     "audio_replique": "assets/audio/repliques/pirates_des_caraibes_la_vengeance_de_salazar.mp3",
     "images_defi6": {
       "difficile": "assets/images/pirates_des_caraibes_la_vengeance_de_salazar_difficile.jpg",
@@ -12293,8 +12312,9 @@
     "acteur_principal": "Bruce Willis",
     "affiche": "assets/affiches/die_hard_2_58_minutes_pour_vivre.jpg",
     "repliques_cultes": [
-      "How can the same shit happen to the same guy twice?"
+      "Just once, I'd like a regular, normal Christmas. Eggnog, a fuckin' Christmas tree, a little turkey. But, no. I gotta crawl around in this motherfuckin' tin can."
     ],
+    "replique_vf": "Quand est-ce que j'aurai droit à un Noël normal moi ? Vous savez, le sapin, la dinde, le feu de cheminée en famille... mais non, on est si bien dans une putain de conduite d'aération !",
     "audio_replique": "assets/audio/repliques/die_hard_2_58_minutes_pour_vivre.mp3",
     "images_defi6": {
       "difficile": "assets/images/die_hard_2_58_minutes_pour_vivre_difficile.jpg",
@@ -12344,8 +12364,9 @@
     "acteur_principal": "Bruce Willis",
     "affiche": "assets/affiches/die_hard_une_journee_en_enfer.jpg",
     "repliques_cultes": [
-      "Simon says."
+      "I'll tell you what your problem is, you don't like me 'cause you're a racist!"
     ],
+    "replique_vf": "e vais te dire quel est ton problème, tu ne m'aimes pas parce que tu es raciste !",
     "audio_replique": "assets/audio/repliques/die_hard_une_journee_en_enfer.mp3",
     "images_defi6": {
       "difficile": "assets/images/die_hard_une_journee_en_enfer_difficile.jpg",
