@@ -337,6 +337,15 @@ const HINTS_PERSO_CINEMA = [
   { after:7, html: t => `Il est incarné par <strong>${t.acteur}</strong>` },
   { ...HINTS_PERSO[2], after:10 },
 ];
+// Cinéma, défi 1 : « synopsis codé » — une phrase de plus à chaque palier (essais), puis la réponse cachée
+const SYNOPSIS_PALIERS = [3, 6, 9];   // essais à partir desquels la phrase 1, 2, 3 apparaît
+const SYNOPSIS_REVEAL = 12;           // essais à partir desquels la réponse cachée apparaît
+const HINTS_FILM_CINEMA = [
+  ...SYNOPSIS_PALIERS.map((after, i) => ({ after, html: t => {
+      const ph = t.synopsis_code && t.synopsis_code[i];
+      return (ph && !ph.startsWith('[Ajouter')) ? `<span class="hint-sub" style="margin-bottom:4px">📖 Synopsis codé — ${i+1}/${SYNOPSIS_PALIERS.length}</span>${ph}` : titleHint(t); } })),
+  { ...makeHints('titre', 'titre')[2], after:SYNOPSIS_REVEAL },
+];
 const HINTS_TITRE = makeHints('titre', 'titre'); // défi 1 : on devine un titre (mêmes indices)
 
 // Réplique en VO puis en VF, sur 2 lignes (une seule ligne si le film n'a pas de VF distincte, ex. films français)
@@ -351,7 +360,7 @@ const THEMES = {
     label: 'Cinéma',
     defis: [
       { n:1, icon:'🎬', name:'Film', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine le film', yesterday: yesterdayHtml(), hints: HINTS_TITRE, itemLabel:'Film', labelKey:'titre',
+        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine le film', yesterday: yesterdayHtml(), hints: HINTS_FILM_CINEMA, itemLabel:'Film', labelKey:'titre',
           placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi1, columns:COLS_FILM,
           resultMeta:t=>`${t.realisateur} · ${t.annee} · ${t.genre}`, completionName:'Film' }) },
       { n:2, icon:'🧑', name:'Personnage', desc:'Grille de comparaison',
@@ -1148,6 +1157,9 @@ async function boot(){
       fetch('films_animation.json').then(r => r.json()),
       fetch('personnages_animation.json').then(r => r.json()),
     ]);
+    // Synopsis codés du défi 1 (Cinéma) : fichier optionnel, rattaché aux films par leur titre
+    const synopsis = await fetch('synopsis_codes.json').then(r => r.json()).catch(() => ({}));
+    films.forEach(f => { if(synopsis[f.titre]) f.synopsis_code = synopsis[f.titre]; });
     FILMS = films; PERSONNAGES = persos; SERIES = series; PERSONNAGES_SERIES = persosSeries; ANIMES = animes; PERSONNAGES_ANIMES = persosAnimes; FILMS_ANIM = filmsAnim; PERSONNAGES_ANIM = persosAnim;
 
     DAILY_CINEMA = pickDistinct(FILMS, ['defi1','defi3','defi4','defi5','defi6'], 'cinema', TODAY_SEED);
