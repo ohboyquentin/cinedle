@@ -361,7 +361,7 @@ const THEMES = {
       { n:3, icon:'🖼️', name:'Affiche', desc:'Floutage',
         render: () => renderBlurDefi({ eyebrow:'Défi 3', title:"Devine l'affiche", labelKey:'titre',
           placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi3,
-          resultMeta:t=>`${t.realisateur} · ${t.annee}`, completionName:'Affiche', imageKey:'affiche' }) },
+          resultMeta:t=>`${t.realisateur} · ${t.annee}`, completionName:'Affiche', imageKey:'affiche', unblurAfter:15 }) },
       { n:4, icon:'💬', name:'Réplique', desc:'+ indice vocal',
         render: () => renderClueGuessDefi({ eyebrow:'Défi 4', title:'Devine la réplique', labelKey:'titre',
           placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi4,
@@ -374,7 +374,7 @@ const THEMES = {
       { n:6, icon:'📸', name:'3 Images', desc:'Difficulté croissante',
         render: () => renderImagesDefi({ eyebrow:'Défi 6', title:'3 images du film', labelKey:'titre',
           placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi6,
-          resultMeta:t=>`${t.realisateur} · ${t.annee}`, completionName:'3 Images' }) },
+          resultMeta:t=>`${t.realisateur} · ${t.annee}`, completionName:'3 Images', revealAfter:10 }) },
     ]
   },
   series: {
@@ -797,6 +797,13 @@ function renderGridDefi(cfg){
 /* =========================================================
    MOTEUR GÉNÉRIQUE — DÉFI IMAGE FLOUTÉE (Affiche / Lieu culte)
    ========================================================= */
+// Encadré « à débloquer » : apparaît quand show=true, la réponse ne se découvre qu'au clic (state.revealed)
+function updateRevealZone(zone, show, label, answerHtml, state, onReveal){
+  if(!show){ zone.innerHTML=''; return; }
+  zone.innerHTML = `<div class="hint-box reveal-box${state.revealed?' shown':''}"><span class="reveal-label">🔓 ${label}</span><span class="reveal-answer">${answerHtml}</span></div>`;
+  zone.firstChild.addEventListener('click', () => { state.revealed = true; zone.firstChild.classList.add('shown'); if(onReveal) onReveal(); });
+}
+
 function renderBlurDefi(cfg){
   let wrongGuesses = [];
   const prog = getProgress(cfg.eyebrow);
@@ -806,6 +813,7 @@ function renderBlurDefi(cfg){
     <header class="defi-header"><div class="defi-eyebrow">${cfg.eyebrow}</div><h2 class="defi-title">${cfg.title}</h2></header>
     <div class="poster-frame"><div class="attempts-badge" id="badge">0 essai</div><div class="poster-placeholder" id="poster">🎬${cfg.target[cfg.imageKey] ? `<img class="poster-img" src="${cfg.target[cfg.imageKey]}" alt="" onerror="this.remove()">` : ''}</div></div>
     <div class="wrong-list" id="wrong-list"></div>
+    <div id="reveal-zone"></div>
     <div class="search-wrap" id="search-wrap">
       <input type="text" id="search-input" placeholder="${cfg.placeholder}" autocomplete="off">
       <div class="suggestions" id="suggestions"></div>
@@ -813,6 +821,7 @@ function renderBlurDefi(cfg){
     <div id="result-zone"></div>
   `;
   wireBack();
+  const revealZone = document.getElementById('reveal-zone'), revealState = { revealed:false };
   const input = document.getElementById('search-input');
   const suggestionsBox = document.getElementById('suggestions');
   const poster = document.getElementById('poster');
@@ -821,8 +830,11 @@ function renderBlurDefi(cfg){
   wireAutocomplete(input, suggestionsBox, cfg.pool, cfg.labelKey, [], submit);
 
   function refreshWrong(){
-    const blur = Math.max(BLUR_FLOOR, BLUR_START - wrongGuesses.length*BLUR_STEP);
+    const blur = revealState.revealed ? 0 : Math.max(BLUR_FLOOR, BLUR_START - wrongGuesses.length*BLUR_STEP);
     poster.style.filter = 'blur('+blur+'px) saturate(1.1)';
+    // Défi 3 Cinéma : après N échecs, possibilité de défloutter totalement l'image
+    updateRevealZone(revealZone, !!cfg.unblurAfter && wrongGuesses.length >= cfg.unblurAfter, "Cliquer pour défloutter l'image", '🖼️ Image défloutée', revealState,
+      () => { poster.style.filter = 'blur(0px) saturate(1.1)'; });
     badge.textContent = wrongGuesses.length + (wrongGuesses.length>1?' essais':' essai');
     wrongList.innerHTML='';
     wrongGuesses.forEach(f => { const c=document.createElement('div'); c.className='wrong-chip'; c.textContent=f[cfg.labelKey]; wrongList.appendChild(c); });
@@ -839,7 +851,7 @@ function renderBlurDefi(cfg){
   }
   function finish(){
     input.disabled = true;
-    poster.style.filter='blur(0px)'; poster.style.transform='scale(1)'; badge.textContent='Trouvé';
+    poster.style.filter='blur(0px)'; poster.style.transform='scale(1)'; badge.textContent='Trouvé'; revealZone.innerHTML='';
     document.getElementById('result-zone').innerHTML = `
       <div class="result">
         <div class="film-title">${cfg.target[cfg.labelKey]}</div>
@@ -869,6 +881,7 @@ function renderEmojiDefi(cfg){
     <div class="emoji-board" id="emoji-board"><div class="attempts-badge" id="badge">0 essai</div></div>
     <div class="actor-zone" id="actor-zone"></div>
     <div class="wrong-list" id="wrong-list"></div>
+    <div id="reveal-zone"></div>
     <div class="search-wrap" id="search-wrap">
       <input type="text" id="search-input" placeholder="${cfg.placeholder}" autocomplete="off">
       <div class="suggestions" id="suggestions"></div>
@@ -895,6 +908,9 @@ function renderEmojiDefi(cfg){
       casting.slice(0, n).map(a => `<div class="actor-card"><img src="${a.photo}" alt="" loading="lazy" onerror="this.style.visibility='hidden'">${all ? `<span>${a.nom}</span>` : ''}</div>`).join('')
     }</div><div class="tmdb-credit">Photos : TMDB — ce site utilise l'API TMDB mais n'est ni approuvé ni certifié par TMDB.</div>`;
   }
+  // Réponse cachée : dès que tous les acteurs sont révélés (à cliquer pour la découvrir)
+  const revealZone = document.getElementById('reveal-zone'), revealState = { revealed:false };
+  const REVEAL_AFTER = Math.max(FIRST_PHOTO_FAILS, FIRST_PHOTO_FAILS - 1 + casting.length);
   let shown = 0;
   function drawBoard(count){
     board.querySelectorAll('.emoji-slot').forEach(n=>n.remove());
@@ -911,6 +927,7 @@ function renderEmojiDefi(cfg){
   function refreshWrong(){
     drawBoard(Math.min(emojis.length, EMOJI_START + wrongGuesses.length));
     drawActors(wrongGuesses.length);
+    updateRevealZone(revealZone, wrongGuesses.length >= REVEAL_AFTER, 'Cliquer pour découvrir la réponse', cfg.target[cfg.labelKey], revealState);
     badge.textContent = wrongGuesses.length + (wrongGuesses.length>1?' essais':' essai');
     wrongList.innerHTML='';
     wrongGuesses.forEach(f => { const c=document.createElement('div'); c.className='wrong-chip'; c.textContent=f[cfg.labelKey]; wrongList.appendChild(c); });
@@ -927,7 +944,7 @@ function renderEmojiDefi(cfg){
   }
   function finish(){
     input.disabled = true;
-    drawBoard(emojis.length); drawActors(0, true); badge.textContent='Trouvé';
+    drawBoard(emojis.length); drawActors(0, true); badge.textContent='Trouvé'; revealZone.innerHTML='';
     document.getElementById('result-zone').innerHTML = `
       <div class="result">
         <div class="film-title">${cfg.target[cfg.labelKey]}</div>
@@ -1021,6 +1038,7 @@ function renderImagesDefi(cfg){
     <header class="defi-header"><div class="defi-eyebrow">${cfg.eyebrow}</div><h2 class="defi-title">${cfg.title}</h2></header>
     <div class="images-row" id="images-row"></div>
     <div class="wrong-list" id="wrong-list"></div>
+    <div id="reveal-zone"></div>
     <div class="search-wrap" id="search-wrap">
       <input type="text" id="search-input" placeholder="${cfg.placeholder}" autocomplete="off">
       <div class="suggestions" id="suggestions"></div>
@@ -1032,6 +1050,7 @@ function renderImagesDefi(cfg){
   const suggestionsBox = document.getElementById('suggestions');
   const wrongList = document.getElementById('wrong-list');
   const imagesRow = document.getElementById('images-row');
+  const revealZone = document.getElementById('reveal-zone'), revealState = { revealed:false };
   wireAutocomplete(input, suggestionsBox, cfg.pool, cfg.labelKey, [], submit);
 
   renderImages();
@@ -1051,6 +1070,8 @@ function renderImagesDefi(cfg){
     wrongList.innerHTML='';
     wrongGuesses.forEach(f => { const c=document.createElement('div'); c.className='wrong-chip'; c.textContent=f[cfg.labelKey]; wrongList.appendChild(c); });
     renderImages();
+    // Défi 6 Cinéma : après N échecs, réponse cachée à découvrir en cliquant
+    updateRevealZone(revealZone, !!cfg.revealAfter && wrongGuesses.length >= cfg.revealAfter, 'Cliquer pour découvrir la réponse', cfg.target[cfg.labelKey], revealState);
   }
   function submit(item){
     input.value=''; suggestionsBox.classList.remove('open'); suggestionsBox.innerHTML='';
@@ -1063,7 +1084,7 @@ function renderImagesDefi(cfg){
     refreshWrong();
   }
   function finish(){
-    input.disabled = true;
+    input.disabled = true; revealZone.innerHTML='';
     document.getElementById('result-zone').innerHTML = `
       <div class="result">
         <div class="film-title">${cfg.target[cfg.labelKey]}</div>
