@@ -12416,9 +12416,9 @@
     "acteur_principal": "Harrison Ford",
     "affiche": "assets/affiches/indiana_jones_et_le_temple_maudit.jpg",
     "repliques_cultes": [
-      "Short Round, step on it!"
+      "Well, I always thought archaeologists were always funny little men searching for their mommies. - Mummies"
     ],
-    "replique_vf": "Demi-Lune, accélère !",
+    "replique_vf": "Tiens, j'ai toujours pensé que les archéologues étaient de petits hommes amusants occupés à chercher leur mamie. - Leur momie.",
     "audio_replique": "assets/audio/repliques/indiana_jones_et_le_temple_maudit.mp3",
     "images_defi6": {
       "difficile": "assets/images/indiana_jones_et_le_temple_maudit_difficile.jpg",
@@ -12468,9 +12468,9 @@
     "acteur_principal": "Harrison Ford",
     "affiche": "assets/affiches/indiana_jones_et_la_derniere_croisade.jpg",
     "repliques_cultes": [
-      "He chose... poorly."
+      "I didn't know you could fly a plane. / – Fly, yes. Land, no."
     ],
-    "replique_vf": "Il a mal choisi.",
+    "replique_vf": "J'ignorais que tu savais piloter un avion. / – Piloter, oui. Atterrir, non.",
     "audio_replique": "assets/audio/repliques/indiana_jones_et_la_derniere_croisade.mp3",
     "images_defi6": {
       "difficile": "assets/images/indiana_jones_et_la_derniere_croisade_difficile.jpg",
@@ -12520,8 +12520,9 @@
     "acteur_principal": "Harrison Ford",
     "affiche": "assets/affiches/indiana_jones_et_le_royaume_du_crane_de_cristal.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "You know, for an old man you ain't bad in a fight."
     ],
+    "replique_vf": "Vous savez, pour un vieil homme, vous n'êtes pas mauvais au combat.",
     "audio_replique": "assets/audio/repliques/indiana_jones_et_le_royaume_du_crane_de_cristal.mp3",
     "images_defi6": {
       "difficile": "assets/images/indiana_jones_et_le_royaume_du_crane_de_cristal_difficile.jpg",
@@ -12571,8 +12572,9 @@
     "acteur_principal": "Harrison Ford",
     "affiche": "assets/affiches/indiana_jones_et_le_cadran_de_la_destinee.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "You're German, Voller. Don't try and be funny."
     ],
+    "replique_vf": "Vous êtes allemand, Voller. N'essayez pas d'être drôle.",
     "audio_replique": "assets/audio/repliques/indiana_jones_et_le_cadran_de_la_destinee.mp3",
     "images_defi6": {
       "difficile": "assets/images/indiana_jones_et_le_cadran_de_la_destinee_difficile.jpg",
@@ -12622,7 +12624,7 @@
     "acteur_principal": "Jennifer Lawrence",
     "affiche": "assets/affiches/hunger_games_l_embrasement.jpg",
     "repliques_cultes": [
-      "Remember who the real enemy is."
+      "Don't forget who the real enemy is."
     ],
     "replique_vf": "N'oubliez pas qui est le véritable ennemi.",
     "audio_replique": "assets/audio/repliques/hunger_games_l_embrasement.mp3",
@@ -12676,6 +12678,7 @@
     "repliques_cultes": [
       "Oh, yeah. Ooh, ah. That's how it always starts. Then later there's running and screaming."
     ],
+    "replique_vf": "Oh, oui. Oooh, ahhh, ça commence toujours comme ça. Puis, plus tard, ils courent et crient.",
     "audio_replique": "assets/audio/repliques/le_monde_perdu_jurassic_park.mp3",
     "images_defi6": {
       "difficile": "assets/images/le_monde_perdu_jurassic_park_difficile.jpg",
@@ -12727,6 +12730,7 @@
     "repliques_cultes": [
       "Get some rest, Pam. You look tired."
     ],
+    "replique_vf": "Reposez-vous, Pam, vous avez l'air crevé.",
     "audio_replique": "assets/audio/repliques/la_mort_dans_la_peau.mp3",
     "images_defi6": {
       "difficile": "assets/images/la_mort_dans_la_peau_difficile.jpg",
@@ -12880,8 +12884,9 @@
     "acteur_principal": "James McAvoy",
     "affiche": "assets/affiches/split.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "Only through pain can you achieve your greatness!"
     ],
+    "replique_vf": "Ce n'est qu'à travers la souffrance que vous pouvez atteindre votre grandeur !",
     "audio_replique": "assets/audio/repliques/split.mp3",
     "images_defi6": {
       "difficile": "assets/images/split_difficile.jpg",
@@ -12931,8 +12936,9 @@
     "acteur_principal": "James McAvoy",
     "affiche": "assets/affiches/glass.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "This is not a limited edition. This was an origin story the whole time."
     ],
+    "replique_vf": "Ce n'est pas une édition limitée. C'était une histoire d'origine depuis le début.",
     "audio_replique": "assets/audio/repliques/glass.mp3",
     "images_defi6": {
       "difficile": "assets/images/glass_difficile.jpg",
@@ -12982,8 +12988,9 @@
     "acteur_principal": "Daniel Craig",
     "affiche": "assets/affiches/skyfall.jpg",
     "repliques_cultes": [
-      "Sometimes the old ways are the best."
+      "Oh, to hell with dignity. I'll leave when the job's done."
     ],
+    "replique_vf": "Oh, au diable la dignité. Je partirai quand le travail sera terminé.",
     "audio_replique": "assets/audio/repliques/skyfall.mp3",
     "images_defi6": {
       "difficile": "assets/images/skyfall_difficile.jpg",
@@ -13033,8 +13040,9 @@
     "acteur_principal": "Daniel Craig",
     "affiche": "assets/affiches/quantum_of_solace.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "Take a breath, you've got one shot, make it count."
     ],
+    "replique_vf": "Inspirez à fond, un seul coup suffira. Qu'il soit gagnant !",
     "audio_replique": "assets/audio/repliques/quantum_of_solace.mp3",
     "images_defi6": {
       "difficile": "assets/images/quantum_of_solace_difficile.jpg",
@@ -13084,8 +13092,9 @@
     "acteur_principal": "Daniel Craig",
     "affiche": "assets/affiches/spectre.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "You came across me so many times and yet you never saw me."
     ],
+    "replique_vf": "Tu as croisé ma route tant de fois et pourtant tu ne m'as jamais vu.",
     "audio_replique": "assets/audio/repliques/spectre.mp3",
     "images_defi6": {
       "difficile": "assets/images/spectre_difficile.jpg",
@@ -13135,8 +13144,9 @@
     "acteur_principal": "Daniel Craig",
     "affiche": "assets/affiches/mourir_peut_attendre.jpg",
     "repliques_cultes": [
-      "We have all the time in the world."
+      "We all have our secrets. We just didn't get to yours yet."
     ],
+    "replique_vf": "Nous avons tous nos secrets. Nous n'en sommes pas encore arrivés aux vôtres.",
     "audio_replique": "assets/audio/repliques/mourir_peut_attendre.mp3",
     "images_defi6": {
       "difficile": "assets/images/mourir_peut_attendre_difficile.jpg",
@@ -13186,8 +13196,9 @@
     "acteur_principal": "Sean Connery",
     "affiche": "assets/affiches/goldfinger.jpg",
     "repliques_cultes": [
-      "No, Mr. Bond, I expect you to die!"
+      "This is gold, Mr. Bond. All my life I've been in love with its color... its brilliance, its divine heaviness."
     ],
+    "replique_vf": "C'est de l'or, Monsieur Bond. Toute ma vie, j'ai été amoureux de sa couleur... de son éclat, de sa divine lourdeur.",
     "audio_replique": "assets/audio/repliques/goldfinger.mp3",
     "images_defi6": {
       "difficile": "assets/images/goldfinger_difficile.jpg",
@@ -13239,6 +13250,7 @@
     "repliques_cultes": [
       "Nothing will make sense to your American ears, and you will doubt everything we do. But in the end, you will understand."
     ],
+    "replique_vf": "Rien n'aura de sens pour tes oreilles américaines, et tu douteras de tout ce que nous faisons, mais à la fin, tu comprendras.",
     "audio_replique": "assets/audio/repliques/sicario.mp3",
     "images_defi6": {
       "difficile": "assets/images/sicario_difficile.jpg",
@@ -13287,8 +13299,9 @@
     "acteur_principal": "Michael Douglas",
     "affiche": "assets/affiches/traffic.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "In traffic, no one gets away clean."
     ],
+    "replique_vf": "Dans le trafic, personne n'a les mains propres.",
     "audio_replique": "assets/audio/repliques/traffic.mp3",
     "images_defi6": {
       "difficile": "assets/images/traffic_difficile.jpg",
@@ -13337,8 +13350,9 @@
     "acteur_principal": "Macon Blair",
     "affiche": "assets/affiches/blue_ruin.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "No speeches, no talking. You point the gun, You shoot the gun."
     ],
+    "replique_vf": "Pas de discours, pas de blabla. Tu pointes le flingue, tu tires.",
     "audio_replique": "assets/audio/repliques/blue_ruin.mp3",
     "images_defi6": {
       "difficile": "assets/images/blue_ruin_difficile.jpg",
@@ -13387,8 +13401,9 @@
     "acteur_principal": "Jennifer Lawrence",
     "affiche": "assets/affiches/winter_s_bone.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "Never ask for what ought to be offered."
     ],
+    "replique_vf": "Ne demande jamais ce qui devrait être offert.",
     "audio_replique": "assets/audio/repliques/winter_s_bone.mp3",
     "images_defi6": {
       "difficile": "assets/images/winter_s_bone_difficile.jpg",
@@ -13437,8 +13452,9 @@
     "acteur_principal": "Joaquin Phoenix",
     "affiche": "assets/affiches/you_were_never_really_here.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "Joe, wake up. It's a beautiful day."
     ],
+    "replique_vf": "(Joe, réveille-toi. C'est une belle journée.",
     "audio_replique": "assets/audio/repliques/you_were_never_really_here.mp3",
     "images_defi6": {
       "difficile": "assets/images/you_were_never_really_here_difficile.jpg",
@@ -13487,8 +13503,9 @@
     "acteur_principal": "Jake Gyllenhaal",
     "affiche": "assets/affiches/enemy.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "Chaos is order yet undeciphered."
     ],
+    "replique_vf": "Le chaos est un ordre qui n'a pas encore été déchiffré.",
     "audio_replique": "assets/audio/repliques/enemy.mp3",
     "images_defi6": {
       "difficile": "assets/images/enemy_difficile.jpg",
@@ -13537,8 +13554,9 @@
     "acteur_principal": "Amy Adams",
     "affiche": "assets/affiches/nocturnal_animals.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "When you love someone, you work it out. You don't just throw it away. You have to be careful with it, you might never get it again."
     ],
+    "replique_vf": "Quand on aime quelqu'un, on s'arrange. On ne le rejette pas comme ça. Il faut en prendre soin, parce que ça n'arrivera peut-être plus jamais.",
     "audio_replique": "assets/audio/repliques/nocturnal_animals.mp3",
     "images_defi6": {
       "difficile": "assets/images/nocturnal_animals_difficile.jpg",
@@ -13587,8 +13605,9 @@
     "acteur_principal": "Jessica Harper",
     "affiche": "assets/affiches/suspiria.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "Bad luck isn't brought by broken mirrors, but by broken minds."
     ],
+    "replique_vf": "Le malheur n'est pas apporté par les miroirs brisés, mais par les esprits brisés.",
     "audio_replique": "assets/audio/repliques/suspiria.mp3",
     "images_defi6": {
       "difficile": "assets/images/suspiria_difficile.jpg",
@@ -13637,8 +13656,9 @@
     "acteur_principal": "Demi Moore",
     "affiche": "assets/affiches/the_substance.jpg",
     "repliques_cultes": [
-      "Remember, you are one."
+      "The balance must be respected."
     ],
+    "replique_vf": "L’équilibre doit être respecté.",
     "audio_replique": "assets/audio/repliques/the_substance.mp3",
     "images_defi6": {
       "difficile": "assets/images/the_substance_difficile.jpg",
@@ -13687,8 +13707,9 @@
     "acteur_principal": "Chiwetel Ejiofor",
     "affiche": "assets/affiches/backrooms.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "All these rooms, this place builds them."
     ],
+    "replique_vf": "Toutes ces pièces, cet endroit les construit.",
     "audio_replique": "assets/audio/repliques/backrooms.mp3",
     "images_defi6": {
       "difficile": "assets/images/backrooms_difficile.jpg",
@@ -13737,9 +13758,9 @@
     "acteur_principal": "Adam Sandler",
     "affiche": "assets/affiches/uncut_gems.jpg",
     "repliques_cultes": [
-      "This is how I win."
+      "This is me. This is how I win."
     ],
-    "replique_vf": "C'est comme ça que je gagne.",
+    "replique_vf": "C’est tout moi. C'est comme ça que JE gagne.",
     "audio_replique": "assets/audio/repliques/uncut_gems.mp3",
     "images_defi6": {
       "difficile": "assets/images/uncut_gems_difficile.jpg",
@@ -13839,8 +13860,9 @@
     "acteur_principal": "Leonardo DiCaprio",
     "affiche": "assets/affiches/killers_of_the_flower_moon.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "I don't know what you said, but it must've been Indian for 'handsome devil'"
     ],
+    "replique_vf": "Je sais pas ce que t'as dit, mais ça devait vouloir dire 'beau diable' en indien.",
     "audio_replique": "assets/audio/repliques/killers_of_the_flower_moon.mp3",
     "images_defi6": {
       "difficile": "assets/images/killers_of_the_flower_moon_difficile.jpg",
@@ -13889,8 +13911,9 @@
     "acteur_principal": "Samuel L. Jackson",
     "affiche": "assets/affiches/les_8_salopards.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "You only need to hang mean bastards, but mean bastards you need to hang !"
     ],
+    "replique_vf": "Tu n'as besoin de pendre que les sales bâtards, mais les sales bâtards, il faut les pendre !",
     "audio_replique": "assets/audio/repliques/les_8_salopards.mp3",
     "images_defi6": {
       "difficile": "assets/images/les_8_salopards_difficile.jpg",
@@ -13939,8 +13962,9 @@
     "acteur_principal": "Leonardo DiCaprio",
     "affiche": "assets/affiches/one_battle_after_another.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "You know what freedom is? No fear. Just like Tom Cruise."
     ],
+    "replique_vf": "Tu sais ce que c'est la liberté ? Pas de peur. Exactement comme Tom Cruise.",
     "audio_replique": "assets/audio/repliques/one_battle_after_another.mp3",
     "images_defi6": {
       "difficile": "assets/images/one_battle_after_another_difficile.jpg",
@@ -13989,8 +14013,9 @@
     "acteur_principal": "Adrien Brody",
     "affiche": "assets/affiches/the_brutalist.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "Nothing is of its own explanation. Is there a better description of a cube than that of its construction?"
     ],
+    "replique_vf": "Rien ne porte en soi sa propre explication. Existe-t-il une meilleure description d'un cube que celle de sa construction ?",
     "audio_replique": "assets/audio/repliques/the_brutalist.mp3",
     "images_defi6": {
       "difficile": "assets/images/the_brutalist_difficile.jpg",
@@ -14039,8 +14064,9 @@
     "acteur_principal": "Paul Giamatti",
     "affiche": "assets/affiches/the_holdovers.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "(“For most people, life is like a henhouse ladder -- shitty and short."
     ],
+    "replique_vf": "Pour la plupart des gens, la vie est comme l'échelle d'un poulailler : courte et pleine de merde.",
     "audio_replique": "assets/audio/repliques/the_holdovers.mp3",
     "images_defi6": {
       "difficile": "assets/images/the_holdovers_difficile.jpg",
@@ -14089,8 +14115,9 @@
     "acteur_principal": "Bill Murray",
     "affiche": "assets/affiches/la_vie_aquatique.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "That's an endangered species at most. What would be the scientific purpose of killing it?"
     ],
+    "replique_vf": "C'est une espèce en voie de disparition. Quel sera l'intérêt scientifique ?",
     "audio_replique": "assets/audio/repliques/la_vie_aquatique.mp3",
     "images_defi6": {
       "difficile": "assets/images/la_vie_aquatique_difficile.jpg",
@@ -14141,6 +14168,7 @@
     "repliques_cultes": [
       "I love you, but you don't know what you're talking about."
     ],
+    "replique_vf": "Je t'aime, mais tu ne sais pas de quoi tu parles",
     "audio_replique": "assets/audio/repliques/moonrise_kingdom.mp3",
     "images_defi6": {
       "difficile": "assets/images/moonrise_kingdom_difficile.jpg",
@@ -14189,8 +14217,9 @@
     "acteur_principal": "Bill Murray",
     "affiche": "assets/affiches/the_french_dispatch.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "Just try to make it sound like you wrote it that way on purpose."
     ],
+    "replique_vf": "Essaie juste de faire en sorte qu'on ait l'impression que tu l'as écrit comme ça exprès.",
     "audio_replique": "assets/audio/repliques/the_french_dispatch.mp3",
     "images_defi6": {
       "difficile": "assets/images/the_french_dispatch_difficile.jpg",
@@ -14290,8 +14319,9 @@
     "acteur_principal": "Woody Allen",
     "affiche": "assets/affiches/meurtre_mysterieux_a_manhattan.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "I just can't listen to any more Wagner, you know... I'm starting to get the urge to conquer Poland."
     ],
+    "replique_vf": "Quand j’écoute trop Wagner, j’ai envie d’envahir la Pologne.",
     "audio_replique": "assets/audio/repliques/meurtre_mysterieux_a_manhattan.mp3",
     "images_defi6": {
       "difficile": "assets/images/meurtre_mysterieux_a_manhattan_difficile.jpg",
@@ -14340,9 +14370,9 @@
     "acteur_principal": "Owen Wilson",
     "affiche": "assets/affiches/midnight_in_paris.jpg",
     "repliques_cultes": [
-      "The present is a little unsatisfying because life is a little unsatisfying."
+      "That's what the present is. It's a little unsatisfying because life is a little unsatisfying."
     ],
-    "replique_vf": "Le présent est toujours un peu insatisfaisant, parce que la vie est un peu insatisfaisante.",
+    "replique_vf": "C'est ça le présent. C'est un peu décevant parce que la vie est décevante.",
     "audio_replique": "assets/audio/repliques/midnight_in_paris.mp3",
     "images_defi6": {
       "difficile": "assets/images/midnight_in_paris_difficile.jpg",
@@ -14391,8 +14421,9 @@
     "acteur_principal": "Viggo Mortensen",
     "affiche": "assets/affiches/captain_fantastic.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "We're defined by our actions, not our words."
     ],
+    "replique_vf": "Nous sommes définis par nos actes, pas par nos mots.",
     "audio_replique": "assets/audio/repliques/captain_fantastic.mp3",
     "images_defi6": {
       "difficile": "assets/images/captain_fantastic_difficile.jpg",
@@ -14441,8 +14472,9 @@
     "acteur_principal": "Casey Affleck",
     "affiche": "assets/affiches/a_ghost_story.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "I'm waiting for someone. - Who ? - I don't remember."
     ],
+    "replique_vf": "J'attends quelqu'un. - Qui ? - Je ne me souviens pas",
     "audio_replique": "assets/audio/repliques/a_ghost_story.mp3",
     "images_defi6": {
       "difficile": "assets/images/a_ghost_story_difficile.jpg",
@@ -14491,8 +14523,9 @@
     "acteur_principal": "Tom Hanks",
     "affiche": "assets/affiches/le_terminal.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "So, currently you are a citizen - of nowhere."
     ],
+    "replique_vf": "Donc, actuellement vous êtes un citoyen... de nulle part.",
     "audio_replique": "assets/audio/repliques/le_terminal.mp3",
     "images_defi6": {
       "difficile": "assets/images/le_terminal_difficile.jpg",
@@ -14694,7 +14727,7 @@
     "acteur_principal": "Lubna Azabal",
     "affiche": "assets/affiches/incendies.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "La mort n'est jamais la fin d'une histoire. Il y a toujours des traces."
     ],
     "audio_replique": "assets/audio/repliques/incendies.mp3",
     "images_defi6": {
@@ -14744,8 +14777,9 @@
     "acteur_principal": "Penélope Cruz",
     "affiche": "assets/affiches/volver.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "No me digas eso, Raimunda, que me pongo a llorar... y los fantasmas no lloran."
     ],
+    "replique_vf": "Ne me dis pas ça Raimunda, ou je vais me mettre à pleurer... et les fantômes ne pleurent pas.",
     "audio_replique": "assets/audio/repliques/volver.mp3",
     "images_defi6": {
       "difficile": "assets/images/volver_difficile.jpg",
@@ -14794,8 +14828,9 @@
     "acteur_principal": "Tobey Maguire",
     "affiche": "assets/affiches/brothers.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "You know what I did to fucking get back to you?! You fucking bitch! (...) You are fucking my brother in my fucking house!"
     ],
+    "replique_vf": "Tu sais ce que j'ai fait pour revenir vers toi ?! (...) Tu baises mon frère dans ma putain de maison !",
     "audio_replique": "assets/audio/repliques/brothers.mp3",
     "images_defi6": {
       "difficile": "assets/images/brothers_difficile.jpg",
@@ -14846,6 +14881,7 @@
     "repliques_cultes": [
       "It's not easy to raise my hand and send a boy to die without talking about it first."
     ],
+    "replique_vf": "Ce n’est pas facile de lever la main pour envoyer un gosse à la mort sans en parler d'abord.",
     "audio_replique": "assets/audio/repliques/12_hommes_en_colere.mp3",
     "images_defi6": {
       "difficile": "assets/images/12_hommes_en_colere_difficile.jpg",
@@ -14896,6 +14932,7 @@
     "repliques_cultes": [
       "The trick, William Potter, is not minding that it hurts."
     ],
+    "replique_vf": "Le truc, William Potter, c'est de ne pas faire attention à la douleur.",
     "audio_replique": "assets/audio/repliques/lawrence_d_arabie.mp3",
     "images_defi6": {
       "difficile": "assets/images/lawrence_d_arabie_difficile.jpg",
@@ -14995,7 +15032,7 @@
     "acteur_principal": "Toshiro Mifune",
     "affiche": "assets/affiches/les_sept_samourais.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "Encore une fois, nous avons survécu... C'est encore un combat perdu. Ce sont les paysans les vrais vainqueurs, pas nous."
     ],
     "audio_replique": "assets/audio/repliques/les_sept_samourais.mp3",
     "images_defi6": {
@@ -15045,8 +15082,9 @@
     "acteur_principal": "Cary Grant",
     "affiche": "assets/affiches/la_mort_aux_trousses.jpg",
     "repliques_cultes": [
-      "Roger O. Thornhill. The O stands for nothing."
+      "That's funny, that plane's dustin' crops where there ain't no crops"
     ],
+    "replique_vf": "C'est bizarre ... Cet avion-là, il pulvérise les récoltes là où il n'y en a pas.",
     "audio_replique": "assets/audio/repliques/la_mort_aux_trousses.mp3",
     "images_defi6": {
       "difficile": "assets/images/la_mort_aux_trousses_difficile.jpg",
@@ -15095,8 +15133,9 @@
     "acteur_principal": "Charlton Heston",
     "affiche": "assets/affiches/ben_hur.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "You can break a man's skull. You can arrest him. You can throw him into a dungeon. But how do you fight an idea ?"
     ],
+    "replique_vf": "Tu peux briser le crâne d'un homme, l'arrêter, le jeter dans un donjon. Mais comment contrôlez-vous ce qui se passe là-haut ?",
     "audio_replique": "assets/audio/repliques/ben_hur.mp3",
     "images_defi6": {
       "difficile": "assets/images/ben_hur_difficile.jpg",
@@ -15145,8 +15184,9 @@
     "acteur_principal": "Cary Grant",
     "affiche": "assets/affiches/charade.jpg",
     "repliques_cultes": [
-      "Do you know what's wrong with you? Nothing!"
+      "I don't bite, you know... unless it's called for."
     ],
+    "replique_vf": "Je ne mords pas, vous savez... sauf si on me le demande.",
     "audio_replique": "assets/audio/repliques/charade.mp3",
     "images_defi6": {
       "difficile": "assets/images/charade_difficile.jpg",
@@ -15195,8 +15235,9 @@
     "acteur_principal": "Tippi Hedren",
     "affiche": "assets/affiches/les_oiseaux.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      " I think we're in real trouble. I don't know how this started or why, but I know it's here and we'd be crazy to ignore it."
     ],
+    "replique_vf": "Je pense que nous sommes dans de beaux draps. Je ne sais pas comment cela a commencé ni pourquoi, mais je sais que c'est là et nous serions fous de l'ignorer.",
     "audio_replique": "assets/audio/repliques/les_oiseaux.mp3",
     "images_defi6": {
       "difficile": "assets/images/les_oiseaux_difficile.jpg",
@@ -15296,8 +15337,9 @@
     "acteur_principal": "Brad Pitt",
     "affiche": "assets/affiches/bullet_train.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "You look like every white homeless man I've ever seen."
     ],
+    "replique_vf": "Tu ressembles à tous les blancs SDF que j'ai vu dans ma vie.",
     "audio_replique": "assets/audio/repliques/bullet_train.mp3",
     "images_defi6": {
       "difficile": "assets/images/bullet_train_difficile.jpg",
@@ -15346,8 +15388,9 @@
     "acteur_principal": "Ansel Elgort",
     "affiche": "assets/affiches/baby_driver.jpg",
     "repliques_cultes": [
-      "[Ajouter replique]"
+      "The moment you catch feelings is the moment you catch a bullet."
     ],
+    "replique_vf": "Le moment où vous commencez à avoir des sentiments, c’est le moment où vous vous prenez une balle.",
     "audio_replique": "assets/audio/repliques/baby_driver.mp3",
     "images_defi6": {
       "difficile": "assets/images/baby_driver_difficile.jpg",
