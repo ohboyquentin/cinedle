@@ -4,9 +4,7 @@
 // Clé : la "clé API (v3)" ou le "jeton d'accès" (commence par eyJ) de ton compte TMDB. Node 18+ requis.
 const fs = require('fs');
 const KEY = process.argv[2], FORCE = process.argv.includes('--force');
-if (!KEY) { console.error('Usage : node tmdb_casting.js TA_CLE_TMDB'); process.exit(1); }
-// Films que la recherche par titre ne trouve pas : identifiant TMDB (visible dans l'URL themoviedb.org/movie/<id>)
-const IDS = { "Indiana Jones et les Aventuriers de l'Arche Perdue": 85, 'Indiana Jones et le Cadran de la destinée': 335977 };
+if (!KEY) { console.error('Usage : node tmdb_casting.js 7b93f0fa13f72fcb119edf78b8d384b4'); process.exit(1); }
 const NB = 5, IMG = 'https://image.tmdb.org/t/p/w185';
 const bearer = KEY.startsWith('eyJ');
 async function api(path, params = {}) {
@@ -24,8 +22,8 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   for (const f of films) {
     if (f.casting && f.casting.length && !FORCE) continue;
     try {
-      let res = IDS[f.titre] ? [{ id: IDS[f.titre] }] : [];
-      if (!res.length) for (const lang of ['fr-FR', 'en-US']) {
+      let res = [];
+      for (const lang of ['fr-FR', 'en-US']) {
         res = (await api('/search/movie', { query: f.titre, language: lang })).results || [];
         res = res.filter(m => m.release_date && Math.abs(+m.release_date.slice(0, 4) - f.annee) <= 1);
         if (res.length) break;

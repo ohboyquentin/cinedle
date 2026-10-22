@@ -4494,7 +4494,7 @@
     "repliques_cultes": [
       "Only one is a wanderer; two together are always going somewhere."
     ],
-    "replique_vf": "Un seul est un vagabond ; à deux, on va toujours quelque part.",
+    "replique_vf": "Pour rouler au hasard, il faut être seul. Dès qu'on est deux, on va toujours quelque part.",
     "audio_replique": "assets/audio/repliques/vertigo.mp3",
     "musique": {
       "titre": "Scène d'Amour",
@@ -4548,9 +4548,9 @@
     "acteur_principal": "James Stewart",
     "affiche": "assets/affiches/fenetre_sur_cour.jpg",
     "repliques_cultes": [
-      "We've become a race of Peeping Toms."
+      "Intelligence. Nothing has caused the human race so much trouble as intelligence."
     ],
-    "replique_vf": "Nous sommes devenus une race de voyeurs.",
+    "replique_vf": "Intelligence. Rien n'a causé autant de problèmes à la race humaine que l'intelligence.",
     "audio_replique": "assets/audio/repliques/fenetre_sur_cour.mp3",
     "musique": {
       "titre": "Rear Window Theme",
@@ -4831,9 +4831,9 @@
     "acteur_principal": "Robert De Niro",
     "affiche": "assets/affiches/il_etait_une_fois_amerique.jpg",
     "repliques_cultes": [
-      "You've been like a brother to me."
+      "Noodles... I slipped."
     ],
-    "replique_vf": "Tu as été comme un frère pour moi.",
+    "replique_vf": "Noodles... J'ai glissé.",
     "audio_replique": "assets/audio/repliques/il_etait_une_fois_amerique.mp3",
     "musique": {
       "titre": "Deborah's Theme",
@@ -4887,9 +4887,9 @@
     "acteur_principal": "Clint Eastwood",
     "affiche": "assets/affiches/bon_brute_truand.jpg",
     "repliques_cultes": [
-      "There are two kinds of people in this world."
+      "You see, in this world there's two kinds of people, my friend: those with loaded guns and those who dig. You dig."
     ],
-    "replique_vf": "Il y a deux sortes de gens dans ce monde.",
+    "replique_vf": "Tu vois, le monde se divise en deux catégories, ceux qui ont un pistolet chargé et ceux qui creusent. Toi, tu creuses.",
     "audio_replique": "assets/audio/repliques/bon_brute_truand.mp3",
     "musique": {
       "titre": "The Good, the Bad and the Ugly",
@@ -5055,9 +5055,9 @@
     "acteur_principal": "Colin Firth",
     "affiche": "assets/affiches/discours_roi.jpg",
     "repliques_cultes": [
-      "I have a right to be heard!"
+      "Because I have a right to be heard! I have a voice!"
     ],
-    "replique_vf": "J'ai le droit d'être entendu !",
+    "replique_vf": "Parce que j'ai le droit d'être entendu. J'ai une voix !",
     "audio_replique": "assets/audio/repliques/discours_roi.mp3",
     "musique": {
       "titre": "The King's Speech",
@@ -5167,9 +5167,9 @@
     "acteur_principal": "Kevin Spacey",
     "affiche": "assets/affiches/american_beauty.jpg",
     "repliques_cultes": [
-      "Look closer."
+      "Sometimes there's so much beauty in the world—I feel like I can't take it, like my heart is just going to cave in."
     ],
-    "replique_vf": "Regardez de plus près.",
+    "replique_vf": "Parfois, il y a tellement de beauté dans le monde... j'ai l'impression que je ne peux pas le supporter, que mon cœur va lâcher.",
     "audio_replique": "assets/audio/repliques/american_beauty.mp3",
     "musique": {
       "titre": "American Beauty",
@@ -5223,8 +5223,9 @@
     "acteur_principal": "Clint Eastwood",
     "affiche": "assets/affiches/million_dollar_baby.jpg",
     "repliques_cultes": [
-      "Mo cuishle."
+      "Mo cuishle. It means my darling. My blood."
     ],
+    "replique_vf": "Mo cuishle. Ça veut dire ma chérie. Mon sang.",
     "audio_replique": "assets/audio/repliques/million_dollar_baby.mp3",
     "musique": {
       "titre": "Million Dollar Baby Theme",
@@ -5278,9 +5279,9 @@
     "acteur_principal": "Sean Penn",
     "affiche": "assets/affiches/mystic_river.jpg",
     "repliques_cultes": [
-      "We bury our sins here, Dave."
+      "Sometimes I think... I think all three of us got in that car. And all of this is just a dream, you know? "
     ],
-    "replique_vf": "On enterre nos péchés ici, Dave.",
+    "replique_vf": "Parfois, je me dis... qu'on est montés tous les trois dans cette voiture. Et que tout ceci n'est qu'un rêve.",
     "audio_replique": "assets/audio/repliques/mystic_river.mp3",
     "musique": {
       "titre": "Mystic River Theme",
@@ -5390,9 +5391,9 @@
     "acteur_principal": "Michael Keaton",
     "affiche": "assets/affiches/birdman.jpg",
     "repliques_cultes": [
-      "This is my chance to do something right."
+      "Popularity is the slutty little cousin of prestige."
     ],
-    "replique_vf": "C'est ma chance de faire enfin quelque chose de bien.",
+    "replique_vf": "La popularité est la petite cousine salope du prestige.",
     "audio_replique": "assets/audio/repliques/birdman.mp3",
     "musique": {
       "titre": "Birdman Theme",
@@ -5446,9 +5447,9 @@
     "acteur_principal": "Leonardo DiCaprio",
     "affiche": "assets/affiches/the_revenant.jpg",
     "repliques_cultes": [
-      "As long as you can still grab a breath, you fight."
+      "As long as you can still grab a breath, you fight.You breathe… keep breathing."
     ],
-    "replique_vf": "Tant que tu peux encore respirer, tu te bats.",
+    "replique_vf": "Tant que tu peux encore reprendre ton souffle, tu te bats. Tu respires… continue de respirer.",
     "audio_replique": "assets/audio/repliques/the_revenant.mp3",
     "musique": {
       "titre": "The Revenant Theme",
@@ -5502,9 +5503,9 @@
     "acteur_principal": "Sean Penn",
     "affiche": "assets/affiches/21_grammes.jpg",
     "repliques_cultes": [
-      "How many lives do we live?"
+      "The earth turned to bring us closer; it revolved on itself and in us, until it finally united us, in this dream."
     ],
-    "replique_vf": "Combien de vies vit-on ?",
+    "replique_vf": "La terre a tourné pour nous rapprocher ; elle a tourné sur elle-même et en nous, jusqu'à ce qu'elle nous réunisse enfin, dans ce rêve.",
     "audio_replique": "assets/audio/repliques/21_grammes.mp3",
     "musique": {
       "titre": "21 Grams Theme",
@@ -5558,9 +5559,9 @@
     "acteur_principal": "Brad Pitt",
     "affiche": "assets/affiches/babel.jpg",
     "repliques_cultes": [
-      "We are all connected."
+      "They look at us like we're monsters."
     ],
-    "replique_vf": "Nous sommes tous connectés.",
+    "replique_vf": "Ils nous regardent comme si nous étions des monstres.",
     "audio_replique": "assets/audio/repliques/babel.mp3",
     "musique": {
       "titre": "Iguazu",
