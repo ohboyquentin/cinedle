@@ -2854,5 +2854,605 @@
       "moyenne": "assets/images/zootopie_2_moyenne.jpg",
       "facile": "assets/images/zootopie_2_facile.jpg"
     }
+  },
+  {
+    "id": "anim_120",
+    "titre": "Hôtel Transylvanie",
+    "studio": "Sony Animation",
+    "annee": 2012,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 91,
+    "realisateur": "Genndy Tartakovsky",
+    "affiche": "assets/affiches/hotel_transylvanie.jpg",
+    "repliques_cultes": [
+      "Je le tuerais bien, mais cela ferait reculer la cause des monstres de plusieurs siècles."
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/hotel_transylvanie.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/hotel_transylvanie_difficile.jpg",
+      "moyenne": "assets/images/hotel_transylvanie_moyenne.jpg",
+      "facile": "assets/images/hotel_transylvanie_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_121",
+    "titre": "Dingo et Max",
+    "studio": "Disney",
+    "annee": 1995,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 78,
+    "realisateur": "Kevin Lima",
+    "affiche": "assets/affiches/dingo_et_max.jpg",
+    "repliques_cultes": [
+      "Tu es mon fils, Max. Peu importe ta taille, tu seras toujours mon fils."
+    ],
+    "musique": {
+      "titre": "Stand Out",
+      "artiste": "Tevin Campbell",
+      "extrait_audio": "assets/audio/musiques/dingo_et_max.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/dingo_et_max_difficile.jpg",
+      "moyenne": "assets/images/dingo_et_max_moyenne.jpg",
+      "facile": "assets/images/dingo_et_max_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_122",
+    "titre": "L'Étrange Noël de Monsieur Jack",
+    "studio": "Disney",
+    "annee": 1993,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "duree_minutes": 76,
+    "realisateur": "Henry Selick",
+    "affiche": "assets/affiches/l_etrange_noel_de_monsieur_jack.jpg",
+    "repliques_cultes": [
+      "Ce n'est pas parce que je ne peux pas le voir que je n'arrive pas à y croire !"
+    ],
+    "musique": {
+      "titre": "This Is Halloween",
+      "artiste": "Danny Elfman",
+      "extrait_audio": "assets/audio/musiques/l_etrange_noel_de_monsieur_jack.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/l_etrange_noel_de_monsieur_jack_difficile.jpg",
+      "moyenne": "assets/images/l_etrange_noel_de_monsieur_jack_moyenne.jpg",
+      "facile": "assets/images/l_etrange_noel_de_monsieur_jack_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_123",
+    "titre": "Shrek 2",
+    "studio": "DreamWorks",
+    "annee": 2004,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 93,
+    "realisateur": "Andrew Adamson, Kelly Asbury & Conrad Vernon",
+    "affiche": "assets/affiches/shrek_2.jpg",
+    "repliques_cultes": [
+      "Dites quelque chose de fou, comme : « Je porte des sous-vêtements pour dames !"
+    ],
+    "musique": {
+      "titre": "Holding Out for a Hero",
+      "artiste": "Frou Frou",
+      "extrait_audio": "assets/audio/musiques/shrek_2.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/shrek_2_difficile.jpg",
+      "moyenne": "assets/images/shrek_2_moyenne.jpg",
+      "facile": "assets/images/shrek_2_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_124",
+    "titre": "Shrek le Troisième",
+    "studio": "DreamWorks",
+    "annee": 2007,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 93,
+    "realisateur": "Chris Miller & Raman Hui",
+    "affiche": "assets/affiches/shrek_le_troisieme.jpg",
+    "repliques_cultes": [
+      "J'ai la fesse droite qui me démange fortement et je ne peux pas bouger."
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/shrek_le_troisieme.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/shrek_le_troisieme_difficile.jpg",
+      "moyenne": "assets/images/shrek_le_troisieme_moyenne.jpg",
+      "facile": "assets/images/shrek_le_troisieme_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_125",
+    "titre": "Kung Fu Panda 2",
+    "studio": "DreamWorks",
+    "annee": 2011,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 90,
+    "realisateur": "Jennifer Yuh Nelson",
+    "affiche": "assets/affiches/kung_fu_panda_2.jpg",
+    "repliques_cultes": [
+      "Rien n'est imbattable à part moi qui me bat contre vous."
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/kung_fu_panda_2.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/kung_fu_panda_2_difficile.jpg",
+      "moyenne": "assets/images/kung_fu_panda_2_moyenne.jpg",
+      "facile": "assets/images/kung_fu_panda_2_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_126",
+    "titre": "Kung Fu Panda 3",
+    "studio": "DreamWorks",
+    "annee": 2016,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 95,
+    "realisateur": "Jennifer Yuh Nelson & Alessandro Carloni",
+    "affiche": "assets/affiches/kung_fu_panda_3.jpg",
+    "repliques_cultes": [
+      "Si tu te contentes de faire ce que tu es capable de faire, tu ne progresseras pas et tu resteras tel que tu es."
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/kung_fu_panda_3.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/kung_fu_panda_3_difficile.jpg",
+      "moyenne": "assets/images/kung_fu_panda_3_moyenne.jpg",
+      "facile": "assets/images/kung_fu_panda_3_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_127",
+    "titre": "Dragons 2",
+    "studio": "DreamWorks",
+    "annee": 2014,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 102,
+    "realisateur": "Dean DeBlois",
+    "affiche": "assets/affiches/dragons_2.jpg",
+    "repliques_cultes": [
+      "Tu es aussi belle que le jour où je t'ai perdue."
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/dragons_2.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/dragons_2_difficile.jpg",
+      "moyenne": "assets/images/dragons_2_moyenne.jpg",
+      "facile": "assets/images/dragons_2_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_128",
+    "titre": "Dragons 3 : Le Monde caché",
+    "studio": "DreamWorks",
+    "annee": 2019,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 104,
+    "realisateur": "Dean DeBlois",
+    "affiche": "assets/affiches/dragons_3_le_monde_cache.jpg",
+    "repliques_cultes": [
+      "Quand j'étais petit, le monde grouillait de dragons. Rares sont ceux qui savent où ils sont allés.."
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/dragons_3_le_monde_cache.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/dragons_3_le_monde_cache_difficile.jpg",
+      "moyenne": "assets/images/dragons_3_le_monde_cache_moyenne.jpg",
+      "facile": "assets/images/dragons_3_le_monde_cache_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_129",
+    "titre": "Moi, moche et méchant 2",
+    "studio": "Illumination",
+    "annee": 2013,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 98,
+    "realisateur": "Pierre Coffin & Chris Renaud",
+    "affiche": "assets/affiches/moi_moche_et_mechant_2.jpg",
+    "repliques_cultes": [
+      "Je suis maintenant un père, avec des responsabilités, et un homme d'affaires légitime."
+    ],
+    "musique": {
+      "titre": "Happy",
+      "artiste": "Pharrell Williams",
+      "extrait_audio": "assets/audio/musiques/moi_moche_et_mechant_2.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/moi_moche_et_mechant_2_difficile.jpg",
+      "moyenne": "assets/images/moi_moche_et_mechant_2_moyenne.jpg",
+      "facile": "assets/images/moi_moche_et_mechant_2_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_130",
+    "titre": "Moi, moche et méchant 3",
+    "studio": "Illumination",
+    "annee": 2017,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 90,
+    "realisateur": "Pierre Coffin, Kyle Balda & Eric Guillon",
+    "affiche": "assets/affiches/moi_moche_et_mechant_3.jpg",
+    "repliques_cultes": [
+      "Tu m'as dit que mon père était mort de déception le jour de ma naissance !"
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/moi_moche_et_mechant_3.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/moi_moche_et_mechant_3_difficile.jpg",
+      "moyenne": "assets/images/moi_moche_et_mechant_3_moyenne.jpg",
+      "facile": "assets/images/moi_moche_et_mechant_3_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_131",
+    "titre": "Madagascar 2",
+    "studio": "DreamWorks",
+    "annee": 2008,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 89,
+    "realisateur": "Eric Darnell & Tom McGrath",
+    "affiche": "assets/affiches/madagascar_2.jpg",
+    "repliques_cultes": [
+      "Non d'un chien de ma chienne !"
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/madagascar_2.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/madagascar_2_difficile.jpg",
+      "moyenne": "assets/images/madagascar_2_moyenne.jpg",
+      "facile": "assets/images/madagascar_2_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_132",
+    "titre": "L'Âge de glace 2",
+    "studio": "Blue Sky",
+    "annee": 2006,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 91,
+    "realisateur": "Carlos Saldanha",
+    "affiche": "assets/affiches/l_age_de_glace_2.jpg",
+    "repliques_cultes": [
+      "Je ne suis pas gros ; ma fourrure fait de l'épaisseur, c'est trompeur. J'ai le poil bouffant."
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/l_age_de_glace_2.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/l_age_de_glace_2_difficile.jpg",
+      "moyenne": "assets/images/l_age_de_glace_2_moyenne.jpg",
+      "facile": "assets/images/l_age_de_glace_2_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_133",
+    "titre": "L'Âge de glace 3",
+    "studio": "Blue Sky",
+    "annee": 2009,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 94,
+    "realisateur": "Carlos Saldanha & Mike Thurmeier",
+    "affiche": "assets/affiches/l_age_de_glace_3.jpg",
+    "repliques_cultes": [
+      "L'obscurité n'a pas de secret pour l'opossum."
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/l_age_de_glace_3.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/l_age_de_glace_3_difficile.jpg",
+      "moyenne": "assets/images/l_age_de_glace_3_moyenne.jpg",
+      "facile": "assets/images/l_age_de_glace_3_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_134",
+    "titre": "Les Minions",
+    "studio": "Illumination",
+    "annee": 2015,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 91,
+    "realisateur": "Pierre Coffin & Kyle Balda",
+    "affiche": "assets/affiches/les_minions.jpg",
+    "repliques_cultes": [
+      "La chipolata !"
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/les_minions.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_minions_difficile.jpg",
+      "moyenne": "assets/images/les_minions_moyenne.jpg",
+      "facile": "assets/images/les_minions_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_135",
+    "titre": "Le Chat Potté",
+    "studio": "DreamWorks",
+    "annee": 2011,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 90,
+    "realisateur": "Chris Miller",
+    "affiche": "assets/affiches/le_chat_potte.jpg",
+    "repliques_cultes": [
+      "Tu m'as frappé à la tête avec une guitare !"
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/le_chat_potte.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_chat_potte_difficile.jpg",
+      "moyenne": "assets/images/le_chat_potte_moyenne.jpg",
+      "facile": "assets/images/le_chat_potte_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_136",
+    "titre": "Super Mario Bros. le film",
+    "studio": "Illumination",
+    "annee": 2023,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 92,
+    "realisateur": "Aaron Horvath & Michael Jelenic",
+    "affiche": "assets/affiches/super_mario_bros_le_film.jpg",
+    "repliques_cultes": [
+      "Peach. Tu es tellement cool. Et avec mon étoile, nous allons régner. Peach. Comprenez. Je vais t’aimer jusqu’à la fin ! Des pêches, des pêches, des pêches, des pêches…"
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/super_mario_bros_le_film.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/super_mario_bros_le_film_difficile.jpg",
+      "moyenne": "assets/images/super_mario_bros_le_film_moyenne.jpg",
+      "facile": "assets/images/super_mario_bros_le_film_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_137",
+    "titre": "Comme des bêtes",
+    "studio": "Illumination",
+    "annee": 2016,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 87,
+    "realisateur": "Chris Renaud",
+    "affiche": "assets/affiches/comme_des_betes.jpg",
+    "repliques_cultes": [
+      "Et les chiens font des choses étranges et inexplicables. Comme... ils ont des chiens au lieu de chats."
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/comme_des_betes.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/comme_des_betes_difficile.jpg",
+      "moyenne": "assets/images/comme_des_betes_moyenne.jpg",
+      "facile": "assets/images/comme_des_betes_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_138",
+    "titre": "Tous en scène",
+    "studio": "Illumination",
+    "annee": 2016,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 108,
+    "realisateur": "Garth Jennings",
+    "affiche": "assets/affiches/tous_en_scene.jpg",
+    "repliques_cultes": [
+      "Vous savez ce qu'il y a de super quand on touche le fond ? Il n'y a qu'un seul moyen de remonter à la surface et c'est... de se relever !"
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/tous_en_scene.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/tous_en_scene_difficile.jpg",
+      "moyenne": "assets/images/tous_en_scene_moyenne.jpg",
+      "facile": "assets/images/tous_en_scene_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_139",
+    "titre": "Rio",
+    "studio": "Blue Sky",
+    "annee": 2011,
+    "genre": "Aventure",
+    "pays": "États-Unis",
+    "duree_minutes": 96,
+    "realisateur": "Carlos Saldanha",
+    "affiche": "assets/affiches/rio.jpg",
+    "repliques_cultes": [
+      " Il a autre chose que je devrais savoir ? — Je sais pas voler, je me cure le bec et quand ça me prend, je fais pipi dans le lavabo !"
+    ],
+    "musique": {
+      "titre": "Real in Rio",
+      "artiste": "Sergio Mendes",
+      "extrait_audio": "assets/audio/musiques/rio.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/rio_difficile.jpg",
+      "moyenne": "assets/images/rio_moyenne.jpg",
+      "facile": "assets/images/rio_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_140",
+    "titre": "Les Bad Guys",
+    "studio": "DreamWorks",
+    "annee": 2022,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 100,
+    "realisateur": "Pierre Perifel",
+    "affiche": "assets/affiches/les_bad_guys.jpg",
+    "repliques_cultes": [
+      "Est-ce que j'aimerais que les gens ne nous voient pas comme des monstres ? Bien sûr que oui. Mais ce sont les cartes qui nous ont été distribuées, alors autant les jouer."
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/les_bad_guys.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/les_bad_guys_difficile.jpg",
+      "moyenne": "assets/images/les_bad_guys_moyenne.jpg",
+      "facile": "assets/images/les_bad_guys_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_141",
+    "titre": "Chicken Run",
+    "studio": "Aardman",
+    "annee": 2000,
+    "genre": "Comédie",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 84,
+    "realisateur": "Peter Lord & Nick Park",
+    "affiche": "assets/affiches/chicken_run.jpg",
+    "repliques_cultes": [
+      "J'ai vu toute ma vie défiler devant moi... C'était d'un ennui mortel."
+    ],
+    "musique": {
+      "titre": "[Ajouter musique]",
+      "artiste": "[Ajouter artiste]",
+      "extrait_audio": "assets/audio/musiques/chicken_run.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/chicken_run_difficile.jpg",
+      "moyenne": "assets/images/chicken_run_moyenne.jpg",
+      "facile": "assets/images/chicken_run_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_142",
+    "titre": "Anastasia",
+    "studio": "Autre",
+    "annee": 1997,
+    "genre": "Comédie musicale",
+    "pays": "États-Unis",
+    "duree_minutes": 94,
+    "realisateur": "Don Bluth & Gary Goldman",
+    "affiche": "assets/affiches/anastasia.jpg",
+    "repliques_cultes": [
+      "J'en sais rien moi ! Vous croyez qu'c'est facile de jouer les grandes duchesses quand on passe toutes ses nuits sur un plancher humide ?! Mais après tout... oui, je crois que toutes les orphelines rêvent d'être princesse !"
+    ],
+    "musique": {
+      "titre": "Once Upon a December",
+      "artiste": "Liz Callaway",
+      "extrait_audio": "assets/audio/musiques/anastasia.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/anastasia_difficile.jpg",
+      "moyenne": "assets/images/anastasia_moyenne.jpg",
+      "facile": "assets/images/anastasia_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_143",
+    "titre": "Persepolis",
+    "studio": "Autre",
+    "annee": 2007,
+    "genre": "Drame",
+    "pays": "France",
+    "duree_minutes": 96,
+    "realisateur": "Marjane Satrapi & Vincent Paronnaud",
+    "affiche": "assets/affiches/persepolis.jpg",
+    "repliques_cultes": [
+      "Dès que je dis d’où je viens, on me regarde comme une sauvage. Pour eux, nous sommes tous des cinglés, des fanatiques qui passent leur temps à se taper dessus."
+    ],
+    "musique": {
+      "titre": "Eye of the Tiger",
+      "artiste": "Survivor",
+      "extrait_audio": "assets/audio/musiques/persepolis.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/persepolis_difficile.jpg",
+      "moyenne": "assets/images/persepolis_moyenne.jpg",
+      "facile": "assets/images/persepolis_facile.jpg"
+    }
+  },
+  {
+    "id": "anim_144",
+    "titre": "Le Château dans le ciel",
+    "studio": "Studio Ghibli",
+    "annee": 1986,
+    "genre": "Aventure",
+    "pays": "Japon",
+    "duree_minutes": 124,
+    "realisateur": "Hayao Miyazaki",
+    "affiche": "assets/affiches/le_chateau_dans_le_ciel.jpg",
+    "repliques_cultes": [
+      "A quoi bon se proclamer roi une fois que son royaume est anéanti ?"
+    ],
+    "musique": {
+      "titre": "Carrying You (Kimi wo nosete)",
+      "artiste": "Azumi Inoue",
+      "extrait_audio": "assets/audio/musiques/le_chateau_dans_le_ciel.mp3"
+    },
+    "images_defi6": {
+      "difficile": "assets/images/le_chateau_dans_le_ciel_difficile.jpg",
+      "moyenne": "assets/images/le_chateau_dans_le_ciel_moyenne.jpg",
+      "facile": "assets/images/le_chateau_dans_le_ciel_facile.jpg"
+    }
   }
 ]
