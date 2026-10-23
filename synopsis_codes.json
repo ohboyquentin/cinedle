@@ -1,4 +1,14 @@
 {
+  "300": [
+    "Un petit royaume de l'Antiquité refuse de se soumettre quand un immense empire envoie des messagers exiger sa soumission.",
+    "Son roi réunit sa garde personnelle, une poignée de guerriers, pour défendre un passage étroit entre la montagne et la mer.",
+    "Ils affrontent une armée gigantesque, avec des torses nus et beaucoup de cris."
+  ],
+  "1917": [
+    "Deux jeunes soldats reçoivent l'ordre d'apporter un message en traversant le no man's land pour empêcher une attaque catastrophique.",
+    "Leur propre frère se trouve dans le bataillon menacé.",
+    "Le film semble filmé en un seul plan continu."
+  ],
   "Pulp Fiction": [
     "Deux employés très bavards d'une organisation criminelle de Los Angeles enchaînent les missions entre deux discussions sur des sujets sans importance.",
     "Un boxeur vieillissant refuse de perdre un combat truqué et se retrouve avec tout le milieu à ses trousses.",
@@ -589,11 +599,6 @@
     "Ils s'infiltrent dans une banque très bien gardée, avant de retourner dans leur ancienne école.",
     "La bataille finale a lieu dans le château, où chacun doit faire ses adieux."
   ],
-  "300": [
-    "Un petit royaume de l'Antiquité refuse de se soumettre quand un immense empire envoie des messagers exiger sa soumission.",
-    "Son roi réunit sa garde personnelle, une poignée de guerriers, pour défendre un passage étroit entre la montagne et la mer.",
-    "Ils affrontent une armée gigantesque, avec des torses nus et beaucoup de cris."
-  ],
   "Man of Steel": [
     "Un enfant venu d'ailleurs, élevé par des fermiers dans une petite ville américaine, cache de plus en plus difficilement ses capacités extraordinaires.",
     "Devenu adulte, il erre de métier en métier en aidant les autres discrètement.",
@@ -998,11 +1003,6 @@
     "En 1940, des centaines de milliers de soldats sont coincés sur une plage, encerclés par l'ennemi.",
     "La mission : les ramener chez eux, mais le temps presse et le ciel est dangereux.",
     "L'histoire est racontée selon trois durées différentes : une semaine, un jour et une heure."
-  ],
-  "1917": [
-    "Deux jeunes soldats reçoivent l'ordre d'apporter un message en traversant le no man's land pour empêcher une attaque catastrophique.",
-    "Leur propre frère se trouve dans le bataillon menacé.",
-    "Le film semble filmé en un seul plan continu."
   ],
   "Le Seigneur des Anneaux : Les Deux Tours": [
     "La compagnie est dispersée : les hobbits avancent vers l'ennemi, guidés par une créature peu fiable.",
@@ -1428,5 +1428,105 @@
     "Un jeune chauffeur de génie, qui écoute toujours de la musique, conduit pour des braqueurs afin de rembourser une dette.",
     "Il rencontre une serveuse et voudrait raccrocher, mais son patron le force à continuer.",
     "Tout se joue sur la bande-son."
+  ],
+  "Une nuit en enfer": [
+    "Deux frères braqueurs en cavale, dont l'un est dangereusement instable, kidnappent une famille pour passer la frontière du Mexique.",
+    "Pour retrouver leur contact, ils s'arrêtent dans un bar de routiers très animé, au milieu de nulle part, où l'on danse jusqu'à l'aube.",
+    "Le spectacle prend un tour inattendu : les clients ne sont pas tout à fait ce qu'ils paraissent, et le jour ne se lève pas assez vite."
+  ],
+  "Boulevard de la mort": [
+    "Un ancien cascadeur de cinéma, charmant et solitaire, drague des groupes de jeunes femmes dans des bars du Texas.",
+    "Sa voiture n'est pas du tout une voiture ordinaire : elle est conçue pour résister aux collisions, mais pas ses passagers.",
+    "Un jour, il s'attaque à un groupe de filles qui ne se laisseront pas faire."
+  ],
+  "Mars Attacks!": [
+    "Un président américain accueille avec enthousiasme des visiteurs venus de l'espace, qui arrivent avec des intentions de paix.",
+    "Les premiers contacts tournent vite mal : les extraterrestres sont plutôt bavards avec des armes très efficaces.",
+    "Seul un détail musical inattendu pourrait sauver la planète."
+  ],
+  "Brice de Nice": [
+    "Un jeune homme de la Côte d'Azur se prend pour une légende du sport, avec une coupe de cheveux très étudiée.",
+    "Il passe ses journées à attendre la vague parfaite, qui n'arrive jamais, entouré de sa bande de copains.",
+    "Il rêve de gloire et de la vague parfaite, mais la vie finit par le ramener à la réalité."
+  ],
+  "La Mouche": [
+    "Un scientifique brillant et excentrique met au point une machine qui permet de déplacer un objet d'un endroit à un autre en un instant.",
+    "Il décide de se tester lui-même, sans remarquer qu'un petit invité s'est glissé dans la cabine.",
+    "Sa journaliste préférée assiste, impuissante, à une transformation qui change son corps et son esprit."
+  ],
+  "Las Vegas Parano": [
+    "Un journaliste et son avocat partent dans le désert en décapotable pour couvrir une course de motos.",
+    "Leur valise est remplie de substances en tous genres, et la destination n'est qu'un prétexte.",
+    "Arrivés dans la ville du jeu, leur séjour tourne au délire, avec des visions étranges."
+  ],
+  "Tout ce qui brille": [
+    "Deux amies d'enfance, issues d'un quartier populaire de la banlieue, rêvent de fréquenter la haute société de la capitale.",
+    "Elles se mettent à mentir sur leur origine pour s'infiltrer dans des soirées luxueuses.",
+    "Mais leur amitié risque de ne pas résister au rêve."
+  ],
+  "Lord of War": [
+    "Un jeune immigré d'origine ukrainienne, installé à New York, découvre un métier très lucratif.",
+    "Il devient l'un des plus grands marchands d'armes du monde, vendant à toutes les parties de tous les conflits.",
+    "Un agent d'Interpol obstiné le suit à la trace, tandis que sa famille ignore tout."
+  ],
+  "Man on Fire": [
+    "Un ancien agent des forces spéciales, fatigué et alcoolique, accepte un emploi de garde du corps à Mexico.",
+    "Il s'attache peu à peu à la fillette dont il a la charge, qui retrouve en lui un peu de joie de vivre.",
+    "Quand elle est enlevée sous ses yeux, il décide de punir tous ceux qui sont responsables."
+  ],
+  "Retour vers le futur 2": [
+    "Un adolescent et son ami inventeur sont de nouveau appelés à voyager dans le temps, cette fois vers l'avenir, pour sauver un enfant.",
+    "Au retour, ils se rendent compte qu'un objet rapporté par un vieil ennemi a bouleversé tout leur monde.",
+    "Ils doivent retourner dans le passé et croiser leur propre route."
+  ],
+  "Retour vers le futur 3": [
+    "Un adolescent doit remonter plus d'un siècle dans le passé pour retrouver son ami inventeur, bloqué dans un monde sans électricité.",
+    "Il se retrouve dans un village où les duels se règlent au revolver, et son propre ancêtre a un sale caractère.",
+    "Il faut réparer la voiture avec les moyens du bord, et la lancer sur une voie ferrée."
+  ],
+  "Charlie et la Chocolaterie": [
+    "Un petit garçon très pauvre, qui vit avec sa famille dans une maison minuscule, rêve de goûter à des friandises.",
+    "Cinq enfants, dont lui, gagnent le droit de visiter une immense usine mystérieuse dont personne n'est sorti depuis des années.",
+    "Leur hôte, très excentrique, leur réserve des épreuves, et les plus gâtés ont des surprises."
+  ],
+  "Camping": [
+    "Un groupe de vacanciers habitués se retrouve chaque été dans un petit camping au bord de la mer.",
+    "Cette année, un chirurgien esthétique en panne de voiture doit rester quelques jours sur place.",
+    "Entre les voisins pittoresques et les concours du soir, il se met à regarder les choses autrement."
+  ],
+  "La Famille Adams": [
+    "Une famille très riche, très gothique et très soudée vit dans un vieux manoir sombre, où les plantes sont carnivores et les jeux dangereux.",
+    "Un inconnu prétend être le frère disparu depuis vingt-cinq ans du chef de famille.",
+    "Il y a une main qui se déplace seule, un majordome immense et un coffre rempli d'argent."
+  ],
+  "Les Valeurs de la famille Adams": [
+    "Un nouveau bébé vient agrandir une famille très particulière, et la maison engage une jeune nounou aux motivations douteuses.",
+    "Les enfants sont envoyés dans un camp de vacances aux couleurs très vives, où ils ne s'intègrent pas.",
+    "L'oncle, quant à lui, a rencontré une femme de rêve qui cache beaucoup de choses."
+  ],
+  "Le Prénom": [
+    "Lors d'un dîner entre proches, un homme s'amuse à faire patienter ses hôtes avec une annonce à propos de son futur enfant.",
+    "Il leur annonce le prénom qu'il a choisi, ce qui provoque une réaction très vive.",
+    "Les vieilles rancunes et les secrets de famille ressortent peu à peu autour de la table."
+  ],
+  "Les Trois Frères": [
+    "Trois hommes très différents, qui ne se connaissent pas, sont convoqués chez un notaire pour une affaire de succession.",
+    "Ils apprennent qu'ils sont frères, et qu'une mère disparue leur a laissé un héritage inattendu.",
+    "Il leur faut apprendre à vivre ensemble pour récupérer l'argent."
+  ],
+  "Fast and Furious 7": [
+    "Une équipe de pilotes devenus respectables doit reprendre du service pour affronter un ennemi qui veut venger un frère.",
+    "Les voitures sautent entre des gratte-ciel, sont parachutées depuis un avion et sillonnent des routes de montagne.",
+    "Une scène finale émouvante dit adieu à l'un des membres de l'équipe."
+  ],
+  "Snatch": [
+    "Un diamant volé, un promoteur de combats de boxe et une bande de gitans qui parlent de façon incompréhensible se croisent à Londres.",
+    "Chacun cherche à tirer profit de la situation, entre magouilles, chiens et mauvaises décisions.",
+    "Les destins s'entremêlent dans une avalanche de répliques bien senties."
+  ],
+  "Maman, j'ai raté l'avion": [
+    "Un garçon de huit ans, oublié à la maison par sa famille la veille de Noël, doit se débrouiller seul.",
+    "Il découvre d'abord le plaisir d'être libre, puis comprend que deux cambrioleurs maladroits ont repéré sa maison.",
+    "Il met au point des pièges pour les arrêter."
   ]
 }

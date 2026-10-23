@@ -118,12 +118,12 @@
   .emoji-board{ display:flex; flex-wrap:wrap; justify-content:center; gap:10px; margin:0 auto 14px; max-width:420px; padding:18px 14px; background:var(--surface,#14151c); border:1px solid var(--border); border-radius:14px; position:relative; }
   .emoji-slot{ width:52px; height:52px; display:flex; align-items:center; justify-content:center; font-size:32px; border-radius:12px; background:rgba(255,255,255,0.04); border:1px dashed var(--border); color:var(--muted,#888); }
   .emoji-slot.on{ border-style:solid; background:rgba(255,255,255,0.08); animation:emojiPop .35s ease; }
-  .actor-zone{ margin:0 auto 14px; max-width:420px; text-align:center; }
+  .actor-zone{ margin:0 auto 14px; max-width:600px; text-align:center; }
   .actor-caption{ font-size:12px; color:var(--muted); letter-spacing:0.04em; margin-bottom:8px; }
   .actor-row{ display:flex; flex-wrap:wrap; justify-content:center; gap:10px; }
-  .actor-card{ width:72px; animation:emojiPop .35s ease; }
-  .actor-card img{ width:72px; height:96px; object-fit:cover; border-radius:10px; border:1px solid var(--border); background:rgba(255,255,255,0.06); display:block; }
-  .actor-card span{ display:block; margin-top:4px; font-size:10px; line-height:1.2; color:var(--muted); }
+  .actor-card{ width:104px; animation:emojiPop .35s ease; }
+  .actor-card img{ width:104px; height:139px; object-fit:cover; border-radius:10px; border:1px solid var(--border); background:rgba(255,255,255,0.06); display:block; }
+  .actor-card span{ display:block; margin-top:4px; font-size:12px; line-height:1.2; color:var(--muted); }
   .tmdb-credit{ font-size:10px; color:var(--muted); margin-top:8px; opacity:.7; }
   .emoji-slot.off{ font-size:20px; opacity:.45; }
   @keyframes emojiPop{ from{ transform:scale(.4); opacity:0 } to{ transform:scale(1); opacity:1 } }
@@ -476,10 +476,10 @@ const THEMES = {
           clueHtml: `<div class="replique-box">🎵 Extrait de « ${DAILY_ANIM.defi5.musique.titre} » — ${DAILY_ANIM.defi5.musique.artiste}</div>`,
           audioSrc: DAILY_ANIM.defi5.musique.extrait_audio,
           resultMeta:t=>`${t.musique.titre} · ${t.musique.artiste}`, completionName:'Musique' }) },
-      { n:6, icon:'📸', name:'3 Images', desc:'Difficulté croissante',
-        render: () => renderImagesDefi({ eyebrow:'Défi 6', title:'3 images du film', labelKey:'titre',
+      { n:6, icon:'🎭', name:'Film en emojis', desc:'Le film en emojis',
+        render: () => renderEmojiDefi({ eyebrow:'Défi 6', title:'Devine le film en emojis', labelKey:'titre',
           placeholder:"Tape le titre d'un film d'animation...", pool:FILMS_ANIM, target:DAILY_ANIM.defi6,
-          resultMeta:t=>`${t.studio} · ${t.annee}`, completionName:'3 Images' }) },
+          resultMeta:t=>`${t.studio} · ${t.annee}`, completionName:'Film en emojis' }) },
     ]
   }
 };
@@ -914,12 +914,12 @@ function renderEmojiDefi(cfg){
     const n = all ? casting.length : Math.min(casting.length, Math.max(0, fails - FIRST_PHOTO_FAILS + 1));
     if(!n){ actorZone.innerHTML = ''; return; }
     actorZone.innerHTML = `<div class="actor-caption">📸 Acteurs du film — du moins connu au plus connu</div><div class="actor-row">${
-      casting.slice(0, n).map(a => `<div class="actor-card"><img src="${a.photo}" alt="" loading="lazy" onerror="this.style.visibility='hidden'">${all ? `<span>${a.nom}</span>` : ''}</div>`).join('')
+      casting.slice(0, n).map(a => `<div class="actor-card"><img src="${a.photo.replace('/w185/', '/w342/')}" alt="" loading="lazy" onerror="this.style.visibility='hidden'">${all ? `<span>${a.nom}</span>` : ''}</div>`).join('')
     }</div><div class="tmdb-credit">Photos : TMDB — ce site utilise l'API TMDB mais n'est ni approuvé ni certifié par TMDB.</div>`;
   }
   // Réponse cachée : dès que tous les acteurs sont révélés (à cliquer pour la découvrir)
   const revealZone = document.getElementById('reveal-zone'), revealState = { revealed:false };
-  const REVEAL_AFTER = Math.max(FIRST_PHOTO_FAILS, FIRST_PHOTO_FAILS - 1 + casting.length);
+  const REVEAL_AFTER = casting.length ? Math.max(FIRST_PHOTO_FAILS, FIRST_PHOTO_FAILS - 1 + casting.length) : 10;  // sans photos : après 10 échecs
   let shown = 0;
   function drawBoard(count){
     board.querySelectorAll('.emoji-slot').forEach(n=>n.remove());
@@ -1160,6 +1160,9 @@ async function boot(){
     // Synopsis codés du défi 1 (Cinéma) : fichier optionnel, rattaché aux films par leur titre
     const synopsis = await fetch('synopsis_codes.json').then(r => r.json()).catch(() => ({}));
     films.forEach(f => { if(synopsis[f.titre]) f.synopsis_code = synopsis[f.titre]; });
+    // Emojis du défi 6 (Animation) : fichier rattaché aux films d'animation par leur titre
+    const emojisAnim = await fetch('emojis_animation.json').then(r => r.json()).catch(() => ({}));
+    filmsAnim.forEach(f => { if(emojisAnim[f.titre]) f.emojis = emojisAnim[f.titre]; });
     FILMS = films; PERSONNAGES = persos; SERIES = series; PERSONNAGES_SERIES = persosSeries; ANIMES = animes; PERSONNAGES_ANIMES = persosAnimes; FILMS_ANIM = filmsAnim; PERSONNAGES_ANIM = persosAnim;
 
     DAILY_CINEMA = pickDistinct(FILMS, ['defi1','defi3','defi4','defi5','defi6'], 'cinema', TODAY_SEED);

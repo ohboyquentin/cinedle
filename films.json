@@ -12406,6 +12406,106 @@
     ]
   },
   {
+    "id": "film_228",
+    "titre": "Une nuit en enfer",
+    "realisateur": "Robert Rodriguez",
+    "annee": 1996,
+    "genre": "Horreur",
+    "pays": "États-Unis",
+    "duree_minutes": 108,
+    "acteur_principal": "George Clooney",
+    "affiche": "assets/affiches/une_nuit_en_enfer.jpg",
+    "repliques_cultes": [
+      "Psychos do not explode when sunlight hits them, I don't give a fuck how crazy they are !"
+    ],
+    "replique_vf": "Les détraqués ça n'explose pas aux premiers rayons d'soleil même s'ils sont salement pété de la tronche !",
+    "images_defi6": {
+      "difficile": "assets/images/une_nuit_en_enfer_difficile.jpg",
+      "moyenne": "assets/images/une_nuit_en_enfer_moyenne.jpg",
+      "facile": "assets/images/une_nuit_en_enfer_facile.jpg"
+    },
+    "emojis": [
+      "🔫",
+      "🚐",
+      "🌮",
+      "🍺",
+      "🧛",
+      "🪓"
+    ],
+    "casting": [
+      {
+        "nom": "Ernest Liu",
+        "photo": "https://image.tmdb.org/t/p/w185/wYnZ7DHrQ7NMekp6oADVEIzZkMw.jpg"
+      },
+      {
+        "nom": "Juliette Lewis",
+        "photo": "https://image.tmdb.org/t/p/w185/sSGCW01aUsYlVQhuk3XSY7cl6Ww.jpg"
+      },
+      {
+        "nom": "Harvey Keitel",
+        "photo": "https://image.tmdb.org/t/p/w185/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+      },
+      {
+        "nom": "George Clooney",
+        "photo": "https://image.tmdb.org/t/p/w185/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg"
+      },
+      {
+        "nom": "Quentin Tarantino",
+        "photo": "https://image.tmdb.org/t/p/w185/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_229",
+    "titre": "Boulevard de la mort",
+    "realisateur": "Quentin Tarantino",
+    "annee": 2007,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 113,
+    "acteur_principal": "Kurt Russell",
+    "affiche": "assets/affiches/boulevard_de_la_mort.jpg",
+    "repliques_cultes": [
+      "And the whole point of the whole 'liquor' thing is that... liquor is the lubricant for the interlocking grips of the machinery of meeting people."
+    ],
+    "replique_vf": "L'alcool est un lubrifiant pour dégripper les rencontres qu'on peut faire dans un bar.",
+    "images_defi6": {
+      "difficile": "assets/images/boulevard_de_la_mort_difficile.jpg",
+      "moyenne": "assets/images/boulevard_de_la_mort_moyenne.jpg",
+      "facile": "assets/images/boulevard_de_la_mort_facile.jpg"
+    },
+    "emojis": [
+      "🚗",
+      "🍻",
+      "👢",
+      "💀",
+      "👭",
+      "🏁"
+    ],
+    "casting": [
+      {
+        "nom": "Zoë Bell",
+        "photo": "https://image.tmdb.org/t/p/w185/dax6Sutw8xFGnZCo011eejImdBO.jpg"
+      },
+      {
+        "nom": "Vanessa Ferlito",
+        "photo": "https://image.tmdb.org/t/p/w185/i128WKjZ3JkoJBOLw48hF4Uwu5V.jpg"
+      },
+      {
+        "nom": "Sydney Tamiia Poitier",
+        "photo": "https://image.tmdb.org/t/p/w185/p3AWANvC7w49CWYeJRsaHsALv6C.jpg"
+      },
+      {
+        "nom": "Rosario Dawson",
+        "photo": "https://image.tmdb.org/t/p/w185/siTzOI810a0K46wv1TORXMw5N7J.jpg"
+      },
+      {
+        "nom": "Kurt Russell",
+        "photo": "https://image.tmdb.org/t/p/w185/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg"
+      }
+    ]
+  },
+  {
     "id": "film_230",
     "titre": "Indiana Jones et le Temple maudit",
     "realisateur": "Steven Spielberg",
@@ -15425,6 +15525,905 @@
       {
         "nom": "Jon Hamm",
         "photo": "https://image.tmdb.org/t/p/w185/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_289",
+    "titre": "Mars Attacks!",
+    "realisateur": "Tim Burton",
+    "annee": 1996,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 106,
+    "acteur_principal": "Jack Nicholson",
+    "affiche": "assets/affiches/mars_attacks.jpg",
+    "repliques_cultes": [
+      "Don't run, we are your friends."
+    ],
+    "replique_vf": "Ne courez pas, nous sommes vos amis.",
+    "images_defi6": {
+      "difficile": "assets/images/mars_attacks_difficile.jpg",
+      "moyenne": "assets/images/mars_attacks_moyenne.jpg",
+      "facile": "assets/images/mars_attacks_facile.jpg"
+    },
+    "emojis": [
+      "👽",
+      "🛸",
+      "🔫",
+      "🧠",
+      "🕊️",
+      "🎶"
+    ],
+    "casting": [
+      {
+        "nom": "Annette Bening",
+        "photo": "https://image.tmdb.org/t/p/w185/kGslMAWcpv8MKzODhDRDkFE0uX7.jpg"
+      },
+      {
+        "nom": "Glenn Close",
+        "photo": "https://image.tmdb.org/t/p/w185/4VHZ1GfLwN7MUgApy0LCBzdDF9L.jpg"
+      },
+      {
+        "nom": "Jack Nicholson",
+        "photo": "https://image.tmdb.org/t/p/w185/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg"
+      },
+      {
+        "nom": "Pierce Brosnan",
+        "photo": "https://image.tmdb.org/t/p/w185/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg"
+      },
+      {
+        "nom": "Danny DeVito",
+        "photo": "https://image.tmdb.org/t/p/w185/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_290",
+    "titre": "Brice de Nice",
+    "realisateur": "James Huth",
+    "annee": 2005,
+    "genre": "Comédie",
+    "pays": "France",
+    "duree_minutes": 98,
+    "acteur_principal": "Jean Dujardin",
+    "affiche": "assets/affiches/brice_de_nice.jpg",
+    "repliques_cultes": [
+      "Je fais une fête chez moi ce soir. Ça te dirait de... de pas venir ?"
+    ],
+    "images_defi6": {
+      "difficile": "assets/images/brice_de_nice_difficile.jpg",
+      "moyenne": "assets/images/brice_de_nice_moyenne.jpg",
+      "facile": "assets/images/brice_de_nice_facile.jpg"
+    },
+    "emojis": [
+      "🏄",
+      "🌊",
+      "🏖️",
+      "🎸",
+      "🧑‍🦱",
+      "🌴"
+    ],
+    "casting": [
+      {
+        "nom": "Clovis Cornillac",
+        "photo": "https://image.tmdb.org/t/p/w185/8wokcSilL7u4V8aKcagI7elKsgn.jpg"
+      },
+      {
+        "nom": "Élodie Bouchez",
+        "photo": "https://image.tmdb.org/t/p/w185/pgUFT2lDgaxE4U580iEBFNqqXdw.jpg"
+      },
+      {
+        "nom": "Bruno Salomone",
+        "photo": "https://image.tmdb.org/t/p/w185/9mJaEK8Pq2t9Lx56RXCdZvSR9Y6.jpg"
+      },
+      {
+        "nom": "Alexandra Lamy",
+        "photo": "https://image.tmdb.org/t/p/w185/m52fdEhVo6sBjEhgyM6bqFwC1HA.jpg"
+      },
+      {
+        "nom": "Jean Dujardin",
+        "photo": "https://image.tmdb.org/t/p/w185/iPtSWWoO8vajj6fIUQLQeuGOCsk.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_291",
+    "titre": "La Mouche",
+    "realisateur": "David Cronenberg",
+    "annee": 1986,
+    "genre": "Horreur",
+    "pays": "États-Unis",
+    "duree_minutes": 96,
+    "acteur_principal": "Jeff Goldblum",
+    "affiche": "assets/affiches/la_mouche.jpg",
+    "repliques_cultes": [
+      "I'm saying I'm an insect who dreamed he was a man and loved it. But now the dream is over... and the insect is awake."
+    ],
+    "replique_vf": "Je dis que je suis un insecte qui a rêvé qu’il était un homme et qui aimait ça. Mais maintenant le rêve est fini... et l’insecte est réveillé.",
+    "images_defi6": {
+      "difficile": "assets/images/la_mouche_difficile.jpg",
+      "moyenne": "assets/images/la_mouche_moyenne.jpg",
+      "facile": "assets/images/la_mouche_facile.jpg"
+    },
+    "emojis": [
+      "🔬",
+      "🧪",
+      "🪰",
+      "🧬",
+      "🚪",
+      "🤢"
+    ],
+    "casting": [
+      {
+        "nom": "Leslie Carlson",
+        "photo": "https://image.tmdb.org/t/p/w185/9WEm25ndfB1pzJspHsigUn1y0iX.jpg"
+      },
+      {
+        "nom": "Joy Boushel",
+        "photo": "https://image.tmdb.org/t/p/w185/8dRLwnJOQvcQRaRaCiN27MEn87T.jpg"
+      },
+      {
+        "nom": "John Getz",
+        "photo": "https://image.tmdb.org/t/p/w185/NL52y1nH5SZMlJKfKpPBnofoJk.jpg"
+      },
+      {
+        "nom": "Geena Davis",
+        "photo": "https://image.tmdb.org/t/p/w185/jNsZLedzKPuyUmgnvpRpP5oG3Wr.jpg"
+      },
+      {
+        "nom": "Jeff Goldblum",
+        "photo": "https://image.tmdb.org/t/p/w185/kcyEPgYtBP5Pm6LLeLGfXKjYovL.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_292",
+    "titre": "Las Vegas Parano",
+    "realisateur": "Terry Gilliam",
+    "annee": 1998,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 118,
+    "acteur_principal": "Johnny Depp",
+    "affiche": "assets/affiches/las_vegas_parano.jpg",
+    "repliques_cultes": [
+      " I told you, half of this raw material is pure ********. You have to turn it right around."
+    ],
+    "replique_vf": "Dis-leur de mettre leurs putains de chaussures de golf !",
+    "images_defi6": {
+      "difficile": "assets/images/las_vegas_parano_difficile.jpg",
+      "moyenne": "assets/images/las_vegas_parano_moyenne.jpg",
+      "facile": "assets/images/las_vegas_parano_facile.jpg"
+    },
+    "emojis": [
+      "🌵",
+      "🚗",
+      "💊",
+      "🎰",
+      "🦇",
+      "🍹"
+    ],
+    "casting": [
+      {
+        "nom": "Michael Lee Gogin",
+        "photo": "https://image.tmdb.org/t/p/w185/bzcaENk8kFxKzFVvIAGJH9YMbyx.jpg"
+      },
+      {
+        "nom": "Larry Cedar",
+        "photo": "https://image.tmdb.org/t/p/w185/mvfn1YoL9ACp4n51HZOD0TMs2Ah.jpg"
+      },
+      {
+        "nom": "Benicio del Toro",
+        "photo": "https://image.tmdb.org/t/p/w185/aYomJWx0B2B8ra6Rmgt8lr0XCrw.jpg"
+      },
+      {
+        "nom": "Tobey Maguire",
+        "photo": "https://image.tmdb.org/t/p/w185/s6PwSvq6gC7PGEjIku69tPbvR8M.jpg"
+      },
+      {
+        "nom": "Johnny Depp",
+        "photo": "https://image.tmdb.org/t/p/w185/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_293",
+    "titre": "Tout ce qui brille",
+    "realisateur": "Géraldine Nakache et Hervé Mimran",
+    "annee": 2010,
+    "genre": "Comédie",
+    "pays": "France",
+    "duree_minutes": 100,
+    "acteur_principal": "Géraldine Nakache",
+    "affiche": "assets/affiches/tout_ce_qui_brille.jpg",
+    "repliques_cultes": [
+      "— Devine à quoi ils font les pâtes ! — Au caviar ? — Encore plus ouf ! Au citron ? C'est pas trop un truc de bourge ça ?"
+    ],
+    "images_defi6": {
+      "difficile": "assets/images/tout_ce_qui_brille_difficile.jpg",
+      "moyenne": "assets/images/tout_ce_qui_brille_moyenne.jpg",
+      "facile": "assets/images/tout_ce_qui_brille_facile.jpg"
+    },
+    "emojis": [
+      "👯‍♀️",
+      "💎",
+      "🚇",
+      "🏘️",
+      "👗",
+      "🥂"
+    ],
+    "casting": [
+      {
+        "nom": "Audrey Lamy",
+        "photo": "https://image.tmdb.org/t/p/w185/zRyuaPykapMI71yH6cPunGY5Ywz.jpg"
+      },
+      {
+        "nom": "Géraldine Nakache",
+        "photo": "https://image.tmdb.org/t/p/w185/mlJZWY6ZuCNklAeubVsv4ejJtNR.jpg"
+      },
+      {
+        "nom": "Linh-Dan Pham",
+        "photo": "https://image.tmdb.org/t/p/w185/y9EYVSaEgjBZLchxShXa45FTszf.jpg"
+      },
+      {
+        "nom": "Leïla Bekhti",
+        "photo": "https://image.tmdb.org/t/p/w185/5ww2aTFrhAnQk3a0eb5VejtD7Xg.jpg"
+      },
+      {
+        "nom": "Virginie Ledoyen",
+        "photo": "https://image.tmdb.org/t/p/w185/sIx8EAaGqEaveQtUrCzQOqmoY2J.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_294",
+    "titre": "Lord of War",
+    "realisateur": "Andrew Niccol",
+    "annee": 2005,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 122,
+    "acteur_principal": "Nicolas Cage",
+    "affiche": "assets/affiches/lord_of_war.jpg",
+    "repliques_cultes": [
+      "There is nothing more expensive for an arms dealer than peace."
+    ],
+    "replique_vf": "Il n'y a rien de plus coûteux pour un marchand d'armes que la paix.",
+    "images_defi6": {
+      "difficile": "assets/images/lord_of_war_difficile.jpg",
+      "moyenne": "assets/images/lord_of_war_moyenne.jpg",
+      "facile": "assets/images/lord_of_war_facile.jpg"
+    },
+    "emojis": [
+      "🌍",
+      "💼",
+      "🔫",
+      "🛩️",
+      "💰",
+      "🕵️"
+    ],
+    "casting": [
+      {
+        "nom": "Eamonn Walker",
+        "photo": "https://image.tmdb.org/t/p/w185/mJ2pENrcO4uRy2TNVUzg5cEI9b3.jpg"
+      },
+      {
+        "nom": "Jared Leto",
+        "photo": "https://image.tmdb.org/t/p/w185/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
+      },
+      {
+        "nom": "Bridget Moynahan",
+        "photo": "https://image.tmdb.org/t/p/w185/7WuwRCcwtBmJZ64pNsLbwhQCEA4.jpg"
+      },
+      {
+        "nom": "Ethan Hawke",
+        "photo": "https://image.tmdb.org/t/p/w185/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+      },
+      {
+        "nom": "Nicolas Cage",
+        "photo": "https://image.tmdb.org/t/p/w185/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_295",
+    "titre": "Man on Fire",
+    "realisateur": "Tony Scott",
+    "annee": 2004,
+    "genre": "Thriller",
+    "pays": "États-Unis",
+    "duree_minutes": 146,
+    "acteur_principal": "Denzel Washington",
+    "affiche": "assets/affiches/man_on_fire.jpg",
+    "repliques_cultes": [
+      "Creasy's art is death. He's about to paint his masterpiece."
+    ],
+    "replique_vf": "Creasy est un artiste de la mort. Et il s'apprête à peindre son chef-d'oeuvre.",
+    "images_defi6": {
+      "difficile": "assets/images/man_on_fire_difficile.jpg",
+      "moyenne": "assets/images/man_on_fire_moyenne.jpg",
+      "facile": "assets/images/man_on_fire_facile.jpg"
+    },
+    "emojis": [
+      "🥃",
+      "👧",
+      "🚗",
+      "💥",
+      "🔫",
+      "⏱️"
+    ],
+    "casting": [
+      {
+        "nom": "Radha Mitchell",
+        "photo": "https://image.tmdb.org/t/p/w185/8EVKyEkwPfIA6GxlIo0PJv0A5mm.jpg"
+      },
+      {
+        "nom": "Marc Anthony",
+        "photo": "https://image.tmdb.org/t/p/w185/mOkqbV5iiusOLEOVPmepQcAGF8K.jpg"
+      },
+      {
+        "nom": "Christopher Walken",
+        "photo": "https://image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+      },
+      {
+        "nom": "Denzel Washington",
+        "photo": "https://image.tmdb.org/t/p/w185/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+      },
+      {
+        "nom": "Dakota Fanning",
+        "photo": "https://image.tmdb.org/t/p/w185/hwcO08SVWkelfvgfIa5HsTMxsK8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_296",
+    "titre": "Retour vers le futur 2",
+    "realisateur": "Robert Zemeckis",
+    "annee": 1989,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 108,
+    "acteur_principal": "Michael J. Fox",
+    "affiche": "assets/affiches/retour_vers_le_futur_2.jpg",
+    "repliques_cultes": [
+      "The shark still looks fake."
+    ],
+    "replique_vf": "Le requin a toujours l'air aussi faux.",
+    "images_defi6": {
+      "difficile": "assets/images/retour_vers_le_futur_2_difficile.jpg",
+      "moyenne": "assets/images/retour_vers_le_futur_2_moyenne.jpg",
+      "facile": "assets/images/retour_vers_le_futur_2_facile.jpg"
+    },
+    "emojis": [
+      "🚗",
+      "⏰",
+      "🛹",
+      "🦈",
+      "📰",
+      "🏟️"
+    ],
+    "saga": "Retour vers le futur",
+    "casting": [
+      {
+        "nom": "Thomas F. Wilson",
+        "photo": "https://image.tmdb.org/t/p/w185/mVhm65ZVBIRIptWGiMIvoUy0Khi.jpg"
+      },
+      {
+        "nom": "Michael J. Fox",
+        "photo": "https://image.tmdb.org/t/p/w185/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+      },
+      {
+        "nom": "Lea Thompson",
+        "photo": "https://image.tmdb.org/t/p/w185/85E9NTEfkRdUdK4kTrrnk5of25w.jpg"
+      },
+      {
+        "nom": "Elisabeth Shue",
+        "photo": "https://image.tmdb.org/t/p/w185/1pmjDSLvOuqKW1P2KRPlpFMeUFe.jpg"
+      },
+      {
+        "nom": "Christopher Lloyd",
+        "photo": "https://image.tmdb.org/t/p/w185/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_297",
+    "titre": "Retour vers le futur 3",
+    "realisateur": "Robert Zemeckis",
+    "annee": 1990,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 118,
+    "acteur_principal": "Michael J. Fox",
+    "affiche": "assets/affiches/retour_vers_le_futur_3.jpg",
+    "repliques_cultes": [
+      "Roads? Where we're going, we don't need... roads."
+    ],
+    "replique_vf": "La route ? Là où on va, on n'a pas besoin... de route !",
+    "images_defi6": {
+      "difficile": "assets/images/retour_vers_le_futur_3_difficile.jpg",
+      "moyenne": "assets/images/retour_vers_le_futur_3_moyenne.jpg",
+      "facile": "assets/images/retour_vers_le_futur_3_facile.jpg"
+    },
+    "emojis": [
+      "🚗",
+      "⏰",
+      "🤠",
+      "🚂",
+      "🐴",
+      "🌵"
+    ],
+    "saga": "Retour vers le futur",
+    "casting": [
+      {
+        "nom": "Thomas F. Wilson",
+        "photo": "https://image.tmdb.org/t/p/w185/mVhm65ZVBIRIptWGiMIvoUy0Khi.jpg"
+      },
+      {
+        "nom": "Mary Steenburgen",
+        "photo": "https://image.tmdb.org/t/p/w185/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg"
+      },
+      {
+        "nom": "Michael J. Fox",
+        "photo": "https://image.tmdb.org/t/p/w185/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+      },
+      {
+        "nom": "Lea Thompson",
+        "photo": "https://image.tmdb.org/t/p/w185/85E9NTEfkRdUdK4kTrrnk5of25w.jpg"
+      },
+      {
+        "nom": "Christopher Lloyd",
+        "photo": "https://image.tmdb.org/t/p/w185/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_298",
+    "titre": "Charlie et la Chocolaterie",
+    "realisateur": "Tim Burton",
+    "annee": 2005,
+    "genre": "Fantastique",
+    "pays": "États-Unis",
+    "duree_minutes": 115,
+    "acteur_principal": "Johnny Depp",
+    "affiche": "assets/affiches/charlie_et_la_chocolaterie.jpg",
+    "repliques_cultes": [
+      "Daddy, I want another pony!"
+    ],
+    "replique_vf": "Daddy, je veux un autre poney !",
+    "images_defi6": {
+      "difficile": "assets/images/charlie_et_la_chocolaterie_difficile.jpg",
+      "moyenne": "assets/images/charlie_et_la_chocolaterie_moyenne.jpg",
+      "facile": "assets/images/charlie_et_la_chocolaterie_facile.jpg"
+    },
+    "emojis": [
+      "🍫",
+      "🎟️",
+      "🏭",
+      "🐿️",
+      "🍬",
+      "🎩"
+    ],
+    "casting": [
+      {
+        "nom": "David Kelly",
+        "photo": "https://image.tmdb.org/t/p/w185/4NzqVwHlbaGO3rjW0ozRL8J9SxG.jpg"
+      },
+      {
+        "nom": "Noah Taylor",
+        "photo": "https://image.tmdb.org/t/p/w185/a9VuohmpqbvcYflOpi0F3ck8L2j.jpg"
+      },
+      {
+        "nom": "Freddie Highmore",
+        "photo": "https://image.tmdb.org/t/p/w185/9larfGVg8ALIVFkr7cZzv4Emh1F.jpg"
+      },
+      {
+        "nom": "Helena Bonham Carter",
+        "photo": "https://image.tmdb.org/t/p/w185/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+      },
+      {
+        "nom": "Johnny Depp",
+        "photo": "https://image.tmdb.org/t/p/w185/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_299",
+    "titre": "Camping",
+    "realisateur": "Fabien Onteniente",
+    "annee": 2006,
+    "genre": "Comédie",
+    "pays": "France",
+    "duree_minutes": 105,
+    "acteur_principal": "Franck Dubosc",
+    "affiche": "assets/affiches/camping.jpg",
+    "repliques_cultes": [
+      "Pour nous, en août, le slip c'est futile."
+    ],
+    "images_defi6": {
+      "difficile": "assets/images/camping_difficile.jpg",
+      "moyenne": "assets/images/camping_moyenne.jpg",
+      "facile": "assets/images/camping_facile.jpg"
+    },
+    "emojis": [
+      "⛺",
+      "🏖️",
+      "🍺",
+      "🚐",
+      "☀️",
+      "🕺"
+    ],
+    "casting": [
+      {
+        "nom": "JoJo",
+        "photo": "https://image.tmdb.org/t/p/w185/tBqc9oC2tw9LMXPQDdl24nsRBKW.jpg"
+      },
+      {
+        "nom": "Cheryl Hines",
+        "photo": "https://image.tmdb.org/t/p/w185/jUW4xdla64Vtq1o2Ob8Oc7MjT9C.jpg"
+      },
+      {
+        "nom": "Jeff Daniels",
+        "photo": "https://image.tmdb.org/t/p/w185/r0mkZJZnTSJO3HJRsMW5HtszxE8.jpg"
+      },
+      {
+        "nom": "Robin Williams",
+        "photo": "https://image.tmdb.org/t/p/w185/lu0gIoH4Bi2CiuMc6WHF9ZIK4PS.jpg"
+      },
+      {
+        "nom": "Josh Hutcherson",
+        "photo": "https://image.tmdb.org/t/p/w185/GqIyK5mCJXFUXW4FwLM3Zj7UtK.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_300",
+    "titre": "La Famille Adams",
+    "realisateur": "Barry Sonnenfeld",
+    "annee": 1991,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 99,
+    "acteur_principal": "Anjelica Huston",
+    "affiche": "assets/affiches/la_famille_adams.jpg",
+    "repliques_cultes": [
+      "Stop torturing yourself, Gomez. That's my job"
+    ],
+    "replique_vf": "Arrête de te torturer… je suis là pour ça",
+    "images_defi6": {
+      "difficile": "assets/images/la_famille_adams_difficile.jpg",
+      "moyenne": "assets/images/la_famille_adams_moyenne.jpg",
+      "facile": "assets/images/la_famille_adams_facile.jpg"
+    },
+    "emojis": [
+      "🏚️",
+      "🖐️",
+      "🦇",
+      "⚰️",
+      "🕸️",
+      "💀"
+    ],
+    "saga": "La Famille Adams",
+    "casting": [
+      {
+        "nom": "Elizabeth Wilson",
+        "photo": "https://image.tmdb.org/t/p/w185/8jiCTMxqiL1YwPVBqo0Pe2ZOixk.jpg"
+      },
+      {
+        "nom": "Raúl Juliá",
+        "photo": "https://image.tmdb.org/t/p/w185/zRvv5vdqCxdio38gx0WWmof4cO5.jpg"
+      },
+      {
+        "nom": "Anjelica Huston",
+        "photo": "https://image.tmdb.org/t/p/w185/6hnYeHa7Rc1w1MmQ3JsLSIb7yCX.jpg"
+      },
+      {
+        "nom": "Dan Hedaya",
+        "photo": "https://image.tmdb.org/t/p/w185/evL3mV8hNIjZOb1XG3qtgmiTgS5.jpg"
+      },
+      {
+        "nom": "Christopher Lloyd",
+        "photo": "https://image.tmdb.org/t/p/w185/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_301",
+    "titre": "Les Valeurs de la famille Adams",
+    "realisateur": "Barry Sonnenfeld",
+    "annee": 1993,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 94,
+    "acteur_principal": "Anjelica Huston",
+    "affiche": "assets/affiches/les_valeurs_de_la_famille_adams.jpg",
+    "repliques_cultes": [
+      "That poor girl. Lurch, was she in there before you baked?"
+    ],
+    "replique_vf": "Tu as mis cette pauvre fille dans le gâteau avant ou après l'avoir fait cuire ?",
+    "images_defi6": {
+      "difficile": "assets/images/les_valeurs_de_la_famille_adams_difficile.jpg",
+      "moyenne": "assets/images/les_valeurs_de_la_famille_adams_moyenne.jpg",
+      "facile": "assets/images/les_valeurs_de_la_famille_adams_facile.jpg"
+    },
+    "emojis": [
+      "👶",
+      "🏕️",
+      "💍",
+      "🧪",
+      "👰",
+      "🔥"
+    ],
+    "saga": "La Famille Adams",
+    "casting": [
+      {
+        "nom": "Raúl Juliá",
+        "photo": "https://image.tmdb.org/t/p/w185/zRvv5vdqCxdio38gx0WWmof4cO5.jpg"
+      },
+      {
+        "nom": "Anjelica Huston",
+        "photo": "https://image.tmdb.org/t/p/w185/6hnYeHa7Rc1w1MmQ3JsLSIb7yCX.jpg"
+      },
+      {
+        "nom": "Joan Cusack",
+        "photo": "https://image.tmdb.org/t/p/w185/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+      },
+      {
+        "nom": "Christopher Lloyd",
+        "photo": "https://image.tmdb.org/t/p/w185/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+      },
+      {
+        "nom": "Christina Ricci",
+        "photo": "https://image.tmdb.org/t/p/w185/m2cY5Er1loPgHkZYdFMEz6YeiwG.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_302",
+    "titre": "Le Prénom",
+    "realisateur": "Alexandre de La Patellière et Matthieu Delaporte",
+    "annee": 2012,
+    "genre": "Comédie",
+    "pays": "France",
+    "duree_minutes": 109,
+    "acteur_principal": "Patrick Bruel",
+    "affiche": "assets/affiches/le_prenom.jpg",
+    "repliques_cultes": [
+      "Moi je trouve que c'est un élève intéressant, il progresse. Il a 4 de moyenne ! Oui mais avant il avait 2 !"
+    ],
+    "images_defi6": {
+      "difficile": "assets/images/le_prenom_difficile.jpg",
+      "moyenne": "assets/images/le_prenom_moyenne.jpg",
+      "facile": "assets/images/le_prenom_facile.jpg"
+    },
+    "emojis": [
+      "🍽️",
+      "👶",
+      "👨‍👩‍👦",
+      "🍷",
+      "🗣️",
+      "😤"
+    ],
+    "casting": [
+      {
+        "nom": "Françoise Fabian",
+        "photo": "https://image.tmdb.org/t/p/w185/8osKgSNCZ5xQn40njZwBgDZ20Ss.jpg"
+      },
+      {
+        "nom": "Guillaume de Tonquédec",
+        "photo": "https://image.tmdb.org/t/p/w185/7QaSXmd5ejhrnypPH4BgiFVgcbP.jpg"
+      },
+      {
+        "nom": "Judith El Zein",
+        "photo": "https://image.tmdb.org/t/p/w185/oLFKRrV31weHvzLmrGupmvGz0Qt.jpg"
+      },
+      {
+        "nom": "Charles Berling",
+        "photo": "https://image.tmdb.org/t/p/w185/2xPeQoFms6hn8fi5wQx3CEjL70Z.jpg"
+      },
+      {
+        "nom": "Patrick Bruel",
+        "photo": "https://image.tmdb.org/t/p/w185/qhEF1ql6VHP7tjrfUraAwLuPEjj.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_303",
+    "titre": "Les Trois Frères",
+    "realisateur": "Didier Bourdon et Bernard Campan",
+    "annee": 1995,
+    "genre": "Comédie",
+    "pays": "France",
+    "duree_minutes": 107,
+    "acteur_principal": "Didier Bourdon",
+    "affiche": "assets/affiches/les_trois_freres.jpg",
+    "repliques_cultes": [
+      "Assermenté c'est pas incompatible avec un enculé, ça serait même un pléonasme."
+    ],
+    "images_defi6": {
+      "difficile": "assets/images/les_trois_freres_difficile.jpg",
+      "moyenne": "assets/images/les_trois_freres_moyenne.jpg",
+      "facile": "assets/images/les_trois_freres_facile.jpg"
+    },
+    "emojis": [
+      "👨‍👨‍👦",
+      "💰",
+      "⚖️",
+      "🏠",
+      "🏢",
+      "😂"
+    ],
+    "casting": [
+      {
+        "nom": "Anne Jacquemin",
+        "photo": "https://image.tmdb.org/t/p/w185/k5GQBJz0JNbsQhqWyaddBAqYomB.jpg"
+      },
+      {
+        "nom": "Antoine du Merle",
+        "photo": "https://image.tmdb.org/t/p/w185/6b5qfqARqqcuwqN4bAZfaoxED8Y.jpg"
+      },
+      {
+        "nom": "Pascal Légitimus",
+        "photo": "https://image.tmdb.org/t/p/w185/l2IlQPB86JlAfiUDeHpTH0AXd1D.jpg"
+      },
+      {
+        "nom": "Bernard Campan",
+        "photo": "https://image.tmdb.org/t/p/w185/cILI8cr9ZLQVdgHSNCktpi7gGO6.jpg"
+      },
+      {
+        "nom": "Didier Bourdon",
+        "photo": "https://image.tmdb.org/t/p/w185/llffnXLuelL2gCu6LFH7aPiva4f.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_304",
+    "titre": "Fast and Furious 7",
+    "realisateur": "James Wan",
+    "annee": 2015,
+    "genre": "Action",
+    "pays": "États-Unis",
+    "duree_minutes": 137,
+    "acteur_principal": "Vin Diesel",
+    "affiche": "assets/affiches/fast_and_furious_7.jpg",
+    "repliques_cultes": [
+      " I don't have friends. I got family."
+    ],
+    "replique_vf": "Je n'ai pas d'amis, j'ai une famille.",
+    "images_defi6": {
+      "difficile": "assets/images/fast_and_furious_7_difficile.jpg",
+      "moyenne": "assets/images/fast_and_furious_7_moyenne.jpg",
+      "facile": "assets/images/fast_and_furious_7_facile.jpg"
+    },
+    "emojis": [
+      "🏎️",
+      "💥",
+      "🏔️",
+      "🪂",
+      "🏙️",
+      "🌅"
+    ],
+    "casting": [
+      {
+        "nom": "Tyrese Gibson",
+        "photo": "https://image.tmdb.org/t/p/w185/jxoy4fbXNKFQtBdK73cLXEz3ufS.jpg"
+      },
+      {
+        "nom": "Michelle Rodriguez",
+        "photo": "https://image.tmdb.org/t/p/w185/wVcbrae4eRqGMFZz8Eh52Dl1biP.jpg"
+      },
+      {
+        "nom": "Paul Walker",
+        "photo": "https://image.tmdb.org/t/p/w185/q2PLqKHYCs35HR7QybaNPH3JT96.jpg"
+      },
+      {
+        "nom": "Dwayne Johnson",
+        "photo": "https://image.tmdb.org/t/p/w185/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+      },
+      {
+        "nom": "Vin Diesel",
+        "photo": "https://image.tmdb.org/t/p/w185/tEoUF0RJqHnskmBOJiDEQhyN7Ok.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_305",
+    "titre": "Snatch",
+    "realisateur": "Guy Ritchie",
+    "annee": 2000,
+    "genre": "Comédie",
+    "pays": "Royaume-Uni",
+    "duree_minutes": 104,
+    "acteur_principal": "Jason Statham",
+    "affiche": "assets/affiches/snatch.jpg",
+    "repliques_cultes": [
+      "Never underestimate the predictability of stupidity."
+    ],
+    "replique_vf": "Il ne faut jamais sous-estimer le caractère prévisible de la connerie.",
+    "images_defi6": {
+      "difficile": "assets/images/snatch_difficile.jpg",
+      "moyenne": "assets/images/snatch_moyenne.jpg",
+      "facile": "assets/images/snatch_facile.jpg"
+    },
+    "emojis": [
+      "💎",
+      "🥊",
+      "🐕",
+      "🚐",
+      "🔫",
+      "🐷"
+    ],
+    "casting": [
+      {
+        "nom": "Dennis Farina",
+        "photo": "https://image.tmdb.org/t/p/w185/4hEWe0ZcDpGlB3nRizLkVMcG13B.jpg"
+      },
+      {
+        "nom": "Alan Ford",
+        "photo": "https://image.tmdb.org/t/p/w185/nSlngfcFsCPENxiqCwZnB1twKuC.jpg"
+      },
+      {
+        "nom": "Stephen Graham",
+        "photo": "https://image.tmdb.org/t/p/w185/yguEO9zFvuccq87kOJpFLsmUgvs.jpg"
+      },
+      {
+        "nom": "Brad Pitt",
+        "photo": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+      },
+      {
+        "nom": "Jason Statham",
+        "photo": "https://image.tmdb.org/t/p/w185/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_306",
+    "titre": "Maman, j'ai raté l'avion",
+    "realisateur": "Chris Columbus",
+    "annee": 1990,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 103,
+    "acteur_principal": "Macaulay Culkin",
+    "affiche": "assets/affiches/maman_j_ai_rate_l_avion.jpg",
+    "repliques_cultes": [
+      "- Say good night, Kevin. - Good night, Kevin."
+    ],
+    "replique_vf": "- Dis bonsoir, Kevin. - Bonsoir Kevin.",
+    "images_defi6": {
+      "difficile": "assets/images/maman_j_ai_rate_l_avion_difficile.jpg",
+      "moyenne": "assets/images/maman_j_ai_rate_l_avion_moyenne.jpg",
+      "facile": "assets/images/maman_j_ai_rate_l_avion_facile.jpg"
+    },
+    "emojis": [
+      "🎄",
+      "🏠",
+      "✈️",
+      "🪤",
+      "👦",
+      "🔨"
+    ],
+    "casting": [
+      {
+        "nom": "Roberts Blossom",
+        "photo": "https://image.tmdb.org/t/p/w185/CP19Dvjvx2xSrkyJQEdmAC4wug.jpg"
+      },
+      {
+        "nom": "Daniel Stern",
+        "photo": "https://image.tmdb.org/t/p/w185/939oerf8bJPrqT2a0N0oGuM1bjn.jpg"
+      },
+      {
+        "nom": "John Heard",
+        "photo": "https://image.tmdb.org/t/p/w185/zjhcxrCFK4q0C1gtVmeN8FeqCw0.jpg"
+      },
+      {
+        "nom": "Macaulay Culkin",
+        "photo": "https://image.tmdb.org/t/p/w185/5We9Y4zUJ5TUnRgfmkzWQx0mLIF.jpg"
+      },
+      {
+        "nom": "Joe Pesci",
+        "photo": "https://image.tmdb.org/t/p/w185/pEHQoL8yOndOq59iXlgsOpUTcTk.jpg"
       }
     ]
   }
