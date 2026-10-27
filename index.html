@@ -399,18 +399,20 @@ const THEMES = {
           resultMeta:t=>`${t.serie_origine} · ${t.acteur}`, completionName:'Personnage' }) },
       { n:3, icon:'📍', name:'Lieu culte', desc:'Floutage',
         render: () => renderBlurDefi({ eyebrow:'Défi 3', title:'Devine le lieu culte', labelKey:'titre',
+          noBlur:true, revealAfter:10,   // photo nette dès le départ, réponse cachée après 10 échecs
           placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi3,
           resultMeta:t=>`${t.createur} · ${t.annee_debut}`, completionName:'Lieu culte', imageKey:'lieu_culte' }) },
       { n:4, icon:'🎞️', name:"Titre d'épisode", desc:'Indice écrit',
         render: () => renderClueGuessDefi({ eyebrow:'Défi 4', title:"Devine la série", labelKey:'titre',
           placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi4,
           clueHtml: `<div class="replique-box">📺 Titre d'épisode culte :<br><strong>« ${DAILY_SERIES.defi4.titre_episode_culte} »</strong></div>`,
+          emojiHints:{ every:2, max:5 }, revealAfter:10,   // 1 emoji toutes les 2 échecs (5 max), réponse cachée après 10 échecs
           resultMeta:t=>`${t.createur} · ${t.annee_debut}`, completionName:"Titre d'épisode" }) },
       { n:5, icon:'🎵', name:'Générique', desc:'Extrait audio',
         render: () => renderClueGuessDefi({ eyebrow:'Défi 5', title:'Devine le générique', labelKey:'titre',
           placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi5,
-          clueHtml: `<div class="replique-box">🎵 Extrait de « ${DAILY_SERIES.defi5.generique.titre} » — ${DAILY_SERIES.defi5.generique.artiste}</div>`,
-          audioSrc: DAILY_SERIES.defi5.generique.extrait_audio,
+          clueHtml: '',   // plus de titre ni d'artiste : lecteur audio seul
+          audioSrc: DAILY_SERIES.defi5.generique.extrait_audio, revealAfter:10,
           resultMeta:t=>`${t.generique.titre} · ${t.generique.artiste}`, completionName:'Générique' }) },
       { n:6, icon:'📸', name:'3 Images', desc:'Difficulté croissante',
         render: () => renderImagesDefi({ eyebrow:'Défi 6', title:'3 images de la série', labelKey:'titre',
@@ -837,13 +839,18 @@ function renderBlurDefi(cfg){
   const badge = document.getElementById('badge');
   const wrongList = document.getElementById('wrong-list');
   wireAutocomplete(input, suggestionsBox, cfg.pool, cfg.labelKey, [], submit);
+  if(cfg.noBlur) poster.style.filter = 'blur(0px) saturate(1.1)';   // image nette dès le départ
 
   function refreshWrong(){
-    const blur = revealState.revealed ? 0 : Math.max(BLUR_FLOOR, BLUR_START - wrongGuesses.length*BLUR_STEP);
+    const blur = (revealState.revealed || cfg.noBlur) ? 0 : Math.max(BLUR_FLOOR, BLUR_START - wrongGuesses.length*BLUR_STEP);
     poster.style.filter = 'blur('+blur+'px) saturate(1.1)';
     // Défi 3 Cinéma : après N échecs, possibilité de défloutter totalement l'image
-    updateRevealZone(revealZone, !!cfg.unblurAfter && wrongGuesses.length >= cfg.unblurAfter, "Cliquer pour défloutter l'image", '🖼️ Image défloutée', revealState,
-      () => { poster.style.filter = 'blur(0px) saturate(1.1)'; });
+    if(cfg.unblurAfter){
+      updateRevealZone(revealZone, wrongGuesses.length >= cfg.unblurAfter, "Cliquer pour défloutter l'image", '🖼️ Image défloutée', revealState,
+        () => { poster.style.filter = 'blur(0px) saturate(1.1)'; });
+    } else if(cfg.revealAfter){   // image visible d'emblée (noBlur) : réponse cachée après N échecs
+      updateRevealZone(revealZone, wrongGuesses.length >= cfg.revealAfter, 'Cliquer pour découvrir la réponse', cfg.target[cfg.labelKey], revealState);
+    }
     badge.textContent = wrongGuesses.length + (wrongGuesses.length>1?' essais':' essai');
     wrongList.innerHTML='';
     wrongGuesses.forEach(f => { const c=document.createElement('div'); c.className='wrong-chip'; c.textContent=f[cfg.labelKey]; wrongList.appendChild(c); });
@@ -979,8 +986,10 @@ function renderClueGuessDefi(cfg){
     <header class="defi-header"><div class="defi-eyebrow">${cfg.eyebrow}</div><h2 class="defi-title">${cfg.title}</h2></header>
     ${cfg.clueHtml}
     ${audioBlock}
+    ${cfg.emojiHints ? '<div class="emoji-board" id="emoji-zone"></div>' : ''}
     <div id="voice-zone"></div>
     <div class="wrong-list" id="wrong-list"></div>
+    <div id="reveal-zone"></div>
     <div class="search-wrap" id="search-wrap">
       <input type="text" id="search-input" placeholder="${cfg.placeholder}" autocomplete="off">
       <div class="suggestions" id="suggestions"></div>
@@ -1004,11 +1013,21 @@ function renderClueGuessDefi(cfg){
       voiceZone.innerHTML = `<div class="locked-hint">🔒 Indice vocal débloqué après ${left} échec${left>1?'s':''}${n>0 ? ' de plus' : ''}</div>`;
     }
   }
+  // Emojis d'aide (ex. défi 4 Séries) : un de plus tous les N échecs, jusqu'à max
+  const emojiZone = document.getElementById('emoji-zone'), revealZone = document.getElementById('reveal-zone'), revealState = { revealed:false };
+  function refreshEmojis(){
+    if(!emojiZone) return;
+    const { every, max } = cfg.emojiHints, list = cfg.target.emojis || [];
+    const count = Math.min(max, Math.floor(wrongGuesses.length / every), list.length);
+    emojiZone.innerHTML = Array.from({ length:max }, (_, i) => i < count ? `<div class="emoji-slot on" style="animation:none">${list[i]}</div>` : `<div class="emoji-slot off">❓</div>`).join('');
+  }
   function refreshWrong(){
     wrongList.innerHTML='';
     wrongGuesses.forEach(f => { const c=document.createElement('div'); c.className='wrong-chip'; c.textContent=f[cfg.labelKey]; wrongList.appendChild(c); });
-    refreshVoice();
+    refreshVoice(); refreshEmojis();
+    if(cfg.revealAfter) updateRevealZone(revealZone, wrongGuesses.length >= cfg.revealAfter, 'Cliquer pour découvrir la réponse', cfg.target[cfg.labelKey], revealState);
   }
+  refreshEmojis();
   function submit(item){
     input.value=''; suggestionsBox.classList.remove('open'); suggestionsBox.innerHTML='';
     if(item[cfg.labelKey] === cfg.target[cfg.labelKey]){
@@ -1020,7 +1039,7 @@ function renderClueGuessDefi(cfg){
     refreshWrong();
   }
   function finish(){
-    input.disabled = true;
+    input.disabled = true; revealZone.innerHTML='';
     document.getElementById('result-zone').innerHTML = `
       <div class="result">
         <div class="film-title">${cfg.target[cfg.labelKey]}</div>
