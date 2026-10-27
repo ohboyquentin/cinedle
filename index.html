@@ -390,7 +390,7 @@ const THEMES = {
     label: 'Séries',
     defis: [
       { n:1, icon:'📺', name:'Série', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine la série', yesterday: yesterdayHtml(), hints: HINTS_TITRE, itemLabel:'Série', labelKey:'titre',
+        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine la série', yesterday: yesterdayHtml(), hints: HINTS_FILM_CINEMA, itemLabel:'Série', labelKey:'titre',
           placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi1, columns:COLS_SERIE,
           resultMeta:t=>`${t.createur} · ${t.annee_debut} · ${t.genre}`, completionName:'Série' }) },
       { n:2, icon:'🧑', name:'Personnage', desc:'Grille de comparaison',
@@ -399,7 +399,12 @@ const THEMES = {
           resultMeta:t=>`${t.serie_origine} · ${t.acteur}`, completionName:'Personnage' }) },
       { n:3, icon:'📍', name:'Lieu culte', desc:'Floutage',
         render: () => renderBlurDefi({ eyebrow:'Défi 3', title:'Devine le lieu culte', labelKey:'titre',
-          noBlur:true, revealAfter:10,   // photo nette dès le départ, réponse cachée après 10 échecs
+          noBlur:true,   // photo nette dès le départ
+          hints:[   // 3 essais : saisons ; 6 : genre ; 10 : réponse cachée
+            { after:3, html: t => `La série compte ${t.nombre_saisons} saison${t.nombre_saisons>1?'s':''}` },
+            { after:6, html: t => `Genre : ${t.genre}` },
+            { after:10, reveal:true, label:'Cliquer pour découvrir la réponse', html: t => t.titre },
+          ],
           placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi3,
           resultMeta:t=>`${t.createur} · ${t.annee_debut}`, completionName:'Lieu culte', imageKey:'lieu_culte' }) },
       { n:4, icon:'🎞️', name:"Titre d'épisode", desc:'Indice écrit',
@@ -414,10 +419,10 @@ const THEMES = {
           clueHtml: '',   // plus de titre ni d'artiste : lecteur audio seul
           audioSrc: DAILY_SERIES.defi5.generique.extrait_audio, revealAfter:10,
           resultMeta:t=>`${t.generique.titre} · ${t.generique.artiste}`, completionName:'Générique' }) },
-      { n:6, icon:'📸', name:'3 Images', desc:'Difficulté croissante',
-        render: () => renderImagesDefi({ eyebrow:'Défi 6', title:'3 images de la série', labelKey:'titre',
-          placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi6,
-          resultMeta:t=>`${t.createur} · ${t.annee_debut}`, completionName:'3 Images' }) },
+      { n:6, icon:'🎭', name:'Casting', desc:'Photos des acteurs',
+        render: () => renderCastingDefi({ eyebrow:'Défi 6', title:'Devine la série grâce à son casting', labelKey:'titre',
+          placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi6, revealAfter:10,
+          resultMeta:t=>`${t.createur} · ${t.annee_debut}`, completionName:'Casting' }) },
     ]
   },
   animes: {
@@ -824,6 +829,7 @@ function renderBlurDefi(cfg){
     <header class="defi-header"><div class="defi-eyebrow">${cfg.eyebrow}</div><h2 class="defi-title">${cfg.title}</h2></header>
     <div class="poster-frame"><div class="attempts-badge" id="badge">0 essai</div><div class="poster-placeholder" id="poster">🎬${cfg.target[cfg.imageKey] ? `<img class="poster-img" src="${cfg.target[cfg.imageKey]}" alt="" onerror="this.remove()">` : ''}</div></div>
     <div class="wrong-list" id="wrong-list"></div>
+    <div id="hint-zone"></div>
     <div id="reveal-zone"></div>
     <div class="search-wrap" id="search-wrap">
       <input type="text" id="search-input" placeholder="${cfg.placeholder}" autocomplete="off">
@@ -841,10 +847,24 @@ function renderBlurDefi(cfg){
   wireAutocomplete(input, suggestionsBox, cfg.pool, cfg.labelKey, [], submit);
   if(cfg.noBlur) poster.style.filter = 'blur(0px) saturate(1.1)';   // image nette dès le départ
 
+  // Indices progressifs (cfg.hints : after / html / reveal) — même rendu que les défis à grille
+  const hintZone = document.getElementById('hint-zone'), shownHints = new Set();
+  hintZone.addEventListener('click', e => { const b = e.target.closest('[data-reveal]'); if(!b) return; shownHints.add(Number(b.dataset.reveal)); b.classList.add('shown'); });
+  function refreshHints(){
+    if(!cfg.hints){ return; }
+    const n = wrongGuesses.length;
+    let out = cfg.hints.map((h, i) => ({ h, i })).filter(x => n >= x.h.after).map(({ h, i }) => h.reveal
+      ? `<div class="hint-box reveal-box${shownHints.has(i) ? ' shown' : ''}" data-reveal="${i}"><span class="reveal-label">🔓 ${h.label}</span><span class="reveal-answer">${h.html(cfg.target)}</span></div>`
+      : `<div class="hint-box">💡 ${h.html(cfg.target)}</div>`).join('');
+    const next = cfg.hints.find(h => n < h.after);
+    if(next){ const left = next.after - n; out += `<div class="locked-hint">🔒 Prochain indice dans ${left} essai${left>1?'s':''}</div>`; }
+    hintZone.innerHTML = out;
+  }
   function refreshWrong(){
     const blur = (revealState.revealed || cfg.noBlur) ? 0 : Math.max(BLUR_FLOOR, BLUR_START - wrongGuesses.length*BLUR_STEP);
     poster.style.filter = 'blur('+blur+'px) saturate(1.1)';
     // Défi 3 Cinéma : après N échecs, possibilité de défloutter totalement l'image
+    refreshHints();
     if(cfg.unblurAfter){
       updateRevealZone(revealZone, wrongGuesses.length >= cfg.unblurAfter, "Cliquer pour défloutter l'image", '🖼️ Image défloutée', revealState,
         () => { poster.style.filter = 'blur(0px) saturate(1.1)'; });
@@ -867,7 +887,7 @@ function renderBlurDefi(cfg){
   }
   function finish(){
     input.disabled = true;
-    poster.style.filter='blur(0px)'; poster.style.transform='scale(1)'; badge.textContent='Trouvé'; revealZone.innerHTML='';
+    poster.style.filter='blur(0px)'; poster.style.transform='scale(1)'; badge.textContent='Trouvé'; revealZone.innerHTML=''; hintZone.innerHTML='';
     document.getElementById('result-zone').innerHTML = `
       <div class="result">
         <div class="film-title">${cfg.target[cfg.labelKey]}</div>
@@ -973,6 +993,75 @@ function renderEmojiDefi(cfg){
   // Reprise de la progression du jour
   wrongGuesses = restoreItems(cfg.pool, cfg.labelKey, prog.guesses);
   drawBoard(Math.min(emojis.length, EMOJI_START + wrongGuesses.length));
+  if(wrongGuesses.length){ refreshWrong(); }
+  if(prog.done){ finish(); }
+}
+
+/* =========================================================
+   MOTEUR GÉNÉRIQUE — DÉFI CASTING (photos d'acteurs, du moins au plus connu)
+   ========================================================= */
+function renderCastingDefi(cfg){
+  let wrongGuesses = [];
+  const prog = getProgress(cfg.eyebrow);
+  const casting = (cfg.target.casting || []).filter(a => a && a.photo);
+  app.innerHTML = `
+    ${backButton()}${progressDots()}
+    <header class="defi-header"><div class="defi-eyebrow">${cfg.eyebrow}</div><h2 class="defi-title">${cfg.title}</h2></header>
+    <div class="actor-zone" id="actor-zone"></div>
+    <div class="wrong-list" id="wrong-list"></div>
+    <div id="reveal-zone"></div>
+    <div class="search-wrap" id="search-wrap">
+      <input type="text" id="search-input" placeholder="${cfg.placeholder}" autocomplete="off">
+      <div class="suggestions" id="suggestions"></div>
+    </div>
+    <div id="result-zone"></div>
+  `;
+  wireBack();
+  const input = document.getElementById('search-input');
+  const suggestionsBox = document.getElementById('suggestions');
+  const wrongList = document.getElementById('wrong-list');
+  const actorZone = document.getElementById('actor-zone');
+  const revealZone = document.getElementById('reveal-zone'), revealState = { revealed:false };
+  wireAutocomplete(input, suggestionsBox, cfg.pool, cfg.labelKey, [], submit);
+
+  // 1 photo au départ (la moins connue), puis une de plus tous les 2 échecs (5 photos à 8 échecs)
+  function drawActors(fails, all){
+    const n = all ? casting.length : Math.min(casting.length, 1 + Math.floor(fails / 2));
+    if(!casting.length){ actorZone.innerHTML = '<div class="locked-hint">📸 Casting indisponible pour le moment</div>'; return; }
+    actorZone.innerHTML = `<div class="actor-caption">📸 Acteurs de la série — du moins connu au plus connu</div><div class="actor-row">${
+      casting.slice(0, n).map(a => `<div class="actor-card"><img src="${a.photo.replace('/w185/', '/w342/')}" alt="" loading="lazy" onerror="this.style.visibility='hidden'">${all ? `<span>${a.nom}</span>` : ''}</div>`).join('')
+    }</div><div class="tmdb-credit">Photos : TMDB — ce site utilise l'API TMDB mais n'est ni approuvé ni certifié par TMDB.</div>`;
+  }
+  function refreshWrong(){
+    drawActors(wrongGuesses.length);
+    wrongList.innerHTML='';
+    wrongGuesses.forEach(f => { const c=document.createElement('div'); c.className='wrong-chip'; c.textContent=f[cfg.labelKey]; wrongList.appendChild(c); });
+    if(cfg.revealAfter) updateRevealZone(revealZone, wrongGuesses.length >= cfg.revealAfter, 'Cliquer pour découvrir la réponse', cfg.target[cfg.labelKey], revealState);
+  }
+  function submit(item){
+    input.value=''; suggestionsBox.classList.remove('open'); suggestionsBox.innerHTML='';
+    if(item[cfg.labelKey] === cfg.target[cfg.labelKey]){
+      saveProgress(cfg.eyebrow, wrongGuesses.map(f => f[cfg.labelKey]), true, wrongGuesses.length + 1);
+      finish(); return;
+    }
+    wrongGuesses.push(item);
+    saveProgress(cfg.eyebrow, wrongGuesses.map(f => f[cfg.labelKey]), false, wrongGuesses.length);
+    refreshWrong();
+  }
+  function finish(){
+    input.disabled = true; revealZone.innerHTML=''; drawActors(0, true);
+    document.getElementById('result-zone').innerHTML = `
+      <div class="result">
+        <div class="film-title">${cfg.target[cfg.labelKey]}</div>
+        <div class="meta">${cfg.resultMeta(cfg.target)}</div>
+        <div class="meta">Trouvé en ${wrongGuesses.length+1} tentative${wrongGuesses.length>0?'s':''}</div>
+      </div>`;
+    onDefiComplete(cfg.completionName, wrongGuesses.length+1);
+  }
+
+  // Reprise de la progression du jour
+  wrongGuesses = restoreItems(cfg.pool, cfg.labelKey, prog.guesses);
+  drawActors(wrongGuesses.length);
   if(wrongGuesses.length){ refreshWrong(); }
   if(prog.done){ finish(); }
 }
