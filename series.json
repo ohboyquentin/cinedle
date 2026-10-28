@@ -15,7 +15,7 @@
     "generique": {
       "titre": "Main Title Theme",
       "artiste": "Dave Porter",
-      "extrait_audio": "assets/audio/generiques/breaking_bad.mp3"
+      "extrait_audio": "assets/audio/generiques/breaking_bad.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/breaking_bad_difficile.jpg",
@@ -73,7 +73,7 @@
     "generique": {
       "titre": "I'll Be There for You",
       "artiste": "The Rembrandts",
-      "extrait_audio": "assets/audio/generiques/friends.mp3"
+      "extrait_audio": "assets/audio/generiques/friends.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/friends_difficile.jpg",
@@ -131,7 +131,7 @@
     "generique": {
       "titre": "Main Title",
       "artiste": "Ramin Djawadi",
-      "extrait_audio": "assets/audio/generiques/game_of_thrones.mp3"
+      "extrait_audio": "assets/audio/generiques/game_of_thrones.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/game_of_thrones_difficile.jpg",
@@ -189,7 +189,7 @@
     "generique": {
       "titre": "Stranger Things Theme",
       "artiste": "Kyle Dixon et Michael Stein",
-      "extrait_audio": "assets/audio/generiques/stranger_things.mp3"
+      "extrait_audio": "assets/audio/generiques/stranger_things.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/stranger_things_difficile.jpg",
@@ -247,7 +247,7 @@
     "generique": {
       "titre": "The Office Theme",
       "artiste": "Jay Ferguson",
-      "extrait_audio": "assets/audio/generiques/the_office.mp3"
+      "extrait_audio": "assets/audio/generiques/the_office.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/the_office_difficile.jpg",
@@ -305,7 +305,7 @@
     "generique": {
       "titre": "Sherlock Main Title",
       "artiste": "David Arnold et Michael Price",
-      "extrait_audio": "assets/audio/generiques/sherlock.mp3"
+      "extrait_audio": "assets/audio/generiques/sherlock.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/sherlock_difficile.jpg",
@@ -363,7 +363,7 @@
     "generique": {
       "titre": "Red Right Hand",
       "artiste": "Nick Cave and the Bad Seeds",
-      "extrait_audio": "assets/audio/generiques/peaky_blinders.mp3"
+      "extrait_audio": "assets/audio/generiques/peaky_blinders.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/peaky_blinders_difficile.jpg",
@@ -421,7 +421,7 @@
     "generique": {
       "titre": "Main Title Theme",
       "artiste": "Little Barrie",
-      "extrait_audio": "assets/audio/generiques/better_call_saul.mp3"
+      "extrait_audio": "assets/audio/generiques/better_call_saul.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/better_call_saul_difficile.jpg",
@@ -479,7 +479,7 @@
     "generique": {
       "titre": "Main Title",
       "artiste": "Hans Zimmer et Rupert Gregson-Williams",
-      "extrait_audio": "assets/audio/generiques/the_crown.mp3"
+      "extrait_audio": "assets/audio/generiques/the_crown.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/the_crown_difficile.jpg",
@@ -537,7 +537,7 @@
     "generique": {
       "titre": "Goodbye",
       "artiste": "Apparat",
-      "extrait_audio": "assets/audio/generiques/dark.mp3"
+      "extrait_audio": "assets/audio/generiques/dark.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/dark_difficile.jpg",
@@ -595,7 +595,7 @@
     "generique": {
       "titre": "Bella Ciao",
       "artiste": "Traditionnel",
-      "extrait_audio": "assets/audio/generiques/la_casa_de_papel.mp3"
+      "extrait_audio": "assets/audio/generiques/la_casa_de_papel.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/la_casa_de_papel_difficile.jpg",
@@ -653,7 +653,7 @@
     "generique": {
       "titre": "Vichnaya Pamyat",
       "artiste": "Hildur Guðnadóttir",
-      "extrait_audio": "assets/audio/generiques/chernobyl.mp3"
+      "extrait_audio": "assets/audio/generiques/chernobyl.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/chernobyl_difficile.jpg",
@@ -711,7 +711,7 @@
     "generique": {
       "titre": "Fargo Theme",
       "artiste": "Jeff Russo",
-      "extrait_audio": "assets/audio/generiques/fargo.mp3"
+      "extrait_audio": "assets/audio/generiques/fargo.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/fargo_difficile.jpg",
@@ -769,7 +769,7 @@
     "generique": {
       "titre": "Far From Any Road",
       "artiste": "The Handsome Family",
-      "extrait_audio": "assets/audio/generiques/true_detective.mp3"
+      "extrait_audio": "assets/audio/generiques/true_detective.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/true_detective_difficile.jpg",
@@ -827,7 +827,7 @@
     "generique": {
       "titre": "Westworld Theme",
       "artiste": "Ramin Djawadi",
-      "extrait_audio": "assets/audio/generiques/westworld.mp3"
+      "extrait_audio": "assets/audio/generiques/westworld.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/westworld_difficile.jpg",
@@ -885,7 +885,7 @@
     "generique": {
       "titre": "The Mandalorian Theme",
       "artiste": "Ludwig Göransson",
-      "extrait_audio": "assets/audio/generiques/mandalorian.mp3"
+      "extrait_audio": "assets/audio/generiques/the_mandalorian.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/mandalorian_difficile.jpg",
@@ -943,7 +943,7 @@
     "generique": {
       "titre": "Main Title",
       "artiste": "Jeff Beal",
-      "extrait_audio": "assets/audio/generiques/house_of_cards.mp3"
+      "extrait_audio": "assets/audio/generiques/house_of_cards.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/house_of_cards_difficile.jpg",
@@ -1001,7 +1001,7 @@
     "generique": {
       "titre": "Tuyo",
       "artiste": "Rodrigo Amarante",
-      "extrait_audio": "assets/audio/generiques/narcos.mp3"
+      "extrait_audio": "assets/audio/generiques/narcos.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/narcos_difficile.jpg",
@@ -1059,7 +1059,7 @@
     "generique": {
       "titre": "Prison Break Theme",
       "artiste": "Ramin Djawadi",
-      "extrait_audio": "assets/audio/generiques/prison_break.mp3"
+      "extrait_audio": "assets/audio/generiques/prison_break.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/prison_break_difficile.jpg",
@@ -1117,7 +1117,7 @@
     "generique": {
       "titre": "Hey Beautiful",
       "artiste": "The Solids",
-      "extrait_audio": "assets/audio/generiques/himym.mp3"
+      "extrait_audio": "assets/audio/generiques/how_i_met_your_mother.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/himym_difficile.jpg",
@@ -1175,7 +1175,7 @@
     "generique": {
       "titre": "History of Everything",
       "artiste": "Barenaked Ladies",
-      "extrait_audio": "assets/audio/generiques/tbbt.mp3"
+      "extrait_audio": "assets/audio/generiques/the_big_bang_theory.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/tbbt_difficile.jpg",
@@ -1233,7 +1233,7 @@
     "generique": {
       "titre": "Main Title Theme",
       "artiste": "Rolfe Kent",
-      "extrait_audio": "assets/audio/generiques/dexter.mp3"
+      "extrait_audio": "assets/audio/generiques/dexter.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/dexter_difficile.jpg",
@@ -1291,7 +1291,7 @@
     "generique": {
       "titre": "Lost Theme",
       "artiste": "Michael Giacchino",
-      "extrait_audio": "assets/audio/generiques/lost.mp3"
+      "extrait_audio": "assets/audio/generiques/lost.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/lost_difficile.jpg",
@@ -1349,7 +1349,7 @@
     "generique": {
       "titre": "The Walking Dead Main Title",
       "artiste": "Bear McCreary",
-      "extrait_audio": "assets/audio/generiques/twd.mp3"
+      "extrait_audio": "assets/audio/generiques/the_walking_dead.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/twd_difficile.jpg",
@@ -1407,7 +1407,7 @@
     "generique": {
       "titre": "If I Had a Heart",
       "artiste": "Fever Ray",
-      "extrait_audio": "assets/audio/generiques/vikings.mp3"
+      "extrait_audio": "assets/audio/generiques/vikings.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/vikings_difficile.jpg",
@@ -1465,7 +1465,7 @@
     "generique": {
       "titre": "Way Down in the Hole",
       "artiste": "The Blind Boys of Alabama",
-      "extrait_audio": "assets/audio/generiques/the_wire.mp3"
+      "extrait_audio": "assets/audio/generiques/the_wire.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/the_wire_difficile.jpg",
@@ -1523,7 +1523,7 @@
     "generique": {
       "titre": "Straight Up and Down",
       "artiste": "The Brian Jonestown Massacre",
-      "extrait_audio": "assets/audio/generiques/boardwalk_empire.mp3"
+      "extrait_audio": "assets/audio/generiques/boardwalk_empire.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/boardwalk_empire_difficile.jpg",
@@ -1581,7 +1581,7 @@
     "generique": {
       "titre": "A Beautiful Mine",
       "artiste": "RJD2",
-      "extrait_audio": "assets/audio/generiques/mad_men.mp3"
+      "extrait_audio": "assets/audio/generiques/mad_men.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/mad_men_difficile.jpg",
@@ -1639,7 +1639,7 @@
     "generique": {
       "titre": "Woke Up This Morning",
       "artiste": "Alabama 3",
-      "extrait_audio": "assets/audio/generiques/les_soprano.mp3"
+      "extrait_audio": "assets/audio/generiques/les_soprano.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/les_soprano_difficile.jpg",
@@ -1697,7 +1697,7 @@
     "generique": {
       "titre": "Homeland Theme",
       "artiste": "Sean Callery",
-      "extrait_audio": "assets/audio/generiques/homeland.mp3"
+      "extrait_audio": "assets/audio/generiques/homeland.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/homeland_difficile.jpg",
@@ -1755,7 +1755,7 @@
     "generique": {
       "titre": "24 Theme",
       "artiste": "Sean Callery",
-      "extrait_audio": "assets/audio/generiques/24_heures_chrono.mp3"
+      "extrait_audio": "assets/audio/generiques/24_heures_chrono.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/24_heures_chrono_difficile.jpg",
@@ -1813,7 +1813,7 @@
     "generique": {
       "titre": "Cosy in the Rocket",
       "artiste": "Psapp",
-      "extrait_audio": "assets/audio/generiques/greys_anatomy.mp3"
+      "extrait_audio": "assets/audio/generiques/grey_s_anatomy.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/greys_anatomy_difficile.jpg",
@@ -1871,7 +1871,7 @@
     "generique": {
       "titre": "Doctor Who Theme",
       "artiste": "Murray Gold",
-      "extrait_audio": "assets/audio/generiques/doctor_who.mp3"
+      "extrait_audio": "assets/audio/generiques/doctor_who.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/doctor_who_difficile.jpg",
@@ -1929,7 +1929,7 @@
     "generique": {
       "titre": "Downton Abbey Theme",
       "artiste": "John Lunn",
-      "extrait_audio": "assets/audio/generiques/downton_abbey.mp3"
+      "extrait_audio": "assets/audio/generiques/downton_abbey.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/downton_abbey_difficile.jpg",
@@ -1987,7 +1987,7 @@
     "generique": {
       "titre": "Greenback Boogie",
       "artiste": "Ima Robot",
-      "extrait_audio": "assets/audio/generiques/suits.mp3"
+      "extrait_audio": "assets/audio/generiques/suits_avocats_sur_mesure.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/suits_difficile.jpg",
@@ -2045,7 +2045,7 @@
     "generique": {
       "titre": "Modern Family Theme",
       "artiste": "Gabriel Mann",
-      "extrait_audio": "assets/audio/generiques/modern_family.mp3"
+      "extrait_audio": "assets/audio/generiques/modern_family.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/modern_family_difficile.jpg",
@@ -2103,7 +2103,7 @@
     "generique": {
       "titre": "Arrested Development Theme",
       "artiste": "David Schwartz",
-      "extrait_audio": "assets/audio/generiques/arrested_development.mp3"
+      "extrait_audio": "assets/audio/generiques/arrested_development.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/arrested_development_difficile.jpg",
@@ -2161,7 +2161,7 @@
     "generique": {
       "titre": "The Handmaid's Tale Theme",
       "artiste": "Adam Taylor",
-      "extrait_audio": "assets/audio/generiques/handmaids_tale.mp3"
+      "extrait_audio": "assets/audio/generiques/the_handmaid_s_tale_la_servante_ecarlate.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/handmaids_tale_difficile.jpg",
@@ -2219,7 +2219,7 @@
     "generique": {
       "titre": "Succession Main Title Theme",
       "artiste": "Nicholas Britell",
-      "extrait_audio": "assets/audio/generiques/succession.mp3"
+      "extrait_audio": "assets/audio/generiques/succession.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/succession_difficile.jpg",
@@ -2277,7 +2277,7 @@
     "generique": {
       "titre": "Euphoria Theme",
       "artiste": "Labrinth",
-      "extrait_audio": "assets/audio/generiques/euphoria.mp3"
+      "extrait_audio": "assets/audio/generiques/euphoria.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/euphoria_difficile.jpg",
@@ -2335,7 +2335,7 @@
     "generique": {
       "titre": "Twin Peaks Theme",
       "artiste": "Angelo Badalamenti",
-      "extrait_audio": "assets/audio/generiques/twin_peaks.mp3"
+      "extrait_audio": "assets/audio/generiques/twin_peaks.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/twin_peaks_difficile.jpg",
@@ -2393,7 +2393,7 @@
     "generique": {
       "titre": "The X-Files Theme",
       "artiste": "Mark Snow",
-      "extrait_audio": "assets/audio/generiques/x_files.mp3"
+      "extrait_audio": "assets/audio/generiques/the_x_files_aux_frontieres_du_reel.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/x_files_difficile.jpg",
@@ -2451,7 +2451,7 @@
     "generique": {
       "titre": "Battlestar Galactica Main Title",
       "artiste": "Bear McCreary",
-      "extrait_audio": "assets/audio/generiques/battlestar_galactica.mp3"
+      "extrait_audio": "assets/audio/generiques/battlestar_galactica.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/battlestar_galactica_difficile.jpg",
@@ -2567,7 +2567,7 @@
     "generique": {
       "titre": "Buffy the Vampire Slayer Theme",
       "artiste": "Nerf Herder",
-      "extrait_audio": "assets/audio/generiques/buffy.mp3"
+      "extrait_audio": "assets/audio/generiques/buffy_contre_les_vampires.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/buffy_difficile.jpg",
@@ -2625,7 +2625,7 @@
     "generique": {
       "titre": "Carry On Wayward Son",
       "artiste": "Kansas",
-      "extrait_audio": "assets/audio/generiques/supernatural.mp3"
+      "extrait_audio": "assets/audio/generiques/supernatural.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/supernatural_difficile.jpg",
@@ -2683,7 +2683,7 @@
     "generique": {
       "titre": "I'm No Superman",
       "artiste": "Lazlo Bane",
-      "extrait_audio": "assets/audio/generiques/scrubs.mp3"
+      "extrait_audio": "assets/audio/generiques/scrubs.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/scrubs_difficile.jpg",
@@ -2741,7 +2741,7 @@
     "generique": {
       "titre": "At Least It Was Here",
       "artiste": "The 88",
-      "extrait_audio": "assets/audio/generiques/community.mp3"
+      "extrait_audio": "assets/audio/generiques/community.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/community_difficile.jpg",
@@ -2799,7 +2799,7 @@
     "generique": {
       "titre": "Parks and Recreation Theme",
       "artiste": "Gaby Moreno et Vincent Jones",
-      "extrait_audio": "assets/audio/generiques/parks_and_recreation.mp3"
+      "extrait_audio": "assets/audio/generiques/parks_and_recreation.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/parks_and_recreation_difficile.jpg",
@@ -2857,7 +2857,7 @@
     "generique": {
       "titre": "Brooklyn Nine-Nine Theme",
       "artiste": "Bill Boyer",
-      "extrait_audio": "assets/audio/generiques/brooklyn_99.mp3"
+      "extrait_audio": "assets/audio/generiques/brooklyn_nine_nine.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/brooklyn_99_difficile.jpg",
@@ -2973,7 +2973,7 @@
     "generique": {
       "titre": "Misfits Theme",
       "artiste": "Various",
-      "extrait_audio": "assets/audio/generiques/misfits.mp3"
+      "extrait_audio": "assets/audio/generiques/misfits.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/misfits_difficile.jpg",
@@ -3031,7 +3031,7 @@
     "generique": {
       "titre": "The Boys Main Title",
       "artiste": "Christopher Lennertz",
-      "extrait_audio": "assets/audio/generiques/the_boys.mp3"
+      "extrait_audio": "assets/audio/generiques/the_boys.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/the_boys_difficile.jpg",
@@ -3089,7 +3089,7 @@
     "generique": {
       "titre": "Ozark Theme",
       "artiste": "Danny Bensi et Saunder Jurriaans",
-      "extrait_audio": "assets/audio/generiques/ozark.mp3"
+      "extrait_audio": "assets/audio/generiques/ozark.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/ozark_difficile.jpg",
@@ -3147,7 +3147,7 @@
     "generique": {
       "titre": "Mindhunter Theme",
       "artiste": "Jason Hill",
-      "extrait_audio": "assets/audio/generiques/mindhunter.mp3"
+      "extrait_audio": "assets/audio/generiques/mindhunter.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/mindhunter_difficile.jpg",
@@ -3205,7 +3205,7 @@
     "generique": {
       "titre": "Rick and Morty Theme",
       "artiste": "Ryan Elder",
-      "extrait_audio": "assets/audio/generiques/rick_and_morty.mp3"
+      "extrait_audio": "assets/audio/generiques/rick_and_morty.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/rick_and_morty_difficile.jpg",
@@ -3263,7 +3263,7 @@
     "generique": {
       "titre": "BoJack Horseman Theme",
       "artiste": "Patrick Carney et Ralph Carney",
-      "extrait_audio": "assets/audio/generiques/bojack_horseman.mp3"
+      "extrait_audio": "assets/audio/generiques/bojack_horseman.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/bojack_horseman_difficile.jpg",
@@ -3321,7 +3321,7 @@
     "generique": {
       "titre": "South Park Theme",
       "artiste": "Primus",
-      "extrait_audio": "assets/audio/generiques/south_park.mp3"
+      "extrait_audio": "assets/audio/generiques/south_park.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/south_park_difficile.jpg",
@@ -3379,7 +3379,7 @@
     "generique": {
       "titre": "The Simpsons Theme",
       "artiste": "Danny Elfman",
-      "extrait_audio": "assets/audio/generiques/les_simpson.mp3"
+      "extrait_audio": "assets/audio/generiques/les_simpson.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/les_simpson_difficile.jpg",
@@ -3437,7 +3437,7 @@
     "generique": {
       "titre": "Family Guy Theme",
       "artiste": "Walter Murphy",
-      "extrait_audio": "assets/audio/generiques/family_guy.mp3"
+      "extrait_audio": "assets/audio/generiques/family_guy.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/family_guy_difficile.jpg",
@@ -3669,7 +3669,7 @@
     "generique": {
       "titre": "Sex and the City Theme",
       "artiste": "Douglas J. Cuomo et Tom Findlay",
-      "extrait_audio": "assets/audio/generiques/sex_and_the_city.mp3"
+      "extrait_audio": "assets/audio/generiques/sex_and_the_city.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/sex_and_the_city_difficile.jpg",
@@ -3785,7 +3785,7 @@
     "generique": {
       "titre": "The Umbrella Academy Theme",
       "artiste": "Jeff Russo",
-      "extrait_audio": "assets/audio/generiques/umbrella_academy.mp3"
+      "extrait_audio": "assets/audio/generiques/the_umbrella_academy.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/umbrella_academy_difficile.jpg",
@@ -3843,7 +3843,7 @@
     "generique": {
       "titre": "Daredevil Theme",
       "artiste": "John Paesano",
-      "extrait_audio": "assets/audio/generiques/daredevil.mp3"
+      "extrait_audio": "assets/audio/generiques/daredevil.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/daredevil_difficile.jpg",
@@ -3901,7 +3901,7 @@
     "generique": {
       "titre": "Luke Cage Theme",
       "artiste": "Adrian Younge et Ali Shaheed Muhammad",
-      "extrait_audio": "assets/audio/generiques/luke_cage.mp3"
+      "extrait_audio": "assets/audio/generiques/luke_cage.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/luke_cage_difficile.jpg",
@@ -3959,7 +3959,7 @@
     "generique": {
       "titre": "This Life",
       "artiste": "Curtis Stigers et The Forest Rangers",
-      "extrait_audio": "assets/audio/generiques/sons_of_anarchy.mp3"
+      "extrait_audio": "assets/audio/generiques/sons_of_anarchy.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/sons_of_anarchy_difficile.jpg",
@@ -4017,7 +4017,7 @@
     "generique": {
       "titre": "How Soon Is Now?",
       "artiste": "Love Spit Love",
-      "extrait_audio": "assets/audio/generiques/charmed.mp3"
+      "extrait_audio": "assets/audio/generiques/charmed.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/charmed_difficile.jpg",
@@ -4075,7 +4075,7 @@
     "generique": {
       "titre": "Banshee Theme",
       "artiste": "Methodic Doubt",
-      "extrait_audio": "assets/audio/generiques/banshee.mp3"
+      "extrait_audio": "assets/audio/generiques/banshee.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/banshee_difficile.jpg",
@@ -4133,7 +4133,7 @@
     "generique": {
       "titre": "Demimonde",
       "artiste": "Abel Korzeniowski",
-      "extrait_audio": "assets/audio/generiques/penny_dreadful.mp3"
+      "extrait_audio": "assets/audio/generiques/penny_dreadful.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/penny_dreadful_difficile.jpg",
@@ -4365,7 +4365,7 @@
     "generique": {
       "titre": "Yellowstone Theme",
       "artiste": "Brian Tyler",
-      "extrait_audio": "assets/audio/generiques/yellowstone.mp3"
+      "extrait_audio": "assets/audio/generiques/yellowstone.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/yellowstone_difficile.jpg",
@@ -4423,7 +4423,7 @@
     "generique": {
       "titre": "1883 Theme",
       "artiste": "Brian Tyler",
-      "extrait_audio": "assets/audio/generiques/1883.mp3"
+      "extrait_audio": "assets/audio/generiques/1883.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/1883_difficile.jpg",
@@ -4539,7 +4539,7 @@
     "generique": {
       "titre": "The Bear Theme",
       "artiste": "Various",
-      "extrait_audio": "assets/audio/generiques/the_bear.mp3"
+      "extrait_audio": "assets/audio/generiques/the_bear.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/the_bear_difficile.jpg",
@@ -4597,7 +4597,7 @@
     "generique": {
       "titre": "Severance Theme",
       "artiste": "Theodore Shapiro",
-      "extrait_audio": "assets/audio/generiques/severance.mp3"
+      "extrait_audio": "assets/audio/generiques/severance.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/severance_difficile.jpg",
@@ -4655,7 +4655,7 @@
     "generique": {
       "titre": "Andor Theme",
       "artiste": "Nicholas Britell",
-      "extrait_audio": "assets/audio/generiques/andor.mp3"
+      "extrait_audio": "assets/audio/generiques/andor.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/andor_difficile.jpg",
@@ -4713,7 +4713,7 @@
     "generique": {
       "titre": "Loki Theme",
       "artiste": "Natalie Holt",
-      "extrait_audio": "assets/audio/generiques/loki.mp3"
+      "extrait_audio": "assets/audio/generiques/loki.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/loki_difficile.jpg",
@@ -4771,7 +4771,7 @@
     "generique": {
       "titre": "WandaVision Theme",
       "artiste": "Christophe Beck",
-      "extrait_audio": "assets/audio/generiques/wandavision.mp3"
+      "extrait_audio": "assets/audio/generiques/wandavision.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/wandavision_difficile.jpg",
@@ -4829,7 +4829,7 @@
     "generique": {
       "titre": "The Last of Us Theme",
       "artiste": "Gustavo Santaolalla",
-      "extrait_audio": "assets/audio/generiques/the_last_of_us.mp3"
+      "extrait_audio": "assets/audio/generiques/the_last_of_us.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/the_last_of_us_difficile.jpg",
@@ -4887,7 +4887,7 @@
     "generique": {
       "titre": "House of the Dragon Theme",
       "artiste": "Ramin Djawadi",
-      "extrait_audio": "assets/audio/generiques/house_of_the_dragon.mp3"
+      "extrait_audio": "assets/audio/generiques/house_of_the_dragon.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/house_of_the_dragon_difficile.jpg",
@@ -4945,7 +4945,7 @@
     "generique": {
       "titre": "The Witcher Theme",
       "artiste": "Sonya Belousova et Giona Ostinelli",
-      "extrait_audio": "assets/audio/generiques/the_witcher.mp3"
+      "extrait_audio": "assets/audio/generiques/the_witcher.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/the_witcher_difficile.jpg",
@@ -5003,7 +5003,7 @@
     "generique": {
       "titre": "Ted Lasso Theme",
       "artiste": "Marcus Mumford",
-      "extrait_audio": "assets/audio/generiques/ted_lasso.mp3"
+      "extrait_audio": "assets/audio/generiques/ted_lasso.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/ted_lasso_difficile.jpg",
@@ -5177,7 +5177,7 @@
     "generique": {
       "titre": "Theme from Futurama",
       "artiste": "Christopher Tyng",
-      "extrait_audio": "assets/audio/generiques/futurama.mp3"
+      "extrait_audio": "assets/audio/generiques/futurama.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/futurama_difficile.jpg",
@@ -5235,7 +5235,7 @@
     "generique": {
       "titre": "Theme from Star Trek",
       "artiste": "Alexander Courage",
-      "extrait_audio": "assets/audio/generiques/star_trek.mp3"
+      "extrait_audio": "assets/audio/generiques/star_trek.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/star_trek_difficile.jpg",
@@ -5293,7 +5293,7 @@
     "generique": {
       "titre": "American Horror Story Theme",
       "artiste": "Cesar Davila-Irizarry et Charlie Clouser",
-      "extrait_audio": "assets/audio/generiques/american_horror_story.mp3"
+      "extrait_audio": "assets/audio/generiques/american_horror_story.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/american_horror_story_difficile.jpg",
@@ -5351,7 +5351,7 @@
     "generique": {
       "titre": "Glee Theme",
       "artiste": "Various",
-      "extrait_audio": "assets/audio/generiques/glee.mp3"
+      "extrait_audio": "assets/audio/generiques/glee.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/glee_difficile.jpg",
@@ -5409,7 +5409,7 @@
     "generique": {
       "titre": "You've Got Time",
       "artiste": "Regina Spektor",
-      "extrait_audio": "assets/audio/generiques/oitnb.mp3"
+      "extrait_audio": "assets/audio/generiques/orange_is_the_new_black.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/oitnb_difficile.jpg",
@@ -5757,7 +5757,7 @@
     "generique": {
       "titre": "Way Back Then",
       "artiste": "Jung Jae-il",
-      "extrait_audio": "assets/audio/generiques/squid_game.mp3"
+      "extrait_audio": "assets/audio/generiques/squid_game.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/squid_game_difficile.jpg",
@@ -5873,7 +5873,7 @@
     "generique": {
       "titre": "Wednesday Main Titles",
       "artiste": "Danny Elfman",
-      "extrait_audio": "assets/audio/generiques/wednesday.mp3"
+      "extrait_audio": "assets/audio/generiques/wednesday.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/wednesday_difficile.jpg",
@@ -5931,7 +5931,7 @@
     "generique": {
       "titre": "Enemy",
       "artiste": "Imagine Dragons et J.I.D",
-      "extrait_audio": "assets/audio/generiques/arcane.mp3"
+      "extrait_audio": "assets/audio/generiques/arcane.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/arcane_difficile.jpg",
@@ -5989,7 +5989,7 @@
     "generique": {
       "titre": "Teardrop",
       "artiste": "Massive Attack",
-      "extrait_audio": "assets/audio/generiques/house.mp3"
+      "extrait_audio": "assets/audio/generiques/house.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/house_difficile.jpg",
@@ -6337,7 +6337,7 @@
     "generique": {
       "titre": "Fallout Main Theme",
       "artiste": "Ramin Djawadi",
-      "extrait_audio": "assets/audio/generiques/fallout.mp3"
+      "extrait_audio": "assets/audio/generiques/fallout.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/fallout_difficile.jpg",
@@ -6395,7 +6395,7 @@
     "generique": {
       "titre": "Strange Games",
       "artiste": "Mick Jagger",
-      "extrait_audio": "assets/audio/generiques/slow_horses.mp3"
+      "extrait_audio": "assets/audio/generiques/slow_horses.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/slow_horses_difficile.jpg",
@@ -6453,7 +6453,7 @@
     "generique": {
       "titre": "Aloha!",
       "artiste": "Cristobal Tapia de Veer",
-      "extrait_audio": "assets/audio/generiques/the_white_lotus.mp3"
+      "extrait_audio": "assets/audio/generiques/the_white_lotus.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/the_white_lotus_difficile.jpg",
@@ -6627,7 +6627,7 @@
     "generique": {
       "titre": "Bad Things",
       "artiste": "Jace Everett",
-      "extrait_audio": "assets/audio/generiques/true_blood.mp3"
+      "extrait_audio": "assets/audio/generiques/true_blood.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/true_blood_difficile.jpg",
@@ -6685,7 +6685,7 @@
     "generique": {
       "titre": "Tuyo",
       "artiste": "Rodrigo Amarante",
-      "extrait_audio": "assets/audio/generiques/narcos_mexico.mp3"
+      "extrait_audio": "assets/audio/generiques/narcos_mexico.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/narcos_mexico_difficile.jpg",
@@ -6917,7 +6917,7 @@
     "generique": {
       "titre": "Boss of Me",
       "artiste": "They Might Be Giants",
-      "extrait_audio": "assets/audio/generiques/malcolm.mp3"
+      "extrait_audio": "assets/audio/generiques/malcolm.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/malcolm_difficile.jpg",
