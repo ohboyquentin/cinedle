@@ -1,41 +1,72 @@
-OK : 86
+OK : 73   |   Versions françaises trouvées : 13
 
-À VÉRIFIER (écoute le fichier, extrait téléchargé mais peut-être pas le bon morceau) : 6
-series · La Casa de Papel : attendu « Bella Ciao » — Traditionnel | trouvé Bella Ciao — Middle Ages (Ice and Fire (Medieval Folk Collection) - EP)
-series · The Big Bang Theory : attendu « History of Everything » — Barenaked Ladies | trouvé Everything — T-Rock (The Kairos Album)
-series · Dexter : attendu « Main Title Theme » — Rolfe Kent | trouvé Sofia the First Main Title Theme (feat. Sofia) — The Cast of Sofia the First (Sofia the First)
-series · The Handmaid's Tale : La Servante Écarlate : attendu « The Handmaid's Tale Theme » — Adam Taylor | trouvé The Handmaid's Tale Theme — TV Theme Players (Modern TV Themes)
-series · Buffy contre les vampires : attendu « Buffy the Vampire Slayer Theme » — Nerf Herder | trouvé Buffy the Vampire Slayer (Theme Song) — Boom Boom Shake (Mid Century Modern - EP)
-series · Charmed : attendu « How Soon Is Now? » — Love Spit Love | trouvé How Soon Is Now? (12" Version) — The Smiths (Complete)
+VF — TITRE FRANÇAIS À CHOISIR : 6  (renvoie-moi ces lignes)
+anim_007 · Peter Pan (JSON : « You Can Fly! ») → pistes de l'album français : Main Title — James Newton Howard | Flying — James Newton Howard | Learning To Fly — James Newton Howard | Tinkerbell — James Newton Howard | Is That A Kiss — James Newton Howard | Peter's Shadow — James Newton Howard | A Note From The Teacher — James Newton Howard | Build A House Around Her — James Newton Howard | Come Meet Father — James Newton Howard | Fetch Long Tom — James Newton Howard | Mermaids — James Newton Howard | Fairy Dance — James Newton Howard | Set Them Free — James Newton Howard | I Do Believe In Fairies — James Newton Howard | Poison — James Newton Howard | Please Don't Die — James Newton Howard | Flying Jolly Roger — James Newton Howard | Peter Returns — James Newton Howard
+anim_033 · Toy Story (JSON : « Je suis ton ami ») → pistes de l'album français : I Knew It, I Knew You — Taylor Swift | Buzzs — Randy Newman | Tire Swing Hill — Randy Newman | Tech Boom — Randy Newman | Bonnie's New E-Friends — Randy Newman | Calling Woody — Randy Newman | Making Land — Randy Newman | Back Home — Randy Newman | Welcome Woody — Randy Newman | Shed Toys — Randy Newman | Smarty Pants — Randy Newman | Man Down — Randy Newman | The Drawer — Randy Newman | Blaze — Randy Newman | Bonnie Returns — Randy Newman | Truce — Randy Newman | Operation Jessie — Randy Newman | Queen Jimmy — Randy Newman | Hey Lily — Randy Newman | Bad News — Randy Newman | Interrogation — Randy Newman | Breakdown — Randy Newman | Buried Treasure — Randy Newman | Highway Robbery — Randy Newman | Reunion — Randy Newman | Bonnie and Blaze — Randy Newman | Happy Landing — Randy Newman
+anim_035 · Monstres & Cie (JSON : « If I Didn't Have You ») → pistes de l'album français : monstres & cie — melissa
+anim_041 · Là-haut (JSON : « Married Life ») → pistes de l'album français : Haut le cœur — Emilie Marsh | HPI générique — Yannis Dumoutiers | Révélations — Yannis Dumoutiers | Démonstrations — Yannis Dumoutiers | Morgane — Yannis Dumoutiers | La planque — Yannis Dumoutiers | Découverte — Yannis Dumoutiers | Le pacte — Yannis Dumoutiers | Théa — Yannis Dumoutiers | Visions — Yannis Dumoutiers | Morgane & Karadec — Yannis Dumoutiers | Le parking — Yannis Dumoutiers | Romain — Yannis Dumoutiers | Gilles — Yannis Dumoutiers | Les aveux — Yannis Dumoutiers | L'échange — Yannis Dumoutiers | Père & fils — Yannis Dumoutiers | La vérité — Yannis Dumoutiers | Haut potentiel intellectuel — Yannis Dumoutiers | Transplantation — Yannis Dumoutiers | Three Snakes — Maïdi Roth | Stronger — Maïdi Roth | Face au miroir — Maïdi Roth | Adoption — Maïdi Roth | Rencontre solidaire — Maïdi Roth | Sans-abri — Maïdi Roth | Sous X — Maïdi Roth | Les parents — Maïdi Roth | Late Evening — Maïdi Roth | Premier flash — Maïdi Roth | Anniversaire — Maïdi Roth | Random Explosion — Maïdi Roth | Dispute — Maïdi Roth | Murielle — Maïdi Roth | Retour sous X — Maïdi Roth | Three Snakes — Maïdi Roth
+anim_048 · Luca (JSON : « Un'estate al mare ») → pistes de l'album français : Meet Luca — Dan Romer | Did You Hide? — Dan Romer | The Curious Fish — Dan Romer | You Forgot Your Harpoon — Dan Romer | Phantom Tail — Dan Romer | Walking Is Just Like Swimming — Dan Romer | Vespa è Libertà — Dan Romer | You Hold the Ramp — Dan Romer | Silenzio Bruno — Dan Romer | That's the Dream — Dan Romer | The Bottom of the Ocean — Dan Romer | Take Me, Gravity — Dan Romer | Portorosso — Dan Romer | Signor Vespa — Dan Romer | This Isn't Any Old Race — Dan Romer | Buonanotte, Boys — Dan Romer | Land Monsters Everywhere — Dan Romer | Buongiorno Massimo — Dan Romer | The Out of Town Weirdo Tax — Dan Romer | Rules Are for Rule People — Dan Romer | How Humans Swim — Dan Romer | Not Our Kid — Dan Romer | Telescope — Dan Romer | Beyond the Solar System — Dan Romer | We Don't Need Anybody — Dan Romer | The Sea Monster — Dan Romer | I Wish I Could Take It Back — Dan Romer | The Portorosso Cup — Dan Romer | How to Find the Good Ones — Dan Romer | Go Find Out for Me — Dan Romer
+anim_060 · Shrek (JSON : « I'm a Believer ») → pistes de l'album français : Fairytale — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | Ogre Hunters / Fairytale Deathcamp — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | Donkey Meets Shrek — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | Eating Alone — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | Uninvited Guests — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | March of Farquuad — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | The Perfect King — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | Welcome To Duloc — Hope Levy & Jill Bogard | Tournament Speech — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | What Kind of Quest — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | Dragon! / Fiona Awakens — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | One of a Kind Knight — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | Saving Donkey's Ass — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | Escape From the Dragon — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | Helmet Hair — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | Delivery Boy Shrek / Making Camp — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | Friends Journey To Duloc — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | Starry Night — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | Singing Princess — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | Better Out Than In / Sunflower / I'll Tell Him — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | Merry Men — Vincent Cassel, Guillaume Aretos, Calvin Remsberg, John Bisom, Mathew Gonder & Jean-Paul Vignon | Fiona Kicks Ass — Harry Gregson-Williams, Metro Voices, Gavin Greenaway & John Powell | Fiona's Secret — Harry Gregson-Williams, Metro Voices, Gavin Greenaway & John Powell | Why Wait To Be Wed / You Thought Wrong — Harry Gregson-Williams, Metro Voices, Gavin Greenaway & John Powell | Ride the Dragon — Harry Gregson-Williams, Metro Voices, Gavin Greenaway & John Powell | I Object — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway | Transformation / The End — Harry Gregson-Williams, Metro Voices, John Powell & Gavin Greenaway
 
-INTROUVABLES (à faire à la main) : 4
-series · Skins : « Wolfgang Amadeus Mozart » — Cut Copy
-series · Fleabag : « Fleabag Theme » — Isobel Waller-Bridge
-series · Kaamelott : « Kaamelott (générique) » — Alexandre Astier
-series · Hannibal : « Hannibal Main Title » — Brian Reitzell
+VF — PAS D'ALBUM FRANÇAIS TROUVÉ : 32
+anim_003 · Dumbo : « Bébé mine » (rien trouvé)
+anim_006 · Alice au pays des merveilles : pas d'album français trouvé, extrait pris = Joyeux non-anniversaire — Cast of Alice in Wonderland (Disney : Les 50 plus belles chansons, vol. 3)
+anim_009 · Les 101 Dalmatiens : pas d'album français trouvé, extrait pris = Cruella D'enfer — Tamo Tuma (Tamo Doux Parfum)
+anim_021 · Les Nouvelles Aventures de l'empereur : pas d'album français trouvé, extrait pris = Perfect World — Tom Jones (The Emperor's New Groove)
+anim_023 · Bienvenue chez les Robinson : pas d'album français trouvé, extrait pris = Little Wonders — Rob Thomas (Meet the Robinsons (Original Motion Picture Soundtrack))
+anim_024 · Raiponce : pas d'album français trouvé, extrait pris = I See the Light (From "Tangled") — Mandy Moore & Zachary Levi (Disney Classics)
+anim_027 · Les Nouveaux Héros : pas d'album français trouvé, extrait pris = Immortals — Fall Out Boy (American Beauty / American Psycho)
+anim_030 · La Reine des neiges II : pas d'album français trouvé, extrait pris = Dans un autre monde (Bande originale française du film La reine des neiges 2) — Charlotte Hervieux & AURORA (La reine des neiges 2 (Bande Originale française du Film/Deluxe Edition))
+anim_031 · Raya et le Dernier Dragon : pas d'album français trouvé, extrait pris = Lead the Way — Jhené Aiko (Raya and the Last Dragon (Original Motion Picture Soundtrack))
+anim_034 · Toy Story 2 : pas d'album français trouvé, extrait pris = "Quand elle m’aimait" (Piano pour la Lecture) 【De Toy Story 2】 — Healing Energy (Piano Disney pour la lecture)
+anim_036 · Le Monde de Nemo : pas d'album français trouvé, extrait pris = Beyond the Sea — Robbie Williams (Beyond the Sea - Single)
+anim_037 · Les Indestructibles : pas d'album français trouvé, extrait pris = Incredits 2 — Michael Giacchino (Incredibles 2 (Original Motion Picture Soundtrack))
+anim_038 · Cars : pas d'album français trouvé, extrait pris = Real Gone — Sheryl Crow (Cars (Original Motion Picture Soundtrack))
+anim_047 · Toy Story 4 : pas d'album français trouvé, extrait pris = I Can't Let You Throw Yourself Away — Randy Newman (Toy Story 4 (Original Motion Picture Soundtrack))
+anim_049 · Élémentaire : pas d'album français trouvé, extrait pris = Steal the Show (feat. Andy Cooper) — The Allergies (Steal the Show)
+anim_050 · Fievel et le Nouveau Monde : pas d'album français trouvé, extrait pris = Somewhere Out There — Linda Ronstadt & James Ingram (An American Tail (Original Motion Picture Soundtrack))
+anim_058 · Le Prince d'Égypte : pas d'album français trouvé, extrait pris = When You Believe (from "The Prince of Egypt") — Mariah Carey & Whitney Houston (Greatest Hits)
+anim_062 · L'Âge de glace : pas d'album français trouvé, extrait pris = Send Me On My Way — Rusted Root (Music from Party of Five)
+anim_064 · Madagascar : pas d'album français trouvé, extrait pris = I Like to Move It — will.i.am (Madagascar: Escape 2 Africa (Music from the Motion Picture))
+anim_069 · Dragons : pas d'album français trouvé, extrait pris = Romantic Flight — John Powell (How To Train Your Dragon (Music From the Motion Picture))
+anim_070 · Moi, moche et méchant : pas d'album français trouvé, extrait pris = Despicable Me — Pharrell Williams (Despicable Me 3 (Original Motion Picture Soundtrack))
+anim_073 · 1001 pattes : pas d'album français trouvé, extrait pris = The Time of Your Life — Randy Newman (A Bug's Life (An Original Walt Disney Records Soundtrack))
+anim_097 · Robin des Bois : pas d'album français trouvé, extrait pris = Oo-De-Lally (From "Robin Hood") — Roger Miller (Oo-De-Lally (From "Robin Hood") - Single)
+anim_098 · Les Aventures de Winnie l'ourson : pas d'album français trouvé, extrait pris = Winnie l'ourson — Nicole Croisille (Les aventures de Porcinet (Bande originale de film) [Version française])
+anim_099 · Rox et Rouky : pas d'album français trouvé, extrait pris = Best of Friends (From "The Fox and the Hound") — Pearl Bailey (Disney Classics)
+anim_101 · Basil, détective privé : pas d'album français trouvé, extrait pris = "The World's Greatest Criminal Mind" — Vincent Price (The Adventures of the Great Mouse Detective (Original Motion Picture Soundtrack))
+anim_102 · Oliver et Compagnie : pas d'album français trouvé, extrait pris = Why Should I Worry? — Billy Joel (Oliver and Company (Original Soundtrack) [English Version])
+anim_115 · Ralph 2.0 : pas d'album français trouvé, extrait pris = A Place Called Slaughter Race — Sarah Silverman, Gal Gadot & Cast - Ralph Breaks the Internet (Ralph Breaks the Internet (Original Motion Picture Soundtrack))
+anim_121 · Dingo et Max : pas d'album français trouvé, extrait pris = Stand Out — Tevin Campbell (A Goofy Movie (Original Soundtrack))
+anim_123 · Shrek 2 : pas d'album français trouvé, extrait pris = Holding Out For a Hero — Frou Frou (Shrek 2 (Original Motion Picture Soundtrack))
+anim_127 · Dragons 2 : pas d'album français trouvé, extrait pris = For the Dancing and the Dreaming (from "How To Train Your Dragon 2") [Lofi] — Lofied (How to Train Your Dragon Lofi)
+anim_129 · Moi, moche et méchant 2 : pas d'album français trouvé, extrait pris = Happy (From "Despicable Me 2") — Pharrell Williams (G I R L)
 
-INFOS À COMPLÉTER dans le JSON ([Ajouter ...]) : 24
-series · Caméra Café : [Ajouter generique] / [Ajouter artiste]
-series · H : [Ajouter generique] / DJ Abdel
-series · Desperate Housewives : [Ajouter generique] / Danny Elfman
-series · The Mentalist : [Ajouter generique] / Blake Neely
-series · Orphan Black : [Ajouter generique] / Two Fingers
-series · Heroes : [Ajouter generique] / Wendy Melvoin et Lisa Coleman
-series · Pluribus : [Ajouter generique] / Dave Porter
-series · Preacher : [Ajouter generique] / Dave Porter
-series · The Haunting of Hill House : [Ajouter generique] / The Newton Brothers
-series · Le Jeu de la dame : [Ajouter generique] / Carlos Rafael Rivera
-series · Dix pour cent : [Ajouter generique] / [Ajouter artiste]
-series · Lupin : [Ajouter generique] / [Ajouter artiste]
-series · Le Bureau des légendes : [Ajouter generique] / [Ajouter artiste]
-series · Baron noir : [Ajouter generique] / [Ajouter artiste]
-series · Black Mirror : [Ajouter generique] / [Ajouter artiste]
-series · Mr. Robot : [Ajouter generique] / [Ajouter artiste]
-series · Gossip Girl : [Ajouter generique] / [Ajouter artiste]
-series · Cobra Kai : [Ajouter generique] / [Ajouter artiste]
-series · Shōgun : [Ajouter generique] / [Ajouter artiste]
-series · Only Murders in the Building : [Ajouter generique] / Siddhartha Khosla
-series · Bridgerton : [Ajouter generique] / [Ajouter artiste]
-series · Gomorra : [Ajouter generique] / [Ajouter artiste]
-series · Widow's Bay : [Ajouter generique] / David Fleming
-series · Silo : [Ajouter generique] / Atli Örvarsson
+VF — ARTISTE À COMPLÉTER (album collectif) : 1
+Bambi : « La chanson de la pluie » (album : Bambi 2 (Bande originale de film), artiste « Cast of Bambi »)
+
+À VÉRIFIER (écoute le fichier, extrait téléchargé mais peut-être pas le bon morceau) : 1
+animation · Merlin l'enchanteur : attendu « Higitus Figitus » — [Ajouter artiste] | trouvé Higitus Figitus (De "Merlin l’Enchanteur") — Cast - Merlin l'Enchanteur (Les 100 Plus Belles Chansons Disney (5 Vol.))
+
+INTROUVABLES (à faire à la main) : 1
+animation · Kirikou et la Sorcière : « Kirikou's Theme » — Youssou N'Dour
+
+INFOS À COMPLÉTER dans le JSON ([Ajouter ...]) : 18
+animation · Taram et le Chaudron magique : [Ajouter musique] / [Ajouter artiste]
+animation · Les Aventures de Bernard et Bianca au pays des kangourous : [Ajouter musique] / [Ajouter artiste]
+animation · Dinosaure : [Ajouter musique] / [Ajouter artiste]
+animation · La Ferme se rebelle : [Ajouter musique] / [Ajouter artiste]
+animation · Avalonia : L'Étrange Voyage : [Ajouter musique] / [Ajouter artiste]
+animation · Hôtel Transylvanie : [Ajouter musique] / [Ajouter artiste]
+animation · Shrek le Troisième : [Ajouter musique] / [Ajouter artiste]
+animation · Kung Fu Panda 2 : [Ajouter musique] / [Ajouter artiste]
+animation · Kung Fu Panda 3 : [Ajouter musique] / [Ajouter artiste]
+animation · Madagascar 2 : [Ajouter musique] / [Ajouter artiste]
+animation · L'Âge de glace 2 : [Ajouter musique] / [Ajouter artiste]
+animation · L'Âge de glace 3 : [Ajouter musique] / [Ajouter artiste]
+animation · Les Minions : [Ajouter musique] / [Ajouter artiste]
+animation · Le Chat Potté : [Ajouter musique] / [Ajouter artiste]
+animation · Comme des bêtes : [Ajouter musique] / [Ajouter artiste]
+animation · Tous en scène : [Ajouter musique] / [Ajouter artiste]
+animation · Les Bad Guys : [Ajouter musique] / [Ajouter artiste]
+animation · Chicken Run : [Ajouter musique] / [Ajouter artiste]

@@ -15,7 +15,7 @@
     "musique": {
       "titre": "Heigh-Ho",
       "artiste": "Les Sept Nains",
-      "extrait_audio": "assets/audio/musiques/blanche_neige_et_les_sept_nains.m4a"
+      "extrait_audio": "assets/audio/musiques/blanche_neige_et_les_sept_nains.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/blanche_neige_et_les_sept_nains_difficile.jpg",
@@ -39,7 +39,7 @@
     "musique": {
       "titre": "Quand on prie la bonne étoile",
       "artiste": "Cliff Edwards",
-      "extrait_audio": "assets/audio/musiques/pinocchio.m4a"
+      "extrait_audio": "assets/audio/musiques/pinocchio.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/pinocchio_difficile.jpg",
@@ -63,7 +63,7 @@
     "musique": {
       "titre": "Bébé mine",
       "artiste": "Betty Noyes",
-      "extrait_audio": "assets/audio/musiques/dumbo.m4a"
+      "extrait_audio": "assets/audio/musiques/dumbo.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/dumbo_difficile.jpg",
@@ -85,8 +85,8 @@
       "Quand on n'a rien de gentil à dire, on ne dit rien."
     ],
     "musique": {
-      "titre": "Love Is a Song",
-      "artiste": "Donald Novis",
+      "titre": "La chanson de la pluie",
+      "artiste": "[Ajouter artiste]",
       "extrait_audio": "assets/audio/musiques/bambi.m4a"
     },
     "images_defi6": {
@@ -111,7 +111,7 @@
     "musique": {
       "titre": "Bibbidi-Bobbidi-Boo",
       "artiste": "Verna Felton",
-      "extrait_audio": "assets/audio/musiques/cendrillon.m4a"
+      "extrait_audio": "assets/audio/musiques/cendrillon.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/cendrillon_difficile.jpg",
@@ -159,7 +159,7 @@
     "musique": {
       "titre": "You Can Fly!",
       "artiste": "Bobby Driscoll",
-      "extrait_audio": "assets/audio/musiques/peter_pan.m4a"
+      "extrait_audio": "assets/audio/musiques/peter_pan.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/peter_pan_difficile.jpg",
@@ -181,8 +181,8 @@
       "Avant le coucher du soleil de ses seize ans, elle se piquera le doigt au fuseau d'un rouet et mourra."
     ],
     "musique": {
-      "titre": "Once Upon a Dream",
-      "artiste": "Mary Costa",
+      "titre": "J'en ai rêvé",
+      "artiste": "Sleeping Beauty Chorus",
       "extrait_audio": "assets/audio/musiques/la_belle_au_bois_dormant.m4a"
     },
     "images_defi6": {
@@ -229,8 +229,8 @@
       "Il en faut peu pour être heureux, vraiment très peu pour être heureux."
     ],
     "musique": {
-      "titre": "Je voudrais être comme toi",
-      "artiste": "Louis Prima",
+      "titre": "Être un homme comme vous",
+      "artiste": "Jean Stout, Jose Bartel & Pascal Bressi",
       "extrait_audio": "assets/audio/musiques/le_livre_de_la_jungle.m4a"
     },
     "images_defi6": {
@@ -255,7 +255,7 @@
     "musique": {
       "titre": "Tout le monde veut devenir un cat",
       "artiste": "Scatman Crothers",
-      "extrait_audio": "assets/audio/musiques/les_aristochats.m4a"
+      "extrait_audio": "assets/audio/musiques/les_aristochats.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/les_aristochats_difficile.jpg",
@@ -279,7 +279,7 @@
     "musique": {
       "titre": "Someone's Waiting for You",
       "artiste": "Shelby Flint",
-      "extrait_audio": "assets/audio/musiques/les_aventures_de_bernard_et_bianca.m4a"
+      "extrait_audio": "assets/audio/musiques/les_aventures_de_bernard_et_bianca.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/les_aventures_de_bernard_et_bianca_difficile.jpg",
@@ -303,7 +303,7 @@
     "musique": {
       "titre": "Sous l'océan",
       "artiste": "Samuel E. Wright",
-      "extrait_audio": "assets/audio/musiques/la_petite_sirene.m4a"
+      "extrait_audio": "assets/audio/musiques/la_petite_sirene.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/la_petite_sirene_difficile.jpg",
@@ -326,8 +326,8 @@
     ],
     "musique": {
       "titre": "Histoire éternelle",
-      "artiste": "Angela Lansbury",
-      "extrait_audio": "assets/audio/musiques/la_belle_et_la_bete.m4a"
+      "artiste": "Lucie Dolène",
+      "extrait_audio": "assets/audio/musiques/la_belle_et_la_bete.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/la_belle_et_la_bete_difficile.jpg",
@@ -351,7 +351,7 @@
     "musique": {
       "titre": "Ce rêve bleu",
       "artiste": "Brad Kane",
-      "extrait_audio": "assets/audio/musiques/aladdin.m4a"
+      "extrait_audio": "assets/audio/musiques/aladdin.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/aladdin_difficile.jpg",
@@ -375,7 +375,7 @@
     "musique": {
       "titre": "L'histoire de la vie",
       "artiste": "Elton John",
-      "extrait_audio": "assets/audio/musiques/le_roi_lion.m4a"
+      "extrait_audio": "assets/audio/musiques/le_roi_lion.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/le_roi_lion_difficile.jpg",
@@ -397,9 +397,9 @@
       "Tu penses que les seules personnes qui ont une âme sont celles qui te ressemblent."
     ],
     "musique": {
-      "titre": "Les Couleurs du vent",
+      "titre": "L'Air du vent",
       "artiste": "Judy Kuhn",
-      "extrait_audio": "assets/audio/musiques/pocahontas_une_legende_indienne.m4a"
+      "extrait_audio": "assets/audio/musiques/pocahontas_une_legende_indienne.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/pocahontas_une_legende_indienne_difficile.jpg",
@@ -423,7 +423,7 @@
     "musique": {
       "titre": "Les Cloches de Notre-Dame",
       "artiste": "Paul Kandel",
-      "extrait_audio": "assets/audio/musiques/le_bossu_de_notre_dame.m4a"
+      "extrait_audio": "assets/audio/musiques/le_bossu_de_notre_dame.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/le_bossu_de_notre_dame_difficile.jpg",
@@ -447,7 +447,7 @@
     "musique": {
       "titre": "De zéro à héros",
       "artiste": "Les Muses",
-      "extrait_audio": "assets/audio/musiques/hercule.m4a"
+      "extrait_audio": "assets/audio/musiques/hercule.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/hercule_difficile.jpg",
@@ -471,7 +471,7 @@
     "musique": {
       "titre": "Reflection",
       "artiste": "Lea Salonga",
-      "extrait_audio": "assets/audio/musiques/mulan.m4a"
+      "extrait_audio": "assets/audio/musiques/mulan.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/mulan_difficile.jpg",
@@ -518,7 +518,7 @@
     ],
     "musique": {
       "titre": "Hawaiian Roller Coaster Ride",
-      "artiste": "Mark Keali'i Ho'omalu",
+      "artiste": "Kamehameha Schools Children's Chorus & Mark Keali'i Ho'omalu",
       "extrait_audio": "assets/audio/musiques/lilo_stitch.m4a"
     },
     "images_defi6": {
@@ -589,8 +589,8 @@
       "Je suis un méchant, c'est comme ça, je ne serai jamais un gentil."
     ],
     "musique": {
-      "titre": "When Can I See You Again?",
-      "artiste": "Owl City",
+      "titre": "Wreck-It, Wreck-It Ralph",
+      "artiste": "Buckner & Garcia",
       "extrait_audio": "assets/audio/musiques/les_mondes_de_ralph.m4a"
     },
     "images_defi6": {
@@ -614,8 +614,8 @@
     ],
     "musique": {
       "titre": "Libérée, délivrée",
-      "artiste": "Idina Menzel",
-      "extrait_audio": "assets/audio/musiques/la_reine_des_neiges.m4a"
+      "artiste": "Anaïs Delva",
+      "extrait_audio": "assets/audio/musiques/la_reine_des_neiges.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/la_reine_des_neiges_difficile.jpg",
@@ -687,7 +687,7 @@
     "musique": {
       "titre": "Le Bleu lumière",
       "artiste": "Auliʻi Cravalho",
-      "extrait_audio": "assets/audio/musiques/vaiana_la_legende_du_bout_du_monde.m4a"
+      "extrait_audio": "assets/audio/musiques/vaiana_la_legende_du_bout_du_monde.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/vaiana_la_legende_du_bout_du_monde_difficile.jpg",
@@ -709,8 +709,8 @@
       "L'eau a de la mémoire."
     ],
     "musique": {
-      "titre": "Into the Unknown",
-      "artiste": "Idina Menzel",
+      "titre": "Dans un autre monde",
+      "artiste": "Charlotte Hervieux",
       "extrait_audio": "assets/audio/musiques/la_reine_des_neiges_ii.m4a"
     },
     "images_defi6": {
@@ -757,8 +757,8 @@
       "On ne parle pas de Bruno !"
     ],
     "musique": {
-      "titre": "Surface Pressure",
-      "artiste": "Jessica Darrow",
+      "titre": "Sous les apparences",
+      "artiste": "Ana Ka",
       "extrait_audio": "assets/audio/musiques/encanto_la_fantastique_famille_madrigal.m4a"
     },
     "images_defi6": {
@@ -783,7 +783,7 @@
     "musique": {
       "titre": "Je suis ton ami",
       "artiste": "Randy Newman",
-      "extrait_audio": "assets/audio/musiques/toy_story.m4a"
+      "extrait_audio": "assets/audio/musiques/toy_story.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/toy_story_difficile.jpg",
@@ -831,7 +831,7 @@
     "musique": {
       "titre": "If I Didn't Have You",
       "artiste": "Billy Crystal",
-      "extrait_audio": "assets/audio/musiques/monstres_cie.m4a"
+      "extrait_audio": "assets/audio/musiques/monstres_cie.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/monstres_cie_difficile.jpg",
@@ -925,7 +925,7 @@
       "Tout le monde peut cuisiner !"
     ],
     "musique": {
-      "titre": "Le Festin",
+      "titre": "Le festin",
       "artiste": "Camille",
       "extrait_audio": "assets/audio/musiques/ratatouille.m4a"
     },
@@ -949,8 +949,8 @@
       "Éééève !"
     ],
     "musique": {
-      "titre": "Put On Your Sunday Clothes",
-      "artiste": "Michael Crawford",
+      "titre": "La vie en rose",
+      "artiste": "Louis Armstrong and His Orchestra",
       "extrait_audio": "assets/audio/musiques/wall_e.m4a"
     },
     "images_defi6": {
@@ -975,7 +975,7 @@
     "musique": {
       "titre": "Married Life",
       "artiste": "Michael Giacchino",
-      "extrait_audio": "assets/audio/musiques/la_haut.m4a"
+      "extrait_audio": "assets/audio/musiques/la_haut.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/la_haut_difficile.jpg",
@@ -999,7 +999,7 @@
     "musique": {
       "titre": "We Belong Together",
       "artiste": "Randy Newman",
-      "extrait_audio": "assets/audio/musiques/toy_story_3.m4a"
+      "extrait_audio": "assets/audio/musiques/toy_story_3.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/toy_story_3_difficile.jpg",
@@ -1023,7 +1023,7 @@
     "musique": {
       "titre": "Touch the Sky",
       "artiste": "Julie Fowlis",
-      "extrait_audio": "assets/audio/musiques/rebelle.m4a"
+      "extrait_audio": "assets/audio/musiques/rebelle.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/rebelle_difficile.jpg",
@@ -1047,7 +1047,7 @@
     "musique": {
       "titre": "Bundle of Joy",
       "artiste": "Michael Giacchino",
-      "extrait_audio": "assets/audio/musiques/vice_versa.m4a"
+      "extrait_audio": "assets/audio/musiques/vice_versa.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/vice_versa_difficile.jpg",
@@ -1071,7 +1071,7 @@
     "musique": {
       "titre": "Unforgettable",
       "artiste": "Sia",
-      "extrait_audio": "assets/audio/musiques/le_monde_de_dory.m4a"
+      "extrait_audio": "assets/audio/musiques/le_monde_de_dory.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/le_monde_de_dory_difficile.jpg",
@@ -1095,7 +1095,7 @@
     "musique": {
       "titre": "Remember Me",
       "artiste": "Benjamin Bratt",
-      "extrait_audio": "assets/audio/musiques/coco.m4a"
+      "extrait_audio": "assets/audio/musiques/coco.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/coco_difficile.jpg",
@@ -1143,7 +1143,7 @@
     "musique": {
       "titre": "Un'estate al mare",
       "artiste": "Giuni Russo",
-      "extrait_audio": "assets/audio/musiques/luca.m4a"
+      "extrait_audio": "assets/audio/musiques/luca.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/luca_difficile.jpg",
@@ -1215,7 +1215,7 @@
     "musique": {
       "titre": "Le Voisin Totoro",
       "artiste": "Azumi Inoue",
-      "extrait_audio": "assets/audio/musiques/mon_voisin_totoro.m4a"
+      "extrait_audio": "assets/audio/musiques/mon_voisin_totoro.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/mon_voisin_totoro_difficile.jpg",
@@ -1239,7 +1239,7 @@
     "musique": {
       "titre": "Home Sweet Home",
       "artiste": "Ethel Smith",
-      "extrait_audio": "assets/audio/musiques/le_tombeau_des_lucioles.m4a"
+      "extrait_audio": "assets/audio/musiques/le_tombeau_des_lucioles.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/le_tombeau_des_lucioles_difficile.jpg",
@@ -1263,7 +1263,7 @@
     "musique": {
       "titre": "Kaneda",
       "artiste": "Shoji Yamashiro",
-      "extrait_audio": "assets/audio/musiques/akira.m4a"
+      "extrait_audio": "assets/audio/musiques/akira.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/akira_difficile.jpg",
@@ -1287,7 +1287,7 @@
     "musique": {
       "titre": "Rouge no Dengon",
       "artiste": "Yumi Matsutoya",
-      "extrait_audio": "assets/audio/musiques/kiki_la_petite_sorciere.m4a"
+      "extrait_audio": "assets/audio/musiques/kiki_la_petite_sorciere.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/kiki_la_petite_sorciere_difficile.jpg",
@@ -1311,7 +1311,7 @@
     "musique": {
       "titre": "Le temps des cerises",
       "artiste": "Tokiko Kato",
-      "extrait_audio": "assets/audio/musiques/porco_rosso.m4a"
+      "extrait_audio": "assets/audio/musiques/porco_rosso.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/porco_rosso_difficile.jpg",
@@ -1335,7 +1335,7 @@
     "musique": {
       "titre": "Mononoke Hime",
       "artiste": "Yoshikazu Mera",
-      "extrait_audio": "assets/audio/musiques/princesse_mononoke.m4a"
+      "extrait_audio": "assets/audio/musiques/princesse_mononoke.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/princesse_mononoke_difficile.jpg",
@@ -1359,7 +1359,7 @@
     "musique": {
       "titre": "Perfect Blue Theme",
       "artiste": "Masahiro Ikumi",
-      "extrait_audio": "assets/audio/musiques/perfect_blue.m4a"
+      "extrait_audio": "assets/audio/musiques/perfect_blue.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/perfect_blue_difficile.jpg",
@@ -1431,7 +1431,7 @@
     "musique": {
       "titre": "I'm a Believer",
       "artiste": "Smash Mouth",
-      "extrait_audio": "assets/audio/musiques/shrek.m4a"
+      "extrait_audio": "assets/audio/musiques/shrek.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/shrek_difficile.jpg",
@@ -1455,7 +1455,7 @@
     "musique": {
       "titre": "Always With Me",
       "artiste": "Youmi Kimura",
-      "extrait_audio": "assets/audio/musiques/le_voyage_de_chihiro.m4a"
+      "extrait_audio": "assets/audio/musiques/le_voyage_de_chihiro.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/le_voyage_de_chihiro_difficile.jpg",
@@ -1503,7 +1503,7 @@
     "musique": {
       "titre": "Le Merry-Go-Round de la vie",
       "artiste": "Joe Hisaishi",
-      "extrait_audio": "assets/audio/musiques/le_chateau_ambulant.m4a"
+      "extrait_audio": "assets/audio/musiques/le_chateau_ambulant.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/le_chateau_ambulant_difficile.jpg",
@@ -1551,7 +1551,7 @@
     "musique": {
       "titre": "Wallace & Gromit Theme",
       "artiste": "Julian Nott",
-      "extrait_audio": "assets/audio/musiques/wallace_gromit_le_mystere_du_lapin_garou.m4a"
+      "extrait_audio": "assets/audio/musiques/wallace_gromit_le_mystere_du_lapin_garou.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/wallace_gromit_le_mystere_du_lapin_garou_difficile.jpg",
@@ -1573,8 +1573,8 @@
       "Il n'y a pas d'ingrédient secret."
     ],
     "musique": {
-      "titre": "Kung Fu Fighting",
-      "artiste": "CeeLo Green",
+      "titre": "Oogway Ascends",
+      "artiste": "Hans Zimmer & John Powell",
       "extrait_audio": "assets/audio/musiques/kung_fu_panda.m4a"
     },
     "images_defi6": {
@@ -1599,7 +1599,7 @@
     "musique": {
       "titre": "Gake no Ue no Ponyo",
       "artiste": "Fujioka Fujimaki",
-      "extrait_audio": "assets/audio/musiques/ponyo_sur_la_falaise.m4a"
+      "extrait_audio": "assets/audio/musiques/ponyo_sur_la_falaise.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/ponyo_sur_la_falaise_difficile.jpg",
@@ -1623,7 +1623,7 @@
     "musique": {
       "titre": "Sweet Dreams",
       "artiste": "Emily Browning",
-      "extrait_audio": "assets/audio/musiques/coraline.m4a"
+      "extrait_audio": "assets/audio/musiques/coraline.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/coraline_difficile.jpg",
@@ -1695,7 +1695,7 @@
     "musique": {
       "titre": "Arrietty's Song",
       "artiste": "Cécile Corbel",
-      "extrait_audio": "assets/audio/musiques/arrietty_le_petit_monde_des_chapardeurs.m4a"
+      "extrait_audio": "assets/audio/musiques/arrietty_le_petit_monde_des_chapardeurs.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/arrietty_le_petit_monde_des_chapardeurs_difficile.jpg",
@@ -1719,7 +1719,7 @@
     "musique": {
       "titre": "Bad to the Bone",
       "artiste": "George Thorogood",
-      "extrait_audio": "assets/audio/musiques/megamind.m4a"
+      "extrait_audio": "assets/audio/musiques/megamind.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/megamind_difficile.jpg",
@@ -1767,7 +1767,7 @@
     "musique": {
       "titre": "Shine Your Way",
       "artiste": "Owl City",
-      "extrait_audio": "assets/audio/musiques/les_croods.m4a"
+      "extrait_audio": "assets/audio/musiques/les_croods.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/les_croods_difficile.jpg",
@@ -1791,7 +1791,7 @@
     "musique": {
       "titre": "Hikoki-gumo",
       "artiste": "Yumi Matsutoya",
-      "extrait_audio": "assets/audio/musiques/le_vent_se_leve.m4a"
+      "extrait_audio": "assets/audio/musiques/le_vent_se_leve.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/le_vent_se_leve_difficile.jpg",
@@ -1815,7 +1815,7 @@
     "musique": {
       "titre": "Everything Is Awesome!!!",
       "artiste": "Tegan and Sara",
-      "extrait_audio": "assets/audio/musiques/la_grande_aventure_lego.m4a"
+      "extrait_audio": "assets/audio/musiques/la_grande_aventure_lego.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/la_grande_aventure_lego_difficile.jpg",
@@ -1839,7 +1839,7 @@
     "musique": {
       "titre": "Turnaround",
       "artiste": "Camille",
-      "extrait_audio": "assets/audio/musiques/le_petit_prince.m4a"
+      "extrait_audio": "assets/audio/musiques/le_petit_prince.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/le_petit_prince_difficile.jpg",
@@ -1863,7 +1863,7 @@
     "musique": {
       "titre": "Just Us",
       "artiste": "Jon Batiste",
-      "extrait_audio": "assets/audio/musiques/soul.m4a"
+      "extrait_audio": "assets/audio/musiques/soul.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/soul_difficile.jpg",
@@ -1887,7 +1887,7 @@
     "musique": {
       "titre": "Can't Stop the Feeling!",
       "artiste": "Justin Timberlake",
-      "extrait_audio": "assets/audio/musiques/trolls.m4a"
+      "extrait_audio": "assets/audio/musiques/trolls.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/trolls_difficile.jpg",
@@ -1911,7 +1911,7 @@
     "musique": {
       "titre": "You're a Mean One, Mr. Grinch",
       "artiste": "Tyler, The Creator",
-      "extrait_audio": "assets/audio/musiques/le_grinch.m4a"
+      "extrait_audio": "assets/audio/musiques/le_grinch.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/le_grinch_difficile.jpg",
@@ -1935,7 +1935,7 @@
     "musique": {
       "titre": "Sunflower",
       "artiste": "Post Malone",
-      "extrait_audio": "assets/audio/musiques/spider_man_new_generation.m4a"
+      "extrait_audio": "assets/audio/musiques/spider_man_new_generation.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/spider_man_new_generation_difficile.jpg",
@@ -1959,7 +1959,7 @@
     "musique": {
       "titre": "Spinning Globe",
       "artiste": "Kenshi Yonezu",
-      "extrait_audio": "assets/audio/musiques/le_garcon_et_le_heron.m4a"
+      "extrait_audio": "assets/audio/musiques/le_garcon_et_le_heron.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/le_garcon_et_le_heron_difficile.jpg",
@@ -1983,7 +1983,7 @@
     "musique": {
       "titre": "Am I Dreaming",
       "artiste": "Metro Boomin",
-      "extrait_audio": "assets/audio/musiques/spider_man_across_the_spider_verse.m4a"
+      "extrait_audio": "assets/audio/musiques/spider_man_across_the_spider_verse.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/spider_man_across_the_spider_verse_difficile.jpg",
@@ -2007,7 +2007,7 @@
     "musique": {
       "titre": "Kiss the Sky",
       "artiste": "Maren Morris",
-      "extrait_audio": "assets/audio/musiques/le_robot_sauvage.m4a"
+      "extrait_audio": "assets/audio/musiques/le_robot_sauvage.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/le_robot_sauvage_difficile.jpg",
@@ -2031,7 +2031,7 @@
     "musique": {
       "titre": "Collision of Worlds",
       "artiste": "Brad Paisley & Robbie Williams",
-      "extrait_audio": "assets/audio/musiques/cars_2.m4a"
+      "extrait_audio": "assets/audio/musiques/cars_2.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/cars_2_difficile.jpg",
@@ -2055,7 +2055,7 @@
     "musique": {
       "titre": "Main Theme",
       "artiste": "Randy Newman",
-      "extrait_audio": "assets/audio/musiques/monstres_academy.m4a"
+      "extrait_audio": "assets/audio/musiques/monstres_academy.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/monstres_academy_difficile.jpg",
@@ -2079,7 +2079,7 @@
     "musique": {
       "titre": "Main Theme",
       "artiste": "Mychael Danna & Jeff Danna",
-      "extrait_audio": "assets/audio/musiques/le_voyage_d_arlo.m4a"
+      "extrait_audio": "assets/audio/musiques/le_voyage_d_arlo.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/le_voyage_d_arlo_difficile.jpg",
@@ -2103,7 +2103,7 @@
     "musique": {
       "titre": "Run That Race",
       "artiste": "Dan Auerbach",
-      "extrait_audio": "assets/audio/musiques/cars_3.m4a"
+      "extrait_audio": "assets/audio/musiques/cars_3.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/cars_3_difficile.jpg",
@@ -2127,7 +2127,7 @@
     "musique": {
       "titre": "Incredits 2",
       "artiste": "Michael Giacchino",
-      "extrait_audio": "assets/audio/musiques/les_indestructibles_2.m4a"
+      "extrait_audio": "assets/audio/musiques/les_indestructibles_2.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/les_indestructibles_2_difficile.jpg",
@@ -2151,7 +2151,7 @@
     "musique": {
       "titre": "Carried Me with You",
       "artiste": "Brandi Carlile",
-      "extrait_audio": "assets/audio/musiques/en_avant.m4a"
+      "extrait_audio": "assets/audio/musiques/en_avant.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/en_avant_difficile.jpg",
@@ -2175,7 +2175,7 @@
     "musique": {
       "titre": "Nobody Like U",
       "artiste": "4*TOWN",
-      "extrait_audio": "assets/audio/musiques/alerte_rouge.m4a"
+      "extrait_audio": "assets/audio/musiques/alerte_rouge.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/alerte_rouge_difficile.jpg",
@@ -2199,7 +2199,7 @@
     "musique": {
       "titre": "Main Theme",
       "artiste": "Michael Giacchino",
-      "extrait_audio": "assets/audio/musiques/buzz_l_eclair.m4a"
+      "extrait_audio": "assets/audio/musiques/buzz_l_eclair.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/buzz_l_eclair_difficile.jpg",
@@ -2223,7 +2223,7 @@
     "musique": {
       "titre": "Main Theme",
       "artiste": "Andrea Datzman",
-      "extrait_audio": "assets/audio/musiques/vice_versa_2.m4a"
+      "extrait_audio": "assets/audio/musiques/vice_versa_2.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/vice_versa_2_difficile.jpg",
@@ -2247,7 +2247,7 @@
     "musique": {
       "titre": "L'Apprenti sorcier",
       "artiste": "Paul Dukas",
-      "extrait_audio": "assets/audio/musiques/fantasia.m4a"
+      "extrait_audio": "assets/audio/musiques/fantasia.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/fantasia_difficile.jpg",
@@ -2295,7 +2295,7 @@
     "musique": {
       "titre": "Higitus Figitus",
       "artiste": "[Ajouter artiste]",
-      "extrait_audio": "assets/audio/musiques/merlin_l_enchanteur.mp3"
+      "extrait_audio": "assets/audio/musiques/merlin_l_enchanteur.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/merlin_l_enchanteur_difficile.jpg",
@@ -2343,7 +2343,7 @@
     "musique": {
       "titre": "Winnie l'ourson (générique)",
       "artiste": "[Ajouter artiste]",
-      "extrait_audio": "assets/audio/musiques/les_aventures_de_winnie_l_ourson.mp3"
+      "extrait_audio": "assets/audio/musiques/les_aventures_de_winnie_l_ourson.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/les_aventures_de_winnie_l_ourson_difficile.jpg",
@@ -2487,7 +2487,7 @@
     "musique": {
       "titre": "You'll Be in My Heart",
       "artiste": "Phil Collins",
-      "extrait_audio": "assets/audio/musiques/tarzan.m4a"
+      "extrait_audio": "assets/audio/musiques/tarzan.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/tarzan_difficile.jpg",
@@ -2511,7 +2511,7 @@
     "musique": {
       "titre": "Rhapsody in Blue",
       "artiste": "George Gershwin",
-      "extrait_audio": "assets/audio/musiques/fantasia_2000.m4a"
+      "extrait_audio": "assets/audio/musiques/fantasia_2000.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/fantasia_2000_difficile.jpg",
@@ -2557,8 +2557,8 @@
       "[Ajouter replique]"
     ],
     "musique": {
-      "titre": "[Ajouter musique]",
-      "artiste": "[Ajouter artiste]",
+      "titre": "Where the Dream Takes You",
+      "artiste": "Mya",
       "extrait_audio": "assets/audio/musiques/atlantide_l_empire_perdu.mp3"
     },
     "images_defi6": {
@@ -2583,7 +2583,7 @@
     "musique": {
       "titre": "I'm Still Here",
       "artiste": "John Rzeznik",
-      "extrait_audio": "assets/audio/musiques/la_planete_au_tresor.m4a"
+      "extrait_audio": "assets/audio/musiques/la_planete_au_tresor.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/la_planete_au_tresor_difficile.jpg",
@@ -2607,7 +2607,7 @@
     "musique": {
       "titre": "On My Way",
       "artiste": "Phil Collins",
-      "extrait_audio": "assets/audio/musiques/frere_des_ours.m4a"
+      "extrait_audio": "assets/audio/musiques/frere_des_ours.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/frere_des_ours_difficile.jpg",
@@ -2655,7 +2655,7 @@
     "musique": {
       "titre": "One Little Slip",
       "artiste": "Barenaked Ladies",
-      "extrait_audio": "assets/audio/musiques/chicken_little.m4a"
+      "extrait_audio": "assets/audio/musiques/chicken_little.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/chicken_little_difficile.jpg",
@@ -2679,7 +2679,7 @@
     "musique": {
       "titre": "Barking at the Moon",
       "artiste": "Jenny Lewis",
-      "extrait_audio": "assets/audio/musiques/volt_star_malgre_lui.m4a"
+      "extrait_audio": "assets/audio/musiques/volt_star_malgre_lui.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/volt_star_malgre_lui_difficile.jpg",
@@ -2701,8 +2701,8 @@
       "[Ajouter replique]"
     ],
     "musique": {
-      "titre": "Almost There",
-      "artiste": "Anika Noni Rose",
+      "titre": "Au bout du rêve",
+      "artiste": "China Moses",
       "extrait_audio": "assets/audio/musiques/la_princesse_et_la_grenouille.m4a"
     },
     "images_defi6": {
@@ -2727,7 +2727,7 @@
     "musique": {
       "titre": "Winnie the Pooh",
       "artiste": "Zooey Deschanel",
-      "extrait_audio": "assets/audio/musiques/winnie_l_ourson.m4a"
+      "extrait_audio": "assets/audio/musiques/winnie_l_ourson.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/winnie_l_ourson_difficile.jpg",
@@ -2797,8 +2797,8 @@
       "[Ajouter replique]"
     ],
     "musique": {
-      "titre": "This Wish",
-      "artiste": "Ariana DeBose",
+      "titre": "Je fais le vœu",
+      "artiste": "Océane Demontis",
       "extrait_audio": "assets/audio/musiques/wish_asha_et_la_bonne_etoile.m4a"
     },
     "images_defi6": {
@@ -2823,7 +2823,7 @@
     "musique": {
       "titre": "We're Back",
       "artiste": "Dwayne Johnson",
-      "extrait_audio": "assets/audio/musiques/vaiana_2.m4a"
+      "extrait_audio": "assets/audio/musiques/vaiana_2.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/vaiana_2_difficile.jpg",
@@ -2845,8 +2845,8 @@
       "[Ajouter replique]"
     ],
     "musique": {
-      "titre": "[Ajouter musique]",
-      "artiste": "[Ajouter artiste]",
+      "titre": "Zoo",
+      "artiste": "Shakira",
       "extrait_audio": "assets/audio/musiques/zootopie_2.mp3"
     },
     "images_defi6": {
@@ -2866,7 +2866,7 @@
     "realisateur": "Genndy Tartakovsky",
     "affiche": "assets/affiches/hotel_transylvanie.jpg",
     "repliques_cultes": [
-      "Je le tuerais bien, mais cela ferait reculer la cause des monstres de plusieurs siècles."
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "[Ajouter musique]",
@@ -2890,7 +2890,7 @@
     "realisateur": "Kevin Lima",
     "affiche": "assets/affiches/dingo_et_max.jpg",
     "repliques_cultes": [
-      "Tu es mon fils, Max. Peu importe ta taille, tu seras toujours mon fils."
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "Stand Out",
@@ -2914,11 +2914,11 @@
     "realisateur": "Henry Selick",
     "affiche": "assets/affiches/l_etrange_noel_de_monsieur_jack.jpg",
     "repliques_cultes": [
-      "Ce n'est pas parce que je ne peux pas le voir que je n'arrive pas à y croire !"
+      "[Ajouter replique]"
     ],
     "musique": {
-      "titre": "This Is Halloween",
-      "artiste": "Danny Elfman",
+      "titre": "Que Vois-Je?",
+      "artiste": "Olivier Constantin",
       "extrait_audio": "assets/audio/musiques/l_etrange_noel_de_monsieur_jack.m4a"
     },
     "images_defi6": {
@@ -2938,7 +2938,7 @@
     "realisateur": "Andrew Adamson, Kelly Asbury & Conrad Vernon",
     "affiche": "assets/affiches/shrek_2.jpg",
     "repliques_cultes": [
-      "Dites quelque chose de fou, comme : « Je porte des sous-vêtements pour dames !"
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "Holding Out for a Hero",
@@ -2962,7 +2962,7 @@
     "realisateur": "Chris Miller & Raman Hui",
     "affiche": "assets/affiches/shrek_le_troisieme.jpg",
     "repliques_cultes": [
-      "J'ai la fesse droite qui me démange fortement et je ne peux pas bouger."
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "[Ajouter musique]",
@@ -2986,7 +2986,7 @@
     "realisateur": "Jennifer Yuh Nelson",
     "affiche": "assets/affiches/kung_fu_panda_2.jpg",
     "repliques_cultes": [
-      "Rien n'est imbattable à part moi qui me bat contre vous."
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "[Ajouter musique]",
@@ -3010,7 +3010,7 @@
     "realisateur": "Jennifer Yuh Nelson & Alessandro Carloni",
     "affiche": "assets/affiches/kung_fu_panda_3.jpg",
     "repliques_cultes": [
-      "Si tu te contentes de faire ce que tu es capable de faire, tu ne progresseras pas et tu resteras tel que tu es."
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "[Ajouter musique]",
@@ -3034,12 +3034,12 @@
     "realisateur": "Dean DeBlois",
     "affiche": "assets/affiches/dragons_2.jpg",
     "repliques_cultes": [
-      "Tu es aussi belle que le jour où je t'ai perdue."
+      "[Ajouter replique]"
     ],
     "musique": {
-      "titre": "[Ajouter musique]",
-      "artiste": "[Ajouter artiste]",
-      "extrait_audio": "assets/audio/musiques/dragons_2.mp3"
+      "titre": "For the Dancing and the Dreaming",
+      "artiste": "Jónsi",
+      "extrait_audio": "assets/audio/musiques/dragons_2.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/dragons_2_difficile.jpg",
@@ -3058,11 +3058,11 @@
     "realisateur": "Dean DeBlois",
     "affiche": "assets/affiches/dragons_3_le_monde_cache.jpg",
     "repliques_cultes": [
-      "Quand j'étais petit, le monde grouillait de dragons. Rares sont ceux qui savent où ils sont allés.."
+      "[Ajouter replique]"
     ],
     "musique": {
-      "titre": "[Ajouter musique]",
-      "artiste": "[Ajouter artiste]",
+      "titre": "Together from Afar",
+      "artiste": "Jónsi",
       "extrait_audio": "assets/audio/musiques/dragons_3_le_monde_cache.mp3"
     },
     "images_defi6": {
@@ -3082,7 +3082,7 @@
     "realisateur": "Pierre Coffin & Chris Renaud",
     "affiche": "assets/affiches/moi_moche_et_mechant_2.jpg",
     "repliques_cultes": [
-      "Je suis maintenant un père, avec des responsabilités, et un homme d'affaires légitime."
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "Happy",
@@ -3106,11 +3106,11 @@
     "realisateur": "Pierre Coffin, Kyle Balda & Eric Guillon",
     "affiche": "assets/affiches/moi_moche_et_mechant_3.jpg",
     "repliques_cultes": [
-      "Tu m'as dit que mon père était mort de déception le jour de ma naissance !"
+      "[Ajouter replique]"
     ],
     "musique": {
-      "titre": "[Ajouter musique]",
-      "artiste": "[Ajouter artiste]",
+      "titre": "Yellow Light",
+      "artiste": "Pharrell Williams",
       "extrait_audio": "assets/audio/musiques/moi_moche_et_mechant_3.mp3"
     },
     "images_defi6": {
@@ -3130,7 +3130,7 @@
     "realisateur": "Eric Darnell & Tom McGrath",
     "affiche": "assets/affiches/madagascar_2.jpg",
     "repliques_cultes": [
-      "Non d'un chien de ma chienne !"
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "[Ajouter musique]",
@@ -3154,7 +3154,7 @@
     "realisateur": "Carlos Saldanha",
     "affiche": "assets/affiches/l_age_de_glace_2.jpg",
     "repliques_cultes": [
-      "Je ne suis pas gros ; ma fourrure fait de l'épaisseur, c'est trompeur. J'ai le poil bouffant."
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "[Ajouter musique]",
@@ -3178,7 +3178,7 @@
     "realisateur": "Carlos Saldanha & Mike Thurmeier",
     "affiche": "assets/affiches/l_age_de_glace_3.jpg",
     "repliques_cultes": [
-      "L'obscurité n'a pas de secret pour l'opossum."
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "[Ajouter musique]",
@@ -3202,7 +3202,7 @@
     "realisateur": "Pierre Coffin & Kyle Balda",
     "affiche": "assets/affiches/les_minions.jpg",
     "repliques_cultes": [
-      "La chipolata !"
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "[Ajouter musique]",
@@ -3226,7 +3226,7 @@
     "realisateur": "Chris Miller",
     "affiche": "assets/affiches/le_chat_potte.jpg",
     "repliques_cultes": [
-      "Tu m'as frappé à la tête avec une guitare !"
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "[Ajouter musique]",
@@ -3250,11 +3250,11 @@
     "realisateur": "Aaron Horvath & Michael Jelenic",
     "affiche": "assets/affiches/super_mario_bros_le_film.jpg",
     "repliques_cultes": [
-      "Peach. Tu es tellement cool. Et avec mon étoile, nous allons régner. Peach. Comprenez. Je vais t’aimer jusqu’à la fin ! Des pêches, des pêches, des pêches, des pêches…"
+      "[Ajouter replique]"
     ],
     "musique": {
-      "titre": "[Ajouter musique]",
-      "artiste": "[Ajouter artiste]",
+      "titre": "Peaches",
+      "artiste": "Jack Black",
       "extrait_audio": "assets/audio/musiques/super_mario_bros_le_film.mp3"
     },
     "images_defi6": {
@@ -3274,7 +3274,7 @@
     "realisateur": "Chris Renaud",
     "affiche": "assets/affiches/comme_des_betes.jpg",
     "repliques_cultes": [
-      "Et les chiens font des choses étranges et inexplicables. Comme... ils ont des chiens au lieu de chats."
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "[Ajouter musique]",
@@ -3298,7 +3298,7 @@
     "realisateur": "Garth Jennings",
     "affiche": "assets/affiches/tous_en_scene.jpg",
     "repliques_cultes": [
-      "Vous savez ce qu'il y a de super quand on touche le fond ? Il n'y a qu'un seul moyen de remonter à la surface et c'est... de se relever !"
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "[Ajouter musique]",
@@ -3322,12 +3322,12 @@
     "realisateur": "Carlos Saldanha",
     "affiche": "assets/affiches/rio.jpg",
     "repliques_cultes": [
-      " Il a autre chose que je devrais savoir ? — Je sais pas voler, je me cure le bec et quand ça me prend, je fais pipi dans le lavabo !"
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "Real in Rio",
       "artiste": "Sergio Mendes",
-      "extrait_audio": "assets/audio/musiques/rio.m4a"
+      "extrait_audio": "assets/audio/musiques/rio.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/rio_difficile.jpg",
@@ -3346,7 +3346,7 @@
     "realisateur": "Pierre Perifel",
     "affiche": "assets/affiches/les_bad_guys.jpg",
     "repliques_cultes": [
-      "Est-ce que j'aimerais que les gens ne nous voient pas comme des monstres ? Bien sûr que oui. Mais ce sont les cartes qui nous ont été distribuées, alors autant les jouer."
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "[Ajouter musique]",
@@ -3370,7 +3370,7 @@
     "realisateur": "Peter Lord & Nick Park",
     "affiche": "assets/affiches/chicken_run.jpg",
     "repliques_cultes": [
-      "J'ai vu toute ma vie défiler devant moi... C'était d'un ennui mortel."
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "[Ajouter musique]",
@@ -3394,12 +3394,12 @@
     "realisateur": "Don Bluth & Gary Goldman",
     "affiche": "assets/affiches/anastasia.jpg",
     "repliques_cultes": [
-      "J'en sais rien moi ! Vous croyez qu'c'est facile de jouer les grandes duchesses quand on passe toutes ses nuits sur un plancher humide ?! Mais après tout... oui, je crois que toutes les orphelines rêvent d'être princesse !"
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "Once Upon a December",
       "artiste": "Liz Callaway",
-      "extrait_audio": "assets/audio/musiques/anastasia.m4a"
+      "extrait_audio": "assets/audio/musiques/anastasia.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/anastasia_difficile.jpg",
@@ -3418,12 +3418,12 @@
     "realisateur": "Marjane Satrapi & Vincent Paronnaud",
     "affiche": "assets/affiches/persepolis.jpg",
     "repliques_cultes": [
-      "Dès que je dis d’où je viens, on me regarde comme une sauvage. Pour eux, nous sommes tous des cinglés, des fanatiques qui passent leur temps à se taper dessus."
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "Eye of the Tiger",
       "artiste": "Survivor",
-      "extrait_audio": "assets/audio/musiques/persepolis.m4a"
+      "extrait_audio": "assets/audio/musiques/persepolis.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/persepolis_difficile.jpg",
@@ -3442,12 +3442,12 @@
     "realisateur": "Hayao Miyazaki",
     "affiche": "assets/affiches/le_chateau_dans_le_ciel.jpg",
     "repliques_cultes": [
-      "A quoi bon se proclamer roi une fois que son royaume est anéanti ?"
+      "[Ajouter replique]"
     ],
     "musique": {
       "titre": "Carrying You (Kimi wo nosete)",
       "artiste": "Azumi Inoue",
-      "extrait_audio": "assets/audio/musiques/le_chateau_dans_le_ciel.m4a"
+      "extrait_audio": "assets/audio/musiques/le_chateau_dans_le_ciel.mp3"
     },
     "images_defi6": {
       "difficile": "assets/images/le_chateau_dans_le_ciel_difficile.jpg",

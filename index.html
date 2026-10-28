@@ -416,8 +416,7 @@ const THEMES = {
       { n:5, icon:'🎵', name:'Générique', desc:'Extrait audio',
         render: () => renderClueGuessDefi({ eyebrow:'Défi 5', title:'Devine le générique', labelKey:'titre',
           placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi5,
-          clueHtml: '',   // lecteur audio seul ; titre à 3 échecs, artiste à 5
-          musicHints:{ titre:DAILY_SERIES.defi5.generique.titre, artiste:DAILY_SERIES.defi5.generique.artiste, titreAfter:3, artisteAfter:5 },
+          clueHtml: '',   // lecteur audio seul, aucun indice
           audioSrc: DAILY_SERIES.defi5.generique.extrait_audio, revealAfter:10,
           resultMeta:t=>`${t.generique.titre} · ${t.generique.artiste}`, completionName:'Générique' }) },
       { n:6, icon:'🎭', name:'Casting', desc:'Photos des acteurs',
@@ -482,8 +481,7 @@ const THEMES = {
       { n:5, icon:'🎵', name:'Musique', desc:'Extrait audio',
         render: () => renderClueGuessDefi({ eyebrow:'Défi 5', title:'Devine la musique', labelKey:'titre',
           placeholder:"Tape le titre d'un film d'animation...", pool:FILMS_ANIM, target:DAILY_ANIM.defi5,
-          clueHtml: '',   // lecteur audio seul ; titre à 3 échecs, artiste à 5
-          musicHints:{ titre:DAILY_ANIM.defi5.musique.titre, artiste:DAILY_ANIM.defi5.musique.artiste, titreAfter:3, artisteAfter:5 },
+          clueHtml: '',   // lecteur audio seul, aucun indice
           audioSrc: DAILY_ANIM.defi5.musique.extrait_audio,
           resultMeta:t=>`${t.musique.titre} · ${t.musique.artiste}`, completionName:'Musique' }) },
       { n:6, icon:'🎭', name:'Film en emojis', desc:'Le film en emojis',
