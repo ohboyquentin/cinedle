@@ -416,7 +416,8 @@ const THEMES = {
       { n:5, icon:'🎵', name:'Générique', desc:'Extrait audio',
         render: () => renderClueGuessDefi({ eyebrow:'Défi 5', title:'Devine le générique', labelKey:'titre',
           placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi5,
-          clueHtml: '',   // plus de titre ni d'artiste : lecteur audio seul
+          clueHtml: '',   // lecteur audio seul ; titre à 3 échecs, artiste à 5
+          musicHints:{ titre:DAILY_SERIES.defi5.generique.titre, artiste:DAILY_SERIES.defi5.generique.artiste, titreAfter:3, artisteAfter:5 },
           audioSrc: DAILY_SERIES.defi5.generique.extrait_audio, revealAfter:10,
           resultMeta:t=>`${t.generique.titre} · ${t.generique.artiste}`, completionName:'Générique' }) },
       { n:6, icon:'🎭', name:'Casting', desc:'Photos des acteurs',
@@ -448,7 +449,8 @@ const THEMES = {
       { n:5, icon:'🎵', name:'Opening', desc:'Extrait audio',
         render: () => renderClueGuessDefi({ eyebrow:'Défi 5', title:"Devine l'opening", labelKey:'titre',
           placeholder:"Tape le titre d'un animé...", pool:ANIMES, target:DAILY_ANIMES.defi5,
-          clueHtml: `<div class="replique-box">🎵 Extrait de « ${DAILY_ANIMES.defi5.opening.titre} » — ${DAILY_ANIMES.defi5.opening.artiste}</div>`,
+          clueHtml: '',   // lecteur audio seul ; titre à 3 échecs, artiste à 5
+          musicHints:{ titre:DAILY_ANIMES.defi5.opening.titre, artiste:DAILY_ANIMES.defi5.opening.artiste, titreAfter:3, artisteAfter:5 },
           audioSrc: DAILY_ANIMES.defi5.opening.extrait_audio,
           resultMeta:t=>`${t.opening.titre} · ${t.opening.artiste}`, completionName:'Opening' }) },
       { n:6, icon:'📸', name:'3 Images', desc:'Difficulté croissante',
@@ -480,7 +482,8 @@ const THEMES = {
       { n:5, icon:'🎵', name:'Musique', desc:'Extrait audio',
         render: () => renderClueGuessDefi({ eyebrow:'Défi 5', title:'Devine la musique', labelKey:'titre',
           placeholder:"Tape le titre d'un film d'animation...", pool:FILMS_ANIM, target:DAILY_ANIM.defi5,
-          clueHtml: `<div class="replique-box">🎵 Extrait de « ${DAILY_ANIM.defi5.musique.titre} » — ${DAILY_ANIM.defi5.musique.artiste}</div>`,
+          clueHtml: '',   // lecteur audio seul ; titre à 3 échecs, artiste à 5
+          musicHints:{ titre:DAILY_ANIM.defi5.musique.titre, artiste:DAILY_ANIM.defi5.musique.artiste, titreAfter:3, artisteAfter:5 },
           audioSrc: DAILY_ANIM.defi5.musique.extrait_audio,
           resultMeta:t=>`${t.musique.titre} · ${t.musique.artiste}`, completionName:'Musique' }) },
       { n:6, icon:'🎭', name:'Film en emojis', desc:'Le film en emojis',
@@ -1075,6 +1078,7 @@ function renderClueGuessDefi(cfg){
     <header class="defi-header"><div class="defi-eyebrow">${cfg.eyebrow}</div><h2 class="defi-title">${cfg.title}</h2></header>
     ${cfg.clueHtml}
     ${audioBlock}
+    <div id="music-zone"></div>
     ${cfg.emojiHints ? '<div class="emoji-board" id="emoji-zone"></div>' : ''}
     <div id="voice-zone"></div>
     <div class="wrong-list" id="wrong-list"></div>
@@ -1102,6 +1106,16 @@ function renderClueGuessDefi(cfg){
       voiceZone.innerHTML = `<div class="locked-hint">🔒 Indice vocal débloqué après ${left} échec${left>1?'s':''}${n>0 ? ' de plus' : ''}</div>`;
     }
   }
+  // Indices musique (défi 5) : titre du morceau après N échecs, puis artiste après M échecs
+  const musicZone = document.getElementById('music-zone');
+  function refreshMusic(){
+    if(!cfg.musicHints || !musicZone) return;
+    const n = wrongGuesses.length, h = cfg.musicHints;
+    const bloc = (apres, icone, label, valeur) => n >= apres
+      ? `<div class="replique-box" style="margin-bottom:8px">${icone} ${label} : <strong>${valeur}</strong></div>`
+      : `<div class="locked-hint" style="margin-bottom:8px">🔒 ${label} débloqué après ${apres - n} échec${apres - n > 1 ? 's' : ''}${n>0 ? ' de plus' : ''}</div>`;
+    musicZone.innerHTML = bloc(h.titreAfter, '🎵', 'Titre', h.titre) + bloc(h.artisteAfter, '🎤', 'Artiste', h.artiste);
+  }
   // Emojis d'aide (ex. défi 4 Séries) : un de plus tous les N échecs, jusqu'à max
   const emojiZone = document.getElementById('emoji-zone'), revealZone = document.getElementById('reveal-zone'), revealState = { revealed:false };
   function refreshEmojis(){
@@ -1113,10 +1127,10 @@ function renderClueGuessDefi(cfg){
   function refreshWrong(){
     wrongList.innerHTML='';
     wrongGuesses.forEach(f => { const c=document.createElement('div'); c.className='wrong-chip'; c.textContent=f[cfg.labelKey]; wrongList.appendChild(c); });
-    refreshVoice(); refreshEmojis();
+    refreshVoice(); refreshEmojis(); refreshMusic();
     if(cfg.revealAfter) updateRevealZone(revealZone, wrongGuesses.length >= cfg.revealAfter, 'Cliquer pour découvrir la réponse', cfg.target[cfg.labelKey], revealState);
   }
-  refreshEmojis();
+  refreshEmojis(); refreshMusic();
   function submit(item){
     input.value=''; suggestionsBox.classList.remove('open'); suggestionsBox.innerHTML='';
     if(item[cfg.labelKey] === cfg.target[cfg.labelKey]){

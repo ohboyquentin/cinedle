@@ -1,0 +1,44 @@
+OK : 107
+
+À VÉRIFIER (écoute le fichier, extrait téléchargé mais peut-être pas le bon morceau) : 9
+animation · Dumbo : attendu « Bébé mine » — Betty Noyes | trouvé Mine — Bebe Rexha (Expectations)
+animation · Alice au pays des merveilles : attendu « Un joyeux non-anniversaire » — Ed Wynn | trouvé Joyeux non-anniversaire — Cast of Alice in Wonderland (Disney : Les 50 plus belles chansons, vol. 3)
+animation · Les 101 Dalmatiens : attendu « Cruella d'Enfer » — Bill Lee | trouvé Cruella D'enfer — Tamo Tuma (Tamo Doux Parfum)
+animation · Le Livre de la jungle : attendu « Je voudrais être comme toi » — Louis Prima | trouvé Je Voudrais Etre Comme Toi — Washington Dead Cats (Go Vegetables Go !)
+animation · Pocahontas, une légende indienne : attendu « Les Couleurs du vent » — Judy Kuhn | trouvé Les couleurs du vent — Charlotte Désilets (Échos d'un printemps)
+animation · Hercule : attendu « De zéro à héros » — Les Muses | trouvé De Zéro a Héros — VAN WALESA (De Zero a Heros)
+animation · Élémentaire : attendu « Steal the Show » — Lauv | trouvé Steal the Show (feat. Andy Cooper) — The Allergies (Steal the Show)
+animation · Le Tombeau des lucioles : attendu « Home Sweet Home » — Ethel Smith | trouvé Home, Sweet Home (tiré du film "Le Tombeau des lucioles") — Kazumi Nikaido (Ghibli, moi et la princesse Kaguya)
+animation · Le vent se lève : attendu « Hikoki-gumo » — Yumi Matsutoya | trouvé Hikoki Gumo (Orgel) — TENDER SOUND JAPAN (Very Best Orgel Composed by Yumi Matsutoya Collection)
+
+INTROUVABLES (à faire à la main) : 1
+animation · Kirikou et la Sorcière : « Kirikou's Theme » — Youssou N'Dour
+
+INFOS À COMPLÉTER dans le JSON ([Ajouter ...]) : 27
+animation · La Belle et le Clochard : Bella Notte / [Ajouter artiste]
+animation · Merlin l'enchanteur : Higitus Figitus / [Ajouter artiste]
+animation · Les Aventures de Winnie l'ourson : Winnie l'ourson (générique) / [Ajouter artiste]
+animation · Taram et le Chaudron magique : [Ajouter musique] / [Ajouter artiste]
+animation · Les Aventures de Bernard et Bianca au pays des kangourous : [Ajouter musique] / [Ajouter artiste]
+animation · Dinosaure : [Ajouter musique] / [Ajouter artiste]
+animation · Atlantide, l'empire perdu : [Ajouter musique] / [Ajouter artiste]
+animation · La Ferme se rebelle : [Ajouter musique] / [Ajouter artiste]
+animation · Avalonia : L'Étrange Voyage : [Ajouter musique] / [Ajouter artiste]
+animation · Zootopie 2 : [Ajouter musique] / [Ajouter artiste]
+animation · Hôtel Transylvanie : [Ajouter musique] / [Ajouter artiste]
+animation · Shrek le Troisième : [Ajouter musique] / [Ajouter artiste]
+animation · Kung Fu Panda 2 : [Ajouter musique] / [Ajouter artiste]
+animation · Kung Fu Panda 3 : [Ajouter musique] / [Ajouter artiste]
+animation · Dragons 2 : [Ajouter musique] / [Ajouter artiste]
+animation · Dragons 3 : Le Monde caché : [Ajouter musique] / [Ajouter artiste]
+animation · Moi, moche et méchant 3 : [Ajouter musique] / [Ajouter artiste]
+animation · Madagascar 2 : [Ajouter musique] / [Ajouter artiste]
+animation · L'Âge de glace 2 : [Ajouter musique] / [Ajouter artiste]
+animation · L'Âge de glace 3 : [Ajouter musique] / [Ajouter artiste]
+animation · Les Minions : [Ajouter musique] / [Ajouter artiste]
+animation · Le Chat Potté : [Ajouter musique] / [Ajouter artiste]
+animation · Super Mario Bros. le film : [Ajouter musique] / [Ajouter artiste]
+animation · Comme des bêtes : [Ajouter musique] / [Ajouter artiste]
+animation · Tous en scène : [Ajouter musique] / [Ajouter artiste]
+animation · Les Bad Guys : [Ajouter musique] / [Ajouter artiste]
+animation · Chicken Run : [Ajouter musique] / [Ajouter artiste]
