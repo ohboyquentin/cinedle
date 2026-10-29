@@ -2,7 +2,15 @@
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#12131a">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GUESS WHAT">
 <title>GUESS WHAT ?</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Archivo:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -25,7 +33,7 @@
     background: radial-gradient(ellipse at 20% -10%, rgba(var(--accent-rgb),0.06), transparent 55%), radial-gradient(ellipse at 100% 0%, rgba(63,158,109,0.05), transparent 50%), var(--bg);
     color: var(--ivory); font-family: 'Archivo', sans-serif; min-height: 100vh;
   }
-  #app{ max-width: 640px; margin: 0 auto; padding: 32px 16px 80px; }
+  #app{ max-width: 640px; margin: 0 auto; padding: max(32px, calc(env(safe-area-inset-top) + 16px)) 16px max(80px, calc(env(safe-area-inset-bottom) + 40px)); }
   .eyebrow{ font-size: 11px; letter-spacing: 0.28em; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
   h1.logo{ font-family: 'Bebas Neue', sans-serif; font-size: 52px; letter-spacing: 0.04em; line-height: 1; background: linear-gradient(180deg, var(--ivory) 0%, var(--accent) 120%); -webkit-background-clip: text; background-clip: text; color: transparent; }
   .subtitle{ color: var(--muted); font-size: 14px; margin-top: 8px; }
@@ -1341,6 +1349,12 @@ async function boot(){
   }
 }
 boot();
+
+// Application installable (écran d'accueil) + progression du jour protégée : on demande au navigateur de ne pas purger le stockage
+try{ if(navigator.storage && navigator.storage.persist) navigator.storage.persist(); }catch(e){}
+if('serviceWorker' in navigator){
+  window.addEventListener('load', () => { navigator.serviceWorker.register('sw.js').catch(() => {}); });
+}
 </script>
 </body>
 </html>
