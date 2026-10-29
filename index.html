@@ -59,6 +59,7 @@
   .reveal-box .reveal-answer{ display:none; font-family:'Bebas Neue'; font-size: 24px; letter-spacing: 0.04em; }
   .reveal-box.shown .reveal-answer{ display:block; }
   .reveal-box.shown .reveal-label{ display:none; }
+  .reveal-box.hint-reveal .reveal-answer{ font-family:inherit; font-size:13px; letter-spacing:normal; font-weight:600; }
   .hint-box{ text-align:center; margin-bottom: 14px; padding: 12px 14px; border-radius: 10px; background: rgba(var(--accent-rgb),0.06); border: 1px dashed var(--accent-dim); color: var(--accent); font-size: 13px; font-weight: 600; line-height: 1.45; }
 
   .cards-grid{ display:grid; grid-template-columns: 1fr 1fr; gap: 12px; }
@@ -71,6 +72,9 @@
 
   .back-btn{ display:inline-flex; align-items:center; gap:6px; color: var(--muted); font-size:13px; font-weight:600; cursor:pointer; margin-bottom: 18px; background:none; border:none; font-family:'Archivo'; }
   .back-btn:hover{ color: var(--accent); }
+  .top-row{ display:flex; justify-content:space-between; align-items:flex-start; gap:12px; }
+  .next-btn{ display:inline-flex; align-items:center; gap:6px; color: var(--accent); font-size:13px; font-weight:700; cursor:pointer; margin-bottom: 18px; padding: 6px 14px; margin-top:-6px; border-radius: 999px; background: rgba(var(--accent-rgb),0.12); border: 1px solid var(--accent-dim); font-family:'Archivo'; animation: emojiPop .35s ease; }
+  .next-btn:hover{ background: rgba(var(--accent-rgb),0.22); }
 
   .progress-dots{ display:flex; gap:6px; justify-content:center; margin-bottom: 18px; }
   .dot{ width:8px; height:8px; border-radius:50%; background: var(--border); }
@@ -311,6 +315,12 @@ const COLS_PERSO_ANIM = [
 /* =========================================================
    THÈMES : configuration des 6 défis
    ========================================================= */
+// Indice caché : la boîte apparaît au bon moment mais son contenu n'est visible qu'au clic (rien n'est imposé au joueur)
+function hintBoxHtml(h, i, shown, target){
+  return h.reveal
+    ? `<div class="hint-box reveal-box${shown ? ' shown' : ''}" data-reveal="${i}"><span class="reveal-label">🔓 ${h.label}</span><span class="reveal-answer">${h.html(target)}</span></div>`
+    : `<div class="hint-box reveal-box hint-reveal${shown ? ' shown' : ''}" data-reveal="${i}"><span class="reveal-label">💡 Indice disponible — cliquer pour le découvrir</span><span class="reveal-answer">💡 ${h.html(target)}</span></div>`;
+}
 function titleHint(t){
   const title = t.titre.trim();
   const words = title.split(/\s+/).length;
@@ -657,17 +667,16 @@ function renderHome(){
    NAVIGATION COMMUNE
    ========================================================= */
 function onDefiComplete(defiName, attempts){
-  if(state.mode === 'allin'){
-    state.allinResults.push({ name: defiName, attempts });
-    const defis = currentDefis();
-    const nextIdx = state.allinIndex + 1;
-    if(nextIdx < defis.length){
-      state.allinIndex = nextIdx;
-      setTimeout(() => { if(state.mode === 'allin' && state.allinIndex === nextIdx) defis[nextIdx].render(); }, 900);
-    } else {
-      setTimeout(() => { if(state.mode === 'allin') renderRecap(); }, 900);
-    }
-  }
+  if(state.mode !== 'allin') return;
+  state.allinResults.push({ name: defiName, attempts });
+  const defis = currentDefis(), idx = state.allinIndex, last = idx + 1 >= defis.length;
+  const btn = document.getElementById('next-btn'); if(!btn) return;
+  btn.textContent = last ? 'Récapitulatif →' : 'Suivant →';
+  btn.style.display = '';
+  btn.onclick = () => {      // le joueur décide quand passer à la suite
+    if(state.mode !== 'allin' || state.allinIndex !== idx) return;
+    if(last) renderRecap(); else { state.allinIndex = idx + 1; defis[idx + 1].render(); }
+  };
 }
 function progressDots(){
   if(state.mode !== 'allin') return '';
@@ -678,7 +687,8 @@ function progressDots(){
     return `<div class="${cls}"></div>`;
   }).join('')}</div>`;
 }
-function backButton(){ return `<button class="back-btn" id="back-btn">← Retour à l'accueil</button>`; }
+// En mode ALL IN, un bouton « Suivant → » (caché tant que le défi n'est pas trouvé) est placé à l'opposé du retour
+function backButton(){ return `<div class="top-row"><button class="back-btn" id="back-btn">← Retour à l'accueil</button>${state.mode === 'allin' ? '<button class="next-btn" id="next-btn" style="display:none"></button>' : ''}</div>`; }
 function wireBack(){ document.getElementById('back-btn')?.addEventListener('click', renderHome); }
 
 /* =========================================================
@@ -797,9 +807,7 @@ function renderGridDefi(cfg){
   function updateHints(){
     if(!cfg.hints || solved){ hintZone.innerHTML = ''; return; }
     const n = attempts.length;
-    let out = cfg.hints.map((h, i) => ({ h, i })).filter(x => n >= x.h.after).map(({ h, i }) => h.reveal
-      ? `<div class="hint-box reveal-box${shownHints.has(i) ? ' shown' : ''}" data-reveal="${i}"><span class="reveal-label">🔓 ${h.label}</span><span class="reveal-answer">${h.html(cfg.target)}</span></div>`
-      : `<div class="hint-box">💡 ${h.html(cfg.target)}</div>`).join('');
+    let out = cfg.hints.map((h, i) => ({ h, i })).filter(x => n >= x.h.after).map(({ h, i }) => hintBoxHtml(h, i, shownHints.has(i), cfg.target)).join('');
     const next = cfg.hints.find(h => n < h.after);
     if(next){ const left = next.after - n; out += `<div class="locked-hint">🔒 Prochain indice dans ${left} essai${left>1?'s':''}</div>`; }
     hintZone.innerHTML = out;
@@ -854,9 +862,7 @@ function renderBlurDefi(cfg){
   function refreshHints(){
     if(!cfg.hints){ return; }
     const n = wrongGuesses.length;
-    let out = cfg.hints.map((h, i) => ({ h, i })).filter(x => n >= x.h.after).map(({ h, i }) => h.reveal
-      ? `<div class="hint-box reveal-box${shownHints.has(i) ? ' shown' : ''}" data-reveal="${i}"><span class="reveal-label">🔓 ${h.label}</span><span class="reveal-answer">${h.html(cfg.target)}</span></div>`
-      : `<div class="hint-box">💡 ${h.html(cfg.target)}</div>`).join('');
+    let out = cfg.hints.map((h, i) => ({ h, i })).filter(x => n >= x.h.after).map(({ h, i }) => hintBoxHtml(h, i, shownHints.has(i), cfg.target)).join('');
     const next = cfg.hints.find(h => n < h.after);
     if(next){ const left = next.after - n; out += `<div class="locked-hint">🔒 Prochain indice dans ${left} essai${left>1?'s':''}</div>`; }
     hintZone.innerHTML = out;
@@ -1106,20 +1112,32 @@ function renderClueGuessDefi(cfg){
   }
   // Indices musique (défi 5) : titre du morceau après N échecs, puis artiste après M échecs
   const musicZone = document.getElementById('music-zone');
+  const shownMusic = new Set();
+  if(musicZone) musicZone.addEventListener('click', e => { const b = e.target.closest('[data-m]'); if(!b) return; shownMusic.add(b.dataset.m); b.classList.add('shown'); });
   function refreshMusic(){
     if(!cfg.musicHints || !musicZone) return;
     const n = wrongGuesses.length, h = cfg.musicHints;
     const bloc = (apres, icone, label, valeur) => n >= apres
-      ? `<div class="replique-box" style="margin-bottom:8px">${icone} ${label} : <strong>${valeur}</strong></div>`
+      ? `<div class="hint-box reveal-box hint-reveal${shownMusic.has(label) ? ' shown' : ''}" data-m="${label}" style="margin-bottom:8px"><span class="reveal-label">${icone} Indice disponible — cliquer pour découvrir ${label === 'Titre' ? 'le titre' : "l'artiste"}</span><span class="reveal-answer">${icone} ${label} : <strong>${valeur}</strong></span></div>`
       : `<div class="locked-hint" style="margin-bottom:8px">🔒 ${label} débloqué après ${apres - n} échec${apres - n > 1 ? 's' : ''}${n>0 ? ' de plus' : ''}</div>`;
     musicZone.innerHTML = bloc(h.titreAfter, '🎵', 'Titre', h.titre) + bloc(h.artisteAfter, '🎤', 'Artiste', h.artiste);
   }
   // Emojis d'aide (ex. défi 4 Séries) : un de plus tous les N échecs, jusqu'à max
   const emojiZone = document.getElementById('emoji-zone'), revealZone = document.getElementById('reveal-zone'), revealState = { revealed:false };
+  let emojisShown = false;   // les emojis d'aide restent cachés tant que le joueur ne clique pas
+  if(emojiZone) emojiZone.addEventListener('click', e => { if(e.target.closest('[data-gate]')){ emojisShown = true; refreshEmojis(); } });
   function refreshEmojis(){
     if(!emojiZone) return;
     const { every, max } = cfg.emojiHints, list = cfg.target.emojis || [];
     const count = Math.min(max, Math.floor(wrongGuesses.length / every), list.length);
+    if(!emojisShown){
+      emojiZone.style.display = 'block';
+      emojiZone.innerHTML = count >= 1
+        ? `<div class="hint-box reveal-box hint-reveal" data-gate="1"><span class="reveal-label">💡 Indice disponible — cliquer pour découvrir les emojis</span></div>`
+        : `<div class="locked-hint">🔒 Premier indice emoji dans ${every - wrongGuesses.length} échec${every - wrongGuesses.length > 1 ? 's' : ''}</div>`;
+      return;
+    }
+    emojiZone.style.display = '';
     emojiZone.innerHTML = Array.from({ length:max }, (_, i) => i < count ? `<div class="emoji-slot on" style="animation:none">${list[i]}</div>` : `<div class="emoji-slot off">❓</div>`).join('');
   }
   function refreshWrong(){
