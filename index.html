@@ -153,6 +153,11 @@
   .img-slot .lock-icon{ font-size: 20px; }
   .img-slot{ position:relative; overflow:hidden; }
   .slot-img{ position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+  /* Cinéma défi 6 : images l'une sous l'autre, en grand */
+  .images-row.stacked{ flex-direction:column; }
+  .images-row.stacked .img-slot{ flex:none; width:100%; aspect-ratio:auto; min-height:64px; }
+  .images-row.stacked .img-slot.unlocked{ aspect-ratio:16/9; }
+  .images-row.stacked .slot-img{ object-fit:contain; background:#0e0d16; }
   .slot-label{ position:absolute; left:0; right:0; bottom:0; z-index:1; padding:3px 4px; background:rgba(18,19,26,0.8); font-size:10px; letter-spacing:0.06em; text-transform:uppercase; color:var(--accent); }
 
   .wrong-list{ display:flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
@@ -401,7 +406,7 @@ const THEMES = {
       { n:6, icon:'📸', name:'3 Images', desc:'Difficulté croissante',
         render: () => renderImagesDefi({ eyebrow:'Défi 6', title:'3 images du film', labelKey:'titre',
           placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi6,
-          resultMeta:t=>`${t.realisateur} · ${t.annee}`, completionName:'3 Images', revealAfter:10 }) },
+          resultMeta:t=>`${t.realisateur} · ${t.annee}`, completionName:'3 Images', revealAfter:10, stacked:true }) },
     ]
   },
   series: {
@@ -1191,7 +1196,7 @@ function renderImagesDefi(cfg){
   app.innerHTML = `
     ${backButton()}${progressDots()}
     <header class="defi-header"><div class="defi-eyebrow">${cfg.eyebrow}</div><h2 class="defi-title">${cfg.title}</h2></header>
-    <div class="images-row" id="images-row"></div>
+    <div class="images-row${cfg.stacked ? ' stacked' : ''}" id="images-row"></div>
     <div class="wrong-list" id="wrong-list"></div>
     <div id="reveal-zone"></div>
     <div class="search-wrap" id="search-wrap">
