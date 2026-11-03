@@ -1317,6 +1317,16 @@ async function boot(){
     FILMS = films; PERSONNAGES = persos; SERIES = series; PERSONNAGES_SERIES = persosSeries; ANIMES = animes; PERSONNAGES_ANIMES = persosAnimes; FILMS_ANIM = filmsAnim; PERSONNAGES_ANIM = persosAnim;
 
     DAILY_CINEMA = pickDistinct(FILMS, ['defi1','defi3','defi4','defi5','defi6'], 'cinema', TODAY_SEED);
+    // Défi 6 (3 images) : on garde le premier film (dans l'ordre du tirage) dont les 3 images existent vraiment,
+    // différent des autres défis du jour. Les films dont les images ne sont pas encore faites sont sautés.
+    const autresFilms = ['defi1','defi3','defi4','defi5'].map(d => DAILY_CINEMA[d]);
+    const imagesExistent = f => Promise.all(Object.values(f.images_defi6 || {}).map(u => fetch(u, { method:'HEAD' }).then(r => r.ok, () => false)))
+      .then(oks => oks.length === 3 && oks.every(Boolean));
+    const depart = hashStr(TODAY_SEED + 'cinema' + 'defi6') % FILMS.length;
+    for(let i = 0; i < FILMS.length; i++){
+      const f = FILMS[(depart + i) % FILMS.length];
+      if(!autresFilms.includes(f) && await imagesExistent(f)){ DAILY_CINEMA.defi6 = f; break; }
+    }
     DAILY_CINEMA.defi2 = PERSONNAGES[hashStr(TODAY_SEED + 'cinema' + 'defi2') % PERSONNAGES.length];
 
     DAILY_SERIES = pickDistinct(SERIES, ['defi1','defi3','defi4','defi5','defi6'], 'series', TODAY_SEED);

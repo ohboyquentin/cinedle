@@ -20,9 +20,9 @@
       "extrait_audio": "assets/audio/musiques/pulp_fiction.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/pulp_fiction_difficile.jpg",
-      "moyenne": "assets/images/pulp_fiction_moyenne.jpg",
-      "facile": "assets/images/pulp_fiction_facile.jpg"
+      "difficile": "assets/images/pulp_fiction_difficile.PNG",
+      "moyenne": "assets/images/pulp_fiction_moyenne.PNG",
+      "facile": "assets/images/pulp_fiction_facile.PNG"
     },
     "emojis": [
       "🍔",
@@ -76,9 +76,9 @@
       "extrait_audio": "assets/audio/musiques/lotr_1.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/lotr_1_difficile.jpg",
-      "moyenne": "assets/images/lotr_1_moyenne.jpg",
-      "facile": "assets/images/lotr_1_facile.jpg"
+      "difficile": "assets/images/lotr_1_difficile.PNG",
+      "moyenne": "assets/images/lotr_1_moyenne.PNG",
+      "facile": "assets/images/lotr_1_facile.PNG"
     },
     "emojis": [
       "💍",
@@ -187,9 +187,9 @@
       "extrait_audio": "assets/audio/musiques/amelie_poulain.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/amelie_poulain_difficile.jpg",
-      "moyenne": "assets/images/amelie_poulain_moyenne.jpg",
-      "facile": "assets/images/amelie_poulain_facile.jpg"
+      "difficile": "assets/images/amelie_poulain_difficile.png",
+      "moyenne": "assets/images/amelie_poulain_moyenne.png",
+      "facile": "assets/images/amelie_poulain_facile.png"
     },
     "emojis": [
       "🍓",
@@ -243,9 +243,9 @@
       "extrait_audio": "assets/audio/musiques/fight_club.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/fight_club_difficile.jpg",
-      "moyenne": "assets/images/fight_club_moyenne.jpg",
-      "facile": "assets/images/fight_club_facile.jpg"
+      "difficile": "assets/images/fight_club_difficile.png",
+      "moyenne": "assets/images/fight_club_moyenne.png",
+      "facile": "assets/images/fight_club_facile.png"
     },
     "emojis": [
       "🧼",
@@ -354,9 +354,9 @@
       "extrait_audio": "assets/audio/musiques/beetlejuice.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/beetlejuice_difficile.jpg",
-      "moyenne": "assets/images/beetlejuice_moyenne.jpg",
-      "facile": "assets/images/beetlejuice_facile.jpg"
+      "difficile": "assets/images/beetlejuice_difficile.png",
+      "moyenne": "assets/images/beetlejuice_moyenne.png",
+      "facile": "assets/images/beetlejuice_facile.png"
     },
     "emojis": [
       "🪲",
@@ -410,9 +410,9 @@
       "extrait_audio": "assets/audio/musiques/inception.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/inception_difficile.jpg",
-      "moyenne": "assets/images/inception_moyenne.jpg",
-      "facile": "assets/images/inception_facile.jpg"
+      "difficile": "assets/images/Inception_difficile.png",
+      "moyenne": "assets/images/Inception_moyenne.png",
+      "facile": "assets/images/Inception_facile.png"
     },
     "emojis": [
       "🌀",
@@ -578,9 +578,9 @@
       "extrait_audio": "assets/audio/musiques/fargo.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/fargo_difficile.jpg",
-      "moyenne": "assets/images/fargo_moyenne.jpg",
-      "facile": "assets/images/fargo_facile.jpg"
+      "difficile": "assets/images/Fargo_difficile.png",
+      "moyenne": "assets/images/Fargo_moyenne.png",
+      "facile": "assets/images/Fargo_facile.png"
     },
     "emojis": [
       "❄️",
@@ -803,9 +803,9 @@
       "extrait_audio": "assets/audio/musiques/interstellar.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/interstellar_difficile.jpg",
-      "moyenne": "assets/images/interstellar_moyenne.jpg",
-      "facile": "assets/images/interstellar_facile.jpg"
+      "difficile": "assets/images/Interstellar_difficile.png",
+      "moyenne": "assets/images/Interstellar_moyenne.png",
+      "facile": "assets/images/Interstellar_facile.png"
     },
     "emojis": [
       "🌽",
@@ -1029,9 +1029,9 @@
       "extrait_audio": "assets/audio/musiques/matrix.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/matrix_difficile.jpg",
-      "moyenne": "assets/images/matrix_moyenne.jpg",
-      "facile": "assets/images/matrix_facile.jpg"
+      "difficile": "assets/images/matrix_difficile.png",
+      "moyenne": "assets/images/matrix_moyenne.png",
+      "facile": "assets/images/matrix_facile.png"
     },
     "emojis": [
       "🕶️",
@@ -1085,9 +1085,9 @@
       "extrait_audio": "assets/audio/musiques/casino_royale.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/casino_royale_difficile.jpg",
-      "moyenne": "assets/images/casino_royale_moyenne.jpg",
-      "facile": "assets/images/casino_royale_facile.jpg"
+      "difficile": "assets/images/casino_royale_difficile.PNG",
+      "moyenne": "assets/images/casino_royale_moyenne.PNG",
+      "facile": "assets/images/casino_royale_facile.PNG"
     },
     "emojis": [
       "🃏",
@@ -1366,9 +1366,9 @@
       "extrait_audio": "assets/audio/musiques/joker.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/joker_difficile.jpg",
-      "moyenne": "assets/images/joker_moyenne.jpg",
-      "facile": "assets/images/joker_facile.jpg"
+      "difficile": "assets/images/Joker_difficile.png",
+      "moyenne": "assets/images/Joker_moyenne.png",
+      "facile": "assets/images/Joker_facile.png"
     },
     "emojis": [
       "🤡",
@@ -1479,9 +1479,9 @@
       "extrait_audio": "assets/audio/musiques/blade_runner.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/blade_runner_difficile.jpg",
-      "moyenne": "assets/images/blade_runner_moyenne.jpg",
-      "facile": "assets/images/blade_runner_facile.jpg"
+      "difficile": "assets/images/blade_runner_difficile.png",
+      "moyenne": "assets/images/blade_runner_moyenne.png",
+      "facile": "assets/images/blade_runner_facile.png"
     },
     "emojis": [
       "🤖",
@@ -1704,9 +1704,9 @@
       "extrait_audio": "assets/audio/musiques/once_upon_a_time_in_hollywood.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/once_upon_a_time_in_hollywood_difficile.jpg",
-      "moyenne": "assets/images/once_upon_a_time_in_hollywood_moyenne.jpg",
-      "facile": "assets/images/once_upon_a_time_in_hollywood_facile.jpg"
+      "difficile": "assets/images/once_upon_a_time_in_hollywood_difficile.PNG",
+      "moyenne": "assets/images/once_upon_a_time_in_hollywood_moyenne.PNG",
+      "facile": "assets/images/once_upon_a_time_in_hollywood_facile.PNG"
     },
     "emojis": [
       "🎬",
@@ -1982,9 +1982,9 @@
       "extrait_audio": "assets/audio/musiques/requiem_for_a_dream.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/requiem_for_a_dream_difficile.jpg",
-      "moyenne": "assets/images/requiem_for_a_dream_moyenne.jpg",
-      "facile": "assets/images/requiem_for_a_dream_facile.jpg"
+      "difficile": "assets/images/requiem_for_a_dream_difficile.png",
+      "moyenne": "assets/images/requiem_for_a_dream_moyenne.png",
+      "facile": "assets/images/requiem_for_a_dream_facile.png"
     },
     "emojis": [
       "📺",
@@ -2150,9 +2150,9 @@
       "extrait_audio": "assets/audio/musiques/kill_bill_1.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/kill_bill_1_difficile.jpg",
-      "moyenne": "assets/images/kill_bill_1_moyenne.jpg",
-      "facile": "assets/images/kill_bill_1_facile.jpg"
+      "difficile": "assets/images/kill_bill_1_difficile.PNG",
+      "moyenne": "assets/images/kill_bill_1_moyenne.PNG",
+      "facile": "assets/images/kill_bill_1_facile.PNG"
     },
     "emojis": [
       "👰",
@@ -2372,9 +2372,9 @@
       "extrait_audio": "assets/audio/musiques/chtis.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/chtis_difficile.jpg",
-      "moyenne": "assets/images/chtis_moyenne.jpg",
-      "facile": "assets/images/chtis_facile.jpg"
+      "difficile": "assets/images/bienvenue_chez_les_chtis_difficile.jpg",
+      "moyenne": "assets/images/bienvenue_chez_les_chtis_moyenne.jpg",
+      "facile": "assets/images/bienvenue_chez_les_chtis_facile.jpg"
     },
     "emojis": [
       "✉️",
@@ -2483,9 +2483,9 @@
       "extrait_audio": "assets/audio/musiques/dune.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/dune_difficile.jpg",
-      "moyenne": "assets/images/dune_moyenne.jpg",
-      "facile": "assets/images/dune_facile.jpg"
+      "difficile": "assets/images/dune_difficile.PNG",
+      "moyenne": "assets/images/dune_moyenne.PNG",
+      "facile": "assets/images/dune_facile.PNG"
     },
     "emojis": [
       "🏜️",
@@ -2651,9 +2651,9 @@
       "extrait_audio": "assets/audio/musiques/her.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/her_difficile.jpg",
-      "moyenne": "assets/images/her_moyenne.jpg",
-      "facile": "assets/images/her_facile.jpg"
+      "difficile": "assets/images/Her_difficile.png",
+      "moyenne": "assets/images/Her_moyenne.png",
+      "facile": "assets/images/Her_facile.png"
     },
     "emojis": [
       "🎧",
@@ -2707,9 +2707,9 @@
       "extrait_audio": "assets/audio/musiques/prisoners.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/prisoners_difficile.jpg",
-      "moyenne": "assets/images/prisoners_moyenne.jpg",
-      "facile": "assets/images/prisoners_facile.jpg"
+      "difficile": "assets/images/prisoners_difficile.PNG",
+      "moyenne": "assets/images/prisoners_moyenne.PNG",
+      "facile": "assets/images/prisoners_facile.PNG"
     },
     "emojis": [
       "🚐",
@@ -2763,9 +2763,9 @@
       "extrait_audio": "assets/audio/musiques/grand_budapest_hotel.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/grand_budapest_hotel_difficile.jpg",
-      "moyenne": "assets/images/grand_budapest_hotel_moyenne.jpg",
-      "facile": "assets/images/grand_budapest_hotel_facile.jpg"
+      "difficile": "assets/images/grand_budapest_hotel_difficile.png",
+      "moyenne": "assets/images/grand_budapest_hotel_moyenne.png",
+      "facile": "assets/images/grand_budapest_hotel_facile.png"
     },
     "emojis": [
       "🏨",
@@ -2875,9 +2875,9 @@
       "extrait_audio": "assets/audio/musiques/taxi_driver.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/taxi_driver_difficile.jpg",
-      "moyenne": "assets/images/taxi_driver_moyenne.jpg",
-      "facile": "assets/images/taxi_driver_facile.jpg"
+      "difficile": "assets/images/taxi_driver_difficile.PNG",
+      "moyenne": "assets/images/taxi_driver_moyenne.PNG",
+      "facile": "assets/images/taxi_driver_facile.PNG"
     },
     "emojis": [
       "🚕",
@@ -3099,9 +3099,9 @@
       "extrait_audio": "assets/audio/musiques/no_country.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/no_country_difficile.jpg",
-      "moyenne": "assets/images/no_country_moyenne.jpg",
-      "facile": "assets/images/no_country_facile.jpg"
+      "difficile": "assets/images/no_country_difficile.PNG",
+      "moyenne": "assets/images/no_country_moyenne.PNG",
+      "facile": "assets/images/no_country_facile.PNG"
     },
     "emojis": [
       "🪙",
@@ -3211,9 +3211,9 @@
       "extrait_audio": "assets/audio/musiques/inglourious_basterds.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/inglourious_basterds_difficile.jpg",
-      "moyenne": "assets/images/inglourious_basterds_moyenne.jpg",
-      "facile": "assets/images/inglourious_basterds_facile.jpg"
+      "difficile": "assets/images/inglourious_basterds_difficile.png",
+      "moyenne": "assets/images/inglourious_basterds_moyenne.png",
+      "facile": "assets/images/inglourious_basterds_facile.png"
     },
     "emojis": [
       "🪖",
@@ -3267,9 +3267,9 @@
       "extrait_audio": "assets/audio/musiques/les_evades.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/les_evades_difficile.jpg",
-      "moyenne": "assets/images/les_evades_moyenne.jpg",
-      "facile": "assets/images/les_evades_facile.jpg"
+      "difficile": "assets/images/les_evades_difficile.PNG",
+      "moyenne": "assets/images/les_evades_moyenne.PNG",
+      "facile": "assets/images/les_evades_facile.PNG"
     },
     "emojis": [
       "🏢",
@@ -3323,9 +3323,9 @@
       "extrait_audio": "assets/audio/musiques/dark_knight.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/dark_knight_difficile.jpg",
-      "moyenne": "assets/images/dark_knight_moyenne.jpg",
-      "facile": "assets/images/dark_knight_facile.jpg"
+      "difficile": "assets/images/dark_knight_difficile.png",
+      "moyenne": "assets/images/dark_knight_moyenne.png",
+      "facile": "assets/images/dark_knight_facile.png"
     },
     "emojis": [
       "🦇",
@@ -3380,9 +3380,9 @@
       "extrait_audio": "assets/audio/musiques/se7en.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/se7en_difficile.jpg",
-      "moyenne": "assets/images/se7en_moyenne.jpg",
-      "facile": "assets/images/se7en_facile.jpg"
+      "difficile": "assets/images/se7en_difficile.PNG",
+      "moyenne": "assets/images/se7en_moyenne.PNG",
+      "facile": "assets/images/se7en_facile.PNG"
     },
     "emojis": [
       "📦",
@@ -3884,9 +3884,9 @@
       "extrait_audio": "assets/audio/musiques/crimson_peak.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/crimson_peak_difficile.jpg",
-      "moyenne": "assets/images/crimson_peak_moyenne.jpg",
-      "facile": "assets/images/crimson_peak_facile.jpg"
+      "difficile": "assets/images/crimson_peak_difficile.PNG",
+      "moyenne": "assets/images/crimson_peak_moyenne.PNG",
+      "facile": "assets/images/crimson_peak_facile.PNG"
     },
     "emojis": [
       "🏚️",
@@ -3940,9 +3940,9 @@
       "extrait_audio": "assets/audio/musiques/jurassic_park.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/jurassic_park_difficile.jpg",
-      "moyenne": "assets/images/jurassic_park_moyenne.jpg",
-      "facile": "assets/images/jurassic_park_facile.jpg"
+      "difficile": "assets/images/jurassic_park_difficile.PNG",
+      "moyenne": "assets/images/jurassic_park_moyenne.PNG",
+      "facile": "assets/images/jurassic_park_facile.PNG"
     },
     "emojis": [
       "🧬",
@@ -3997,9 +3997,9 @@
       "extrait_audio": "assets/audio/musiques/et.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/et_difficile.jpg",
-      "moyenne": "assets/images/et_moyenne.jpg",
-      "facile": "assets/images/et_facile.jpg"
+      "difficile": "assets/images/et_difficile.PNG",
+      "moyenne": "assets/images/et_moyenne.PNG",
+      "facile": "assets/images/et_facile.PNG"
     },
     "emojis": [
       "🌙",
@@ -4166,9 +4166,9 @@
       "extrait_audio": "assets/audio/musiques/dents_de_la_mer.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/dents_de_la_mer_difficile.jpg",
-      "moyenne": "assets/images/dents_de_la_mer_moyenne.jpg",
-      "facile": "assets/images/dents_de_la_mer_facile.jpg"
+      "difficile": "assets/images/dents_de_la_mer_difficile.PNG",
+      "moyenne": "assets/images/dents_de_la_mer_moyenne.PNG",
+      "facile": "assets/images/dents_de_la_mer_facile.PNG"
     },
     "emojis": [
       "🌊",
@@ -4334,9 +4334,9 @@
       "extrait_audio": "assets/audio/musiques/apocalypse_now.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/apocalypse_now_difficile.jpg",
-      "moyenne": "assets/images/apocalypse_now_moyenne.jpg",
-      "facile": "assets/images/apocalypse_now_facile.jpg"
+      "difficile": "assets/images/apocalypse_now_difficile.png",
+      "moyenne": "assets/images/apocalypse_now_moyenne.png",
+      "facile": "assets/images/apocalypse_now_facile.png"
     },
     "emojis": [
       "🚁",
@@ -4558,9 +4558,9 @@
       "extrait_audio": "assets/audio/musiques/fenetre_sur_cour.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/fenetre_sur_cour_difficile.jpg",
-      "moyenne": "assets/images/fenetre_sur_cour_moyenne.jpg",
-      "facile": "assets/images/fenetre_sur_cour_facile.jpg"
+      "difficile": "assets/images/fenetre_sur_cour_difficile.png",
+      "moyenne": "assets/images/fenetre_sur_cour_moyenne.png",
+      "facile": "assets/images/fenetre_sur_cour_facile.png"
     },
     "emojis": [
       "🪟",
@@ -4614,9 +4614,9 @@
       "extrait_audio": "assets/audio/musiques/alien.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/alien_difficile.jpg",
-      "moyenne": "assets/images/alien_moyenne.jpg",
-      "facile": "assets/images/alien_facile.jpg"
+      "difficile": "assets/images/alien_difficile.png",
+      "moyenne": "assets/images/alien_moyenne.png",
+      "facile": "assets/images/alien_facile.png"
     },
     "emojis": [
       "🥚",
@@ -4785,9 +4785,9 @@
       "extrait_audio": "assets/audio/musiques/avatar.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/avatar_difficile.jpg",
-      "moyenne": "assets/images/avatar_moyenne.jpg",
-      "facile": "assets/images/avatar_facile.jpg"
+      "difficile": "assets/images/Avatar_difficile.png",
+      "moyenne": "assets/images/Avatar_moyenne.png",
+      "facile": "assets/images/Avatar_facile.png"
     },
     "emojis": [
       "🔵",
@@ -5625,9 +5625,9 @@
       "extrait_audio": "assets/audio/musiques/there_will_be_blood.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/there_will_be_blood_difficile.jpg",
-      "moyenne": "assets/images/there_will_be_blood_moyenne.jpg",
-      "facile": "assets/images/there_will_be_blood_facile.jpg"
+      "difficile": "assets/images/there_will_be_blood_difficile.png",
+      "moyenne": "assets/images/there_will_be_blood_moyenne.png",
+      "facile": "assets/images/there_will_be_blood_facile.png"
     },
     "emojis": [
       "⛏️",
@@ -5905,9 +5905,9 @@
       "extrait_audio": "assets/audio/musiques/zodiac.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/zodiac_difficile.jpg",
-      "moyenne": "assets/images/zodiac_moyenne.jpg",
-      "facile": "assets/images/zodiac_facile.jpg"
+      "difficile": "assets/images/zodiac_difficile.png",
+      "moyenne": "assets/images/zodiac_moyenne.png",
+      "facile": "assets/images/zodiac_facile.png"
     },
     "emojis": [
       "♈",
@@ -5961,9 +5961,9 @@
       "extrait_audio": "assets/audio/musiques/nightcrawler.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/nightcrawler_difficile.jpg",
-      "moyenne": "assets/images/nightcrawler_moyenne.jpg",
-      "facile": "assets/images/nightcrawler_facile.jpg"
+      "difficile": "assets/images/nightcrawler_difficile.PNG",
+      "moyenne": "assets/images/nightcrawler_moyenne.PNG",
+      "facile": "assets/images/nightcrawler_facile.PNG"
     },
     "emojis": [
       "🎥",
@@ -6017,9 +6017,9 @@
       "extrait_audio": "assets/audio/musiques/drive.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/drive_difficile.jpg",
-      "moyenne": "assets/images/drive_moyenne.jpg",
-      "facile": "assets/images/drive_facile.jpg"
+      "difficile": "assets/images/Drive_difficile.png",
+      "moyenne": "assets/images/Drive_moyenne.png",
+      "facile": "assets/images/Drive_facile.png"
     },
     "emojis": [
       "🦂",
@@ -6129,9 +6129,9 @@
       "extrait_audio": "assets/audio/musiques/mad_max_fury_road.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/mad_max_fury_road_difficile.jpg",
-      "moyenne": "assets/images/mad_max_fury_road_moyenne.jpg",
-      "facile": "assets/images/mad_max_fury_road_facile.jpg"
+      "difficile": "assets/images/mad_max_fury_road_difficile.png",
+      "moyenne": "assets/images/mad_max_fury_road_moyenne.png",
+      "facile": "assets/images/mad_max_fury_road_facile.png"
     },
     "emojis": [
       "🏜️",
@@ -6353,9 +6353,9 @@
       "extrait_audio": "assets/audio/musiques/jumanji.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/jumanji_difficile.jpg",
-      "moyenne": "assets/images/jumanji_moyenne.jpg",
-      "facile": "assets/images/jumanji_facile.jpg"
+      "difficile": "assets/images/jumanji_difficile.PNG",
+      "moyenne": "assets/images/jumanji_moyenne.PNG",
+      "facile": "assets/images/jumanji_facile.PNG"
     },
     "emojis": [
       "🎲",
@@ -6409,9 +6409,9 @@
       "extrait_audio": "assets/audio/musiques/la_famille_tenenbaum.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/la_famille_tenenbaum_difficile.jpg",
-      "moyenne": "assets/images/la_famille_tenenbaum_moyenne.jpg",
-      "facile": "assets/images/la_famille_tenenbaum_facile.jpg"
+      "difficile": "assets/images/la_famille_tenenbaum_difficile.png",
+      "moyenne": "assets/images/la_famille_tenenbaum_moyenne.png",
+      "facile": "assets/images/la_famille_tenenbaum_facile.png"
     },
     "emojis": [
       "🏠",
@@ -6522,9 +6522,9 @@
       "extrait_audio": "assets/audio/musiques/harry_potter_1.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/harry_potter_1_difficile.jpg",
-      "moyenne": "assets/images/harry_potter_1_moyenne.jpg",
-      "facile": "assets/images/harry_potter_1_facile.jpg"
+      "difficile": "assets/images/harry_potter_a_l_ecole_des_sorciers_difficile.jpg",
+      "moyenne": "assets/images/harry_potter_a_l_ecole_des_sorciers_moyenne.jpg",
+      "facile": "assets/images/harry_potter_a_l_ecole_des_sorciers_facile.jpg"
     },
     "emojis": [
       "⚡",
@@ -6579,9 +6579,9 @@
       "extrait_audio": "assets/audio/musiques/harry_potter_7_2.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/harry_potter_7_2_difficile.jpg",
-      "moyenne": "assets/images/harry_potter_7_2_moyenne.jpg",
-      "facile": "assets/images/harry_potter_7_2_facile.jpg"
+      "difficile": "assets/images/harry_potter_et_les_reliques_de_la_mort_partie_2_difficile.jpg",
+      "moyenne": "assets/images/harry_potter_et_les_reliques_de_la_mort_partie_2_moyenne.jpg",
+      "facile": "assets/images/harry_potter_et_les_reliques_de_la_mort_partie_2_facile.jpg"
     },
     "emojis": [
       "⚡",
@@ -6972,9 +6972,9 @@
       "extrait_audio": "assets/audio/musiques/labyrinthe_pan.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/labyrinthe_pan_difficile.jpg",
-      "moyenne": "assets/images/labyrinthe_pan_moyenne.jpg",
-      "facile": "assets/images/labyrinthe_pan_facile.jpg"
+      "difficile": "assets/images/labyrinthe_pan_difficile.PNG",
+      "moyenne": "assets/images/labyrinthe_pan_moyenne.PNG",
+      "facile": "assets/images/labyrinthe_pan_facile.PNG"
     },
     "emojis": [
       "🧚",
@@ -7196,9 +7196,9 @@
       "extrait_audio": "assets/audio/musiques/cercle_poetes.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/cercle_poetes_difficile.jpg",
-      "moyenne": "assets/images/cercle_poetes_moyenne.jpg",
-      "facile": "assets/images/cercle_poetes_facile.jpg"
+      "difficile": "assets/images/cercle_poetes_difficile.PNG",
+      "moyenne": "assets/images/cercle_poetes_moyenne.PNG",
+      "facile": "assets/images/cercle_poetes_facile.PNG"
     },
     "emojis": [
       "🏫",
@@ -7588,9 +7588,9 @@
       "extrait_audio": "assets/audio/musiques/green_book.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/green_book_difficile.jpg",
-      "moyenne": "assets/images/green_book_moyenne.jpg",
-      "facile": "assets/images/green_book_facile.jpg"
+      "difficile": "assets/images/green_book_difficile.PNG",
+      "moyenne": "assets/images/green_book_moyenne.PNG",
+      "facile": "assets/images/green_book_facile.PNG"
     },
     "emojis": [
       "🚗",
@@ -7924,9 +7924,9 @@
       "extrait_audio": "assets/audio/musiques/john_wick.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/john_wick_difficile.jpg",
-      "moyenne": "assets/images/john_wick_moyenne.jpg",
-      "facile": "assets/images/john_wick_facile.jpg"
+      "difficile": "assets/images/john_wick_difficile.PNG",
+      "moyenne": "assets/images/john_wick_moyenne.PNG",
+      "facile": "assets/images/john_wick_facile.PNG"
     },
     "emojis": [
       "🐶",
@@ -7980,9 +7980,9 @@
       "extrait_audio": "assets/audio/musiques/die_hard_piege_de_cristal.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/die_hard_piege_de_cristal_difficile.jpg",
-      "moyenne": "assets/images/die_hard_piege_de_cristal_moyenne.jpg",
-      "facile": "assets/images/die_hard_piege_de_cristal_facile.jpg"
+      "difficile": "assets/images/die_hard_piege_de_cristal_difficile.png",
+      "moyenne": "assets/images/die_hard_piege_de_cristal_moyenne.png",
+      "facile": "assets/images/die_hard_piege_de_cristal_facile.png"
     },
     "emojis": [
       "🎄",
@@ -8093,9 +8093,9 @@
       "extrait_audio": "assets/audio/musiques/little_miss_sunshine.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/little_miss_sunshine_difficile.jpg",
-      "moyenne": "assets/images/little_miss_sunshine_moyenne.jpg",
-      "facile": "assets/images/little_miss_sunshine_facile.jpg"
+      "difficile": "assets/images/little_miss_sunshine_difficile.png",
+      "moyenne": "assets/images/little_miss_sunshine_moyenne.png",
+      "facile": "assets/images/little_miss_sunshine_facile.png"
     },
     "emojis": [
       "🚐",
@@ -8149,9 +8149,9 @@
       "extrait_audio": "assets/audio/musiques/seul_sur_mars.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/seul_sur_mars_difficile.jpg",
-      "moyenne": "assets/images/seul_sur_mars_moyenne.jpg",
-      "facile": "assets/images/seul_sur_mars_facile.jpg"
+      "difficile": "assets/images/seul_sur_mars_difficile.PNG",
+      "moyenne": "assets/images/seul_sur_mars_moyenne.PNG",
+      "facile": "assets/images/seul_sur_mars_facile.PNG"
     },
     "emojis": [
       "🔴",
@@ -8205,9 +8205,9 @@
       "extrait_audio": "assets/audio/musiques/127_heures.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/127_heures_difficile.jpg",
-      "moyenne": "assets/images/127_heures_moyenne.jpg",
-      "facile": "assets/images/127_heures_facile.jpg"
+      "difficile": "assets/images/127_heures_difficile.PNG",
+      "moyenne": "assets/images/127_heures_moyenne.PNG",
+      "facile": "assets/images/127_heures_facile.PNG"
     },
     "emojis": [
       "⛰️",
@@ -8261,9 +8261,9 @@
       "extrait_audio": "assets/audio/musiques/arrival.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/arrival_difficile.jpg",
-      "moyenne": "assets/images/arrival_moyenne.jpg",
-      "facile": "assets/images/arrival_facile.jpg"
+      "difficile": "assets/images/Arrival_difficile.png",
+      "moyenne": "assets/images/Arrival_moyenne.png",
+      "facile": "assets/images/Arrival_facile.png"
     },
     "emojis": [
       "🛸",
@@ -8317,9 +8317,9 @@
       "extrait_audio": "assets/audio/musiques/donnie_darko.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/donnie_darko_difficile.jpg",
-      "moyenne": "assets/images/donnie_darko_moyenne.jpg",
-      "facile": "assets/images/donnie_darko_facile.jpg"
+      "difficile": "assets/images/donnie_darko_difficile.PNG",
+      "moyenne": "assets/images/donnie_darko_moyenne.PNG",
+      "facile": "assets/images/donnie_darko_facile.PNG"
     },
     "emojis": [
       "🐰",
@@ -8373,9 +8373,9 @@
       "extrait_audio": "assets/audio/musiques/gremlins.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/gremlins_difficile.jpg",
-      "moyenne": "assets/images/gremlins_moyenne.jpg",
-      "facile": "assets/images/gremlins_facile.jpg"
+      "difficile": "assets/images/gremlins_difficile.PNG",
+      "moyenne": "assets/images/gremlins_moyenne.PNG",
+      "facile": "assets/images/gremlins_facile.PNG"
     },
     "emojis": [
       "🐹",
@@ -8485,9 +8485,9 @@
       "extrait_audio": "assets/audio/musiques/hunger_games.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/hunger_games_difficile.jpg",
-      "moyenne": "assets/images/hunger_games_moyenne.jpg",
-      "facile": "assets/images/hunger_games_facile.jpg"
+      "difficile": "assets/images/hunger_games_difficile.PNG",
+      "moyenne": "assets/images/hunger_games_moyenne.PNG",
+      "facile": "assets/images/hunger_games_facile.PNG"
     },
     "emojis": [
       "🏹",
@@ -8542,9 +8542,9 @@
       "extrait_audio": "assets/audio/musiques/la_memoire_dans_la_peau.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/la_memoire_dans_la_peau_difficile.jpg",
-      "moyenne": "assets/images/la_memoire_dans_la_peau_moyenne.jpg",
-      "facile": "assets/images/la_memoire_dans_la_peau_facile.jpg"
+      "difficile": "assets/images/la_memoire_dans_la_peau_difficile.PNG",
+      "moyenne": "assets/images/la_memoire_dans_la_peau_moyenne.PNG",
+      "facile": "assets/images/la_memoire_dans_la_peau_facile.PNG"
     },
     "emojis": [
       "🕵️",
@@ -8711,9 +8711,9 @@
       "extrait_audio": "assets/audio/musiques/sos_fantomes_ghostbusters.mp3"
     },
     "images_defi6": {
-      "difficile": "assets/images/sos_fantomes_ghostbusters_difficile.jpg",
-      "moyenne": "assets/images/sos_fantomes_ghostbusters_moyenne.jpg",
-      "facile": "assets/images/sos_fantomes_ghostbusters_facile.jpg"
+      "difficile": "assets/images/sos_fantomes_ghostbusters_difficile.PNG",
+      "moyenne": "assets/images/sos_fantomes_ghostbusters_moyenne.PNG",
+      "facile": "assets/images/sos_fantomes_ghostbusters_facile.PNG"
     },
     "emojis": [
       "👻",
@@ -9859,9 +9859,9 @@
     "replique_vf": "Leeloo Dallas Multipass !",
     "audio_replique": "assets/audio/repliques/le_cinquieme_element.mp3",
     "images_defi6": {
-      "difficile": "assets/images/le_cinquieme_element_difficile.jpg",
-      "moyenne": "assets/images/le_cinquieme_element_moyenne.jpg",
-      "facile": "assets/images/le_cinquieme_element_facile.jpg"
+      "difficile": "assets/images/le_cinquieme_element_difficile.PNG",
+      "moyenne": "assets/images/le_cinquieme_element_moyenne.PNG",
+      "facile": "assets/images/le_cinquieme_element_facile.PNG"
     },
     "emojis": [
       "🚕",
@@ -9961,9 +9961,9 @@
     "replique_vf": "Je déteste l'espace.",
     "audio_replique": "assets/audio/repliques/gravity.mp3",
     "images_defi6": {
-      "difficile": "assets/images/gravity_difficile.jpg",
-      "moyenne": "assets/images/gravity_moyenne.jpg",
-      "facile": "assets/images/gravity_facile.jpg"
+      "difficile": "assets/images/Gravity_difficile.png",
+      "moyenne": "assets/images/Gravity_moyenne.png",
+      "facile": "assets/images/Gravity_facile.png"
     },
     "emojis": [
       "🚀",
@@ -10012,9 +10012,9 @@
     "replique_vf": "J'ai des souvenirs, mais ils ne sont pas à moi. Ce sont ceux de quelqu'un d'autre.",
     "audio_replique": "assets/audio/repliques/blade_runner_2049.mp3",
     "images_defi6": {
-      "difficile": "assets/images/blade_runner_2049_difficile.jpg",
-      "moyenne": "assets/images/blade_runner_2049_moyenne.jpg",
-      "facile": "assets/images/blade_runner_2049_facile.jpg"
+      "difficile": "assets/images/blade_runner_2049_difficile.png",
+      "moyenne": "assets/images/blade_runner_2049_moyenne.png",
+      "facile": "assets/images/blade_runner_2049_facile.png"
     },
     "emojis": [
       "🌆",
@@ -11188,9 +11188,9 @@
     "replique_vf": "Non, je suis ton père.",
     "audio_replique": "assets/audio/repliques/star_wars_l_empire_contre_attaque.mp3",
     "images_defi6": {
-      "difficile": "assets/images/star_wars_l_empire_contre_attaque_difficile.jpg",
-      "moyenne": "assets/images/star_wars_l_empire_contre_attaque_moyenne.jpg",
-      "facile": "assets/images/star_wars_l_empire_contre_attaque_facile.jpg"
+      "difficile": "assets/images/star_wars_l_empire_contre_attaque_difficile.PNG",
+      "moyenne": "assets/images/star_wars_l_empire_contre_attaque_moyenne.PNG",
+      "facile": "assets/images/star_wars_l_empire_contre_attaque_facile.PNG"
     },
     "emojis": [
       "❄️",
@@ -12885,9 +12885,9 @@
     "replique_vf": "Avez-vous déjà dansé avec le diable au clair de lune ?",
     "audio_replique": "assets/audio/repliques/batman.mp3",
     "images_defi6": {
-      "difficile": "assets/images/batman_difficile.jpg",
-      "moyenne": "assets/images/batman_moyenne.jpg",
-      "facile": "assets/images/batman_facile.jpg"
+      "difficile": "assets/images/batman_difficile.png",
+      "moyenne": "assets/images/batman_moyenne.png",
+      "facile": "assets/images/batman_facile.png"
     },
     "emojis": [
       "🦇",
@@ -12937,9 +12937,9 @@
     "replique_vf": "Je suis la vengeance.",
     "audio_replique": "assets/audio/repliques/the_batman.mp3",
     "images_defi6": {
-      "difficile": "assets/images/the_batman_difficile.jpg",
-      "moyenne": "assets/images/the_batman_moyenne.jpg",
-      "facile": "assets/images/the_batman_facile.jpg"
+      "difficile": "assets/images/the_batman_difficile.PNG",
+      "moyenne": "assets/images/the_batman_moyenne.PNG",
+      "facile": "assets/images/the_batman_facile.PNG"
     },
     "emojis": [
       "🦇",
@@ -12989,9 +12989,9 @@
     "replique_vf": "Ce n'est qu'à travers la souffrance que vous pouvez atteindre votre grandeur !",
     "audio_replique": "assets/audio/repliques/split.mp3",
     "images_defi6": {
-      "difficile": "assets/images/split_difficile.jpg",
-      "moyenne": "assets/images/split_moyenne.jpg",
-      "facile": "assets/images/split_facile.jpg"
+      "difficile": "assets/images/split_difficile.PNG",
+      "moyenne": "assets/images/split_moyenne.PNG",
+      "facile": "assets/images/split_facile.PNG"
     },
     "emojis": [
       "🧠",
@@ -13093,9 +13093,9 @@
     "replique_vf": "Oh, au diable la dignité. Je partirai quand le travail sera terminé.",
     "audio_replique": "assets/audio/repliques/skyfall.mp3",
     "images_defi6": {
-      "difficile": "assets/images/skyfall_difficile.jpg",
-      "moyenne": "assets/images/skyfall_moyenne.jpg",
-      "facile": "assets/images/skyfall_facile.jpg"
+      "difficile": "assets/images/skyfall_difficile.PNG",
+      "moyenne": "assets/images/skyfall_moyenne.PNG",
+      "facile": "assets/images/skyfall_facile.PNG"
     },
     "emojis": [
       "🚗",
@@ -13145,9 +13145,9 @@
     "replique_vf": "Inspirez à fond, un seul coup suffira. Qu'il soit gagnant !",
     "audio_replique": "assets/audio/repliques/quantum_of_solace.mp3",
     "images_defi6": {
-      "difficile": "assets/images/quantum_of_solace_difficile.jpg",
-      "moyenne": "assets/images/quantum_of_solace_moyenne.jpg",
-      "facile": "assets/images/quantum_of_solace_facile.jpg"
+      "difficile": "assets/images/quantum_of_solace_difficile.PNG",
+      "moyenne": "assets/images/quantum_of_solace_moyenne.PNG",
+      "facile": "assets/images/quantum_of_solace_facile.PNG"
     },
     "emojis": [
       "💧",
@@ -13197,9 +13197,9 @@
     "replique_vf": "Tu as croisé ma route tant de fois et pourtant tu ne m'as jamais vu.",
     "audio_replique": "assets/audio/repliques/spectre.mp3",
     "images_defi6": {
-      "difficile": "assets/images/spectre_difficile.jpg",
-      "moyenne": "assets/images/spectre_moyenne.jpg",
-      "facile": "assets/images/spectre_facile.jpg"
+      "difficile": "assets/images/spectre_difficile.PNG",
+      "moyenne": "assets/images/spectre_moyenne.PNG",
+      "facile": "assets/images/spectre_facile.PNG"
     },
     "emojis": [
       "🐙",
@@ -13249,9 +13249,9 @@
     "replique_vf": "Nous avons tous nos secrets. Nous n'en sommes pas encore arrivés aux vôtres.",
     "audio_replique": "assets/audio/repliques/mourir_peut_attendre.mp3",
     "images_defi6": {
-      "difficile": "assets/images/mourir_peut_attendre_difficile.jpg",
-      "moyenne": "assets/images/mourir_peut_attendre_moyenne.jpg",
-      "facile": "assets/images/mourir_peut_attendre_facile.jpg"
+      "difficile": "assets/images/mourir_peut_attendre_difficile.PNG",
+      "moyenne": "assets/images/mourir_peut_attendre_moyenne.PNG",
+      "facile": "assets/images/mourir_peut_attendre_facile.PNG"
     },
     "emojis": [
       "☣️",
@@ -13608,9 +13608,9 @@
     "replique_vf": "Le chaos est un ordre qui n'a pas encore été déchiffré.",
     "audio_replique": "assets/audio/repliques/enemy.mp3",
     "images_defi6": {
-      "difficile": "assets/images/enemy_difficile.jpg",
-      "moyenne": "assets/images/enemy_moyenne.jpg",
-      "facile": "assets/images/enemy_facile.jpg"
+      "difficile": "assets/images/enemy_difficile.PNG",
+      "moyenne": "assets/images/enemy_moyenne.PNG",
+      "facile": "assets/images/enemy_facile.PNG"
     },
     "emojis": [
       "🕷️",
@@ -13659,9 +13659,9 @@
     "replique_vf": "Quand on aime quelqu'un, on s'arrange. On ne le rejette pas comme ça. Il faut en prendre soin, parce que ça n'arrivera peut-être plus jamais.",
     "audio_replique": "assets/audio/repliques/nocturnal_animals.mp3",
     "images_defi6": {
-      "difficile": "assets/images/nocturnal_animals_difficile.jpg",
-      "moyenne": "assets/images/nocturnal_animals_moyenne.jpg",
-      "facile": "assets/images/nocturnal_animals_facile.jpg"
+      "difficile": "assets/images/nocturnal_animals_difficile.PNG",
+      "moyenne": "assets/images/nocturnal_animals_moyenne.PNG",
+      "facile": "assets/images/nocturnal_animals_facile.PNG"
     },
     "emojis": [
       "📖",
@@ -14067,9 +14067,9 @@
     "replique_vf": "Tu sais ce que c'est la liberté ? Pas de peur. Exactement comme Tom Cruise.",
     "audio_replique": "assets/audio/repliques/one_battle_after_another.mp3",
     "images_defi6": {
-      "difficile": "assets/images/one_battle_after_another_difficile.jpg",
-      "moyenne": "assets/images/one_battle_after_another_moyenne.jpg",
-      "facile": "assets/images/one_battle_after_another_facile.jpg"
+      "difficile": "assets/images/one_battle_after_another_difficile.PNG",
+      "moyenne": "assets/images/one_battle_after_another_moyenne.PNG",
+      "facile": "assets/images/one_battle_after_another_facile.PNG"
     },
     "emojis": [
       "🔥",
@@ -14679,9 +14679,9 @@
     "replique_vf": "Les Goonies n'abandonnent jamais !",
     "audio_replique": "assets/audio/repliques/les_goonies.mp3",
     "images_defi6": {
-      "difficile": "assets/images/les_goonies_difficile.jpg",
-      "moyenne": "assets/images/les_goonies_moyenne.jpg",
-      "facile": "assets/images/les_goonies_facile.jpg"
+      "difficile": "assets/images/les_goonies_difficile.PNG",
+      "moyenne": "assets/images/les_goonies_moyenne.PNG",
+      "facile": "assets/images/les_goonies_facile.PNG"
     },
     "emojis": [
       "🏴‍☠️",
@@ -14933,9 +14933,9 @@
     "replique_vf": "Tu sais ce que j'ai fait pour revenir vers toi ?! (...) Tu baises mon frère dans ma putain de maison !",
     "audio_replique": "assets/audio/repliques/brothers.mp3",
     "images_defi6": {
-      "difficile": "assets/images/brothers_difficile.jpg",
-      "moyenne": "assets/images/brothers_moyenne.jpg",
-      "facile": "assets/images/brothers_facile.jpg"
+      "difficile": "assets/images/brothers_difficile.PNG",
+      "moyenne": "assets/images/brothers_moyenne.PNG",
+      "facile": "assets/images/brothers_facile.PNG"
     },
     "emojis": [
       "🪖",
@@ -15493,9 +15493,9 @@
     "replique_vf": "Le moment où vous commencez à avoir des sentiments, c’est le moment où vous vous prenez une balle.",
     "audio_replique": "assets/audio/repliques/baby_driver.mp3",
     "images_defi6": {
-      "difficile": "assets/images/baby_driver_difficile.jpg",
-      "moyenne": "assets/images/baby_driver_moyenne.jpg",
-      "facile": "assets/images/baby_driver_facile.jpg"
+      "difficile": "assets/images/baby_driver_difficile.PNG",
+      "moyenne": "assets/images/baby_driver_moyenne.PNG",
+      "facile": "assets/images/baby_driver_facile.PNG"
     },
     "emojis": [
       "🎧",
