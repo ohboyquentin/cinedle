@@ -8070,7 +8070,8 @@
         "nom": "Will Smith",
         "photo": "https://image.tmdb.org/t/p/w185/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
       }
-    ]
+    ],
+    "saga": "Men in Black"
   },
   {
     "id": "film_145",
@@ -16424,6 +16425,154 @@
       {
         "nom": "Joe Pesci",
         "photo": "https://image.tmdb.org/t/p/w185/pEHQoL8yOndOq59iXlgsOpUTcTk.jpg"
+      }
+    ]
+  },
+  {
+    "id": "film_307",
+    "titre": "Men in Black II",
+    "realisateur": "Barry Sonnenfeld",
+    "annee": 2002,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 88,
+    "acteur_principal": "Will Smith",
+    "affiche": "assets/affiches/men_in_black_2.jpg",
+    "repliques_cultes": [
+      "You know the difference between you and me? I make this look good."
+    ],
+    "replique_vf": "Tu sais quelle est la différence entre toi et moi ? Moi, je rends ça classe.",
+    "images_defi6": {
+      "difficile": "assets/images/men_in_black_2_difficile.jpg",
+      "moyenne": "assets/images/men_in_black_2_moyenne.jpg",
+      "facile": "assets/images/men_in_black_2_facile.jpg"
+    },
+    "emojis": [
+      "🕶️",
+      "👽",
+      "🐶",
+      "📮",
+      "💡",
+      "🌿"
+    ],
+    "casting": [
+      {
+        "nom": "Rosario Dawson",
+        "photo": "https://image.tmdb.org/t/p/w185/siTzOI810a0K46wv1TORXMw5N7J.jpg"
+      },
+      {
+        "nom": "Rip Torn",
+        "photo": "https://image.tmdb.org/t/p/w185/jP74MHyQl6R8mH7aZKHrrD2Qjj2.jpg"
+      },
+      {
+        "nom": "Tommy Lee Jones",
+        "photo": "https://image.tmdb.org/t/p/w185/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+      },
+      {
+        "nom": "Will Smith",
+        "photo": "https://image.tmdb.org/t/p/w185/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+      }
+    ],
+    "saga": "Men in Black"
+  },
+  {
+    "id": "film_308",
+    "titre": "Men in Black 3",
+    "realisateur": "Barry Sonnenfeld",
+    "annee": 2012,
+    "genre": "Science-fiction",
+    "pays": "États-Unis",
+    "duree_minutes": 106,
+    "acteur_principal": "Will Smith",
+    "affiche": "assets/affiches/men_in_black_3.jpg",
+    "repliques_cultes": [
+      "- Boris the Animal. - It's just Boris!"
+    ],
+    "replique_vf": "- Boris l'Animal. - C'est juste Boris !",
+    "images_defi6": {
+      "difficile": "assets/images/men_in_black_3_difficile.jpg",
+      "moyenne": "assets/images/men_in_black_3_moyenne.jpg",
+      "facile": "assets/images/men_in_black_3_facile.jpg"
+    },
+    "emojis": [
+      "🕶️",
+      "⏳",
+      "🚀",
+      "🌕",
+      "👽",
+      "🏍️"
+    ],
+    "casting": [
+      {
+        "nom": "Michael Stuhlbarg",
+        "photo": "https://image.tmdb.org/t/p/w185/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+      },
+      {
+        "nom": "Emma Thompson",
+        "photo": "https://image.tmdb.org/t/p/w185/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg"
+      },
+      {
+        "nom": "Josh Brolin",
+        "photo": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+      },
+      {
+        "nom": "Tommy Lee Jones",
+        "photo": "https://image.tmdb.org/t/p/w185/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+      },
+      {
+        "nom": "Will Smith",
+        "photo": "https://image.tmdb.org/t/p/w185/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+      }
+    ],
+    "saga": "Men in Black"
+  },
+  {
+    "id": "film_309",
+    "titre": "La Famille Addams",
+    "realisateur": "Barry Sonnenfeld",
+    "annee": 1991,
+    "genre": "Comédie",
+    "pays": "États-Unis",
+    "duree_minutes": 99,
+    "acteur_principal": "Anjelica Huston",
+    "affiche": "assets/affiches/la_famille_addams.jpg",
+    "repliques_cultes": [
+      "Don't torture yourself, Gomez. That's my job."
+    ],
+    "replique_vf": "Ne te torture pas, Gomez. C'est mon travail.",
+    "images_defi6": {
+      "difficile": "assets/images/la_famille_addams_difficile.jpg",
+      "moyenne": "assets/images/la_famille_addams_moyenne.jpg",
+      "facile": "assets/images/la_famille_addams_facile.jpg"
+    },
+    "emojis": [
+      "🖤",
+      "✋",
+      "🏚️",
+      "🕯️",
+      "⚔️",
+      "💀"
+    ],
+    "casting": [
+      {
+        "nom": "Dan Hedaya",
+        "photo": "https://image.tmdb.org/t/p/w185/evL3mV8hNIjZOb1XG3qtgmiTgS5.jpg"
+      },
+      {
+        "nom": "Elizabeth Wilson",
+        "photo": "https://image.tmdb.org/t/p/w185/8jiCTMxqiL1YwPVBqo0Pe2ZOixk.jpg"
+      },
+      {
+        "nom": "Christina Ricci",
+        "photo": "https://image.tmdb.org/t/p/w185/m2cY5Er1loPgHkZYdFMEz6YeiwG.jpg"
+      },
+      {
+        "nom": "Christopher Lloyd",
+        "photo": "https://image.tmdb.org/t/p/w185/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+      },
+      {
+        "nom": "Anjelica Huston",
+        "photo": "https://image.tmdb.org/t/p/w185/6hnYeHa7Rc1w1MmQ3JsLSIb7yCX.jpg"
       }
     ]
   }

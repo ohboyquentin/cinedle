@@ -1,0 +1,9 @@
+# Fichiers de travail : restent sur le PC, ne partent pas sur Git
+.claude/
+tmdb_casting.js
+tmdb_casting_series.js
+itunes_audio.js
+vf_choix.json
+.vf_done.json
+audio_a_verifier.txt
+films_sans_images.txt
