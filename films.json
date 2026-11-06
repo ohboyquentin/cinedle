@@ -16525,55 +16525,5 @@
       }
     ],
     "saga": "Men in Black"
-  },
-  {
-    "id": "film_309",
-    "titre": "La Famille Addams",
-    "realisateur": "Barry Sonnenfeld",
-    "annee": 1991,
-    "genre": "Comédie",
-    "pays": "États-Unis",
-    "duree_minutes": 99,
-    "acteur_principal": "Anjelica Huston",
-    "affiche": "assets/affiches/la_famille_addams.jpg",
-    "repliques_cultes": [
-      "Don't torture yourself, Gomez. That's my job."
-    ],
-    "replique_vf": "Ne te torture pas, Gomez. C'est mon travail.",
-    "images_defi6": {
-      "difficile": "assets/images/la_famille_addams_difficile.jpg",
-      "moyenne": "assets/images/la_famille_addams_moyenne.jpg",
-      "facile": "assets/images/la_famille_addams_facile.jpg"
-    },
-    "emojis": [
-      "🖤",
-      "✋",
-      "🏚️",
-      "🕯️",
-      "⚔️",
-      "💀"
-    ],
-    "casting": [
-      {
-        "nom": "Dan Hedaya",
-        "photo": "https://image.tmdb.org/t/p/w185/evL3mV8hNIjZOb1XG3qtgmiTgS5.jpg"
-      },
-      {
-        "nom": "Elizabeth Wilson",
-        "photo": "https://image.tmdb.org/t/p/w185/8jiCTMxqiL1YwPVBqo0Pe2ZOixk.jpg"
-      },
-      {
-        "nom": "Christina Ricci",
-        "photo": "https://image.tmdb.org/t/p/w185/m2cY5Er1loPgHkZYdFMEz6YeiwG.jpg"
-      },
-      {
-        "nom": "Christopher Lloyd",
-        "photo": "https://image.tmdb.org/t/p/w185/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
-      },
-      {
-        "nom": "Anjelica Huston",
-        "photo": "https://image.tmdb.org/t/p/w185/6hnYeHa7Rc1w1MmQ3JsLSIb7yCX.jpg"
-      }
-    ]
   }
 ]

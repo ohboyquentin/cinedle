@@ -1320,7 +1320,9 @@ async function boot(){
     // Défi 6 (3 images) : on garde le premier film (dans l'ordre du tirage) dont les 3 images existent vraiment,
     // différent des autres défis du jour. Les films dont les images ne sont pas encore faites sont sautés.
     const autresFilms = ['defi1','defi3','defi4','defi5'].map(d => DAILY_CINEMA[d]);
-    const imagesExistent = f => Promise.all(Object.values(f.images_defi6 || {}).map(u => fetch(u, { method:'HEAD' }).then(r => r.ok, () => false)))
+    // On charge vraiment les images (plutôt qu'une requête HEAD, mal gérée par certains serveurs locaux)
+    const imageCharge = u => new Promise(res => { const im = new Image(); im.onload = () => res(true); im.onerror = () => res(false); im.src = u; });
+    const imagesExistent = f => Promise.all(Object.values(f.images_defi6 || {}).map(imageCharge))
       .then(oks => oks.length === 3 && oks.every(Boolean));
     const depart = hashStr(TODAY_SEED + 'cinema' + 'defi6') % FILMS.length;
     for(let i = 0; i < FILMS.length; i++){
