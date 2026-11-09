@@ -353,11 +353,17 @@ const makeHints = (key, noun) => [
   { after:10, reveal:true, label:'Cliquer pour découvrir la réponse', html: t => t[key] },
 ];
 const HINTS_PERSO = makeHints('nom', 'nom');   // défi 2 : on devine un nom
-// Cinéma, défi 2 : 1re lettre après 3 essais, pendu après 5, acteur après 7, réponse cachée après 10
+// Cinéma, défi 2 : « profil de rencontre » — une ligne de plus après 3, 5 et 7 essais, puis la réponse cachée après 10
+// (sans profil : 1re lettre, pendu, puis acteur, comme indices de secours)
+const PROFIL_SECOURS = [
+  t => `Le nom commence par « ${t.nom.trim()[0].toUpperCase()} »`,
+  HINTS_PERSO[0].html,
+  t => `Il est incarné par <strong>${t.acteur}</strong>`,
+];
 const HINTS_PERSO_CINEMA = [
-  { after:3, html: t => `Le nom commence par « ${t.nom.trim()[0].toUpperCase()} »` },
-  { ...HINTS_PERSO[0], after:5 },
-  { after:7, html: t => `Il est incarné par <strong>${t.acteur}</strong>` },
+  ...[3, 5, 7].map((after, i) => ({ after, html: t => {
+      const ligne = t.profil && t.profil[i];
+      return ligne ? `<span class="hint-sub" style="margin-bottom:4px">💌 Profil de rencontre — ${i+1}/3</span>${ligne}` : PROFIL_SECOURS[i](t); } })),
   { ...HINTS_PERSO[2], after:10 },
 ];
 // Cinéma, défi 1 : « synopsis codé » — une phrase de plus à chaque palier (essais), puis la réponse cachée
@@ -370,6 +376,16 @@ const HINTS_FILM_CINEMA = [
   { ...makeHints('titre', 'titre')[2], after:SYNOPSIS_REVEAL },
 ];
 const HINTS_TITRE = makeHints('titre', 'titre'); // défi 1 : on devine un titre (mêmes indices)
+// Cinéma, défi 4 : le film en chiffres après 3 essais, petite annonce après 5, titre déformé après 7, réponse cachée après 10
+// (sans indices écrits : début du titre, pendu, puis premier mot, comme indices de secours)
+const REPLIQUE_SECOURS = [titleHint, HINTS_TITRE[0].html, HINTS_TITRE[1].html];
+const REPLIQUE_LABELS = ['🔢 Le film en chiffres', '📰 Petite annonce', '✏️ Titre déformé'];
+const HINTS_REPLIQUE_CINEMA = [
+  ...[3, 5, 7].map((after, i) => ({ after, html: t => {
+      const texte = t.indices_replique && t.indices_replique[i];
+      return texte ? `<span class="hint-sub" style="margin-bottom:4px">${REPLIQUE_LABELS[i]}</span>${texte}` : REPLIQUE_SECOURS[i](t); } })),
+  { ...HINTS_TITRE[2], after:10 },
+];
 
 // Réplique en VO puis en VF, sur 2 lignes (une seule ligne si le film n'a pas de VF distincte, ex. films français)
 function repliqueHtml(film){
@@ -394,10 +410,10 @@ const THEMES = {
         render: () => renderBlurDefi({ eyebrow:'Défi 3', title:"Devine l'affiche", labelKey:'titre',
           placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi3,
           resultMeta:t=>`${t.realisateur} · ${t.annee}`, completionName:'Affiche', imageKey:'affiche', unblurAfter:15 }) },
-      { n:4, icon:'💬', name:'Réplique', desc:'+ indice vocal',
+      { n:4, icon:'💬', name:'Réplique', desc:'Indices progressifs',
         render: () => renderClueGuessDefi({ eyebrow:'Défi 4', title:'Devine la réplique', labelKey:'titre',
           placeholder:"Tape le titre d'un film...", pool:FILMS, target:DAILY_CINEMA.defi4,
-          clueHtml: repliqueHtml(DAILY_CINEMA.defi4),
+          clueHtml: repliqueHtml(DAILY_CINEMA.defi4), hints: HINTS_REPLIQUE_CINEMA,
           resultMeta:t=>`${t.realisateur} · ${t.annee}`, completionName:'Réplique' }) },
       { n:5, icon:'🎭', name:'Film en emojis', desc:'Le film en emojis',
         render: () => renderEmojiDefi({ eyebrow:'Défi 5', title:'Devine le film en emojis', labelKey:'titre',
@@ -1099,6 +1115,7 @@ function renderClueGuessDefi(cfg){
     ${cfg.emojiHints ? '<div class="emoji-board" id="emoji-zone"></div>' : ''}
     <div id="voice-zone"></div>
     <div class="wrong-list" id="wrong-list"></div>
+    <div id="hint-zone"></div>
     <div id="reveal-zone"></div>
     <div class="search-wrap" id="search-wrap">
       <input type="text" id="search-input" placeholder="${cfg.placeholder}" autocomplete="off">
@@ -1135,6 +1152,17 @@ function renderClueGuessDefi(cfg){
       : `<div class="locked-hint" style="margin-bottom:8px">🔒 ${label} débloqué après ${apres - n} échec${apres - n > 1 ? 's' : ''}${n>0 ? ' de plus' : ''}</div>`;
     musicZone.innerHTML = bloc(h.titreAfter, '🎵', 'Titre', h.titre) + bloc(h.artisteAfter, '🎤', 'Artiste', h.artiste);
   }
+  // Indices progressifs (cfg.hints : after / html / reveal) — même rendu que les défis à grille
+  const hintZone = document.getElementById('hint-zone'), shownHints = new Set();
+  hintZone.addEventListener('click', e => { const b = e.target.closest('[data-reveal]'); if(!b) return; shownHints.add(Number(b.dataset.reveal)); b.classList.add('shown'); });
+  function refreshHints(){
+    if(!cfg.hints) return;
+    const n = wrongGuesses.length;
+    let out = cfg.hints.map((h, i) => ({ h, i })).filter(x => n >= x.h.after).map(({ h, i }) => hintBoxHtml(h, i, shownHints.has(i), cfg.target)).join('');
+    const next = cfg.hints.find(h => n < h.after);
+    if(next){ const left = next.after - n; out += `<div class="locked-hint">🔒 Prochain indice dans ${left} essai${left>1?'s':''}</div>`; }
+    hintZone.innerHTML = out;
+  }
   // Emojis d'aide (ex. défi 4 Séries) : un de plus tous les N échecs, jusqu'à max
   const emojiZone = document.getElementById('emoji-zone'), revealZone = document.getElementById('reveal-zone'), revealState = { revealed:false };
   let emojisShown = false;   // les emojis d'aide restent cachés tant que le joueur ne clique pas
@@ -1156,7 +1184,7 @@ function renderClueGuessDefi(cfg){
   function refreshWrong(){
     wrongList.innerHTML='';
     wrongGuesses.forEach(f => { const c=document.createElement('div'); c.className='wrong-chip'; c.textContent=f[cfg.labelKey]; wrongList.appendChild(c); });
-    refreshVoice(); refreshEmojis(); refreshMusic();
+    refreshVoice(); refreshEmojis(); refreshMusic(); refreshHints();
     if(cfg.revealAfter) updateRevealZone(revealZone, wrongGuesses.length >= cfg.revealAfter, 'Cliquer pour découvrir la réponse', cfg.target[cfg.labelKey], revealState);
   }
   refreshEmojis(); refreshMusic();
@@ -1171,7 +1199,7 @@ function renderClueGuessDefi(cfg){
     refreshWrong();
   }
   function finish(){
-    input.disabled = true; revealZone.innerHTML='';
+    input.disabled = true; revealZone.innerHTML=''; hintZone.innerHTML='';
     document.getElementById('result-zone').innerHTML = `
       <div class="result">
         <div class="film-title">${cfg.target[cfg.labelKey]}</div>
@@ -1311,9 +1339,15 @@ async function boot(){
     // Synopsis codés du défi 1 (Cinéma) : fichier optionnel, rattaché aux films par leur titre
     const synopsis = await fetch('synopsis_codes.json').then(r => r.json()).catch(() => ({}));
     films.forEach(f => { if(synopsis[f.titre]) f.synopsis_code = synopsis[f.titre]; });
+    // Indices du défi 4 (Cinéma) : fichier optionnel, rattaché aux films par leur titre
+    const indicesRepliques = await fetch('indices_repliques.json').then(r => r.json()).catch(() => ({}));
+    films.forEach(f => { if(indicesRepliques[f.titre]) f.indices_replique = indicesRepliques[f.titre]; });
     // Emojis du défi 6 (Animation) : fichier rattaché aux films d'animation par leur titre
     const emojisAnim = await fetch('emojis_animation.json').then(r => r.json()).catch(() => ({}));
     filmsAnim.forEach(f => { if(emojisAnim[f.titre]) f.emojis = emojisAnim[f.titre]; });
+    // Profils de rencontre du défi 2 (Cinéma) : fichier optionnel, rattaché aux personnages par leur nom
+    const profils = await fetch('profils_personnages.json').then(r => r.json()).catch(() => ({}));
+    persos.forEach(p => { if(profils[p.nom]) p.profil = profils[p.nom]; });
     FILMS = films; PERSONNAGES = persos; SERIES = series; PERSONNAGES_SERIES = persosSeries; ANIMES = animes; PERSONNAGES_ANIMES = persosAnimes; FILMS_ANIM = filmsAnim; PERSONNAGES_ANIM = persosAnim;
 
     DAILY_CINEMA = pickDistinct(FILMS, ['defi1','defi3','defi4','defi5','defi6'], 'cinema', TODAY_SEED);

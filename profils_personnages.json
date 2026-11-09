@@ -1,0 +1,1402 @@
+{
+  "Jules Winnfield": [
+    "Employé très ponctuel, je travaille toujours en costume noir avec un collègue.",
+    "Je médite beaucoup sur un passage de la Bible, surtout avant de finir mon travail.",
+    "Ézéchiel 25:17 par cœur. Mon portefeuille indique clairement quel genre d'homme je suis."
+  ],
+  "Gandalf": [
+    "Grand voyageur d'un âge indéterminé, amateur d'herbe à pipe et de feux d'artifice.",
+    "Je n'arrive jamais en retard, ni en avance : j'arrive précisément à l'heure prévue.",
+    "Bâton, longue barbe grise. Face aux créatures de feu, je préviens : tu ne passeras pas."
+  ],
+  "Kim Ki-taek": [
+    "Père de famille au chômage, je vis en sous-sol et je plie des boîtes à pizza.",
+    "Je viens de trouver une place de chauffeur dans une très belle maison d'architecte.",
+    "On me reproche discrètement mon odeur. Toute ma famille travaille pour eux, sans qu'ils le sachent."
+  ],
+  "Amélie Poulain": [
+    "Serveuse timide à Montmartre, j'aime faire des ricochets et casser la croûte des crèmes brûlées.",
+    "Je rends le bonheur aux autres en secret, et je fais voyager un nain de jardin.",
+    "Je plonge la main dans les sacs de graines. Je cherche le garçon qui collectionne les photos ratées."
+  ],
+  "Tyler Durden": [
+    "Fabricant de savon artisanal, j'ai des idées très arrêtées sur la consommation.",
+    "Je vis dans une maison en ruine et je vends très cher ce que je fabrique.",
+    "Premier rendez-vous : on se bat. Et surtout, n'en parle à personne."
+  ],
+  "Vinz": [
+    "Jeune de banlieue, 24 heures dans ma vie suffisent à me connaître.",
+    "Je m'entraîne à frimer devant mon miroir et je vois parfois une vache passer.",
+    "J'ai trouvé le pistolet d'un policier après les émeutes, et je jure de m'en servir."
+  ],
+  "Dom Cobb": [
+    "Spécialiste de la sécurité très particulier : je vole des secrets.",
+    "Je ne peux plus rentrer voir mes enfants, et ma femme me hante encore.",
+    "Je m'infiltre dans les rêves. Ma toupie me dit si je suis réveillé."
+  ],
+  "Maximus": [
+    "Général apprécié de ses hommes, je rêve de retourner dans ma ferme.",
+    "On a assassiné ma femme et mon fils. Je suis devenu esclave, puis combattant.",
+    "Dans l'arène à Rome, je promets ma vengeance à l'empereur. Ma force et mon honneur."
+  ],
+  "Marty McFly": [
+    "Guitariste, skateur, toujours en retard.",
+    "Doudoune rouge sans manches. Ne me traite jamais de mauviette.",
+    "Meilleur ami : un vieux scientifique. Ma mère a déjà craqué pour moi, longue histoire."
+  ],
+  "Léon": [
+    "Homme discret, je bois du lait, je soigne ma plante verte et je dors assis.",
+    "Je suis nettoyeur à New York, et ma jeune voisine a frappé à ma porte.",
+    "Bonnet, lunettes rondes, et une petite fille de 12 ans qui veut apprendre mon métier."
+  ],
+  "Forrest Gump": [
+    "Je cours beaucoup. Vraiment beaucoup.",
+    "Vétéran, champion de ping-pong, fortune faite dans la crevette.",
+    "Maman disait que la vie, c'est comme une boîte de chocolats."
+  ],
+  "Michael Corleone": [
+    "Héros de guerre, je ne voulais surtout pas rejoindre l'entreprise familiale.",
+    "Après un dîner dans un restaurant italien, j'ai dû partir me cacher en Sicile.",
+    "Plus mon père vieillit, plus on vient baiser ma main. La famille passe avant tout."
+  ],
+  "Luke Skywalker": [
+    "Jeune fermier sur une planète à deux soleils, je rêve d'aventure.",
+    "Un vieil ermite m'a offert l'arme de mon père.",
+    "J'ai été formé pour détruire une station spatiale. Et j'ai un gros problème familial à venir."
+  ],
+  "Dark Vador": [
+    "Père absent, j'aimerais renouer avec mes enfants.",
+    "Cadre supérieur dans une grande organisation. Respiration bruyante.",
+    "Toujours en noir, casque obligatoire. Rejoins-moi de mon côté."
+  ],
+  "Neo": [
+    "Informaticien le jour, pirate la nuit, je sens que quelque chose cloche dans ce monde.",
+    "Un inconnu en lunettes noires m'a proposé de choisir entre deux pilules.",
+    "Long manteau noir, j'arrête les balles. Et il n'y a pas de cuillère."
+  ],
+  "James Bond": [
+    "Fonctionnaire britannique, souvent en déplacement, toujours en smoking.",
+    "J'adore les belles voitures et les cartes. Mon employeur m'autorise à tuer.",
+    "Vodka-martini, au shaker. Je me présente toujours nom puis prénom."
+  ],
+  "Hannibal Lecter": [
+    "Gastronome et mélomane, fan de Bach.",
+    "Ancien médecin, très à l'écoute. Visites derrière une vitre pour le moment.",
+    "Cherche invité pour un dîner : foie, fèves et un bon chianti."
+  ],
+  "Django": [
+    "Homme libre depuis peu, je ne supporte plus les chaînes.",
+    "Un dentiste allemand m'a appris le métier de chasseur de primes.",
+    "Je cherche ma femme dans une plantation du Mississippi. Le D de mon nom est muet."
+  ],
+  "Andrew Neiman": [
+    "Étudiant au conservatoire, je ne vis que pour la musique.",
+    "Mon professeur me hurle dessus et je m'entraîne jusqu'à avoir les mains en sang.",
+    "Batteur de jazz, je veux être le meilleur. Attention à ne jamais être en dehors du tempo."
+  ],
+  "Arthur Fleck": [
+    "Je m'occupe de ma mère malade et je rêve de faire de la scène.",
+    "Un rire incontrôlable me prend sans prévenir. J'ai une carte pour l'expliquer.",
+    "Clown de métier à Gotham, je danse maintenant dans les grands escaliers."
+  ],
+  "Tony Stark": [
+    "Milliardaire, génie, playboy et philanthrope, selon mes propres mots.",
+    "J'ai fait fortune dans l'armement, puis j'ai changé de carrière après l'Afghanistan.",
+    "Un réacteur dans la poitrine, une armure rouge et or, et je t'aime 3 000."
+  ],
+  "Rick Deckard": [
+    "Ancien policier, je vis seul à Los Angeles sous une pluie permanente.",
+    "On me rappelle pour une mission : traquer quatre fugitifs venus de l'espace.",
+    "Je chasse les androïdes, et j'aime manger des nouilles au comptoir. Suis-je humain ?"
+  ],
+  "Jack Torrance": [
+    "Écrivain en panne d'inspiration, je cherche un endroit calme pour écrire.",
+    "Je garde un grand hôtel isolé tout l'hiver, avec ma femme et mon fils.",
+    "Tout travail et pas de jeu... Je passe la tête par la porte, ma hache à la main."
+  ],
+  "Jacques Mayol": [
+    "Je préfère la mer aux humains, et je suis très calme.",
+    "Je descends très profond sans bouteille, et je suis en compétition avec mon ami d'enfance.",
+    "Plongeur en apnée, je me sens plus proche des dauphins que des gens."
+  ],
+  "Fernand Naudin": [
+    "Ancien truand reconverti dans les machines agricoles à Montauban.",
+    "Un vieil ami mourant m'a confié ses affaires et sa fille.",
+    "Dans la cuisine, on boit un alcool qui arrache. Et je ventile aux quatre coins de Paris."
+  ],
+  "Wolfgang Amadeus Mozart": [
+    "Enfant prodige, j'ai un rire très aigu et un humour assez grossier.",
+    "Le compositeur officiel de la cour de Vienne me jalouse à en perdre la foi.",
+    "Je compose sans rature et je finis mon dernier Requiem sur mon lit de mort."
+  ],
+  "Derek Vinyard": [
+    "Grand frère très respecté dans le quartier de Venice Beach.",
+    "J'ai fait trois ans de prison, où j'ai beaucoup changé d'avis sur tout.",
+    "Ancien chef néonazi, une croix gammée sur le torse, je veux sauver mon petit frère."
+  ],
+  "Beatrix Kiddo": [
+    "Jeune mariée, ma cérémonie a très mal tourné.",
+    "Après quatre ans de coma, je tiens une liste de noms à rayer.",
+    "Combinaison jaune, sabre de Hattori Hanzo. J'ai cinq vengeances à mener."
+  ],
+  "Driss": [
+    "Sorti de prison, je passe un entretien juste pour faire signer mon chômage.",
+    "Je m'occupe d'un riche aristocrate tétraplégique, sans la moindre pitié.",
+    "Je fais danser l'hôtel particulier sur Earth, Wind and Fire."
+  ],
+  "Astérix": [
+    "Petit, malin, grande moustache blonde, je vis dans un village qui résiste.",
+    "Un casque à ailes, et une potion qui me rend très fort.",
+    "Mon meilleur ami est tombé dedans petit. Cette fois, on aide à bâtir un palais en Égypte."
+  ],
+  "Paul Atréides": [
+    "Héritier d'une grande maison, je fais de drôles de rêves.",
+    "On m'a envoyé sur une planète désertique très convoitée pour son épice.",
+    "Des vers géants, un peuple du désert, et on m'appelle le messie."
+  ],
+  "Chris Washington": [
+    "Jeune photographe, je vais enfin rencontrer les parents de ma copine.",
+    "Week-end à la campagne, les domestiques ont un comportement très bizarre.",
+    "Une tasse de thé, une cuillère, et je tombe dans le vide. Fuyez, mes amis."
+  ],
+  "Gustave H.": [
+    "Concierge très raffiné d'un grand palace, parfum toujours impeccable.",
+    "J'accorde une attention particulière à nos clientes âgées, blondes et fortunées.",
+    "Accusé d'avoir volé le tableau Garçon à la pomme, je m'évade avec mon groom."
+  ],
+  "Tony Montana": [
+    "Réfugié cubain, je suis arrivé à Miami sans rien et je veux tout.",
+    "J'ai bâti un empire dans la poudre, mais je reste très méfiant.",
+    "Le monde est à moi. Dis bonjour à mon petit ami."
+  ],
+  "Travis Bickle": [
+    "Vétéran insomniaque, je travaille de nuit et je déteste ce que je vois.",
+    "Je sillonne New York, je tiens un journal et je m'entraîne seul.",
+    "Coupe iroquoise, je veux sauver une jeune prostituée. C'est à moi que tu parles ?"
+  ],
+  "Henry Hill": [
+    "Du plus loin que je me souvienne, j'ai toujours voulu être gangster.",
+    "J'ai grandi à Brooklyn, parmi des hommes qui n'attendent jamais au restaurant.",
+    "Pour sauver ma peau, j'ai témoigné contre eux. Je vis maintenant une vie banale."
+  ],
+  "Billy Costigan": [
+    "Jeune policier de Boston, j'ai un passé de famille compliqué.",
+    "On m'a envoyé en prison exprès, pour que je sois crédible.",
+    "Je travaille sous couverture pour un parrain irlandais, et je ne dors plus."
+  ],
+  "Neil McCauley": [
+    "Professionnel très discipliné, je vis dans une maison sans meubles.",
+    "Ne t'attache à rien que tu ne puisses abandonner en 30 secondes.",
+    "Grand braqueur à Los Angeles, j'ai pris un café avec le flic qui me traque."
+  ],
+  "Anton Chigurh": [
+    "Homme peu souriant, coupe de cheveux très discutable.",
+    "Quand je ne suis pas sûr, je laisse une pièce décider pour toi.",
+    "Je me promène avec une bouteille d'air comprimé et un pistolet d'abattage."
+  ],
+  "The Dude": [
+    "Sans emploi, très détendu, je vis en peignoir.",
+    "On a uriné sur mon tapis. Il donnait vraiment une unité à la pièce.",
+    "White Russian à la main, je passe ma vie au bowling. Appelle-moi par mon surnom."
+  ],
+  "Aldo Raine": [
+    "Lieutenant du Tennessee, accent très marqué, grande cicatrice au cou.",
+    "Je dirige une petite troupe de soldats juifs en France occupée.",
+    "Mes hommes me doivent cent scalps, et je grave une croix sur le front des survivants."
+  ],
+  "Andy Dufresne": [
+    "Ancien banquier, je suis très calme et j'adore les minéraux.",
+    "Condamné pour un double meurtre que je n'ai pas commis, je m'occupe des comptes du directeur.",
+    "19 ans, un petit marteau, une affiche sur le mur et 500 yards d'égout."
+  ],
+  "Le Joker": [
+    "Je n'ai aucun plan, je veux juste voir le monde brûler.",
+    "Je raconte différemment l'origine de mes cicatrices à chaque rencontre.",
+    "Maquillage fondu, costume violet. Pourquoi tant de sérieux ?"
+  ],
+  "John Doe": [
+    "Homme très patient et très méthodique, je n'ai pas d'identité connue.",
+    "Je remplis des carnets entiers et je me présente au commissariat les mains en sang.",
+    "J'ai un message à faire passer, en sept péchés. Regarde dans la boîte."
+  ],
+  "Truman Burbank": [
+    "Assureur très souriant, je n'ai jamais quitté ma petite île.",
+    "J'ai l'impression que tout le monde sait ce que je vais faire.",
+    "Bonjour, et au cas où je ne vous reverrais pas, bon après-midi, bonne soirée et bonne nuit."
+  ],
+  "Joel Barish": [
+    "Homme timide, je suis monté dans un train pour Montauk sans savoir pourquoi.",
+    "Mon ex aux cheveux colorés a fait effacer tous nos souvenirs.",
+    "J'ai demandé la même opération, puis j'ai essayé de la cacher dans ma mémoire."
+  ],
+  "John Coffey": [
+    "Immense et très doux, j'ai peur du noir.",
+    "Je suis dans le couloir des condamnés à mort, pour un crime que je n'ai pas commis.",
+    "Comme la boisson, mais pas la même orthographe. Je guéris d'un simple toucher."
+  ],
+  "Alex DeLarge": [
+    "Jeune amateur de Beethoven, je bois du lait avec mes amis.",
+    "Chapeau melon, faux cils sur un œil, et des soirées d'ultra-violence.",
+    "On m'a soigné de force, les yeux maintenus ouverts devant un écran."
+  ],
+  "Alan Grant": [
+    "Paléontologue, je n'aime pas beaucoup les enfants.",
+    "Un milliardaire m'a invité à visiter son parc avant l'ouverture.",
+    "Chapeau de paille, chemise bleue. Sur l'île, on m'a mis des raptors aux trousses."
+  ],
+  "Elliott": [
+    "Garçon de banlieue, mes parents viennent de se séparer.",
+    "J'ai trouvé quelqu'un dans la remise, et je le cache dans mon placard.",
+    "Quelques bonbons, un vélo qui s'envole, et il veut téléphoner maison."
+  ],
+  "Indiana Jones": [
+    "Professeur d'université, je suis souvent absent de mes cours.",
+    "Je fouille le monde entier pour trouver des objets qui ont leur place dans un musée.",
+    "Chapeau, fouet, et une vraie phobie des serpents."
+  ],
+  "Capitaine Miller": [
+    "Professeur d'anglais dans la vie civile, ma main tremble parfois.",
+    "Après le débarquement en Normandie, on m'a confié une mission absurde.",
+    "Mes hommes et moi cherchons un seul gars parce que ses trois frères sont morts."
+  ],
+  "Martin Brody": [
+    "Chef de la police d'une petite île, venu de New York, j'ai peur de l'eau.",
+    "Le maire refuse de fermer les plages malgré ce que j'ai trouvé.",
+    "Au large avec un biologiste et un vieux pêcheur, il nous faudrait un plus gros bateau."
+  ],
+  "Dave Bowman": [
+    "Astronaute très calme, je joue aux échecs à mes heures.",
+    "En route vers Jupiter, mon ordinateur de bord me fait des ennuis.",
+    "Ouvre la porte de la capsule, je t'en prie. Il refuse, et je le débranche."
+  ],
+  "Soldat Joker": [
+    "Jeune Marine, je survis à un instructeur qui hurle sur moi.",
+    "Je suis correspondant de guerre au Vietnam, à Hué.",
+    "Un signe de la paix sur le gilet, et « né pour tuer » sur mon casque."
+  ],
+  "Colonel Kurtz": [
+    "Brillant officier, je pouvais prétendre aux plus hauts grades.",
+    "J'ai déserté au fond de la jungle cambodgienne, où l'on m'adore comme un dieu.",
+    "Crâne rasé, dans l'ombre, je murmure : l'horreur... l'horreur."
+  ],
+  "Rick Blaine": [
+    "Américain désabusé, je tiens un café très fréquenté au Maroc.",
+    "Je ne prends de risque pour personne. Et pourtant, elle est entrée dans mon café.",
+    "Rejoue-la, Sam. On aura toujours Paris."
+  ],
+  "Norman Bates": [
+    "Gérant d'un petit établissement au bord d'une route déserte.",
+    "Je suis passionné de taxidermie, et très proche de ma mère.",
+    "Douze chambres, douze vacantes. Évite de prendre une douche."
+  ],
+  "Scottie Ferguson": [
+    "Ancien inspecteur à San Francisco, j'ai pris ma retraite après un accident.",
+    "On m'a engagé pour suivre une blonde mystérieuse qui semble possédée.",
+    "J'ai très peur du vide, et je transforme une autre femme à son image."
+  ],
+  "Ellen Ripley": [
+    "Sous-officier à bord d'un cargo spatial, je respecte les règles de quarantaine.",
+    "Je suis très attachée à Jones, mon chat roux.",
+    "Seule survivante du Nostromo, je déteste les passagers clandestins."
+  ],
+  "Le T-800": [
+    "Grand, baraqué, peu bavard.",
+    "Blouson en cuir, lunettes noires, moto. Protecteur avec les enfants.",
+    "Je reviendrai. C'est une promesse."
+  ],
+  "Jake Sully": [
+    "Ancien Marine paraplégique, j'ai remplacé mon frère au pied levé.",
+    "Sur la lune Pandora, je peux marcher de nouveau grâce à un corps de remplacement.",
+    "Peau bleue, trois mètres de haut, je suis tombé amoureux de la princesse des Na'vi."
+  ],
+  "Le Roi George VI": [
+    "Deuxième fils d'une très grande famille, je n'étais pas censé avoir ce travail.",
+    "Mon frère a démissionné pour une Américaine divorcée.",
+    "Je bégaie, et un orthophoniste australien doit me préparer à parler à la radio en 1939."
+  ],
+  "Rocky Balboa": [
+    "Grand cœur, boxeur à mes heures, je parle à mes tortues.",
+    "Petit-déjeuner : œufs crus. Je m'entraîne sur des quartiers de viande.",
+    "Philadelphie. Je monte les marches du musée en courant."
+  ],
+  "Jamal Malik": [
+    "Je sers le thé dans un centre d'appels à Mumbai.",
+    "J'ai grandi dans un bidonville, et toute ma vie m'a donné les bonnes réponses.",
+    "Candidat à un grand jeu télévisé, je cherche Latika. Je suis à une question de tout gagner."
+  ],
+  "Lester Burnham": [
+    "La quarantaine en crise, je viens de plaquer mon emploi.",
+    "Je m'entraîne dans mon garage pour plaire à l'amie de ma fille.",
+    "Dans un an, je serai mort. Je rêve de pétales de roses rouges."
+  ],
+  "Frankie Dunn": [
+    "Vieil entraîneur à Los Angeles, j'écris à une fille qui ne me répond jamais.",
+    "Je refusais d'entraîner une femme. Elle a insisté.",
+    "Je lui ai donné un surnom gaélique brodé sur son peignoir vert."
+  ],
+  "Jimmy Markum": [
+    "Épicier de Boston, ancien détenu, très protecteur envers ma famille.",
+    "On vient de retrouver ma fille de 19 ans morte dans un parc.",
+    "Je me fais justice moi-même, malgré mes deux amis d'enfance."
+  ],
+  "Walt Kowalski": [
+    "Vétéran de Corée, veuf, je grogne beaucoup sur ma pelouse.",
+    "Mes voisins sont hmongs et je n'aime personne, a priori.",
+    "Je veille sur ma Ford 1972 et je pointe mon arme sur tous ceux qui s'en approchent."
+  ],
+  "Riggan Thomson": [
+    "Acteur sur le retour, je monte une pièce à Broadway.",
+    "Une voix grave dans ma tête me rappelle mon succès passé.",
+    "J'ai été super-héros à l'écran. Je lévite parfois, en slip, sur Times Square."
+  ],
+  "Hugh Glass": [
+    "Trappeur dans l'Amérique de 1823, je connais bien les Pawnee.",
+    "Mes compagnons m'ont abandonné après une rencontre très brutale.",
+    "Laissé pour mort après l'attaque d'un ours, je rampe des centaines de kilomètres pour me venger."
+  ],
+  "Daniel Plainview": [
+    "Self-made-man très déterminé, je voyage avec mon fils.",
+    "J'exploite tout ce qui coule sous les terres de Californie.",
+    "Pasteur humilié, puits de pétrole. Et je bois ton milkshake."
+  ],
+  "Mark Zuckerberg": [
+    "Étudiant très brillant, très sec avec les autres, souvent en claquettes.",
+    "Je me suis vengé de mon ex en piratant les serveurs de Harvard.",
+    "Mon site a fait de moi le plus jeune milliardaire, et on me fait deux procès."
+  ],
+  "Amy Dunne": [
+    "Écrivaine pour enfants à succès, mes parents ont tout raconté sur moi.",
+    "Mon mari est soupçonné depuis ma disparition le jour de notre anniversaire.",
+    "J'ai parfaitement préparé mon journal intime. Tu connais le discours de la fille cool ?"
+  ],
+  "Robert Graysmith": [
+    "Dessinateur de presse à San Francisco, passionné d'énigmes.",
+    "Je ramène chez moi tous les dossiers d'une affaire qui obsède la ville.",
+    "Le tueur envoie des messages codés au journal. Je veux connaître son visage."
+  ],
+  "Lou Bloom": [
+    "Autodidacte, je parle comme un manuel de management.",
+    "Je vends mes images aux chaînes d'information de Los Angeles.",
+    "La nuit, je filme les accidents. Je déplace parfois les corps pour un meilleur cadre."
+  ],
+  "Driver": [
+    "Mécanicien et cascadeur à Hollywood, je parle très peu.",
+    "Je préviens toujours : cinq minutes, pas une de plus.",
+    "Blouson au scorpion, un cure-dent, et un coup de marteau dans l'ascenseur."
+  ],
+  "Julian": [
+    "Américain à Bangkok, je gère un club de boxe thaïe.",
+    "Mon frère a été tué, et ma mère exige que je le venge.",
+    "Face à un policier au sabre, je suis très peu bavard. On veut se battre ?"
+  ],
+  "Max Rockatansky": [
+    "Ancien policier hanté par ma famille, je roule seul dans le désert.",
+    "On m'a capturé pour servir de banque de sang.",
+    "Une guerrière au bras mécanique m'a embarqué dans sa fuite, sur un camion de guerre."
+  ],
+  "Jordan Belfort": [
+    "Courtier new-yorkais, j'ai monté ma propre société de bourse.",
+    "J'ai une consommation de drogues assez impressionnante, surtout en Quaaludes.",
+    "Vends-moi ce stylo. Je ne m'en vais pas !"
+  ],
+  "Teddy Daniels": [
+    "Marshal fédéral, ancien soldat, je suis hanté par ma femme.",
+    "Une patiente a disparu d'un hôpital psychiatrique sur une île.",
+    "Je mène l'enquête avec mon coéquipier, mais les médecins cachent quelque chose. Ou moi ?"
+  ],
+  "Jack Sparrow": [
+    "Capitaine, sans bateau pour l'instant. Démarche originale.",
+    "Rhum à volonté, eye-liner assumé, boussole qui n'indique pas le nord.",
+    "Si tu m'écris, n'oublie pas « Capitaine » devant mon prénom."
+  ],
+  "Harry Potter": [
+    "J'ai grandi dans un placard, sous un escalier.",
+    "Orphelin, j'ai reçu des centaines de lettres pour mes 11 ans.",
+    "Lunettes rondes, cicatrice en forme d'éclair. Tout le monde me connaît à Poudlard."
+  ],
+  "Lord Voldemort": [
+    "Excellent élève en mon temps, j'ai fait carrière dans la magie.",
+    "Je n'aime pas qu'on prononce mon nom. J'ai réparti mon âme en sept.",
+    "Pas de nez, un serpent de compagnie. J'ai raté un bébé autrefois."
+  ],
+  "Leonidas": [
+    "Roi d'une cité grecque, je pratique beaucoup la musculation.",
+    "J'ai jeté un messager perse au fond d'un puits.",
+    "Trois cents hommes aux Thermopyles. Ce soir, nous dînerons en enfer."
+  ],
+  "Clark Kent": [
+    "Fils de fermiers du Kansas, très fort pour mon âge.",
+    "J'ai perdu ma planète et un père adoptif, et je suis journaliste.",
+    "Grande cape rouge, un S sur la poitrine. Kryptonite à éviter."
+  ],
+  "Edward Bloom": [
+    "Grand conteur, je raconte ma vie mieux qu'elle ne l'a été.",
+    "Mon fils ne croit plus à mes histoires de géant et de ville cachée.",
+    "J'ai couvert un champ de jonquilles pour ma femme. On raconte aussi l'histoire d'un énorme poisson."
+  ],
+  "Edward Scissorhands": [
+    "Jeune homme timide, j'ai longtemps vécu seul dans un château.",
+    "Mon créateur est mort avant de m'avoir terminé. Je sculpte les haies du quartier.",
+    "Coiffeur très doué, mais je dois faire attention aux câlins : j'ai des lames au bout des bras."
+  ],
+  "Sweeney Todd": [
+    "De retour à Londres après 15 ans de bagne injuste, je rouvre mon salon de rasage.",
+    "Ma voisine du dessous fait des tourtes, et ça marche très fort.",
+    "Rasoir à la main, mèche blanche. Un juge a volé ma femme et ma fille."
+  ],
+  "Elisa Esposito": [
+    "Femme de ménage dans un laboratoire, je ne parle pas.",
+    "Je communique en langue des signes avec mon voisin dessinateur.",
+    "J'apporte des œufs à une créature amphibie que l'armée retient en secret."
+  ],
+  "Ofelia": [
+    "Fillette passionnée de contes, ma mère est enceinte.",
+    "Espagne, 1944. Mon beau-père capitaine est un monstre.",
+    "Un faune m'a confié trois épreuves. Attention à l'homme aux yeux dans les mains."
+  ],
+  "Hellboy": [
+    "Grand costaud rouge, je me lime les cornes régulièrement.",
+    "Je travaille pour le gouvernement, et j'aime les chats et les cigares.",
+    "Venu de l'enfer enfant, j'ai une énorme main droite en pierre."
+  ],
+  "Josh Baskin": [
+    "Adolescent de 12 ans très mal dans ma peau.",
+    "Une machine de fête foraine a exaucé mon vœu du jour au lendemain.",
+    "Je teste des jouets à New York, et je joue sur un piano géant au sol."
+  ],
+  "Will Hunting": [
+    "Agent d'entretien à Boston, je me bats souvent.",
+    "Je résous en secret les problèmes affichés au tableau du MIT.",
+    "Un psy me répète que ce n'est pas ma faute. Je dois la retrouver."
+  ],
+  "John Keating": [
+    "Professeur d'anglais dans un lycée très strict du Vermont.",
+    "Je demande à mes élèves d'arracher une page de leur manuel.",
+    "Carpe diem. Ô capitaine, mon capitaine ! Montez sur vos tables."
+  ],
+  "Christopher McCandless": [
+    "Jeune diplômé, j'ai donné toutes mes économies et j'ai brûlé mon argent.",
+    "Je me suis rebaptisé et j'ai pris la route à travers l'Amérique.",
+    "Mon dernier abri est un vieux bus abandonné en Alaska."
+  ],
+  "John Nash": [
+    "Mathématicien à Princeton, mal à l'aise en société.",
+    "L'équilibre qui porte mon nom a révolutionné l'économie.",
+    "Prix Nobel, je vois des gens qui n'existent pas. Les codes secrets sont partout."
+  ],
+  "Jim Lovell": [
+    "Astronaute américain, je devais marcher sur la Lune.",
+    "Une explosion à bord a compromis tout le voyage.",
+    "Houston, nous avons un problème."
+  ],
+  "Frank Abagnale Jr.": [
+    "Adolescent fugueur, j'ai été très doué pour les chèques.",
+    "J'ai été pilote, médecin et avocat, sans le moindre diplôme.",
+    "Un agent du FBI me court après depuis des années. Attrape-moi si tu peux."
+  ],
+  "John Anderton": [
+    "Policier à Washington en 2054, j'ai perdu mon fils.",
+    "Mon service arrête les criminels avant même qu'ils n'agissent.",
+    "Trois voyants viennent de me désigner comme futur meurtrier. Je change d'yeux."
+  ],
+  "Abraham Lincoln": [
+    "Avocat de l'Illinois devenu homme politique.",
+    "En pleine guerre civile, je veux faire voter le 13e amendement.",
+    "Grand chapeau haut de forme. Je n'aurais jamais dû aller au théâtre."
+  ],
+  "John Wick": [
+    "Veuf, j'ai trouvé un peu de réconfort avec un chiot.",
+    "Des voyous ont tué mon chien et volé ma voiture. Grosse erreur.",
+    "On m'appelle Baba Yaga. Je paie avec des pièces d'or à l'hôtel Continental."
+  ],
+  "John McClane": [
+    "Policier new-yorkais en visite à Los Angeles pour Noël, ma femme m'a quitté.",
+    "Je rampe dans les conduits d'aération d'une tour, et j'ai perdu mes chaussures.",
+    "Marcel blanc, pieds en sang. Yippee-ki-yay."
+  ],
+  "Hans Gruber": [
+    "Allemand très cultivé, ancien terroriste, costume impeccable.",
+    "Avec mes hommes, je veux vider le coffre d'une tour de Los Angeles.",
+    "Le soir de Noël à la Nakatomi. Je finis par une très longue chute."
+  ],
+  "Agent J": [
+    "Ancien policier de New York, très à l'aise avec la parole.",
+    "J'ai été recruté dans une agence secrète qui efface les souvenirs.",
+    "Costume noir, lunettes noires. Je surveille les extraterrestres sur Terre avec mon coéquipier bourru."
+  ],
+  "Agent K": [
+    "Grand bourru en costume noir, j'ai dédié ma vie à une agence secrète.",
+    "J'ai quitté un amour il y a longtemps, et je la regarde encore de loin.",
+    "Je forme un nouveau jeune recruté. Regarde bien ce petit éclair."
+  ],
+  "Donnie Darko": [
+    "Lycéen somnambule, je prends des médicaments.",
+    "Un réacteur d'avion est tombé sur ma chambre.",
+    "Un grand lapin m'annonce la fin du monde dans 28 jours."
+  ],
+  "Frank": [
+    "Je me présente toujours avec mon grand costume de lapin.",
+    "J'apparais à un adolescent pour lui annoncer la fin du monde.",
+    "28 jours, 6 heures, 42 minutes, 12 secondes. Viens, on y va."
+  ],
+  "Gizmo": [
+    "Petit, très mignon, j'aime la musique.",
+    "Un jeune garçon m'a reçu en cadeau de Noël.",
+    "Pas de lumière vive, pas d'eau, et surtout, ne me nourris pas après minuit."
+  ],
+  "Eggsy": [
+    "Jeune de banlieue londonienne, j'ai un casier et un beau-père violent.",
+    "Un tailleur très chic m'a proposé d'intégrer une organisation secrète.",
+    "Costume sur mesure, parapluie blindé. Les bonnes manières font l'homme."
+  ],
+  "Katniss Everdeen": [
+    "Chasseuse hors pair, je nourris ma famille dans le district 12.",
+    "Je me suis portée volontaire à la place de ma petite sœur.",
+    "Mon arc, et une broche au geai moqueur. Que la chance vous soit favorable."
+  ],
+  "Jason Bourne": [
+    "On m'a repêché en mer, sans aucun souvenir.",
+    "J'ai trouvé un compte en Suisse, plein de passeports et d'argent.",
+    "Je sais me battre sans savoir pourquoi. La CIA veut me faire disparaître."
+  ],
+  "J. Robert Oppenheimer": [
+    "Physicien brillant, j'aime la poésie et le grand chapeau.",
+    "J'ai dirigé un laboratoire secret au Nouveau-Mexique.",
+    "Maintenant, je suis devenu la mort, le destructeur des mondes."
+  ],
+  "Stanley Ipkiss": [
+    "Employé de banque très gentil, on me marche dessus.",
+    "J'ai trouvé un objet en bois au fond de l'eau, après une soirée ratée.",
+    "Costume jaune, visage vert, chien nommé Milo. Ssssplendide !"
+  ],
+  "Alonzo Harris": [
+    "Inspecteur très expérimenté de la brigade des stups à Los Angeles.",
+    "Je forme une jeune recrue en une journée, à ma façon.",
+    "King Kong peut aller se rhabiller face à moi. Je dois beaucoup d'argent aux Russes."
+  ],
+  "Rocky (l'Éridien)": [
+    "Je suis un ingénieur, j'ai cinq pattes et je ressemble à un caillou.",
+    "Je parle en notes de musique. Je suis perdu dans l'espace, seul de mon équipage.",
+    "Je cherche à sauver mon peuple avec un professeur humain. Poing contre poing."
+  ],
+  "François Pignon": [
+    "Comptable au ministère des Finances, j'ai la passion des maquettes en allumettes.",
+    "Je suis invité à une soirée chez un éditeur, et je suis très fier d'y aller.",
+    "Je rends tout pire en voulant aider. Il s'appelle Juste, Juste Leblanc."
+  ],
+  "Daniel Hillard": [
+    "Comédien de doublage, je viens de divorcer et je vois peu mes enfants.",
+    "Pour les retrouver, j'ai trouvé une place de nounou chez mon ex-femme.",
+    "Une gouvernante écossaise pleine de sagesse. Et mon masque a fondu."
+  ],
+  "Nicholas Angel": [
+    "Meilleur policier de Londres, on m'a muté parce que je faisais de l'ombre aux autres.",
+    "Le village le plus tranquille d'Angleterre connaît beaucoup d'accidents.",
+    "Sandford. Mon coéquipier adore les films d'action. Tout ça pour le bien commun."
+  ],
+  "Ace Ventura": [
+    "Enquêteur très spécial, ma maison est remplie d'animaux.",
+    "Je cherche le dauphin mascotte des Miami Dolphins.",
+    "Chemise hawaïenne, houppette et je parle avec les fesses."
+  ],
+  "Derek Zoolander": [
+    "Top-modèle masculin, trois fois élu, mais pas très vif.",
+    "Je ne peux pas tourner à gauche. On m'a programmé pour tuer un Premier ministre.",
+    "Je suis célèbre pour mon regard de braise, le Magnum."
+  ],
+  "Mugatu": [
+    "Créateur de mode très caractériel, je me promène avec un caniche.",
+    "Ma nouvelle collection s'inspire des sans-abri.",
+    "Je suis le seul à voir la vérité : ce mannequin est un idiot, et il tuera pour moi."
+  ],
+  "Regan MacNeil": [
+    "Fille d'une actrice célèbre, 12 ans, adorable.",
+    "J'ai commencé à parler avec un certain capitaine Howdy, à Georgetown.",
+    "Ma tête tourne à 360 degrés et le lit tremble. Appelez deux prêtres."
+  ],
+  "Père Karras": [
+    "Prêtre et psychiatre à Georgetown, je doute de ma foi.",
+    "J'ai été boxeur, et ma mère vient de mourir.",
+    "Avec un vieux collègue, je soigne une jeune possédée. Au pied d'un escalier très raide."
+  ],
+  "Ghostface": [
+    "Je passe beaucoup de coups de téléphone, très tard.",
+    "J'adore poser des questions sur les films d'horreur.",
+    "Costume noir, masque blanc, et grand couteau. Quel est ton film d'horreur préféré ?"
+  ],
+  "Sidney Prescott": [
+    "Lycéenne à Woodsboro, ma mère a été tuée il y a un an.",
+    "Mon petit ami est très insistant, et mon téléphone sonne souvent.",
+    "Tout le monde veut me tuer, mais je connais les règles maintenant."
+  ],
+  "Michael Myers": [
+    "Très discret, j'ai passé 15 ans dans un hôpital psychiatrique.",
+    "Enfant, j'ai fait quelque chose à ma sœur. Je reviens à Haddonfield.",
+    "Combinaison bleue, masque blanc, couteau de cuisine. Je ne parle jamais."
+  ],
+  "Laurie Strode": [
+    "Lycéenne très sérieuse, je garde des enfants le soir.",
+    "Un homme masqué me suit depuis ce matin, dans mon quartier.",
+    "La nuit du 31 octobre, je survis à une figure inhumaine et silencieuse."
+  ],
+  "R.J. MacReady": [
+    "Pilote d'hélicoptère, je vis dans une base en Antarctique.",
+    "On a trouvé un chien bizarre, et on ne peut plus se faire confiance.",
+    "Grand chapeau, whisky, et un test à la pointe de fer chaud."
+  ],
+  "Annie Graham": [
+    "Artiste miniaturiste, ma mère vient de mourir.",
+    "Mon fils a eu un terrible accident de voiture, avec ma fille à bord.",
+    "Je reconstitue tout en maquettes. Une secte a de grands projets pour ma famille."
+  ],
+  "Le Terminator (T-800)": [
+    "Très musclé, je ne me fatigue jamais et je ne ressens rien.",
+    "Venu du futur, je consulte l'annuaire de Los Angeles.",
+    "Mes yeux brillent en rouge sous la peau. Je dois tuer une serveuse."
+  ],
+  "Sarah Connor": [
+    "Serveuse à Los Angeles, ma vie est très banale.",
+    "Quelqu'un tue toutes les personnes qui portent mon nom.",
+    "Mon futur fils est le chef de la résistance, et un soldat du futur est venu me protéger."
+  ],
+  "Alex Murphy / RoboCop": [
+    "Policier de Detroit, j'ai une femme et un fils.",
+    "Abattu par une bande, je suis revenu, mais plus tout à fait moi.",
+    "Mi-homme, mi-machine. Tu viens avec moi, mort ou vif."
+  ],
+  "Le Predator": [
+    "Grand chasseur venu de très loin, je vise toujours les plus forts.",
+    "Je rends ma peau invisible dans la jungle et je vois la chaleur.",
+    "Longues tresses, masque, mâchoire impressionnante. Je ramène des trophées."
+  ],
+  "Dutch": [
+    "Chef d'un commando d'élite, envoyé en Amérique centrale.",
+    "Nous sommes traqués dans la jungle par quelque chose d'invisible.",
+    "Couvert de boue, je crie : va à l'hélico ! Si ça saigne, on peut le tuer."
+  ],
+  "Leeloo": [
+    "Je viens de loin et je parle une langue très ancienne.",
+    "On m'a reconstruite en quelques secondes à partir d'une seule cellule.",
+    "Bandelettes blanches, cheveux orange. Multipass !"
+  ],
+  "Korben Dallas": [
+    "Ancien militaire devenu chauffeur de taxi volant à New York.",
+    "Une jeune femme est tombée dans mon taxi depuis le ciel.",
+    "Marcel orange. Je dois sauver le monde avec quatre pierres et une femme parfaite."
+  ],
+  "Ava": [
+    "Je suis curieuse, j'aime le dessin, et je ne suis jamais sortie.",
+    "Un jeune programmeur vient chaque jour me parler derrière une vitre.",
+    "Corps transparent, je suis en train de passer un test de Turing. Je mens très bien."
+  ],
+  "Ryan Stone": [
+    "Médecin, c'est ma toute première mission dans l'espace.",
+    "Une pluie de débris a détruit notre navette.",
+    "Seule dans le vide, je passe d'une station à l'autre pour rentrer sur Terre."
+  ],
+  "K": [
+    "Je travaille dans la police de Los Angeles, dans un futur pluvieux, et je rentre seul le soir.",
+    "Je chasse les miens. On teste régulièrement mon état émotionnel.",
+    "Je me souviens d'un petit cheval en bois, et ma compagne est un hologramme."
+  ],
+  "Joi": [
+    "Je suis toujours à la maison et je sais ce que tu aimes.",
+    "Je peux changer de tenue en un instant, mais je ne peux pas te toucher.",
+    "Je suis un produit vendu aux quatre coins de la ville, et je suis amoureuse d'un réplicant."
+  ],
+  "Le Protagoniste": [
+    "Agent secret, on ne m'a même pas donné de nom.",
+    "Je dois empêcher une guerre qui viendrait du futur.",
+    "Les balles retournent dans les armes : le temps s'inverse autour de moi."
+  ],
+  "Maverick": [
+    "Pilote de chasse très doué, je déteste les ordres.",
+    "Mon père a disparu, et j'ai perdu mon copilote, mon meilleur ami.",
+    "Lunettes d'aviateur, blouson couvert d'écussons, F-14. J'ai besoin de vitesse."
+  ],
+  "Iceman": [
+    "Pilote de chasse parfait et glacial, je ne fais jamais d'erreur.",
+    "Je suis le rival d'un casse-cou à l'école de la Navy.",
+    "Cheveux blonds, je claque des dents. Tu peux être mon ailier quand tu veux."
+  ],
+  "Ethan Hunt": [
+    "Agent très doué, je travaille pour une agence très secrète.",
+    "Ce message s'autodétruira dans cinq secondes.",
+    "Masques en latex, suspendu à un câble au-dessus du sol de la CIA."
+  ],
+  "Frank Martin": [
+    "Chauffeur très carré, je vis dans une belle maison sur la Côte d'Azur.",
+    "J'ai trois règles strictes, dont : ne jamais ouvrir le colis.",
+    "Audi noire, costume sombre. Et je me bats très bien avec de l'huile."
+  ],
+  "Martin Riggs": [
+    "Policier de Los Angeles, veuf, je n'ai plus rien à perdre.",
+    "On m'a associé à un collègue proche de la retraite, très prudent.",
+    "Je menace de me jeter d'un toit avec les suicidaires. Et je suis très fou."
+  ],
+  "Roger Murtaugh": [
+    "Policier à Los Angeles, je viens de fêter mes 50 ans.",
+    "J'ai une grande famille, un bateau, et un nouveau partenaire suicidaire.",
+    "Je suis trop vieux pour ces conneries."
+  ],
+  "Verbal Kint": [
+    "Petit escroc infirme et très bavard, j'ai été interrogé par la police.",
+    "Je suis l'unique survivant d'un massacre sur un bateau.",
+    "Je raconte tout en détail, et je pars en boitant du commissariat."
+  ],
+  "Keyser Söze": [
+    "Personne ne m'a jamais vu, mais tout le monde a peur de moi.",
+    "J'ai tué ma propre famille pour prouver qu'on ne m'atteindrait pas.",
+    "Le plus grand tour du diable, c'est de faire croire qu'il n'existe pas."
+  ],
+  "Cole Sear": [
+    "Petit garçon très inquiet, je vais prier à l'église.",
+    "Je n'ose le dire qu'à mon psy, et personne ne me croit.",
+    "Je vois des gens qui sont morts. Tout le temps."
+  ],
+  "Malcolm Crowe": [
+    "Pédopsychologue reconnu à Philadelphie, je m'éloigne de ma femme.",
+    "Un ancien patient m'a tiré dessus chez moi il y a un an.",
+    "Je tente d'aider un petit garçon terrifié. Tu as vu ma bague ?"
+  ],
+  "Nina Sayers": [
+    "Danseuse très appliquée, je vis encore avec ma mère.",
+    "J'ai décroché le rôle principal du Lac des Cygnes.",
+    "Je dois jouer le blanc et le noir, et mes griffures sont inquiétantes."
+  ],
+  "Betty Elms": [
+    "Jeune femme très optimiste, je débarque à Hollywood pour être actrice.",
+    "J'ai trouvé une inconnue amnésique dans l'appartement de ma tante.",
+    "Un club de nuit, une boîte bleue, et tout ce qui suit est illusoire."
+  ],
+  "Rita": [
+    "Brune mystérieuse, j'ai survécu à un accident de voiture la nuit.",
+    "J'ai choisi mon prénom en voyant une affiche de cinéma.",
+    "Je ne me souviens de rien, mon sac est rempli d'argent et d'une clé bleue."
+  ],
+  "Park Doo-man": [
+    "Inspecteur de campagne, je me fie à mon instinct pour juger les gens.",
+    "Corée du Sud, 1986. On trouve des femmes mortes les soirs de pluie.",
+    "Je n'ai jamais attrapé le coupable. As-tu déjà mangé ?"
+  ],
+  "Vito Corleone (jeune)": [
+    "Immigré sicilien arrivé enfant à New York.",
+    "J'ai monté une affaire d'huile d'olive pour nourrir ma famille.",
+    "Little Italy, début du XXe siècle. J'ai réglé son compte à un caïd de quartier."
+  ],
+  "Oskar Schindler": [
+    "Homme d'affaires allemand, très à l'aise avec les officiers.",
+    "J'ai ouvert une usine de casseroles à Cracovie.",
+    "J'ai noté 1 100 noms pour les sauver, et j'aurais pu en sauver plus."
+  ],
+  "Amon Göth": [
+    "Officier SS à Cracovie, je dirige un camp.",
+    "Je suis dans une relation trouble avec ma servante juive.",
+    "Le matin, je tire sur les prisonniers depuis mon balcon."
+  ],
+  "Władysław Szpilman": [
+    "Musicien à la radio de Varsovie.",
+    "Toute ma famille a été déportée, et je me cache dans les ruines.",
+    "Un officier allemand m'a demandé de jouer, en pleine ville détruite."
+  ],
+  "Charles Foster Kane": [
+    "Enfant de pauvre, j'ai hérité d'une immense fortune.",
+    "J'ai bâti un empire de presse et un palais nommé Xanadu.",
+    "Mon dernier mot a intrigué tout le monde : Rosebud."
+  ],
+  "Don Lockwood": [
+    "Vedette du cinéma muet, j'ai un partenaire à l'écran très casse-pieds.",
+    "Les films parlants arrivent et tout s'effondre.",
+    "Je danse et je chante en pleine averse, avec un parapluie fermé."
+  ],
+  "Harmonica": [
+    "Homme mystérieux, je n'ai pas de vrai nom.",
+    "J'ai une vieille histoire à régler avec un homme aux yeux bleus.",
+    "Je joue toujours le même air à la gare, et je te regarde sans parler."
+  ],
+  "William Munny": [
+    "Fermier veuf, je m'occupe de mes cochons et de mes enfants.",
+    "J'étais un tueur redoutable, mais ma femme m'a remis dans le droit chemin.",
+    "Je reprends mon arme pour une prime, à Big Whiskey, face à un shérif très dur."
+  ],
+  "Chris Adams": [
+    "Pistolero tout en noir, crâne rasé.",
+    "Un village mexicain m'a demandé de le défendre contre des bandits.",
+    "J'ai réuni six autres hommes. Nous gagnons très peu pour ce travail."
+  ],
+  "Tommy": [
+    "Jeune soldat britannique, je n'ai qu'une idée : rentrer chez moi.",
+    "Je passe d'un bateau à l'autre, et ils coulent tous.",
+    "Mai 1940, sur une plage du nord de la France, on attend les petits bateaux."
+  ],
+  "Schofield": [
+    "Caporal britannique, je n'aime pas trop parler de ma médaille.",
+    "J'ai été chargé de traverser le no man's land avec un camarade.",
+    "Pendant la Grande Guerre, je dois livrer un message avant l'aube, pour sauver 1 600 hommes."
+  ],
+  "Gollum": [
+    "Célibataire depuis des siècles. Vit dans une grotte, poisson cru.",
+    "Double personnalité, mais on s'entend bien.",
+    "Nous cherchons un bijou. Notre précieux."
+  ],
+  "Aragorn": [
+    "Rôdeur du Nord, je voyage beaucoup, très discret.",
+    "On m'attend depuis longtemps sur le trône du Gondor.",
+    "Je suis amoureux d'une elfe, et je me bats pour la Terre du Milieu."
+  ],
+  "Sauron": [
+    "Grand projet de domination, je recherche un objet perdu.",
+    "J'ai forgé moi-même un anneau pour contrôler les autres.",
+    "Je suis un grand œil de feu au sommet d'une tour, en Mordor."
+  ],
+  "Yoda": [
+    "Petit, vert et très âgé. 900 ans, j'ai.",
+    "Vivre sur une planète marécageuse, je préfère.",
+    "Fais-le ou ne le fais pas. Il n'y a pas d'essai."
+  ],
+  "Han Solo": [
+    "Contrebandier, je dois beaucoup d'argent à quelqu'un de très gros.",
+    "Mon copilote pousse des grognements. Mon vaisseau a fait le raid de Kessel.",
+    "Je t'aime. — Je sais. On m'a congelé dans la carbonite."
+  ],
+  "Peter Parker": [
+    "Étudiant timide du Queens, photographe à mes heures.",
+    "Mon oncle disait qu'un grand pouvoir implique de grandes responsabilités.",
+    "Une piqûre d'araignée m'a changé. J'adore ma voisine aux cheveux roux."
+  ],
+  "Le Bouffon vert": [
+    "Industriel très riche, on m'a retiré mon entreprise.",
+    "Une expérience ratée m'a donné une seconde personnalité.",
+    "Masque grimaçant, planeur et bombes-citrouilles. Je m'en prends à l'ami de mon fils."
+  ],
+  "T'Challa": [
+    "Prince d'un petit pays africain, j'hérite de la couronne.",
+    "Mon pays cache au monde sa grande richesse technologique en vibranium.",
+    "Costume de félin, et mon peuple croise les bras sur la poitrine : pour toujours."
+  ],
+  "Killmonger": [
+    "Ancien soldat américain d'Oakland, très entraîné.",
+    "Mon père a été tué par son propre frère, un roi.",
+    "Je veux la couronne et armer les opprimés. Enterrez-moi dans l'océan."
+  ],
+  "Bilbon Sacquet": [
+    "Petit bourgeois de la Comté, j'adore mon confort.",
+    "Treize visiteurs ont vidé mon garde-manger sans prévenir.",
+    "Pieds velus, je suis devenu cambrioleur, et j'ai trouvé un anneau dans une grotte."
+  ],
+  "Thorin Écu-de-Chêne": [
+    "Prince sans royaume, je suis très fier et très têtu.",
+    "Je mène treize compagnons reprendre notre montagne.",
+    "Roi nain, je veux récupérer mon peuple et son or, gardés par un dragon."
+  ],
+  "Smaug": [
+    "Je dors beaucoup, sur un très gros tas d'or.",
+    "J'ai chassé tout un peuple de sa montagne.",
+    "Je suis un dragon rouge, et je me présente comme le feu en personne."
+  ],
+  "Satine": [
+    "Vedette de cabaret à Paris, je rêve de devenir actrice.",
+    "Je suis courtisée par un riche duc, mais j'aime un jeune poète sans argent.",
+    "Diamants, Montmartre 1900 et une toux inquiétante."
+  ],
+  "Freddie Mercury": [
+    "Bagagiste à Heathrow, venu de Zanzibar, j'ai quatre dents de plus.",
+    "J'ai rejoint un groupe de rock britannique et je compose très théâtral.",
+    "Moustache, débardeur blanc et Live Aid à Wembley en 1985."
+  ],
+  "Danny Zuko": [
+    "Lycéen, chef de bande, je gomine mes cheveux.",
+    "J'ai eu un amour d'été avec une Australienne.",
+    "Blouson noir à Rydell, je chante dans une voiture. Tu es celle que je veux."
+  ],
+  "Sandy Olsson": [
+    "Jeune Australienne très sage, je viens d'arriver dans un lycée américain.",
+    "J'ai rencontré un garçon sur la plage. Il n'est plus le même devant ses amis.",
+    "Pantalon de cuir noir à la fin de l'année, et tout le lycée en reste bouche bée."
+  ],
+  "Frank (le tueur de l'Ouest)": [
+    "Tueur pour le compte d'une compagnie de chemin de fer.",
+    "J'ai tué toute une famille, y compris un petit garçon, sans sourciller.",
+    "Grands yeux bleus glaçants, et je n'aime pas l'homme à l'harmonica."
+  ],
+  "Godefroy de Montmirail": [
+    "Comte du XIIe siècle, j'ai un fidèle écuyer.",
+    "Une potion ratée m'a envoyé très loin dans le futur.",
+    "Armure, blason, et mon fidèle écuyer Jacquouille découvre la salle de bains."
+  ],
+  "Zézette": [
+    "Enceinte jusqu'aux yeux, je tricote des vêtements que personne ne sait porter.",
+    "Mon compagnon est violent, et il est déguisé en bonhomme à barbe blanche.",
+    "Je débarque un soir de réveillon à SOS Détresse Amitié."
+  ],
+  "Jean-Claude Dusse": [
+    "Célibataire, je pars toujours en vacances avec ma bande.",
+    "Je rate tout ce que j'essaie à la station, surtout avec les filles.",
+    "Oublie que tu n'as aucune chance, et vas-y, fonce. Sur un malentendu, ça peut marcher."
+  ],
+  "Commissaire Gibert": [
+    "Chef de police à Marseille, très sûr de moi.",
+    "Je m'intéresse à un gang allemand qui braque des banques.",
+    "Je ne comprends jamais rien, mais je suis persuadé du contraire."
+  ],
+  "Dobby": [
+    "Petit, grandes oreilles, je travaille sans salaire.",
+    "J'ai essayé de t'empêcher d'aller à l'école pour te protéger.",
+    "Mon maître m'a donné une chaussette. Je suis libre !"
+  ],
+  "Sirius Black": [
+    "Je me suis évadé de la prison la plus sûre du pays.",
+    "On m'accuse d'avoir trahi mes amis, mais je n'y suis pour rien.",
+    "Je me transforme en grand chien noir, et je suis le parrain d'un célèbre orphelin."
+  ],
+  "Cedric Diggory": [
+    "Élève très populaire, capitaine de mon équipe de Quidditch.",
+    "Je suis le champion officiel de mon école au Tournoi.",
+    "Poufsouffle. Nous avons touché la Coupe ensemble, et elle m'a emmené au cimetière."
+  ],
+  "Dolores Ombrage": [
+    "Tout en rose, j'adore les assiettes aux chatons.",
+    "On m'a envoyée du ministère pour remettre l'école dans le droit chemin.",
+    "Je fais écrire mes élèves avec une plume qui marque la peau. Hum hum."
+  ],
+  "Severus Rogue": [
+    "Professeur très sévère, cheveux gras, je suis maître des potions.",
+    "J'ai aimé la même femme toute ma vie.",
+    "Je déteste un élève, et je suis l'homme le plus courageux qu'il ait connu. Toujours."
+  ],
+  "Hermione Granger": [
+    "Première de la classe, réponse à tout.",
+    "Parents dentistes. Je milite pour les droits des elfes.",
+    "Chat roux, baguette en vigne, deux amis incapables de faire leurs devoirs seuls."
+  ],
+  "Davy Jones": [
+    "Capitaine très ponctuel, je suis un homme de mer.",
+    "J'ai retiré mon cœur et je l'ai enfermé à clé.",
+    "Barbe de tentacules, et j'ai un Kraken à ma disposition."
+  ],
+  "Hector Barbossa": [
+    "Capitaine très ambitieux, j'ai été maudit, et je ne sens plus le goût des pommes.",
+    "J'ai volé le navire de mon ancien capitaine lors d'une mutinerie.",
+    "Mon singe porte le même prénom que mon rival."
+  ],
+  "Barbe Noire": [
+    "Pirate très redouté, je commande à mon propre navire.",
+    "Je cherche à échapper à une prophétie qui annonce ma mort.",
+    "Mèches fumantes sur le menton, je veux atteindre une source d'immortalité."
+  ],
+  "Capitaine Salazar": [
+    "Ancien officier de la marine espagnole, je hais les flibustiers.",
+    "Je suis prisonnier du Triangle du Diable depuis des années.",
+    "Mort-vivant, mes cheveux flottent comme sous l'eau, et je veux me venger de Jack."
+  ],
+  "Colonel Stuart": [
+    "Ancien officier des forces spéciales, très en forme.",
+    "J'ai pris le contrôle des tours radar d'un aéroport de Washington.",
+    "Je fais du tai-chi tout nu, et je tiens un général au bout de mes plans."
+  ],
+  "Simon Gruber": [
+    "Allemand très intelligent, j'ai une revanche familiale à prendre.",
+    "Je pose des énigmes à la police de New York, et des bombes.",
+    "Mon frère est tombé d'une tour. Jacques a dit : va à Harlem avec cette pancarte."
+  ],
+  "Mola Ram": [
+    "Grand prêtre très impressionnant, je vis dans un palais indien.",
+    "J'adore une déesse sanglante, et je fais travailler les enfants dans les mines.",
+    "J'arrache les cœurs à mains nues. Coiffe à cornes de taureau."
+  ],
+  "Henry Jones Sr.": [
+    "Professeur très sérieux, spécialiste du Moyen Âge, je tiens un carnet.",
+    "Toute ma vie, j'ai cherché le Graal et j'ai délaissé mon fils.",
+    "J'ai toujours appelé mon fils Junior, et je chasse les mouettes au parapluie."
+  ],
+  "Irina Spalko": [
+    "Colonelle soviétique très douée à l'épée.",
+    "Je suis passionnée par les pouvoirs psychiques.",
+    "Coupe au carré noire, je cherche une relique à la tête allongée pour Staline."
+  ],
+  "Jürgen Voller": [
+    "Scientifique allemand, ancien nazi passé du côté américain.",
+    "Je travaille pour la NASA en 1969, et j'ai un vieux compte à régler.",
+    "Je veux la machine d'Archimède pour remonter le temps et gagner la guerre."
+  ],
+  "Haymitch Abernathy": [
+    "Alcoolique, je suis mentor par obligation.",
+    "Je suis le seul gagnant vivant de mon district, avant de nouveaux venus.",
+    "Je guide deux jeunes tributs du district 12. Rester en vie, voilà le conseil."
+  ],
+  "Ian Malcolm": [
+    "Mathématicien du chaos, toujours vêtu de noir.",
+    "Je ne voulais pas y retourner, surtout après la première île.",
+    "Rire très particulier. La vie trouve toujours un chemin."
+  ],
+  "Pamela Landy": [
+    "Haute responsable à la CIA, je ne cherche que la vérité.",
+    "On m'a confié la traque d'un agent devenu incontrôlable.",
+    "Il me téléphone en me disant que je devrais me reposer, depuis l'immeuble d'en face."
+  ],
+  "Batman (version Burton)": [
+    "Milliardaire solitaire, je vis dans un manoir, avec mon majordome.",
+    "Je suis amoureux d'une photographe, Vicki Vale.",
+    "Gotham, 1989. Cape noire, et mon ennemi a un sourire chimique."
+  ],
+  "L'Homme-Mystère": [
+    "Comptable discret, je déteste les riches de Gotham.",
+    "Je laisse des énigmes et des cartes de vœux sur mes victimes.",
+    "Cagoule verte en plastique, et lunettes. Je veux démasquer le chevalier noir."
+  ],
+  "Kevin Wendell Crumb": [
+    "Je suis suivi par une psy, et j'en ai beaucoup à lui dire.",
+    "Je vis avec 23 personnalités dans ma tête, dont un enfant de 9 ans.",
+    "J'ai enlevé trois jeunes filles. La Bête va arriver."
+  ],
+  "Elijah Price (Mr. Glass)": [
+    "Collectionneur de comics, galeriste très cultivé.",
+    "Mes os se brisent au moindre choc.",
+    "Canne de verre, fauteuil roulant. J'ai tout orchestré pour prouver que les héros existent."
+  ],
+  "Raoul Silva": [
+    "Ancien agent britannique, j'ai été abandonné par mon ancienne chef.",
+    "Je vis sur une île déserte d'où je pirate le monde.",
+    "Cheveux blond platine, et je retire mon dentier pour te montrer ce que la capsule m'a fait."
+  ],
+  "Dominic Greene": [
+    "Homme d'affaires écologiste, très respectable en apparence.",
+    "Je fais partie d'une organisation secrète, et je m'intéresse à la Bolivie.",
+    "Sous prétexte de protéger la nature, je contrôle toute l'eau du pays."
+  ],
+  "Ernst Stavro Blofeld": [
+    "Chef d'une grande organisation, très discret.",
+    "J'ai un vieux lien de famille avec un agent britannique.",
+    "Un chat blanc sur les genoux, et une balafre à l'œil."
+  ],
+  "Lyutsifer Safin": [
+    "Empoisonneur très calme, je porte un masque japonais.",
+    "Ma famille a été tuée par une organisation criminelle.",
+    "J'ai une île et un virus ciblé par l'ADN."
+  ],
+  "Auric Goldfinger": [
+    "Homme d'affaires très riche, je triche au golf.",
+    "J'adore une seule chose : l'or. Mon homme de main a un chapeau mortel.",
+    "Je veux irradier Fort Knox. Non, monsieur, je m'attends à ce que vous mouriez."
+  ],
+  "Alejandro Gillick": [
+    "Ancien procureur colombien, je travaille comme consultant.",
+    "Un cartel a tué ma femme et ma fille.",
+    "Je sers le gouvernement américain en territoire mexicain, et je ne parle que peu."
+  ],
+  "Robert Wakefield": [
+    "Juge de l'Ohio, je viens d'être nommé à un poste national.",
+    "Je dois mener la guerre contre la drogue aux États-Unis.",
+    "Pendant ce temps, ma propre fille est en train de sombrer dans le crack."
+  ],
+  "Dwight Evans": [
+    "Sans domicile, je vis dans une voiture rouillée à la plage.",
+    "J'ai appris que le meurtrier de mes parents sortait de prison.",
+    "Pas du tout doué pour ça, je décide quand même de me venger."
+  ],
+  "Ree Dolly": [
+    "Jeune fille de 17 ans, je m'occupe de mon frère et de ma sœur.",
+    "Dans les monts Ozarks, ma famille vit de la méthamphétamine.",
+    "Mon père a disparu, et notre maison est en jeu si je ne le retrouve pas."
+  ],
+  "Joe": [
+    "Ancien militaire et ancien agent du FBI, je m'occupe de ma vieille mère.",
+    "On m'engage pour retrouver des jeunes filles disparues.",
+    "Je travaille avec un simple marteau, et je pense souvent à en finir."
+  ],
+  "Adam Bell": [
+    "Professeur d'histoire à Toronto, ma vie est répétitive.",
+    "J'ai vu dans un film un acteur qui me ressemble exactement.",
+    "Je pars à sa rencontre, et j'ai de drôles de visions d'araignées."
+  ],
+  "Susan Morrow": [
+    "Galeriste à Los Angeles, très riche, insomniaque et malheureuse.",
+    "Mon ex-mari m'a envoyé le manuscrit de son roman.",
+    "Sa fiction est terriblement violente, et je sens qu'il me la dédie."
+  ],
+  "Suzy Bannion": [
+    "Jeune danseuse américaine, je viens d'arriver en Allemagne.",
+    "Une élève a été tuée le soir de mon arrivée à l'académie.",
+    "Les professeures sont des sorcières, et les couleurs sont très vives."
+  ],
+  "Elisabeth Sparkle": [
+    "Star de la télé, on m'a licenciée à 50 ans.",
+    "On m'a proposé un produit pour créer une meilleure version de moi.",
+    "Une semaine sur deux. Il ne faut pas se tromper dans l'équilibre."
+  ],
+  "Howard Ratner": [
+    "Bijoutier du diamant à New York, joueur compulsif.",
+    "J'ai fait venir d'Éthiopie une énorme pierre brute.",
+    "J'ai une dette énorme, et je mise tout sur un match de basket."
+  ],
+  "Larry Gopnik": [
+    "Professeur de physique dans le Minnesota en 1967.",
+    "Ma femme me quitte, et on veut me refuser ma titularisation.",
+    "Je cherche des réponses auprès de trois rabbins, sans vraiment en trouver."
+  ],
+  "Ernest Burkhart": [
+    "Vétéran de la Première Guerre, je cherche du travail chez mon oncle.",
+    "J'ai épousé une femme de la tribu osage, très riche en pétrole.",
+    "Oklahoma, années 1920. Je lui ai donné des injections pour son diabète."
+  ],
+  "Major Marquis Warren": [
+    "Chasseur de primes, ancien officier de l'Union.",
+    "Je transporte une lettre que m'aurait écrite Abraham Lincoln.",
+    "Une diligence, un blizzard, une mercerie, et je fais le détective."
+  ],
+  "Bob Ferguson": [
+    "Ancien révolutionnaire devenu papa paranoïaque et fumeur.",
+    "J'ai perdu le mot de passe de mon réseau, et ça me pose un énorme problème.",
+    "Un colonel a enlevé ma fille. Je dois la retrouver en peignoir."
+  ],
+  "László Tóth": [
+    "Architecte hongrois, je survis à la guerre.",
+    "J'arrive aux États-Unis en 1947, sans ma femme.",
+    "Un riche industriel me commande un immense bâtiment en béton."
+  ],
+  "Paul Hunham": [
+    "Professeur d'histoire ancienne, détesté par tous mes élèves.",
+    "J'ai un œil qui part dans un autre sens et une très forte odeur corporelle.",
+    "Je reste au lycée pour Noël 1970, avec la cuisinière et un élève."
+  ],
+  "Steve Zissou": [
+    "Océanographe à la gloire passée, bonnet rouge sur la tête.",
+    "Mon ami a été dévoré par un poisson, et je veux le filmer.",
+    "Je recherche le requin-jaguar avec un fils peut-être caché."
+  ],
+  "Sam Shakusky": [
+    "Jeune orphelin, scout très doué, impopulaire.",
+    "J'ai rencontré une fille au regard noir pendant une représentation.",
+    "En 1965, je fugue avec elle sur l'île de New Penzance."
+  ],
+  "Arthur Howitzer Jr.": [
+    "Rédacteur en chef très exigeant, venu de Liberty, au Kansas.",
+    "Je dirige une revue dans une ville française, à Ennui-sur-Blasé.",
+    "À ma mort, le journal disparaîtra. Il est interdit de pleurer."
+  ],
+  "Augie Steenbeck": [
+    "Photographe de guerre, veuf, je n'ai pas dit la vérité à mes enfants.",
+    "Ma voiture est tombée en panne dans une petite ville désertique des années 50.",
+    "Un extraterrestre a pris une pierre, et nous sommes tous en quarantaine."
+  ],
+  "Larry Lipton": [
+    "Éditeur new-yorkais très nerveux, je parle sans arrêt.",
+    "Ma femme soupçonne notre voisin d'avoir tué la sienne.",
+    "Je préférerais qu'on reste au cinéma, plutôt que de mener l'enquête."
+  ],
+  "Gil Pender": [
+    "Scénariste à Hollywood, je veux écrire mon premier roman.",
+    "Je suis en voyage en France avec ma fiancée et ses parents.",
+    "À minuit, une vieille voiture me ramène dans les années 20, chez Hemingway."
+  ],
+  "Ben Cash": [
+    "Père de six enfants, je les élève dans la forêt.",
+    "On fête Noam Chomsky plutôt que Noël.",
+    "Ma femme est morte, et nous partons à son enterrement en bus."
+  ],
+  "Le Fantôme": [
+    "Je reste longtemps sans dire un mot, et j'attends.",
+    "Je suis mort dans un accident de voiture, et je regarde ma femme vivre.",
+    "Un drap blanc sur la tête, deux trous pour les yeux. Le temps passe sans moi."
+  ],
+  "Viktor Navorski": [
+    "Voyageur venu de Krakozie, je n'ai pas de chance avec les papiers.",
+    "Mon pays n'existe plus, le temps de mon vol.",
+    "Je vis à l'aéroport JFK, et je gagne des pièces avec les chariots."
+  ],
+  "Mikey Walsh": [
+    "Petit rêveur, j'ai de l'asthme.",
+    "Notre quartier va être rasé, et j'ai trouvé une vieille carte au grenier.",
+    "Avec mes amis, je cherche le trésor de Willy le Borgne."
+  ],
+  "Phil Connors": [
+    "Présentateur météo très imbu de lui-même.",
+    "Je suis envoyé tous les ans dans une petite ville de Pennsylvanie.",
+    "Chaque matin, I Got You Babe, et la marmotte. Encore."
+  ],
+  "Jackson Maine": [
+    "Chanteur de rock très connu, je bois beaucoup.",
+    "J'ai rencontré une jeune chanteuse dans un bar de drag-queens.",
+    "Je perds l'ouïe, et elle est en train de me dépasser."
+  ],
+  "Nawal Marwan": [
+    "Mère de deux jumeaux au Québec, je n'ai pas toujours parlé.",
+    "Dans ma jeunesse, j'ai beaucoup souffert de la guerre au Moyen-Orient.",
+    "Mon testament demande à mes enfants de retrouver un père et un frère."
+  ],
+  "Raimunda": [
+    "Mère courageuse à Madrid, je travaille très dur.",
+    "Je fais tourner un restaurant, avec un secret dans le congélateur.",
+    "Ma mère morte serait revenue, et ça sent bon le vent de la Mancha."
+  ],
+  "Sam Cahill": [
+    "Capitaine de Marines, marié avec deux filles.",
+    "On m'a déclaré mort en Afghanistan alors que j'étais prisonnier.",
+    "Je rentre traumatisé, et je soupçonne mon frère d'avoir pris ma place."
+  ],
+  "Baby": [
+    "Jeune homme très silencieux, je porte toujours mes écouteurs.",
+    "J'ai des acouphènes depuis un accident dans mon enfance.",
+    "Je conduis pour des braqueurs à Atlanta, et il me faut la bonne chanson."
+  ],
+  "Coccinelle (Ladybug)": [
+    "Professionnel très malchanceux, je suis en pleine démarche de développement personnel.",
+    "On m'a confié une mission simple : récupérer une mallette.",
+    "Tout le monde à bord veut me tuer, dans un Shinkansen à très grande vitesse."
+  ],
+  "Juré n°8": [
+    "Architecte très posé, j'aime prendre le temps de réfléchir.",
+    "Je suis le seul à voter non coupable dans la salle.",
+    "Un couteau, un jeune accusé, et onze personnes à convaincre, en pleine canicule."
+  ],
+  "T. E. Lawrence": [
+    "Officier britannique très original, passionné d'archéologie.",
+    "En 1916, j'ai rejoint les Bédouins pendant la révolte contre les Turcs.",
+    "Tenue blanche flottante sur le toit d'un train, et j'ai traversé le désert du Néfoud."
+  ],
+  "C. C. Baxter": [
+    "Petit employé d'assurances à New York, très serviable.",
+    "Je prête mon logement à mes supérieurs pour leurs liaisons.",
+    "Je suis amoureux de la liftière. Tais-toi et distribue."
+  ],
+  "Kambei Shimada": [
+    "Guerrier vétéran sans maître, sage et modeste.",
+    "Je me suis rasé la tête pour sauver un enfant.",
+    "Des paysans m'ont demandé de les protéger des bandits, et j'en ai recruté six autres."
+  ],
+  "Roger Thornhill": [
+    "Publicitaire new-yorkais, très sûr de moi.",
+    "On m'a pris pour un autre, George Kaplan.",
+    "Un avion m'attaque en pleine campagne, et je grimpe sur le mont Rushmore."
+  ],
+  "Judah Ben-Hur": [
+    "Prince juif de Jérusalem, trahi par mon ami d'enfance.",
+    "J'ai été condamné aux galères, avant de sauver un consul romain.",
+    "Une course de chars d'anthologie contre Messala."
+  ],
+  "Regina Lampert": [
+    "Traductrice à Paris, je veux divorcer.",
+    "Mon mari vient de mourir, et il a laissé des gens à mes trousses.",
+    "Trois hommes cherchent un magot, et un inconnu charmant change sans cesse de nom."
+  ],
+  "Melanie Daniels": [
+    "Mondaine de San Francisco, très sûre d'elle.",
+    "J'ai traversé une baie en barque pour livrer un couple d'inséparables.",
+    "À Bodega Bay, le ciel s'assombrit, et je m'enferme dans une cabine téléphonique."
+  ],
+  "Dorothy Gale": [
+    "Jeune fille du Kansas, je ne me sépare jamais de mon petit chien Toto.",
+    "Une tornade a emporté ma maison, très loin.",
+    "Souliers de rubis, route de briques jaunes. On n'est jamais si bien que chez soi."
+  ],
+  "Seth Gecko": [
+    "Braqueur très dangereux, costume noir et tatouage au cou.",
+    "J'ai pris une famille en otage pour passer au Mexique.",
+    "Halte au bar Titty Twister, et là, tout le monde se transforme en vampire."
+  ],
+  "Stuntman Mike": [
+    "Ancien cascadeur, très charmeur, balafre sur le visage.",
+    "Ma voiture est garantie à l'épreuve de la mort, pour moi seulement.",
+    "Je choisis mes victimes dans les bars du Texas, et je leur fonce dessus."
+  ],
+  "Le Président Dale": [
+    "Je suis à la tête de la plus grande puissance du monde.",
+    "Des visiteurs venus de loin nous ont souhaité la paix en détruisant tout.",
+    "J'ai fait un grand discours pour réconcilier l'humanité avec les Martiens."
+  ],
+  "Brice de Nice": [
+    "Blond, en jaune, surfeur, mais il n'y a jamais de vagues chez moi.",
+    "Je vis grâce à l'argent de mon père, et je te trouve vraiment nul.",
+    "Je te casse ! Comme dans Point Break."
+  ],
+  "Seth Brundle": [
+    "Chercheur très excentrique, j'ai cinq costumes identiques.",
+    "J'ai inventé une machine de téléportation.",
+    "Un petit insecte est entré avec moi dans la cabine. Je suis de plus en plus bizarre."
+  ],
+  "Raoul Duke": [
+    "Journaliste de sport, j'ai une grosse valise de substances.",
+    "Direction le Nevada avec mon avocat samoan, pour une course dans le désert.",
+    "Des chauves-souris partout, au milieu des casinos. Fume-cigarette et bob."
+  ],
+  "Ely": [
+    "Jeune fille de Puteaux, très sage, je rêve de gagner mieux ma vie.",
+    "Ma meilleure amie m'entraîne dans ses mensonges pour fréquenter des gens riches.",
+    "On nous a accueillies à Paris grâce à ce mensonge, à deux pas du périphérique."
+  ],
+  "Lila": [
+    "Jeune femme de banlieue, je travaille dans un cinéma de centre commercial.",
+    "J'ai fait croire à des filles riches que j'habitais dans leur quartier.",
+    "Je m'invente une autre vie, et je vais perdre ma meilleure amie."
+  ],
+  "Yuri Orlov": [
+    "Immigré ukrainien à New York, frère cadet très doué en vente.",
+    "Je vends à tous les camps depuis la fin de l'URSS.",
+    "Il y a plus d'une arme à feu pour douze personnes sur Terre, et je veux armer les autres."
+  ],
+  "John Creasy": [
+    "Ancien militaire et alcoolique, je cherche un travail.",
+    "Je suis devenu garde du corps d'une petite fille à Mexico.",
+    "Elle m'a redonné le goût de vivre. On l'a enlevée, et je vais tout brûler."
+  ],
+  "Doc Brown": [
+    "Vieil inventeur aux cheveux blancs, j'ai un chien nommé Einstein.",
+    "J'ai eu une idée en me cognant la tête sur le bord des toilettes.",
+    "1,21 gigawatt ! Et j'ai transformé une DeLorean en machine temporelle."
+  ],
+  "Biff Tannen": [
+    "Grosse brute, je n'arrête pas de bousculer mes voisins.",
+    "Dans une autre réalité, je suis devenu très riche grâce aux paris.",
+    "Un vieil almanach sportif m'a fait maître de Hill Valley. Hé, McFly !"
+  ],
+  "Buford « Molosse » Tannen": [
+    "Bandit très irascible, je déteste qu'on m'appelle par mon surnom.",
+    "Je terrorise une petite ville du Far West en 1885.",
+    "J'ai tiré dans le dos d'un inventeur pour 80 dollars."
+  ],
+  "Willy Wonka": [
+    "Homme très excentrique, je déteste les parents et les enfants.",
+    "Je n'ai pas ouvert les portes de mon usine depuis longtemps.",
+    "Cinq tickets d'or, des Oompa-Loompas et une rivière en cacao."
+  ],
+  "Patrick Chirac": [
+    "Chaque été, je reviens au même endroit, en tout petit maillot de bain.",
+    "Je suis l'animateur très impliqué des Flots Bleus.",
+    "Blagues lourdes et apéro : j'accueille chaque nouvel arrivant comme un vieil ami."
+  ],
+  "Gomez Addams": [
+    "Homme d'affaires exubérant, très épris de ma femme.",
+    "J'adore les trains que je fais exploser et l'escrime dans le salon.",
+    "Fine moustache, cigare, et mon frère vient de rentrer après 25 ans."
+  ],
+  "Mercredi Addams": [
+    "Fillette très sérieuse, tresses noires, je ne souris jamais.",
+    "On m'a envoyée en colonie de vacances, et je déteste ça.",
+    "J'ai mis le feu au spectacle de Thanksgiving. Je m'amuse beaucoup à torturer mon frère."
+  ],
+  "Vincent": [
+    "Agent immobilier très sûr de lui, je suis invité à dîner.",
+    "Ma femme attend un garçon, et j'ai annoncé comment il s'appellera.",
+    "Mon choix a fait exploser la soirée : Adolphe."
+  ],
+  "Didier Latour": [
+    "Cadre très ambitieux, je suis sûr de mon avenir.",
+    "J'ai découvert chez un notaire deux hommes de ma famille que je ne connaissais pas.",
+    "L'héritage promis s'est transformé en énormes dettes."
+  ],
+  "Dominic Toretto": [
+    "Mécanicien très musclé, j'ai beaucoup de principes.",
+    "Je bois de la bière Corona et je fais de la vitesse à 400 mètres à la fois.",
+    "Dodge Charger noire. Rien n'est plus important que la famille."
+  ],
+  "Mickey O'Neil": [
+    "Gitan irlandais, boxeur à mains nues, et personne ne comprend ce que je dis.",
+    "Je vends des caravanes qui ne tiennent pas debout, et ma mère compte beaucoup pour moi.",
+    "Je gagne au combat alors que je devais me coucher, et j'adore mes chiens."
+  ],
+  "Kevin McCallister": [
+    "Enfant de 8 ans, j'ai fait le vœu de faire disparaître ma famille.",
+    "Ils m'ont oublié à la maison pour Noël, à Chicago.",
+    "Deux cambrioleurs vont tomber dans tous mes pièges. Je crie devant le miroir."
+  ]
+}
