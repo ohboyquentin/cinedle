@@ -1,0 +1,602 @@
+{
+  "1883": [
+    "1 saison, 1 convoi, 1 Oregon, 1 famille de pionniers",
+    "Convoi de pionniers cherche guides pour traverser les Grandes Plaines.",
+    "L'An de grâce dix-huit cent quatre-vingt-trois"
+  ],
+  "Breaking Bad": [
+    "5 saisons, 1 camping-car, 1 diagnostic, 99,1 % de pureté",
+    "Professeur de chimie cherche associé pour activité annexe. Camping-car fourni.",
+    "Mal tourner"
+  ],
+  "Friends": [
+    "10 saisons, 1 canapé orange, 1 café, 6 colocataires et voisins",
+    "Cherche colocataire à Manhattan. Canapé difficile à monter dans l'escalier.",
+    "Les Copains"
+  ],
+  "Game of Thrones": [
+    "8 saisons, 7 royaumes, 3 dragons, 1 mur de glace",
+    "Cherche invités pour mariage dans le Nord. Ambiance musicale assurée.",
+    "Le Jeu des Sièges"
+  ],
+  "Stranger Things": [
+    "4 saisons, 1 Indiana, 1983, 1 monde à l'envers",
+    "Perdu : petit garçon dans les bois d'Hawkins. Guirlandes lumineuses pour communiquer.",
+    "Des Trucs Bizarres"
+  ],
+  "The Office": [
+    "9 saisons, 1 entreprise de papier, 1 caméra, 1 agrafeuse dans la gelée",
+    "Directeur régional cherche public pour ses blagues. Scranton, Pennsylvanie.",
+    "Le Bureau"
+  ],
+  "Sherlock": [
+    "4 saisons, 221B, 1 crâne, 3 patchs de nicotine",
+    "Détective consultant cherche colocataire. Violon la nuit, têtes dans le frigo.",
+    "Monsieur Holmes"
+  ],
+  "Peaky Blinders": [
+    "6 saisons, 1919, 1 casquette, des lames cousues dedans",
+    "Bookmaker de Birmingham recrute. Casquette fournie, attention aux doublures.",
+    "Les Aveugleurs à visière"
+  ],
+  "Better Call Saul": [
+    "6 saisons, 1 avocat, 1 cabinet dans un salon de manucure, 1 frère allergique à l'électricité",
+    "Avocat pas cher, diplômé à distance. Appelez-moi, je règle tout.",
+    "Mieux vaut téléphoner à l'avocat"
+  ],
+  "The Crown": [
+    "6 saisons, 1 reine, 1 palais, 1 Commonwealth",
+    "Grande famille anglaise cherche gouvernante discrète. Corgis à promener.",
+    "La Couronne"
+  ],
+  "Dark": [
+    "3 saisons, 1 grotte, 33 ans de cycle, 4 familles",
+    "Petite ville allemande. Enfant disparu près de la centrale. Grotte à éviter.",
+    "Sombre"
+  ],
+  "La Casa de Papel": [
+    "5 saisons, 1 Fabrique de la Monnaie, 1 masque de Dalí, des combinaisons rouges",
+    "Professeur recrute braqueurs pour imprimer billets. Surnoms de villes obligatoires.",
+    "La Maison en carton"
+  ],
+  "Chernobyl": [
+    "1 saison, 1986, 1 réacteur, 3,6 roentgens",
+    "Liquidateurs recherchés en urgence. Exposition non comparable à une radio des poumons.",
+    "Le Réacteur numéro 4"
+  ],
+  "Fargo": [
+    "5 saisons, 1 Minnesota enneigé, 1 Dakota du Nord, 1 histoire prétendument vraie",
+    "Assureur discret cherche tueur à gages. Paiement en liquide sous la neige.",
+    "La Cité du Dakota"
+  ],
+  "True Detective": [
+    "4 saisons, 1 Louisiane, 1 roi en jaune, 1 cercle plat",
+    "Deux inspecteurs cherchent tueur rituel dans le bayou. Pensées existentielles fournies.",
+    "Le Vrai Inspecteur"
+  ],
+  "Westworld": [
+    "4 saisons, 1 parc d'attractions, des androïdes, 1 labyrinthe",
+    "Parc à thème western cherche visiteurs fortunés. Hôtes très réalistes.",
+    "Le Monde de l'Ouest"
+  ],
+  "The Mandalorian": [
+    "3 saisons, 1 casque jamais retiré, 1 enfant vert, 1 vaisseau",
+    "Chasseur de primes cherche nounou pour petit être vert de 50 ans.",
+    "Le Mandalorien"
+  ],
+  "House of Cards": [
+    "6 saisons, 1 Maison-Blanche, 1 regard caméra, 1 fauteuil",
+    "Élu démocrate cherche ascension rapide. Ne pas rester sur son chemin.",
+    "Le Château de cartes"
+  ],
+  "Narcos": [
+    "3 saisons, 1 Medellín, 1 hippopotame, plata o plomo",
+    "Agents de la DEA recherchent le baron de la drogue colombien.",
+    "Les Trafiquants"
+  ],
+  "Prison Break": [
+    "5 saisons, 1 tatouage, 1 plan d'évasion, 1 frère condamné",
+    "Ingénieur se fait arrêter exprès. Plan du pénitencier tatoué sur le corps.",
+    "L'Évasion"
+  ],
+  "How I Met Your Mother": [
+    "9 saisons, 1 parapluie jaune, 1 cor bleu, 1 récit à ses enfants",
+    "Architecte cherche la mère de ses futurs enfants. Récit très long à prévoir.",
+    "Comment j'ai rencontré votre maman"
+  ],
+  "The Big Bang Theory": [
+    "12 saisons, 1 place sur le canapé, 1 ascenseur en panne, 1 Bazinga",
+    "Physicien cherche colocataire. Accord de colocation de 40 pages à signer.",
+    "La Théorie du grand boum"
+  ],
+  "Dexter": [
+    "8 saisons, 1 Miami, 1 code, des lames de microscope",
+    "Expert en traces de sang cherche criminels qui ont échappé à la justice.",
+    "Le Droitier"
+  ],
+  "Lost": [
+    "6 saisons, 1 île, 1 trappe, 4 8 15 16 23 42",
+    "Rescapés d'un vol Sydney-Los Angeles cherchent à quitter l'île. Ours polaire sur place.",
+    "Perdus"
+  ],
+  "The Walking Dead": [
+    "11 saisons, 1 apocalypse, 1 batte de baseball barbelée, 1 shérif adjoint",
+    "Shérif réveillé du coma cherche sa famille. Éviter les rôdeurs.",
+    "Les Morts qui marchent"
+  ],
+  "Vikings": [
+    "6 saisons, 1 drakkar, 1 Lindisfarne, 1 aigle de sang",
+    "Fermier norvégien cherche équipage pour naviguer vers l'ouest.",
+    "Les Hommes du Nord"
+  ],
+  "The Wire": [
+    "5 saisons, 1 Baltimore, 1 écoute téléphonique, 1 tour de logements",
+    "Unité de police écoute les dealers de Baltimore. Patience requise.",
+    "Sur écoute"
+  ],
+  "Boardwalk Empire": [
+    "5 saisons, 1920, 1 Atlantic City, 1 Prohibition",
+    "Trésorier du comté cherche alcool pendant la Prohibition. Front de mer.",
+    "Le Royaume de la jetée"
+  ],
+  "Mad Men": [
+    "7 saisons, 1960, 1 agence de pub, des milliers de cigarettes",
+    "Agence de publicité de Madison Avenue cherche directeur créatif. Whisky au bureau.",
+    "Les Hommes fous"
+  ],
+  "Les Soprano": [
+    "6 saisons, 1 New Jersey, 1 psy, 1 famille de canards",
+    "Parrain du New Jersey cherche psychiatre discrète. Crises d'angoisse.",
+    "Les Voix aiguës"
+  ],
+  "Homeland": [
+    "8 saisons, 1 sergent libéré, 1 agente bipolaire, 8 ans de captivité",
+    "Agente de la CIA soupçonne héros de guerre. Tableau couvert de fils.",
+    "La Patrie"
+  ],
+  "24 heures chrono": [
+    "9 saisons, 1 jour par saison, 1 horloge, 1 CTU",
+    "Agent antiterroriste dispose d'une seule journée. Chaque minute compte.",
+    "Une journée en temps réel"
+  ],
+  "Grey's Anatomy": [
+    "20 saisons, 1 hôpital de Seattle, 1 Seattle Grace, 1 ferry",
+    "Interne en chirurgie cherche avenir. Ascenseur à double usage.",
+    "L'Anatomie de Gris"
+  ],
+  "Doctor Who": [
+    "Depuis 1963, 1 cabine téléphonique bleue, 1 tournevis sonique, des régénérations",
+    "Voyageur temporel cherche compagnon. Cabine de police plus grande à l'intérieur.",
+    "Docteur Qui ?"
+  ],
+  "Downton Abbey": [
+    "6 saisons, 1912, 1 château, 1 sonnette pour chaque pièce",
+    "Famille aristocrate cherche valet. Service à l'étage, vie en sous-sol.",
+    "L'Abbaye du Yorkshire"
+  ],
+  "Suits : Avocats sur Mesure": [
+    "9 saisons, 1 cabinet de New York, 1 faux diplômé, 1 mémoire photographique",
+    "Grand cabinet recrute avocat sans diplôme. Mémoire photographique exigée.",
+    "Costumes : Juristes taillés à la perfection"
+  ],
+  "Modern Family": [
+    "11 saisons, 3 foyers, 1 caméra, 1 grand-père",
+    "Famille recomposée cherche nounou. Trois foyers à gérer.",
+    "Famille d'aujourd'hui"
+  ],
+  "Arrested Development": [
+    "5 saisons, 1 bananerie, 1 escalier mobile, 1 père en prison",
+    "Famille ruinée cherche entreprise sérieuse. Banane glacée offerte.",
+    "Le Développement arrêté"
+  ],
+  "The Handmaid's Tale : La Servante Écarlate": [
+    "5 saisons, 1 Gilead, 1 cape rouge, 1 bonnet blanc",
+    "République théocratique cherche femmes fertiles. Tenue rouge imposée.",
+    "Le Conte de la domestique"
+  ],
+  "Succession": [
+    "4 saisons, 1 empire médiatique, 4 enfants, 1 patriarche malade",
+    "Patriarche d'un groupe de presse cherche successeur. Enfants en compétition.",
+    "L'Héritage"
+  ],
+  "Euphoria": [
+    "2 saisons, 1 lycée, des paillettes sous les yeux, 1 rechute",
+    "Lycéenne sortie de désintox cherche stabilité. Paillettes appréciées.",
+    "L'Extase"
+  ],
+  "Twin Peaks": [
+    "3 saisons, 1 corps dans du plastique, 1 tarte aux cerises, 1 salle rouge",
+    "Agent du FBI cherche bon café et tueur de lycéenne. Nain qui danse.",
+    "Les Sommets jumeaux"
+  ],
+  "The X-Files : Aux frontières du réel": [
+    "11 saisons, 2 agents, 1 sœur enlevée, 1 homme à la cigarette",
+    "Agent du FBI croit aux extraterrestres. Coéquipière très sceptique.",
+    "Les Dossiers X : Aux limites du possible"
+  ],
+  "Battlestar Galactica": [
+    "4 saisons, 1 vaisseau, 12 colonies, des Cylons",
+    "Survivants humains cherchent planète légendaire. Certains sont des machines.",
+    "L'Étoile de combat galactique"
+  ],
+  "Caméra Café": [
+    "3 saisons, 1 distributeur de boissons chaudes, 1 cadrage fixe, 1 open space",
+    "Entreprise cherche stagiaire. Pause au distributeur obligatoire.",
+    "Objectif Expresso"
+  ],
+  "Buffy contre les vampires": [
+    "7 saisons, 1 Sunnydale, 1 bouche de l'enfer, 1 pieu",
+    "Élue cherche bibliothécaire. Lycée bâti sur une entrée de l'enfer.",
+    "Elizabeth face aux suceurs de sang"
+  ],
+  "Supernatural": [
+    "15 saisons, 1 Impala 1967, 2 frères, 1 tarte",
+    "Deux frères chassent monstres en Impala. Cherchent leur père.",
+    "Le Surnaturel"
+  ],
+  "Scrubs": [
+    "9 saisons, 1 hôpital, 1 concierge, 1 rêverie toutes les cinq minutes",
+    "Jeune interne rêve beaucoup. Concierge peu sympathique.",
+    "Les Blouses"
+  ],
+  "Community": [
+    "6 saisons, 1 université communautaire, 1 groupe d'étude, des batailles de paintball",
+    "Avocat radié cherche groupe d'étude d'espagnol. Paintball fréquent.",
+    "La Communauté"
+  ],
+  "Parks and Recreation": [
+    "7 saisons, 1 Pawnee, 1 fosse à combler, 1 mini-cheval",
+    "Fonctionnaire enthousiaste veut transformer une fosse en parc.",
+    "Parcs et Loisirs"
+  ],
+  "Brooklyn Nine-Nine": [
+    "8 saisons, 1 commissariat, 1 Halloween, 1 capitaine impassible",
+    "Inspecteur farceur cherche capitaine sans émotion pour son équipe.",
+    "Le 99e commissariat de New York"
+  ],
+  "Skins": [
+    "7 saisons, 1 Bristol, des générations de lycéens, 1 fête",
+    "Lycéens de Bristol cherchent la fête du siècle.",
+    "Les Peaux"
+  ],
+  "Misfits": [
+    "5 saisons, 1 travaux d'intérêt général, 1 orage, des combinaisons orange",
+    "Délinquants en travaux d'intérêt général cherchent explication à leurs pouvoirs.",
+    "Les Inadaptés"
+  ],
+  "The Boys": [
+    "4 saisons, 1 super-héros laser, 1 Vought, des Tchou",
+    "Équipe de justiciers cherche à abattre super-héros corrompus.",
+    "Les Gars"
+  ],
+  "Ozark": [
+    "4 saisons, 1 lac du Missouri, 1 cartel, 8 millions à blanchir",
+    "Conseiller financier cherche bonnes affaires au lac pour blanchir.",
+    "Les Monts du Missouri"
+  ],
+  "Mindhunter": [
+    "2 saisons, 1 FBI, 1977, des entretiens de tueurs en série",
+    "Agents du FBI interrogent tueurs en série en prison. Notes à prendre.",
+    "Le Chasseur d'esprits"
+  ],
+  "Rick and Morty": [
+    "7 saisons, 1 savant fou, 1 portail, 1 cornichon",
+    "Grand-père scientifique cherche petit-fils pour aventures interdimensionnelles.",
+    "Richard et Maurice"
+  ],
+  "BoJack Horseman": [
+    "6 saisons, 1 cheval, 1 Hollywoo, 1 sitcom des années 90",
+    "Ancienne star de sitcom équine cherche à écrire ses mémoires.",
+    "Benoît Cavalier"
+  ],
+  "South Park": [
+    "26 saisons, 1 Colorado, 4 garçons, 1 Kenny qui meurt",
+    "Quatre écoliers du Colorado cherchent problèmes. Mort récurrente d'un ami.",
+    "Le Parc du Sud"
+  ],
+  "Les Simpson": [
+    "35 saisons, 1 Springfield, 1 donut, 1 canapé",
+    "Famille jaune de Springfield. Père travaillant dans une centrale nucléaire.",
+    "Les Fils de Simp"
+  ],
+  "Family Guy": [
+    "22 saisons, 1 Rhode Island, 1 bébé qui veut dominer le monde, 1 chien qui parle",
+    "Père de famille de Quahog cherche ennuis. Chien très cultivé.",
+    "Le Gars de la famille"
+  ],
+  "H": [
+    "4 saisons, 1 hôpital, 1 standard, 1 aide-soignant",
+    "Hôpital cherche brancardier et standardiste moins paresseux.",
+    "La Huitième Lettre"
+  ],
+  "Fleabag": [
+    "2 saisons, 1 café, 1 regard caméra, 1 prêtre",
+    "Gérante de café londonien cherche conseil en amour. Prêtre très séduisant.",
+    "Le Sac à puces"
+  ],
+  "Desperate Housewives": [
+    "8 saisons, 1 Wisteria Lane, 4 voisines, 1 narratrice morte",
+    "Ménagère de Wisteria Lane cherche secret. Voisine narratrice défunte.",
+    "Les Ménagères au bout du rouleau"
+  ],
+  "Sex and the City": [
+    "6 saisons, 1 New York, 4 amies, 1 cosmopolitan",
+    "Chroniqueuse new-yorkaise cherche chaussures et amour. Cosmos entre amies.",
+    "Le Sexe et la Ville"
+  ],
+  "The Mentalist": [
+    "7 saisons, 1 tueur en série, 1 smiley rouge, 1 consultant",
+    "Ancien médium cherche tueur au smiley rouge. Thé apprécié.",
+    "Le Mentaliste"
+  ],
+  "The Umbrella Academy": [
+    "4 saisons, 7 enfants adoptés, 1 singe majordome, 1 apocalypse",
+    "Milliardaire adopte sept enfants nés le même jour. Fin du monde à éviter.",
+    "L'Académie Parapluie"
+  ],
+  "Daredevil": [
+    "3 saisons, 1 Hell's Kitchen, 1 avocat aveugle, 1 couloir",
+    "Avocat aveugle de Hell's Kitchen cherche justice, de nuit.",
+    "Le Casse-cou"
+  ],
+  "Luke Cage": [
+    "2 saisons, 1 Harlem, 1 peau indestructible, 1 sweat à capuche troué",
+    "Homme pare-balles cherche à protéger Harlem.",
+    "Lucas le Barreau"
+  ],
+  "Sons of Anarchy": [
+    "7 saisons, 1 club de motards, 1 Charming, 1 vente d'armes",
+    "Club de bikers de Charming cherche armes à revendre.",
+    "Les Fils de l'Anarchie"
+  ],
+  "Charmed": [
+    "8 saisons, 3 sœurs, 1 grimoire, 1 manoir à San Francisco",
+    "Trois sœurs sorcières cherchent démons à éliminer. Grimoire à consulter.",
+    "Les Envoûtées"
+  ],
+  "Banshee": [
+    "4 saisons, 1 petite ville amish, 1 faux shérif, 1 braquage",
+    "Ex-taulard cherche emploi de shérif sous fausse identité.",
+    "La Pleureuse"
+  ],
+  "Penny Dreadful": [
+    "3 saisons, 1 Londres victorien, 1 Frankenstein, 1 Dorian Gray",
+    "Société victorienne cherche médium pour chasser créatures légendaires.",
+    "Le Roman à deux sous"
+  ],
+  "Orphan Black": [
+    "5 saisons, des clones, 1 sosie, 1 quai de gare",
+    "Jeune femme voit son sosie se jeter sous un train. Prend son identité.",
+    "L'Orpheline sombre"
+  ],
+  "Heroes": [
+    "4 saisons, 1 pom-pom girl, 1 éclipse, 1 tueur de cerveaux",
+    "Sauvez la pom-pom girl, sauvez le monde.",
+    "Les Héros"
+  ],
+  "Pluribus": [
+    "1 saison, 1 Albuquerque, 1 virus, 1 romancière immunisée",
+    "Romancière cherche quelqu'un de malheureux. Tous les autres sont heureux.",
+    "Plusieurs en un"
+  ],
+  "Yellowstone": [
+    "5 saisons, 1 ranch du Montana, 1 famille Dutton, 1 marque au fer",
+    "Ranch du Montana cherche cowboys. Train vers la gare à éviter.",
+    "La Pierre jaune"
+  ],
+  "Preacher": [
+    "4 saisons, 1 pasteur, 1 vampire irlandais, 1 voix de Dieu",
+    "Pasteur texan doté d'un pouvoir de commandement cherche Dieu.",
+    "Le Prédicateur"
+  ],
+  "The Bear": [
+    "3 saisons, 1 sandwicherie de Chicago, 1 chef étoilé, 1 frère disparu",
+    "Restaurant de bœuf italien cherche cuisiniers. Oui, chef !",
+    "L'Ours"
+  ],
+  "Severance": [
+    "2 saisons, 1 entreprise, 1 ascenseur, 1 mémoire coupée en deux",
+    "Entreprise Lumon recrute. Souvenirs professionnels séparés de votre vie.",
+    "La Séparation"
+  ],
+  "Andor": [
+    "2 saisons, 1 rébellion naissante, 1 prison, 1 Ferrix",
+    "Voleur de Ferrix cherche à rejoindre la rébellion. Prison de Narkina à éviter.",
+    "Andrès"
+  ],
+  "Loki": [
+    "2 saisons, 1 TVA, 1 crocodile, des variantes de lui-même",
+    "Dieu de la malice recruté par une agence du temps. Variantes à traquer.",
+    "Le Dieu malin"
+  ],
+  "WandaVision": [
+    "1 saison, 1 sitcom, 1 Westview, 1 androïde",
+    "Couple de super-héros vit dans une sitcom des années 50. Pas de couleurs.",
+    "Wanda et la Vision"
+  ],
+  "The Last of Us": [
+    "2 saisons, 1 champignon, 1 adolescente immunisée, 1 Boston",
+    "Contrebandier cherche à escorter adolescente immunisée à travers les États-Unis.",
+    "Les Derniers d'entre nous"
+  ],
+  "House of the Dragon": [
+    "2 saisons, 1 Trône de fer, 1 Rhaenyra, des dizaines de dragons",
+    "Famille Targaryen cherche héritière. Dragons à dresser.",
+    "La Dynastie des cracheurs de feu"
+  ],
+  "The Witcher": [
+    "3 saisons, 1 chasseur de monstres, 1 princesse, 1 barde",
+    "Mercenaire aux cheveux blancs cherche son enfant de surprise. Barde gênant.",
+    "Le Sorceleur"
+  ],
+  "Ted Lasso": [
+    "3 saisons, 1 club de foot londonien, 1 coach de football américain, des biscuits",
+    "Club de Premier League cherche entraîneur ignorant tout du football.",
+    "Théodore la Corde"
+  ],
+  "The Haunting of Hill House": [
+    "1 saison, 1 manoir, 5 enfants, 1 dame au cou tordu",
+    "Famille cherche maison à rénover. Pièce rouge fermée à clé.",
+    "La Hantise de la colline"
+  ],
+  "Le Jeu de la dame": [
+    "1 saison, 1 orphelinat, 1 échiquier au plafond, 1 tranquillisant",
+    "Orpheline prodige des échecs cherche adversaires. Moscou au programme.",
+    "La Partie de la reine"
+  ],
+  "Futurama": [
+    "11 saisons, 1 livreur cryogénisé, 1 robot, 1 an 3000",
+    "Société de livraison cherche coursier décongelé. Robot fumeur à bord.",
+    "Le Futur en cinémascope"
+  ],
+  "Star Trek": [
+    "3 saisons, 1 vaisseau Enterprise, 1 Vulcain, 1 téléporteur",
+    "Équipage cherche nouvelles civilisations. Là où personne n'est jamais allé.",
+    "Le Voyage aux étoiles"
+  ],
+  "American Horror Story": [
+    "12 saisons, 1 maison hantée, 1 asile, 1 cirque",
+    "Anthologie d'horreur cherche lieu maudit pour chaque saison.",
+    "Une histoire américaine qui fait peur"
+  ],
+  "Glee": [
+    "6 saisons, 1 chorale de lycée, 1 Slushie, 1 compétition",
+    "Chorale de lycée cherche chanteurs. Attention aux boissons glacées.",
+    "La Joie"
+  ],
+  "Orange Is the New Black": [
+    "7 saisons, 1 prison pour femmes, 1 combinaison couleur agrume, 1 ex",
+    "Bourgeoise de Manhattan purge peine pour ancienne affaire.",
+    "L'Agrume est le nouveau sombre"
+  ],
+  "Kaamelott": [
+    "6 saisons, 1 table ronde, 1 Graal, des cailloux",
+    "Roi de Bretagne cherche chevaliers compétents. Graal en option.",
+    "La Cour du roi Arthur"
+  ],
+  "Dix pour cent": [
+    "4 saisons, 1 agence d'acteurs, 1 star par épisode, 1 Paris",
+    "Agence artistique parisienne cherche agents. Stars difficiles.",
+    "Un dixième"
+  ],
+  "Lupin": [
+    "3 saisons, 1 Louvre, 1 collier, 1 livre de Maurice Leblanc",
+    "Cambrioleur gentleman cherche collier de la reine au Louvre.",
+    "Le Lapin"
+  ],
+  "Le Bureau des légendes": [
+    "5 saisons, 1 DGSE, 1 clandestin, 1 Syrie",
+    "Service secret français cherche agents clandestins sous fausse identité.",
+    "L'Agence des récits"
+  ],
+  "Baron noir": [
+    "3 saisons, 1 député du Nord, 1 Élysée, 1 trahison",
+    "Homme politique du Nord cherche revanche sur la scène nationale.",
+    "Le Seigneur sombre"
+  ],
+  "Squid Game": [
+    "3 saisons, 456 joueurs, 1 poupée géante, 45,6 milliards de wons",
+    "Jeu de cour d'école contre gros lots. Endettés recherchés.",
+    "Le Jeu du Calmar"
+  ],
+  "Black Mirror": [
+    "7 saisons, 1 anthologie, des écrans, 1 futur proche",
+    "Technologie de demain cherche cobayes. Fin heureuse non garantie.",
+    "Le Miroir sombre"
+  ],
+  "Wednesday": [
+    "2 saisons, 1 académie Nevermore, 1 main, 1 danse",
+    "Académie pour élèves particuliers cherche détective. Main qui se balade.",
+    "Mercredi"
+  ],
+  "Arcane": [
+    "2 saisons, 1 Piltover, 1 Zaun, 2 sœurs",
+    "Deux sœurs séparées entre ville haute et ville basse.",
+    "Le Mystère"
+  ],
+  "House": [
+    "8 saisons, 1 canne, 1 Vicodin, 1 ce n'est jamais le lupus",
+    "Diagnosticien misanthrope cherche cas impossibles. Ce n'est jamais le lupus.",
+    "Maison"
+  ],
+  "Hannibal": [
+    "3 saisons, 1 psychiatre, 1 profileur, des dîners raffinés",
+    "Psychiatre gastronome cherche profileur du FBI pour dîners raffinés.",
+    "Le Mangeur d'hommes"
+  ],
+  "Mr. Robot": [
+    "4 saisons, 1 hacker, 1 E Corp, 1 masque",
+    "Ingénieur en sécurité informatique cherche à effacer toutes les dettes du monde.",
+    "Monsieur Automate"
+  ],
+  "Gossip Girl": [
+    "6 saisons, 1 Upper East Side, 1 blog anonyme, 1 bise",
+    "Bloggeuse anonyme cherche ragots sur l'Upper East Side. Bisous.",
+    "La Fille des ragots"
+  ],
+  "Cobra Kai": [
+    "6 saisons, 1 dojo, 34 ans plus tard, 1 coup de pied de grue",
+    "Ancien champion de karaté rouvre dojo. Sans pitié.",
+    "Le Serpent du dojo"
+  ],
+  "Shōgun": [
+    "1 saison, 1600, 1 navigateur anglais, 1 seigneur",
+    "Navigateur anglais échoué au Japon cherche à survivre aux intrigues.",
+    "Le Général des armées"
+  ],
+  "Fallout": [
+    "2 saisons, 1 abri, 1 désert nucléaire, 1 goule",
+    "Habitante d'un abri antiatomique cherche son père à la surface.",
+    "Les Retombées"
+  ],
+  "Slow Horses": [
+    "5 saisons, 1 MI5, 1 Slough House, 1 chef qui pète",
+    "Espions déchus cherchent rédemption dans un service poubelle.",
+    "Les Chevaux lents"
+  ],
+  "The White Lotus": [
+    "3 saisons, 1 hôtel de luxe, 1 Hawaï, 1 cadavre",
+    "Hôtel de luxe cherche clients fortunés. Corps à l'aéroport.",
+    "La Fleur blanche"
+  ],
+  "Only Murders in the Building": [
+    "4 saisons, 1 Arconia, 1 podcast, 3 voisins",
+    "Trois voisins cherchent meurtrier pour leur podcast. Arconia.",
+    "Que des meurtres dans l'immeuble"
+  ],
+  "Bridgerton": [
+    "4 saisons, 1 Régence, 1 lady Whistledown, 8 frères et sœurs",
+    "Débutante cherche mari. Chronique anonyme à surveiller.",
+    "La Chronique mondaine de la Régence"
+  ],
+  "True Blood": [
+    "7 saisons, 1 Louisiane, 1 serveuse télépathe, 1 sang synthétique",
+    "Serveuse télépathe cherche vampire galant. Sang synthétique au menu.",
+    "Le Vrai Sang"
+  ],
+  "Narcos : Mexico": [
+    "3 saisons, 1 Guadalajara, 1 cartel, 1 agent de la DEA",
+    "Agent de la DEA cherche parrain mexicain. Cartel en formation.",
+    "Les Trafiquants : Mexique"
+  ],
+  "Gomorra": [
+    "5 saisons, 1 Naples, 1 Camorra, 1 Secondigliano",
+    "Clan napolitain cherche successeur. Banlieue de Naples.",
+    "La Ville damnée"
+  ],
+  "Widow's Bay": [
+    "1 saison, 1 île de Nouvelle-Angleterre, 1 maire, 1 malédiction",
+    "Maire d'une petite île cherche touristes. Habitants très superstitieux.",
+    "La Baie de la Veuve"
+  ],
+  "Silo": [
+    "3 saisons, 1 abri souterrain, 144 étages, 1 extérieur toxique",
+    "Ingénieure de l'abri cherche vérité sur l'extérieur.",
+    "Le Grenier à grain"
+  ],
+  "Malcolm": [
+    "7 saisons, 1 famille, 1 surdoué, 1 Lois très stricte",
+    "Mère de cinq garçons cherche aide. Fils surdoué.",
+    "Le Surdoué"
+  ]
+}

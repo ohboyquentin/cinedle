@@ -1,0 +1,1192 @@
+{
+  "Blanche-Neige": [
+    "Humaine, princesse. Domicile : une petite maison au fond des bois.",
+    "Peau pâle, cheveux noirs, je fais le ménage en chantant avec les animaux.",
+    "Je ne me méfie jamais des vieilles dames qui vendent des pommes."
+  ],
+  "La Reine": [
+    "Humaine, souveraine. Domicile : un château sombre.",
+    "Très belle, très jalouse, je me transforme en vieille sorcière.",
+    "Miroir, mon beau miroir…"
+  ],
+  "Grincheux": [
+    "Mineur de petite taille. Domicile : une chaumière dans la forêt.",
+    "Toujours de mauvaise humeur, je me méfie des femmes.",
+    "Je fais partie d'une bande de petits mineurs, et je n'aime pas me laver."
+  ],
+  "Jiminy Cricket": [
+    "Insecte. Domicile : l'atelier d'un sculpteur sur bois.",
+    "Je porte un chapeau haut de forme et un parapluie.",
+    "Je suis la conscience officielle d'une marionnette."
+  ],
+  "Pinocchio": [
+    "Marionnette en bois. Domicile : l'atelier de mon père, Geppetto.",
+    "J'ai été changé en âne sur l'île des plaisirs.",
+    "Mon nez s'allonge quand je mens."
+  ],
+  "Bambi": [
+    "Faon. Domicile : la forêt.",
+    "Mes amis sont un lapin et une mouffette.",
+    "J'ai perdu ma mère l'hiver, et je deviens le grand prince de la forêt."
+  ],
+  "Panpan": [
+    "Lapin. Domicile : un terrier dans la forêt.",
+    "Je tape sans cesse du pied par terre.",
+    "Si on n'a rien de gentil à dire, on ne dit rien."
+  ],
+  "Cendrillon": [
+    "Humaine, servante devenue princesse. Domicile : le grenier de ma belle-mère.",
+    "Mes amis sont des souris, et une fée m'a offert une robe.",
+    "J'ai perdu une pantoufle de verre à minuit."
+  ],
+  "Lady Trémaine": [
+    "Humaine, veuve. Domicile : un manoir.",
+    "Mère de deux filles maladroites, je fais travailler ma belle-fille.",
+    "J'ai cassé la pantoufle de verre exprès."
+  ],
+  "Alice": [
+    "Humaine, fillette anglaise. Domicile : une maison au bord d'une rivière.",
+    "Robe bleue et tablier blanc, je change de taille souvent.",
+    "J'ai suivi un lapin blanc dans un terrier."
+  ],
+  "Le Chapelier fou": [
+    "Humain, fabricant de couvre-chefs. Domicile : un jardin où l'on prend le thé.",
+    "Je fête tous les jours mon non-anniversaire.",
+    "Le chiffre 10/6 est écrit sur mon chapeau."
+  ],
+  "Le Chat du Cheshire": [
+    "Félin rose et violet. Domicile : les arbres d'un monde étrange.",
+    "J'apparais et je disparais quand je veux.",
+    "On ne voit parfois que mon grand sourire."
+  ],
+  "La Reine de Cœur": [
+    "Humaine, souveraine. Domicile : un château de cartes.",
+    "Je joue au croquet avec des flamants roses.",
+    "Qu'on lui coupe la tête !"
+  ],
+  "Peter Pan": [
+    "Humain, garçon. Domicile : le Pays imaginaire.",
+    "Je refuse de grandir, et j'ai perdu mon ombre.",
+    "Je vole grâce à une poussière de fée."
+  ],
+  "Capitaine Crochet": [
+    "Humain, pirate. Domicile : un navire.",
+    "J'ai perdu une main, mangée par un crocodile.",
+    "Le tic-tac d'une horloge me terrifie."
+  ],
+  "Fée Clochette": [
+    "Petite créature ailée. Domicile : le Pays imaginaire.",
+    "Petite, blonde, très jalouse.",
+    "Ma poussière permet de voler."
+  ],
+  "Maléfique": [
+    "Créature magique et cruelle. Domicile : la Montagne Interdite.",
+    "Je n'ai pas été invitée à un baptême.",
+    "Je me transforme en dragon, et j'ai un corbeau."
+  ],
+  "Mowgli": [
+    "Humain, petit d'homme. Domicile : la forêt indienne.",
+    "Élevé par des loups, je refuse d'aller au village des hommes.",
+    "Mon meilleur ami est un ours insouciant."
+  ],
+  "Baloo": [
+    "Ours. Domicile : la forêt indienne.",
+    "Professeur très peu sérieux d'un petit d'homme.",
+    "Il en faut peu pour être heureux."
+  ],
+  "Shere Khan": [
+    "Tigre. Domicile : la forêt indienne.",
+    "Je n'aime pas les hommes, et je traque un enfant.",
+    "Le feu me fait très peur."
+  ],
+  "Ariel": [
+    "Mi-femme, mi-poisson. Domicile : le palais de mon père sous la mer.",
+    "Je collectionne les objets humains dans une grotte.",
+    "J'ai échangé ma voix contre des jambes."
+  ],
+  "Sébastien": [
+    "Crabe. Domicile : le royaume sous-marin.",
+    "Compositeur de la cour, je dois surveiller une princesse.",
+    "Sous l'océan, c'est mieux !"
+  ],
+  "Ursula": [
+    "Pieuvre. Domicile : une grotte au fond de l'océan.",
+    "Sorcière des mers, je collectionne les âmes malheureuses.",
+    "Je garde une voix magnifique dans un coquillage."
+  ],
+  "Belle": [
+    "Humaine. Domicile : un petit village français.",
+    "Grande lectrice, on me trouve bizarre.",
+    "J'ai pris la place de mon père, prisonnier d'un château."
+  ],
+  "La Bête": [
+    "Prince maudit. Domicile : un château enchanté.",
+    "Une enchanteresse m'a transformé pour mon égoïsme.",
+    "Une rose sous cloche perd ses pétales."
+  ],
+  "Gaston": [
+    "Humain, chasseur. Domicile : une taverne de village.",
+    "Très musclé et très imbu de moi-même.",
+    "Je mange cinq douzaines d'œufs par jour."
+  ],
+  "Lumière": [
+    "Chandelier. Domicile : un château enchanté.",
+    "Maître d'hôtel français et charmeur.",
+    "Soyez notre invitée !"
+  ],
+  "Aladdin": [
+    "Humain, voleur des rues. Domicile : Agrabah.",
+    "Mon meilleur ami est un singe.",
+    "J'ai trouvé une lampe magique."
+  ],
+  "Jasmine": [
+    "Humaine, princesse. Domicile : le palais d'Agrabah.",
+    "Je refuse tous les prétendants.",
+    "Mon animal de compagnie est un tigre."
+  ],
+  "Le Génie": [
+    "Être magique bleu. Domicile : une lampe.",
+    "Des pouvoirs cosmiques phénoménaux dans un minuscule espace vital.",
+    "J'accorde trois vœux."
+  ],
+  "Jafar": [
+    "Humain, grand vizir. Domicile : le palais d'Agrabah.",
+    "Mon perroquet est très bavard.",
+    "Mon bâton en forme de serpent hypnotise."
+  ],
+  "Simba": [
+    "Grand félin de la savane. Domicile : un rocher qui domine la plaine.",
+    "Exilé après la mort de mon père, élevé par un suricate et un phacochère.",
+    "Pas de soucis, c'est ma philosophie."
+  ],
+  "Scar": [
+    "Grand félin à crinière noire. Domicile : la savane.",
+    "J'ai une cicatrice sur l'œil.",
+    "J'ai fait tomber mon frère dans un troupeau de gnous."
+  ],
+  "Timon": [
+    "Suricate. Domicile : une jungle.",
+    "Mon meilleur ami est un phacochère.",
+    "Hakuna Matata !"
+  ],
+  "Pumbaa": [
+    "Phacochère. Domicile : une jungle.",
+    "Je mange des insectes, et j'ai un problème de flatulences.",
+    "Mon ami est un suricate."
+  ],
+  "Mufasa": [
+    "Grand félin, souverain. Domicile : la savane.",
+    "J'apprends à mon fils le cycle de la vie.",
+    "Je suis mort piétiné par des gnous."
+  ],
+  "Pocahontas": [
+    "Humaine, fille de chef. Domicile : la Virginie.",
+    "Je parle à une grand-mère saule.",
+    "Je suis tombée amoureuse d'un capitaine anglais."
+  ],
+  "Quasimodo": [
+    "Humain, sonneur de cloches. Domicile : le clocher d'une cathédrale de Paris.",
+    "Mes amis sont trois gargouilles.",
+    "Sanctuaire !"
+  ],
+  "Frollo": [
+    "Humain, juge. Domicile : Paris.",
+    "Je déteste les gitans.",
+    "J'ai élevé un enfant difforme caché dans un clocher."
+  ],
+  "Hercule": [
+    "Demi-dieu. Domicile : la Grèce antique.",
+    "Fils de Zeus, je suis devenu mortel.",
+    "J'ai un cheval ailé."
+  ],
+  "Hadès": [
+    "Dieu. Domicile : les Enfers.",
+    "Mes cheveux sont une flamme bleue.",
+    "Mes deux serviteurs s'appellent Peine et Panique."
+  ],
+  "Mulan": [
+    "Humaine. Domicile : la Chine ancienne.",
+    "Je me suis déguisée en homme pour l'armée.",
+    "Un petit dragon rouge m'accompagne."
+  ],
+  "Mushu": [
+    "Petit dragon rouge. Domicile : le temple des ancêtres.",
+    "Gardien déchu, je veux retrouver ma place.",
+    "J'accompagne une jeune femme à l'armée."
+  ],
+  "Stitch": [
+    "Extraterrestre, expérience 626. Domicile : Hawaï.",
+    "Je passe pour un chien bleu.",
+    "Ohana signifie famille."
+  ],
+  "Lilo": [
+    "Humaine, petite fille. Domicile : Hawaï.",
+    "Je vis avec ma grande sœur.",
+    "J'ai adopté un chien très étrange."
+  ],
+  "Raiponce": [
+    "Humaine, princesse. Domicile : une tour.",
+    "Mes cheveux font 21 mètres de long.",
+    "Je veux voir les lanternes flottantes."
+  ],
+  "Flynn Rider": [
+    "Humain, voleur. Domicile : le royaume de Corona.",
+    "Mon vrai nom est Eugène Fitzherbert.",
+    "Je fais toujours mon regard de braise."
+  ],
+  "Mère Gothel": [
+    "Humaine. Domicile : une tour cachée.",
+    "Je reste jeune grâce à une fleur magique.",
+    "Je dis à ma fille adoptive que le monde est dangereux."
+  ],
+  "Ralph": [
+    "Méchant de jeu vidéo. Domicile : une borne d'arcade.",
+    "Je casse des immeubles depuis 30 ans.",
+    "Je ne suis pas un méchant, c'est le jeu qui veut ça."
+  ],
+  "Vanellope": [
+    "Pilote de course. Domicile : un jeu en bonbons.",
+    "Je suis un bug, je disparais.",
+    "Je deviens présidente."
+  ],
+  "Elsa": [
+    "Humaine, souveraine. Domicile : un palais de glace.",
+    "J'ai caché mon pouvoir depuis l'enfance.",
+    "Libérée, délivrée !"
+  ],
+  "Anna": [
+    "Humaine, princesse. Domicile : Arendelle.",
+    "Je suis tombée amoureuse le jour même.",
+    "Je pars chercher ma sœur dans la montagne."
+  ],
+  "Olaf": [
+    "Bonhomme de neige. Domicile : Arendelle.",
+    "J'ai une carotte pour nez.",
+    "J'aime les câlins bien chauds, et je rêve de l'été."
+  ],
+  "Kristoff": [
+    "Humain, vendeur de glace. Domicile : la montagne.",
+    "Mon meilleur ami est un renne.",
+    "Élevé par des trolls."
+  ],
+  "Baymax": [
+    "Robot infirmier gonflable. Domicile : San Fransokyo.",
+    "Je suis satisfait de mes soins.",
+    "Je deviens justicier en armure rouge."
+  ],
+  "Judy Hopps": [
+    "Lapine, policière. Domicile : une grande ville d'animaux.",
+    "Première de mon espèce dans la police.",
+    "Mon partenaire est un renard escroc."
+  ],
+  "Nick Wilde": [
+    "Renard, escroc. Domicile : une grande ville d'animaux.",
+    "Je vends des glaces fondues.",
+    "Je deviens policier avec une lapine."
+  ],
+  "Vaiana": [
+    "Humaine, fille de chef. Domicile : l'île de Motunui.",
+    "Je navigue avec un coq idiot.",
+    "Je dois rendre le cœur d'une déesse."
+  ],
+  "Maui": [
+    "Demi-dieu. Domicile : une île déserte.",
+    "Mes tatouages bougent.",
+    "J'ai un hameçon magique."
+  ],
+  "Mirabel": [
+    "Humaine. Domicile : une maison magique en Colombie.",
+    "Je suis la seule de ma lignée sans don.",
+    "Lunettes rondes et jupe brodée."
+  ],
+  "Raya": [
+    "Humaine, guerrière. Domicile : Kumandra.",
+    "Mon père a été changé en pierre.",
+    "Je cherche l'ultime survivante d'une espèce légendaire."
+  ],
+  "Woody": [
+    "Jouet cow-boy. Domicile : la chambre d'Andy.",
+    "Je suis le jouet préféré.",
+    "Il y a un serpent dans ma botte !"
+  ],
+  "Buzz l'Éclair": [
+    "Jouet astronaute. Domicile : la chambre d'Andy.",
+    "Je crois être un vrai ranger de l'espace.",
+    "Vers l'infini et au-delà !"
+  ],
+  "Rex": [
+    "Jouet dinosaure. Domicile : la chambre d'Andy.",
+    "Je suis très anxieux.",
+    "Mes bras sont trop courts pour jouer aux jeux vidéo."
+  ],
+  "Sid": [
+    "Humain, garçon. Domicile : la maison d'à côté.",
+    "Je torture les jouets.",
+    "Tee-shirt à tête de mort."
+  ],
+  "Sulli": [
+    "Monstre bleu. Domicile : Monstropolis.",
+    "Meilleure terreur de l'usine.",
+    "Une petite fille m'appelle Minou."
+  ],
+  "Bob Razowski": [
+    "Monstre vert à un œil. Domicile : Monstropolis.",
+    "Mon collègue est un grand monstre bleu.",
+    "Je rêve d'être effrayant."
+  ],
+  "Boo": [
+    "Humaine, petite fille. Domicile : une chambre avec un placard.",
+    "J'ai traversé une porte vers un monde de créatures.",
+    "J'appelle un grand monstre bleu Minou."
+  ],
+  "Marin": [
+    "Poisson-clown. Domicile : une anémone.",
+    "Père très anxieux.",
+    "Je traverse l'océan pour retrouver mon fils."
+  ],
+  "Dory": [
+    "Poissonne bleue. Domicile : l'océan.",
+    "Je souffre de pertes de mémoire.",
+    "Continue de nager !"
+  ],
+  "Nemo": [
+    "Poisson-clown. Domicile : une anémone.",
+    "J'ai une nageoire plus petite.",
+    "J'ai été capturé par un dentiste."
+  ],
+  "Mr Indestructible": [
+    "Humain, super-héros. Domicile : une banlieue.",
+    "Je travaille dans une assurance.",
+    "Je suis très fort."
+  ],
+  "Elastigirl": [
+    "Humaine, super-héroïne. Domicile : une banlieue.",
+    "Mère de trois enfants.",
+    "Mon corps s'étire."
+  ],
+  "Edna Mode": [
+    "Humaine, créatrice de costumes. Domicile : une villa.",
+    "Petite, lunettes rondes.",
+    "Pas de capes !"
+  ],
+  "Syndrome": [
+    "Humain, inventeur. Domicile : une île.",
+    "J'étais un fan rejeté.",
+    "Ma cape a causé ma perte."
+  ],
+  "Flash McQueen": [
+    "Voiture de course. Domicile : Radiator Springs.",
+    "Je suis très rapide et arrogant.",
+    "Ka-chow !"
+  ],
+  "Martin": [
+    "Dépanneuse rouillée. Domicile : Radiator Springs.",
+    "Je suis le meilleur ami d'une voiture de course.",
+    "Je conduis en marche arrière."
+  ],
+  "Rémy": [
+    "Rat. Domicile : un restaurant parisien.",
+    "J'ai un odorat extraordinaire.",
+    "Je guide un commis en tirant ses cheveux."
+  ],
+  "Linguini": [
+    "Humain, commis. Domicile : Paris.",
+    "Je ne sais pas cuisiner.",
+    "Un rat sous ma toque."
+  ],
+  "Anton Ego": [
+    "Humain, critique gastronomique. Domicile : Paris.",
+    "Très maigre et très sévère.",
+    "Un plat de légumes m'a rappelé mon enfance."
+  ],
+  "WALL-E": [
+    "Robot nettoyeur. Domicile : la Terre.",
+    "Je compacte des déchets depuis des siècles.",
+    "Mon ami est un cafard."
+  ],
+  "EVE": [
+    "Robot de reconnaissance. Domicile : un vaisseau.",
+    "Blanche et très rapide.",
+    "Je cherche une plante sur Terre."
+  ],
+  "Carl Fredricksen": [
+    "Humain, vieil homme. Domicile : une maison volante.",
+    "J'ai perdu ma femme.",
+    "J'ai attaché des milliers de ballons à ma maison."
+  ],
+  "Doug": [
+    "Chien. Domicile : la jungle.",
+    "Mon collier me permet de parler.",
+    "Écureuil !"
+  ],
+  "Merida": [
+    "Humaine, princesse. Domicile : l'Écosse.",
+    "Cheveux roux et bouclés, très douée à l'arc.",
+    "Ma mère a été transformée en ourse."
+  ],
+  "Joie": [
+    "Émotion. Domicile : la tête d'une petite fille.",
+    "Toujours positive, je brille.",
+    "Je travaille avec quatre collègues."
+  ],
+  "Tristesse": [
+    "Émotion. Domicile : la tête d'une petite fille.",
+    "Petite, bleue, avec des lunettes.",
+    "Je touche les souvenirs et ils deviennent tristes."
+  ],
+  "Miguel": [
+    "Humain, garçon. Domicile : Mexique.",
+    "Ma famille déteste la musique.",
+    "Je joue de la guitare."
+  ],
+  "Hector": [
+    "Squelette. Domicile : le monde des morts.",
+    "On risque de m'oublier.",
+    "J'ai écrit une chanson célèbre."
+  ],
+  "Shrek": [
+    "Ogre. Domicile : un marais.",
+    "J'ai des couches, comme les oignons.",
+    "Mon ami est un âne."
+  ],
+  "L'Âne": [
+    "Équidé gris. Domicile : un royaume de contes.",
+    "Je parle beaucoup trop.",
+    "J'ai épousé un dragon."
+  ],
+  "Fiona": [
+    "Humaine le jour, ogresse la nuit. Domicile : une tour.",
+    "J'étais gardée par un dragon.",
+    "Je suis tombée amoureuse d'un ogre."
+  ],
+  "Lord Farquaad": [
+    "Humain, seigneur. Domicile : Duloc.",
+    "Je suis très petit.",
+    "Je veux épouser une princesse pour devenir roi."
+  ],
+  "Alex le lion": [
+    "Grand félin. Domicile : un zoo à New York.",
+    "Je suis la star du zoo.",
+    "Mon meilleur ami est un zèbre."
+  ],
+  "Marty le zèbre": [
+    "Équidé rayé. Domicile : un zoo à New York.",
+    "Je rêve de nature.",
+    "Mon meilleur ami est un félin."
+  ],
+  "Po": [
+    "Gros ours noir et blanc. Domicile : la Vallée de la Paix.",
+    "Mon père est une oie qui fait des nouilles.",
+    "Je suis le Guerrier Dragon."
+  ],
+  "Maître Shifu": [
+    "Petit mammifère roux. Domicile : le palais de Jade.",
+    "Entraîneur très sévère, de petite taille.",
+    "J'entraîne cinq guerriers."
+  ],
+  "Tai Lung": [
+    "Léopard des neiges. Domicile : une prison.",
+    "Ancien élève de mon maître.",
+    "Je veux le parchemin du dragon."
+  ],
+  "Harold": [
+    "Humain, viking. Domicile : Beurk.",
+    "Je suis maladroit.",
+    "Mon meilleur ami est un dragon noir."
+  ],
+  "Krokmou": [
+    "Créature volante noire. Domicile : Beurk.",
+    "Il me manque un morceau de queue.",
+    "Je suis une Furie Nocturne."
+  ],
+  "Gru": [
+    "Humain, vilain. Domicile : une maison noire en banlieue.",
+    "Grand nez, crâne chauve, écharpe.",
+    "J'ai adopté trois orphelines."
+  ],
+  "Le Grinch": [
+    "Créature verte. Domicile : une grotte au-dessus d'un village.",
+    "Mon cœur est trop petit.",
+    "Je déteste les fêtes de fin d'année."
+  ],
+  "Wallace": [
+    "Humain, inventeur. Domicile : une maison anglaise.",
+    "J'adore le fromage.",
+    "Mon chien est plus intelligent que moi."
+  ],
+  "Gromit": [
+    "Chien. Domicile : une maison anglaise.",
+    "Je ne parle pas.",
+    "Je tricote et je lis le journal."
+  ],
+  "Sid le paresseux": [
+    "Mammifère très lent qui vit dans les arbres. Domicile : la période glaciaire.",
+    "Je zozote.",
+    "Mes amis sont un mammouth et un tigre à dents de sabre."
+  ],
+  "Totoro": [
+    "Esprit de la forêt. Domicile : un camphrier.",
+    "Gros et gris.",
+    "Je prends le chat-bus."
+  ],
+  "Chihiro": [
+    "Humaine, fillette. Domicile : un monde d'esprits.",
+    "Mes parents ont été changés en cochons.",
+    "Je travaille dans des bains."
+  ],
+  "Sans-Visage": [
+    "Esprit. Domicile : les bains des esprits.",
+    "Masque blanc, je ne parle pas.",
+    "J'offre de l'or."
+  ],
+  "Haku": [
+    "Esprit d'une rivière. Domicile : les bains des esprits.",
+    "Je me transforme en dragon blanc.",
+    "J'ai oublié mon vrai nom."
+  ],
+  "San": [
+    "Humaine. Domicile : la forêt.",
+    "Élevée par des loups.",
+    "Masque et lance."
+  ],
+  "Ashitaka": [
+    "Humain, prince. Domicile : un village de l'est.",
+    "Mon bras est maudit.",
+    "Je chevauche un élan rouge."
+  ],
+  "Hauru": [
+    "Humain, magicien. Domicile : une demeure qui marche.",
+    "Je me transforme en oiseau.",
+    "Mon cœur est dans un démon de feu."
+  ],
+  "Kiki": [
+    "Humaine, apprentie magicienne. Domicile : une ville au bord de la mer.",
+    "J'ai 13 ans.",
+    "Mon chat noir s'appelle Jiji."
+  ],
+  "Ponyo": [
+    "Fille-poisson. Domicile : la mer.",
+    "Je veux devenir humaine.",
+    "J'aime le jambon."
+  ],
+  "Porco Rosso": [
+    "Aviateur à tête de cochon. Domicile : une île de l'Adriatique.",
+    "Ancien pilote de guerre.",
+    "Je chasse les pirates de l'air."
+  ],
+  "Coraline": [
+    "Humaine, fillette. Domicile : une vieille maison.",
+    "Cheveux bleus.",
+    "Une autre mère a des boutons à la place des yeux."
+  ],
+  "Miles Morales": [
+    "Humain, adolescent. Domicile : Brooklyn.",
+    "J'ai été mordu par une araignée.",
+    "Je fais du graffiti."
+  ],
+  "Emmet": [
+    "Figurine. Domicile : une ville de briques.",
+    "Ouvrier très ordinaire.",
+    "Tout est génial !"
+  ],
+  "Kirikou": [
+    "Humain, tout petit garçon. Domicile : un village africain.",
+    "Je suis né tout seul.",
+    "Je ne suis pas grand, mais je suis vaillant."
+  ],
+  "Roz": [
+    "Machine. Domicile : une île déserte.",
+    "J'ai adopté un oison.",
+    "Je dois lui apprendre à voler."
+  ],
+  "Poppy": [
+    "Créature rose. Domicile : un village de troll.",
+    "Princesse optimiste.",
+    "Je fais beaucoup de câlins."
+  ],
+  "Megamind": [
+    "Génie du mal. Domicile : Metro City.",
+    "Grosse tête bleue.",
+    "Mon assistant est un poisson."
+  ],
+  "Dumbo": [
+    "Éléphanteau. Domicile : un cirque.",
+    "Mes oreilles sont immenses.",
+    "Je vole grâce à une plume."
+  ],
+  "Timothée": [
+    "Souris. Domicile : un cirque.",
+    "Je suis l'ami d'un éléphanteau.",
+    "Je lui donne une plume magique."
+  ],
+  "Cruella d'Enfer": [
+    "Humaine. Domicile : Londres.",
+    "Cheveux noir et blanc.",
+    "Je veux un manteau en fourrure de chiots."
+  ],
+  "Pongo": [
+    "Chien dalmatien. Domicile : Londres.",
+    "Mon maître est un musicien.",
+    "Je sauve mes chiots."
+  ],
+  "Duchesse": [
+    "Chatte blanche. Domicile : Paris.",
+    "Mère de trois chatons.",
+    "Le majordome veut m'éloigner."
+  ],
+  "Thomas O'Malley": [
+    "Chat de gouttière. Domicile : Paris.",
+    "Je suis très charmeur.",
+    "J'aide une chatte et ses chatons."
+  ],
+  "Madame Médusa": [
+    "Humaine. Domicile : un marais.",
+    "Je cherche un énorme diamant.",
+    "J'ai deux crocodiles."
+  ],
+  "Bernard": [
+    "Souris. Domicile : New York.",
+    "Concierge de la Société de secours.",
+    "J'ai peur du chiffre 13."
+  ],
+  "Bianca": [
+    "Souris. Domicile : New York.",
+    "Agente hongroise de la Société de secours.",
+    "Très élégante."
+  ],
+  "Kuzco": [
+    "Humain, souverain. Domicile : un palais inca.",
+    "Très égoïste.",
+    "J'ai été transformé en lama."
+  ],
+  "Yzma": [
+    "Humaine, conseillère. Domicile : un palais inca.",
+    "Très vieille et très maigre.",
+    "Je veux empoisonner le souverain."
+  ],
+  "Kronk": [
+    "Humain, homme de main. Domicile : un palais inca.",
+    "Très gentil et cuisinier.",
+    "Je parle aux écureuils."
+  ],
+  "Pacha": [
+    "Humain, paysan. Domicile : un village de montagne.",
+    "Grand et gentil.",
+    "J'aide un souverain transformé en lama."
+  ],
+  "Lewis Robinson": [
+    "Humain, orphelin. Domicile : un orphelinat.",
+    "Jeune inventeur.",
+    "Je cherche ma mère."
+  ],
+  "Le Chapeau Melon": [
+    "Humain. Domicile : le futur.",
+    "Moustache, et un couvre-chef très particulier.",
+    "Mon couvre-chef est une machine vivante."
+  ],
+  "Jessie": [
+    "Jouet cow-girl. Domicile : la chambre d'Andy.",
+    "Abandonnée par ma propriétaire.",
+    "Cheveux roux et chapeau rouge."
+  ],
+  "Zurg": [
+    "Robot. Domicile : l'espace.",
+    "Ennemi juré d'un ranger.",
+    "Je suis ton père."
+  ],
+  "Stinky Pete": [
+    "Jouet. Domicile : une boîte.",
+    "Prospecteur jamais déballé.",
+    "Je veux aller au musée au Japon."
+  ],
+  "Wendy": [
+    "Humaine, jeune fille. Domicile : Londres.",
+    "Je raconte des histoires à mes frères.",
+    "J'ai volé jusqu'au Pays imaginaire."
+  ],
+  "Bagheera": [
+    "Panthère noire. Domicile : la forêt indienne.",
+    "Très sérieuse.",
+    "Je veux ramener le petit d'homme."
+  ],
+  "Kaa": [
+    "Serpent. Domicile : la forêt indienne.",
+    "J'hypnotise mes proies.",
+    "Aie confiance."
+  ],
+  "Le Roi Louie": [
+    "Orang-outan. Domicile : un temple en ruine.",
+    "Je veux le secret du feu.",
+    "Je chante et je danse."
+  ],
+  "Polochon": [
+    "Poisson. Domicile : la mer.",
+    "Meilleur ami d'une princesse.",
+    "Jaune et bleu."
+  ],
+  "Triton": [
+    "Roi des mers. Domicile : le palais sous la mer.",
+    "Père de sept filles.",
+    "J'ai un trident magique."
+  ],
+  "Mme Samovar": [
+    "Théière. Domicile : un château enchanté.",
+    "Mon fils est une tasse ébréchée.",
+    "Je chante une chanson célèbre."
+  ],
+  "Big Ben": [
+    "Horloge. Domicile : un château enchanté.",
+    "Majordome très strict.",
+    "Je suis toujours en désaccord avec le chandelier."
+  ],
+  "Abu": [
+    "Singe. Domicile : Agrabah.",
+    "Je vole tout ce qui brille.",
+    "Mon ami est un voleur des rues."
+  ],
+  "Iago": [
+    "Perroquet. Domicile : le palais d'Agrabah.",
+    "Très bavard.",
+    "Mon maître est le grand vizir."
+  ],
+  "Rafiki": [
+    "Mandrill. Domicile : un baobab.",
+    "Sage et un peu fou.",
+    "Je présente le lionceau à la savane."
+  ],
+  "Nala": [
+    "Lionne. Domicile : la savane.",
+    "Amie d'enfance du futur souverain.",
+    "Je vais le chercher dans la jungle."
+  ],
+  "Zazu": [
+    "Calao. Domicile : la savane.",
+    "Majordome du souverain.",
+    "Je surveille le lionceau."
+  ],
+  "Mégara": [
+    "Humaine. Domicile : la Grèce antique.",
+    "J'ai vendu mon âme à Hadès.",
+    "On m'appelle Meg."
+  ],
+  "Philoctète": [
+    "Satyre. Domicile : une île.",
+    "Entraîneur de héros.",
+    "Mi-homme, mi-chèvre."
+  ],
+  "Pégase": [
+    "Cheval ailé. Domicile : l'Olympe.",
+    "Créé à partir de nuages.",
+    "Je suis le cheval d'un demi-dieu."
+  ],
+  "Shang": [
+    "Humain, capitaine. Domicile : la Chine ancienne.",
+    "J'entraîne les recrues.",
+    "Je ne savais pas que ma recrue était une femme."
+  ],
+  "Nani": [
+    "Humaine. Domicile : Hawaï.",
+    "Grande sœur d'une petite fille.",
+    "Je fais tout pour garder ma sœur."
+  ],
+  "Pascal": [
+    "Caméléon. Domicile : une tour.",
+    "Je change de couleur.",
+    "Ami d'une fille aux longs cheveux."
+  ],
+  "Maximus": [
+    "Cheval. Domicile : le royaume de Corona.",
+    "Cheval de la garde royale.",
+    "Je traque un voleur."
+  ],
+  "Hans": [
+    "Humain, prince. Domicile : les Îles du Sud.",
+    "Treizième dans l'ordre de succession.",
+    "J'ai fait croire à une princesse que je l'aimais."
+  ],
+  "Sven": [
+    "Renne. Domicile : la montagne.",
+    "Meilleur ami d'un vendeur de glace.",
+    "J'adore les carottes."
+  ],
+  "Chef Bogo": [
+    "Buffle. Domicile : une grande ville d'animaux.",
+    "Commandant du commissariat.",
+    "Très sévère, fan d'une chanteuse."
+  ],
+  "Clawhauser": [
+    "Guépard. Domicile : une grande ville d'animaux.",
+    "Réceptionniste du commissariat.",
+    "J'adore les beignets."
+  ],
+  "Tamatoa": [
+    "Crabe géant. Domicile : le royaume des monstres.",
+    "Je collectionne les objets brillants.",
+    "Je chante Shiny."
+  ],
+  "Heihei": [
+    "Coq. Domicile : l'île de Motunui.",
+    "Très bête.",
+    "J'avale des cailloux."
+  ],
+  "Bruno Madrigal": [
+    "Humain. Domicile : les murs d'une maison magique.",
+    "Je vois l'avenir.",
+    "On ne parle pas de moi."
+  ],
+  "Luisa": [
+    "Humaine. Domicile : une maison magique.",
+    "Je suis très forte.",
+    "Je porte tout pour mes proches."
+  ],
+  "Abuela Alma": [
+    "Humaine, grand-mère. Domicile : une maison magique.",
+    "Matriarche d'une grande lignée.",
+    "Je garde une bougie magique."
+  ],
+  "Sisu": [
+    "Créature volante d'eau. Domicile : Kumandra.",
+    "La dernière de mon espèce.",
+    "Je ne suis pas très douée pour nager."
+  ],
+  "Namaari": [
+    "Humaine, princesse. Domicile : Croc.",
+    "Rivale de la guerrière.",
+    "Je cherche la gemme."
+  ],
+  "Hiro Hamada": [
+    "Humain, adolescent. Domicile : San Fransokyo.",
+    "Génie de la robotique.",
+    "Mon frère m'a laissé un robot."
+  ],
+  "Go Go": [
+    "Humaine. Domicile : San Fransokyo.",
+    "Je mâche du chewing-gum.",
+    "Très rapide sur roues."
+  ],
+  "Mr Patate": [
+    "Jouet. Domicile : la chambre d'Andy.",
+    "Je peux démonter mon visage.",
+    "Ma femme est aussi une pomme de terre."
+  ],
+  "Hamm": [
+    "Tirelire cochon. Domicile : la chambre d'Andy.",
+    "Très sarcastique.",
+    "J'ai une pièce dans le dos."
+  ],
+  "Bo la Bergère": [
+    "Jouet en porcelaine. Domicile : une lampe.",
+    "J'ai trois moutons.",
+    "J'aime le cow-boy."
+  ],
+  "Lotso": [
+    "Ours en peluche rose. Domicile : une garderie.",
+    "Je sens la fraise.",
+    "Je règne en tyran."
+  ],
+  "Ken": [
+    "Poupée. Domicile : une garderie.",
+    "J'adore les vêtements.",
+    "Je suis amoureux d'une poupée blonde."
+  ],
+  "Forky": [
+    "Jouet fait d'une fourchette. Domicile : une chambre.",
+    "Je veux aller à la poubelle.",
+    "Je ne suis pas un jouet, je suis des déchets."
+  ],
+  "Duke Caboom": [
+    "Jouet cascadeur. Domicile : un magasin d'antiquités.",
+    "Je suis canadien.",
+    "Je saute avec ma moto."
+  ],
+  "Randall": [
+    "Monstre. Domicile : Monstropolis.",
+    "Je change de couleur.",
+    "Je veux battre le record de cris."
+  ],
+  "Bruce": [
+    "Requin. Domicile : un sous-marin coulé.",
+    "Je ne mange plus de poissons.",
+    "Les poissons sont des amis."
+  ],
+  "Crush": [
+    "Tortue de mer. Domicile : le courant australien.",
+    "J'ai 150 ans.",
+    "Trop cool, mec !"
+  ],
+  "Violette Parr": [
+    "Humaine, adolescente. Domicile : une banlieue.",
+    "Très timide.",
+    "Je deviens invisible."
+  ],
+  "Sally": [
+    "Voiture. Domicile : Radiator Springs.",
+    "Ancienne avocate.",
+    "Je tiens un motel."
+  ],
+  "Doc Hudson": [
+    "Voiture. Domicile : Radiator Springs.",
+    "Juge et médecin.",
+    "Ancien champion de course."
+  ],
+  "Colette": [
+    "Humaine, cuisinière. Domicile : Paris.",
+    "Seule femme de la cuisine.",
+    "J'apprends le métier à un commis."
+  ],
+  "Russell": [
+    "Humain, scout. Domicile : une maison volante.",
+    "J'ai besoin d'un badge.",
+    "Je veux aider les personnes âgées."
+  ],
+  "Charles Muntz": [
+    "Humain, explorateur. Domicile : un dirigeable.",
+    "Je cherche un oiseau rare.",
+    "J'ai des chiens qui parlent."
+  ],
+  "Kevin": [
+    "Oiseau. Domicile : la jungle.",
+    "J'ai des bébés.",
+    "J'adore le chocolat."
+  ],
+  "Reine Elinor": [
+    "Humaine, souveraine. Domicile : l'Écosse.",
+    "Mère très stricte.",
+    "J'ai été transformée en ourse."
+  ],
+  "Colère": [
+    "Émotion. Domicile : la tête d'une petite fille.",
+    "Petit et rouge.",
+    "Ma tête prend feu."
+  ],
+  "Peur": [
+    "Émotion. Domicile : la tête d'une petite fille.",
+    "Grand et mince.",
+    "Je tremble devant tout."
+  ],
+  "Dégoût": [
+    "Émotion. Domicile : la tête d'une petite fille.",
+    "Verte.",
+    "Je déteste les brocolis."
+  ],
+  "Bing Bong": [
+    "Ami imaginaire. Domicile : la mémoire d'une petite fille.",
+    "Mi-éléphant, mi-chat, mi-dauphin.",
+    "Je pleure des bonbons."
+  ],
+  "Ernesto de la Cruz": [
+    "Squelette. Domicile : le monde des morts.",
+    "Chanteur célèbre.",
+    "J'ai volé les chansons d'un ami."
+  ],
+  "Dante": [
+    "Chien. Domicile : Mexique.",
+    "Chien des rues.",
+    "Je deviens un guide spirituel."
+  ],
+  "Hank": [
+    "Pieuvre. Domicile : un institut de biologie marine.",
+    "Il me manque un tentacule.",
+    "Je veux aller à Cleveland."
+  ],
+  "Alberto": [
+    "Monstre marin. Domicile : une île italienne.",
+    "Je vis seul.",
+    "Silenzio, Bruno !"
+  ],
+  "Giulia": [
+    "Humaine. Domicile : Portorosso.",
+    "Je participe à une course.",
+    "Mon père est pêcheur."
+  ],
+  "Flam": [
+    "Élément feu. Domicile : Element City.",
+    "Je travaille dans la boutique de mon père.",
+    "Je m'énerve facilement."
+  ],
+  "Ondine": [
+    "Élément eau. Domicile : Element City.",
+    "Je pleure souvent.",
+    "Je suis inspecteur municipal."
+  ],
+  "Tetsuo Shima": [
+    "Humain, motard. Domicile : Neo-Tokyo.",
+    "J'ai des pouvoirs psychiques.",
+    "Mon ami a une moto rouge."
+  ],
+  "Mima Kirigoe": [
+    "Humaine, chanteuse. Domicile : Tokyo.",
+    "J'ai quitté mon groupe.",
+    "Un fan me suit."
+  ],
+  "Mickey (L'Apprenti sorcier)": [
+    "Souris. Domicile : l'atelier d'un magicien.",
+    "J'ai emprunté le chapeau de mon maître.",
+    "Des balais remplissent tout d'eau."
+  ],
+  "Lady": [
+    "Chienne cocker. Domicile : une maison bourgeoise.",
+    "J'ai un collier.",
+    "J'ai partagé des spaghettis avec un chien des rues."
+  ],
+  "Le Clochard": [
+    "Chien des rues. Domicile : la ville.",
+    "Je suis libre.",
+    "J'ai partagé des spaghettis avec une chienne cocker."
+  ],
+  "Merlin": [
+    "Humain, magicien. Domicile : une maison dans la forêt.",
+    "J'ai une chouette.",
+    "J'ai un duel avec Madame Mim."
+  ],
+  "Moustique (Arthur)": [
+    "Humain, garçon. Domicile : un château.",
+    "Je fais le ménage.",
+    "J'ai retiré une épée d'une enclume."
+  ],
+  "Robin des Bois": [
+    "Renard. Domicile : la forêt de Sherwood.",
+    "Je vole les riches.",
+    "Je donne aux pauvres."
+  ],
+  "Prince Jean": [
+    "Lion. Domicile : Nottingham.",
+    "Je suce mon pouce.",
+    "Je suis très avare."
+  ],
+  "Winnie l'ourson": [
+    "Ours en peluche. Domicile : la forêt des Rêves bleus.",
+    "J'adore le miel.",
+    "Mon ami est un tigre bondissant."
+  ],
+  "Tigrou": [
+    "Tigre en peluche. Domicile : la forêt des Rêves bleus.",
+    "Je saute sur ma queue.",
+    "Je suis le seul de mon espèce."
+  ],
+  "Rox": [
+    "Renard. Domicile : la forêt.",
+    "J'ai été recueilli par une veuve.",
+    "Mon ami est un chien de chasse."
+  ],
+  "Rouky": [
+    "Chien de chasse. Domicile : une ferme.",
+    "Je suis un chiot.",
+    "Mon ami est un renard."
+  ],
+  "Taram": [
+    "Humain, garçon. Domicile : Prydain.",
+    "Je suis porcher.",
+    "Je rêve d'être un héros."
+  ],
+  "Le Roi des Morts": [
+    "Créature. Domicile : un château.",
+    "Souverain cornu.",
+    "Je veux lever une armée de squelettes."
+  ],
+  "Oliver": [
+    "Chaton. Domicile : New York.",
+    "Orphelin.",
+    "J'ai été adopté par une fillette riche."
+  ],
+  "Dodger": [
+    "Chien. Domicile : New York.",
+    "Je suis un voleur.",
+    "Je chante très bien."
+  ],
+  "Tarzan": [
+    "Humain. Domicile : la jungle.",
+    "Élevé par des gorilles.",
+    "Je me déplace avec des lianes."
+  ],
+  "Jane": [
+    "Humaine. Domicile : Angleterre.",
+    "Je suis en expédition en Afrique.",
+    "Je suis tombée amoureuse d'un homme de la jungle."
+  ],
+  "Aladar": [
+    "Iguanodon. Domicile : une île.",
+    "Élevé par des lémuriens.",
+    "Je rejoins un troupeau."
+  ],
+  "Milo Thatch": [
+    "Humain, linguiste. Domicile : Washington.",
+    "Je rêve de trouver une cité perdue.",
+    "Je pars en sous-marin."
+  ],
+  "Kida": [
+    "Humaine, princesse. Domicile : une cité perdue.",
+    "J'ai des milliers d'années.",
+    "Je porte un cristal."
+  ],
+  "Jim Hawkins": [
+    "Humain, adolescent. Domicile : une auberge.",
+    "Je fais du surf solaire.",
+    "Je pars chercher un butin légendaire."
+  ],
+  "Long John Silver": [
+    "Cyborg. Domicile : un vaisseau.",
+    "Cuisinier du bord.",
+    "J'ai un petit animal qui change de forme."
+  ],
+  "Kenai": [
+    "Humain, Inuit. Domicile : le Grand Nord.",
+    "J'ai été transformé en grizzli.",
+    "Mon totem est un grand animal brun."
+  ],
+  "Koda": [
+    "Ourson. Domicile : le Grand Nord.",
+    "Très bavard.",
+    "Je cherche ma mère."
+  ],
+  "Otis": [
+    "Vache. Domicile : une exploitation agricole.",
+    "Très insouciant.",
+    "Je fais la fête la nuit."
+  ],
+  "Chicken Little": [
+    "Poulet. Domicile : une petite ville.",
+    "Je crois que le ciel tombe.",
+    "Personne ne me croit."
+  ],
+  "Volt": [
+    "Chien. Domicile : un studio de télé.",
+    "Je me crois super-héros.",
+    "J'ai un éclair sur le flanc."
+  ],
+  "Mittens": [
+    "Chat. Domicile : New York.",
+    "Il me manque des griffes.",
+    "J'aide un chien vedette."
+  ],
+  "Tiana": [
+    "Humaine, serveuse. Domicile : La Nouvelle-Orléans.",
+    "Je rêve d'ouvrir un restaurant.",
+    "J'ai été transformée en batracien."
+  ],
+  "Docteur Facilier": [
+    "Humain, sorcier vaudou. Domicile : La Nouvelle-Orléans.",
+    "Mon ombre est vivante.",
+    "J'ai des amis de l'autre côté."
+  ],
+  "Shank": [
+    "Humaine, pilote. Domicile : un jeu de course en ligne.",
+    "Très cool.",
+    "Je conduis une voiture rapide."
+  ],
+  "Searcher Clade": [
+    "Humain, agriculteur. Domicile : un pays isolé par les montagnes.",
+    "Fils d'un explorateur.",
+    "J'ai découvert une plante."
+  ],
+  "Asha": [
+    "Humaine. Domicile : Rosas.",
+    "J'ai 17 ans.",
+    "J'ai fait un vœu à un astre."
+  ],
+  "Roi Magnifico": [
+    "Humain, souverain. Domicile : Rosas.",
+    "Je garde les vœux de mon peuple.",
+    "Je ne veux pas les rendre."
+  ]
+}

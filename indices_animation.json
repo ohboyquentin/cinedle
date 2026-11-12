@@ -1,0 +1,717 @@
+{
+  "Blanche-Neige et les Sept Nains": [
+    "1937, 7 mineurs, 1 pomme, 1 miroir",
+    "Reine cherche miroir honnête. Vieille pomme à distribuer.",
+    "Flocon-Pâle et les Petits Mineurs"
+  ],
+  "Pinocchio": [
+    "1 marionnette, 1 grillon, 1 baleine, 1 nez qui s'allonge",
+    "Sculpteur cherche fils. Ne ment jamais, en théorie.",
+    "Le Garçon de Bois"
+  ],
+  "Dumbo": [
+    "1 cirque, 1 plume magique, 2 grandes oreilles, 1 souris",
+    "Cirque cherche numéro volant. Éléphanteau aux grandes oreilles disponible.",
+    "Le Pachyderme Volant"
+  ],
+  "Bambi": [
+    "1 forêt, 1 lapin, 1 mouffette, 4 saisons",
+    "Jeune faon cherche amis. Patinage sur glace à apprendre.",
+    "Le Petit Faon"
+  ],
+  "Cendrillon": [
+    "Minuit, 1 citrouille, 1 pantoufle de verre, 2 demi-sœurs",
+    "Prince cherche propriétaire d'une pantoufle de verre. Pointure unique.",
+    "La Fille des cendres"
+  ],
+  "Alice au pays des merveilles": [
+    "1 lapin blanc, 1 terrier, 1 chapelier, 1 reine de cœur",
+    "Lapin pressé cherche montre. Thé chez le chapelier tous les jours.",
+    "Alix au royaume des prodiges"
+  ],
+  "Peter Pan": [
+    "1 fée, 1 crochet, 1 crocodile, 2e étoile à droite",
+    "Garçon qui refuse de grandir cherche ombre perdue.",
+    "Pierre Poêle"
+  ],
+  "La Belle au bois dormant": [
+    "3 fées, 16 ans, 1 fuseau, 1 dragon",
+    "Fée maléfique non invitée au baptême. Malédiction offerte.",
+    "La Jolie Endormie de la forêt"
+  ],
+  "Les 101 Dalmatiens": [
+    "99 chiots volés, 1 manteau rêvé, Londres, 1 voiture rouge et noire",
+    "Créatrice de mode cherche chiots tachetés en grande quantité.",
+    "Les Cent Un Chiens tachetés"
+  ],
+  "Le Livre de la jungle": [
+    "1 garçon, 1 ours, 1 panthère, 1 tigre",
+    "Ours insouciant cherche élève. Bananes et paresse au programme.",
+    "Le Bouquin de la forêt vierge"
+  ],
+  "Les Aristochats": [
+    "1 chatte, 3 chatons, 1 majordome, Paris 1910",
+    "Riche dame lègue fortune à ses chats. Majordome jaloux.",
+    "Les Chats de la haute"
+  ],
+  "Les Aventures de Bernard et Bianca": [
+    "2 souris, 1 marais, 1 orpheline, 1 diamant",
+    "Société de secours souris cherche agents. Message en bouteille reçu.",
+    "Les Périples de Bertrand et Blanche"
+  ],
+  "La Petite Sirène": [
+    "1 voix, 1 sorcière pieuvre, 3 jours, 1 prince",
+    "Princesse des mers échange voix contre jambes. Baiser d'amour exigé.",
+    "La Jeune Femme-Poisson"
+  ],
+  "La Belle et la Bête": [
+    "1 rose, 1 château, 1 chandelier, 1 théière",
+    "Château enchanté cherche invitée. Soyez notre invitée.",
+    "La Jolie et le Monstre"
+  ],
+  "Aladdin": [
+    "1 lampe, 3 vœux, 1 tapis volant, 1 singe",
+    "Génie cherche maître. Trois vœux, pas de vœux d'amour.",
+    "Le Voleur à la lampe"
+  ],
+  "Le Roi Lion": [
+    "1 rocher, 1 phacochère, 1 suricate, 1 oncle",
+    "Phacochère et suricate cherchent ami. Hakuna Matata.",
+    "Le Monarque de la savane"
+  ],
+  "Pocahontas, une légende indienne": [
+    "1607, 1 colonie anglaise, 1 grand-mère saule, 1 raton laveur",
+    "Colons anglais cherchent or en Virginie.",
+    "La Fille du chef"
+  ],
+  "Le Bossu de Notre-Dame": [
+    "1 cathédrale, 3 gargouilles, 1 gitane, 1 juge",
+    "Sonneur de cloches cherche sortie de la cathédrale.",
+    "Le Sonneur de la cathédrale parisienne"
+  ],
+  "Hercule": [
+    "12 travaux, 1 Olympe, 1 cheval ailé, 5 muses",
+    "Demi-dieu cherche à prouver qu'il est un héros.",
+    "Le Costaud de l'Olympe"
+  ],
+  "Mulan": [
+    "1 armée, 1 dragon rouge, 1 criquet, 1 coiffure coupée",
+    "Jeune femme cherche place dans l'armée impériale. Déguisement nécessaire.",
+    "La Guerrière déguisée"
+  ],
+  "Les Nouvelles Aventures de l'empereur": [
+    "1 lama, 1 colline, 1 levier, 1 conseillère",
+    "Souverain transformé en lama cherche guide.",
+    "Le Souverain changé en lama"
+  ],
+  "Lilo & Stitch": [
+    "626, 1 Hawaï, 1 chien bleu, 1 grande sœur",
+    "Fillette hawaïenne adopte chien très étrange. Ohana.",
+    "La Fillette et la Créature bleue"
+  ],
+  "Bienvenue chez les Robinson": [
+    "1 orphelin, 1 machine, 1 homme au chapeau melon, 1 futur",
+    "Jeune inventeur cherche mère. Voyage dans le futur.",
+    "Bonjour chez les Excentriques"
+  ],
+  "Raiponce": [
+    "18 ans, 21 mètres de cheveux, 1 poêle, 1 caméléon",
+    "Jeune fille enfermée cherche à voir lanternes flottantes.",
+    "La Belle aux cheveux longs"
+  ],
+  "Les Mondes de Ralph": [
+    "30 ans de méchanceté, 1 médaille, 1 jeu de course, 1 bug",
+    "Méchant de jeu vidéo cherche médaille. Arcade.",
+    "Les Univers du Démolisseur"
+  ],
+  "La Reine des neiges": [
+    "2 sœurs, 1 bonhomme de neige, 1 renne, 1 hiver éternel",
+    "Souveraine cherche à libérer son pouvoir de glace. Libérée, délivrée.",
+    "La Souveraine de la glace"
+  ],
+  "Les Nouveaux Héros": [
+    "1 robot gonflable, 6 justiciers, 1 San Fransokyo, 1 masque",
+    "Jeune génie cherche équipe. Robot soignant gonflable.",
+    "Les Nouvelles Recrues"
+  ],
+  "Zootopie": [
+    "1 lapine, 1 renard, 1 paresseux à la préfecture, 1 grande ville",
+    "Lapine policière cherche partenaire. Renard escroc acceptable.",
+    "La Cité des animaux"
+  ],
+  "Vaiana, la légende du bout du monde": [
+    "1 île, 1 demi-dieu, 1 cœur, 1 coq idiot",
+    "Fille de chef cherche demi-dieu tatoué pour rendre un cœur.",
+    "La Navigatrice de Motunui"
+  ],
+  "La Reine des neiges II": [
+    "1 forêt enchantée, 4 esprits, 1 voix, 1 cheval d'eau",
+    "Souveraine cherche voix mystérieuse. Forêt enchantée au nord.",
+    "La Souveraine de la glace, le retour"
+  ],
+  "Raya et le Dernier Dragon": [
+    "5 terres, 1 gemme, 1 créature légendaire, 1 brume",
+    "Guerrière cherche l'ultime survivante d'une espèce légendaire pour réunir gemme brisée.",
+    "La Guerrière et l'Ultime Reptile volant"
+  ],
+  "Encanto, la fantastique famille Madrigal": [
+    "1 maison magique, 1 bougie, 1 oncle disparu, 0 don",
+    "Tribu colombienne cherche à réparer maison magique.",
+    "La Maison enchantée colombienne"
+  ],
+  "Toy Story": [
+    "1 cow-boy, 1 astronaute, 1 voisin, 1 camion de déménagement",
+    "Shérif jouet cherche à rester le jouet préféré.",
+    "Histoire de Joujoux"
+  ],
+  "Toy Story 2": [
+    "1 collectionneur, 1 cow-girl, 1 cheval, 1 musée au Japon",
+    "Collectionneur vend cow-boy de collection. Musée japonais.",
+    "Histoire de Joujoux, le retour"
+  ],
+  "Monstres & Cie": [
+    "1 porte, 1 petite fille, 1 monstre bleu, 1 œil",
+    "Usine de cris recrute créatures effrayantes. Enfants dangereux.",
+    "Créatures et Compagnie"
+  ],
+  "Le Monde de Nemo": [
+    "1 poisson-clown, 1 aquarium, 1 dentiste, 1 tortue",
+    "Père poisson-clown cherche fils disparu. Sydney.",
+    "L'Univers du Petit Poisson"
+  ],
+  "Les Indestructibles": [
+    "1 famille, 1 île, 1 combinaison, 0 cape",
+    "Super-héros en retraite cherche mission secrète.",
+    "Les Increvables"
+  ],
+  "Cars": [
+    "1 route 66, 1 dépanneuse, 1 coupe Piston, 1 Radiator Springs",
+    "Voiture de course cherche sortie de Radiator Springs.",
+    "Les Bagnoles"
+  ],
+  "Ratatouille": [
+    "1 rat, 1 commis, 1 critique, 1 plat de légumes",
+    "Rat cuisinier cherche commis maladroit. Paris.",
+    "Le Plat de légumes"
+  ],
+  "WALL-E": [
+    "700 ans de nettoyage, 1 cafard, 1 robot blanc, 1 plante",
+    "Robot nettoyeur cherche robot de reconnaissance.",
+    "Le Robot Ramasseur"
+  ],
+  "Là-haut": [
+    "10 000 ballons, 1 scout, 1 chien qui parle, 1 chute d'eau",
+    "Vieil homme cherche chute d'eau en Amérique du Sud. Maison volante.",
+    "Dans les nuages"
+  ],
+  "Toy Story 3": [
+    "1 garderie, 1 ours rose, 1 incinérateur, 1 université",
+    "Garderie accueille jouets abandonnés. Ours à la fraise en charge.",
+    "Histoire de Joujoux, le troisième"
+  ],
+  "Rebelle": [
+    "1 princesse, 1 arc, 1 sorcière, 1 ourse",
+    "Princesse écossaise cherche à changer de destin.",
+    "L'Insoumise"
+  ],
+  "Vice-versa": [
+    "5 émotions, 1 petite fille, 1 San Francisco, 1 ami imaginaire",
+    "Joie cherche à retrouver Tristesse dans la mémoire.",
+    "Sens dessus dessous"
+  ],
+  "Le Monde de Dory": [
+    "1 poissonne, 1 pieuvre, 1 Californie, des pertes de mémoire",
+    "Poissonne bleue cherche parents. Mémoire à court terme.",
+    "L'Univers de la Poissonne bleue"
+  ],
+  "Coco": [
+    "1 jour des Morts, 1 guitare, 1 pont de pétales, 1 photo",
+    "Garçon mexicain cherche arrière-arrière-grand-père musicien.",
+    "L'Arrière-grand-mère"
+  ],
+  "Toy Story 4": [
+    "1 fourchette, 1 road trip, 1 bergère, 1 antiquaire",
+    "Jouet en fourchette cherche poubelle.",
+    "Histoire de Joujoux, le quatrième"
+  ],
+  "Luca": [
+    "1 monstre marin, 1 Vespa, 1 Italie, 1 course",
+    "Jeune monstre marin cherche Vespa. Italie.",
+    "Le Petit Monstre des mers"
+  ],
+  "Élémentaire": [
+    "4 éléments, 1 boutique, 1 fille de feu, 1 garçon d'eau",
+    "Fille de feu cherche à tenir boutique de son père.",
+    "Le Feu et l'Eau"
+  ],
+  "Fievel et le Nouveau Monde": [
+    "1 famille de souris, 1 bateau, New York, 1885",
+    "Souris russe cherche famille à New York.",
+    "La Petite Souris en Amérique"
+  ],
+  "Mon voisin Totoro": [
+    "2 sœurs, 1 chat-bus, 1 parapluie, 1 esprit de la forêt",
+    "Deux sœurs cherchent chat-bus. Campagne japonaise.",
+    "Mon Copain de la forêt"
+  ],
+  "Le Tombeau des lucioles": [
+    "1945, 2 enfants, 1 boîte de bonbons, des insectes lumineux",
+    "Adolescent et sa petite sœur cherchent abri.",
+    "La Tombe des insectes lumineux"
+  ],
+  "Akira": [
+    "2019, 1 moto rouge, 1 Neo-Tokyo, des pouvoirs psychiques",
+    "Chef de bande cherche ami aux pouvoirs incontrôlables.",
+    "Le Projet secret"
+  ],
+  "Kiki la petite sorcière": [
+    "13 ans, 1 balai, 1 chat noir, 1 service de livraison",
+    "Jeune apprentie magicienne cherche travail. Livraisons à balai.",
+    "La Livreuse à balai"
+  ],
+  "Porco Rosso": [
+    "1 hydravion, 1 Adriatique, 1 cochon, 1 rival américain",
+    "Aviateur cochon cherche pirates de l'air.",
+    "Le Cochon Rouge"
+  ],
+  "Princesse Mononoké": [
+    "1 dieu sanglier, 1 forge, 1 louve, 1 esprit-cerf",
+    "Prince maudit cherche remède à l'ouest.",
+    "L'Héritière des Esprits"
+  ],
+  "Perfect Blue": [
+    "1 chanteuse, 1 série télé, 1 fan, 1 site internet",
+    "Ancienne chanteuse pop devenue actrice. Fan obsessionnel.",
+    "Le Bleu Parfait"
+  ],
+  "Le Prince d'Égypte": [
+    "10 plaies, 1 berceau, 1 frère, 1 mer qui s'ouvre",
+    "Fils adoptif du pharaon réclame libération de son peuple.",
+    "Le Fils adoptif du Nil"
+  ],
+  "Shrek": [
+    "1 marais, 1 âne, 1 dragon, 1 seigneur très petit",
+    "Ogre cherche tranquillité. Âne bavard à éviter.",
+    "L'Ogre Vert"
+  ],
+  "Le Voyage de Chihiro": [
+    "1 parc abandonné, 1 bains, 1 sans-visage, 1 dragon blanc",
+    "Fillette cherche travail aux bains des esprits.",
+    "La Traversée de la Petite Fille"
+  ],
+  "L'Âge de glace": [
+    "1 mammouth, 1 paresseux, 1 tigre à dents de sabre, 1 gland",
+    "Mammouth cherche bébé humain à rendre.",
+    "L'Époque des glaciers"
+  ],
+  "Le Château ambulant": [
+    "1 chapelière, 1 sorcière, 1 démon de feu, 1 épouvantail",
+    "Demeure qui marche cherche femme de ménage.",
+    "La Forteresse qui marche"
+  ],
+  "Madagascar": [
+    "4 animaux, 1 zoo, 4 pingouins, 1 île",
+    "Lion du zoo cherche sortie. Île tropicale.",
+    "L'Île Rouge"
+  ],
+  "Wallace & Gromit : Le Mystère du lapin-garou": [
+    "1 inventeur, 1 chien, 1 concours, 1 bête géante",
+    "Inventeur cherche bête géante dans les potagers.",
+    "Wilfried et Gaston : L'Énigme de la bête aux grandes oreilles"
+  ],
+  "Kung Fu Panda": [
+    "1 ours noir et blanc, 5 cyclones, 1 parchemin, 1 boutique de nouilles",
+    "Maître des arts martiaux cherche Guerrier Dragon. Ours noir et blanc accepté.",
+    "L'Ours des arts martiaux"
+  ],
+  "Ponyo sur la falaise": [
+    "5 ans, 1 fille-poisson, 1 jambon, 1 raz-de-marée",
+    "Garçon de 5 ans trouve poisson qui veut devenir humain.",
+    "La Fille-poisson du bord de mer"
+  ],
+  "Coraline": [
+    "1 petite porte, des boutons à la place des yeux, 1 chat, 1 autre mère",
+    "Fillette cherche porte vers un autre monde. Boutons fournis.",
+    "Caroline"
+  ],
+  "Dragons": [
+    "1 île, 1 dragon noir, 1 viking maladroit, 1 queue cassée",
+    "Jeune viking cherche à dresser un dragon.",
+    "Les Reptiles volants"
+  ],
+  "Moi, moche et méchant": [
+    "1 Lune, 3 orphelines, 1 rayon réducteur, des petits jaunes",
+    "Vilain cherche Lune à voler. Trois orphelines adoptées.",
+    "Moi, Vilain et Pas Gentil"
+  ],
+  "Arrietty, le petit monde des chapardeurs": [
+    "10 cm, 1 plancher, 1 garçon malade, 1 épingle",
+    "Petite fille chapardeuse cherche objets chez les humains.",
+    "La Petite Chapardeuse"
+  ],
+  "Megamind": [
+    "1 grosse tête bleue, 1 super-héros, 1 poisson, 1 journaliste",
+    "Génie du mal cherche nouvel ennemi.",
+    "Maxi-Cerveau"
+  ],
+  "1001 pattes": [
+    "1 colonie, 1 sauterelle, 1 cirque, 1 fourmi",
+    "Fourmi inventive cherche guerriers. Artistes de cirque acceptés.",
+    "Les Mille et Une Jambes"
+  ],
+  "Les Croods": [
+    "1 famille, 1 grotte, 1 feu, 1 monde qui s'effondre",
+    "Famille préhistorique cherche nouvelle grotte.",
+    "Les Primitifs"
+  ],
+  "Le vent se lève": [
+    "1 ingénieur, 1 avion de chasse, 1 tremblement de terre, 1 fiancée malade",
+    "Ingénieur aéronautique cherche à créer avions parfaits.",
+    "La Brise se réveille"
+  ],
+  "La Grande Aventure Lego": [
+    "1 ouvrier, 1 Élu, 1 colle, 1 pièce de résistance",
+    "Ouvrier ordinaire cherche à sauver le monde des briques.",
+    "La Grande Épopée des Briques"
+  ],
+  "Le Petit Prince": [
+    "1 aviateur, 1 renard, 1 rose, 1 astéroïde",
+    "Fillette cherche l'enfant d'une petite planète.",
+    "Le Jeune Souverain"
+  ],
+  "Soul": [
+    "1 jazz, 1 bouche d'égout, 1 au-delà, 1 âme 22",
+    "Professeur de musique cherche son corps.",
+    "L'Âme"
+  ],
+  "Trolls": [
+    "1 princesse rose, 1 grincheux, des Bergens, des câlins",
+    "Princesse rose cherche amis enlevés.",
+    "Les Lutins"
+  ],
+  "Le Grinch": [
+    "1 grotte, 1 chien, 1 traîneau, 1 Chouville",
+    "Grincheux vert cherche à voler Noël.",
+    "Le Grincheux"
+  ],
+  "Spider-Man : New Generation": [
+    "1 Brooklyn, 1 portail, 6 araignées, 1 caïd",
+    "Ado de Brooklyn cherche à arrêter un caïd. Plusieurs mentors.",
+    "L'Homme-Araignée : La Relève"
+  ],
+  "Le Garçon et le Héron": [
+    "1 incendie, 1 tour, 1 oiseau qui parle, 1 monde parallèle",
+    "Adolescent cherche mère disparue dans un autre monde.",
+    "L'Enfant et l'Oiseau"
+  ],
+  "Spider-Man : Across the Spider-Verse": [
+    "1 société d'araignées, 1 événement canon, 1 Gwen, 1 Spot",
+    "Ado cherche à sauver son père d'un événement canonique.",
+    "L'Homme-Araignée : À travers les mondes"
+  ],
+  "Le Robot sauvage": [
+    "1 machine, 1 oison, 1 île, 1 migration",
+    "Machine cherche à élever un oison sur une île déserte.",
+    "L'Automate des bois"
+  ],
+  "Cars 2": [
+    "1 grand prix mondial, 1 espion, 1 Japon, 1 Italie",
+    "Dépanneuse prise pour un espion.",
+    "Les Bagnoles, le retour"
+  ],
+  "Monstres Academy": [
+    "1 université, 1 monstre vert, 1 monstre bleu, 1 jeux de la peur",
+    "Petit monstre vert cherche à devenir terreur professionnelle.",
+    "Créatures à l'Université"
+  ],
+  "Le Voyage d'Arlo": [
+    "1 apatosaure, 1 garçon sauvage, 1 rivière, 1 ferme",
+    "Jeune dinosaure cherche sa ferme.",
+    "Le Périple du Petit Dinosaure"
+  ],
+  "Cars 3": [
+    "1 vieille voiture, 1 jeune coach, 1 nouvelle génération, 1 retour",
+    "Voiture vieillissante cherche à prouver qu'elle peut gagner.",
+    "Les Bagnoles, le troisième"
+  ],
+  "Les Indestructibles 2": [
+    "1 mère héroïne, 1 bébé aux mille pouvoirs, 1 écran hypnotique, 1 père au foyer",
+    "Père cherche à gérer bébé aux pouvoirs multiples.",
+    "Les Increvables, le retour"
+  ],
+  "En avant": [
+    "2 frères elfes, 1 sort, 1 moitié de père, 1 quête",
+    "Deux frères cherchent à finir un sort pour revoir leur père.",
+    "Tout droit !"
+  ],
+  "Alerte rouge": [
+    "1 panda roux, 1 Toronto, 1 concert, 1 mère protectrice",
+    "Adolescente cherche à cacher son panda roux.",
+    "L'Alarme écarlate"
+  ],
+  "Buzz l'Éclair": [
+    "1 planète, 1 chat robot, 1 voyage temporel, 1 Zurg",
+    "Ranger de l'espace cherche à rentrer chez lui.",
+    "L'Astronaute Foudre"
+  ],
+  "Vice-versa 2": [
+    "9 émotions, 1 camp de hockey, 1 anxiété, 1 adolescence",
+    "Anxiété cherche à prendre le contrôle.",
+    "Sens dessus dessous, le retour"
+  ],
+  "Fantasia": [
+    "8 séquences, 1 balai, 1 chef d'orchestre, 1 démon",
+    "Apprenti sorcier cherche à arrêter balais.",
+    "La Fantaisie musicale"
+  ],
+  "La Belle et le Clochard": [
+    "1 cocker, 1 chien des rues, 1 spaghetti, 2 chats siamois",
+    "Chienne de bonne famille cherche liberté.",
+    "La Jolie et le Vagabond"
+  ],
+  "Merlin l'enchanteur": [
+    "1 épée, 1 enclume, 1 chouette, 1 duel de sorciers",
+    "Vieux magicien cherche apprenti. Épée dans l'enclume.",
+    "Le Magicien des Bretons"
+  ],
+  "Robin des Bois": [
+    "1 renard, 1 lion, 1 ours, 1 concours de tir à l'arc",
+    "Renard cherche à voler les riches.",
+    "Robert des Forêts"
+  ],
+  "Les Aventures de Winnie l'ourson": [
+    "1 ours en peluche, 1 pot de miel, 1 tigre, 1 âne",
+    "Ours cherche miel dans la forêt des Rêves bleus.",
+    "Les Péripéties du Petit Ours"
+  ],
+  "Rox et Rouky": [
+    "1 renardeau, 1 chiot, 1 chasseur, 1 ours",
+    "Renard et chien cherchent à rester amis.",
+    "Renard et Chien"
+  ],
+  "Taram et le Chaudron magique": [
+    "1 marmite, 1 cochon voyant, 1 roi cornu, 1 armée de morts",
+    "Jeune porcher cherche marmite enchantée.",
+    "Le Porcher et le Pot enchanté"
+  ],
+  "Basil, détective privé": [
+    "1 souris, Londres, 1 rat, 1 Big Ben",
+    "Enquêteur souris cherche fabricant de jouets enlevé.",
+    "L'Enquêteur à moustaches"
+  ],
+  "Oliver et Compagnie": [
+    "1 chaton, 1 bande de chiens, New York, 1 fillette riche",
+    "Chaton orphelin cherche famille à New York.",
+    "Olivier et ses Amis"
+  ],
+  "Les Aventures de Bernard et Bianca au pays des kangourous": [
+    "1 Australie, 1 aigle doré, 1 braconnier, 1 albatros",
+    "Deux souris cherchent garçon enlevé en Australie.",
+    "Les Périples de Bertrand et Blanche en Australie"
+  ],
+  "Tarzan": [
+    "1 bébé humain, 1 gorille, 1 jungle, 1 lianes",
+    "Homme-singe cherche à comprendre les humains.",
+    "L'Homme de la jungle"
+  ],
+  "Fantasia 2000": [
+    "8 séquences, 1 baleine, 1 soldat de plomb, 1 flamant rose",
+    "Baleines volantes cherchent ciel.",
+    "La Fantaisie du nouveau millénaire"
+  ],
+  "Dinosaure": [
+    "1 météorite, 1 lémurien, 1 troupeau, 1 carnotaure",
+    "Iguanodon cherche troupeau en migration.",
+    "Le Gros Lézard"
+  ],
+  "Atlantide, l'empire perdu": [
+    "1 sous-marin, 1 linguiste, 1 cristal, 1 cité perdue",
+    "Linguiste cherche cité légendaire sous la mer.",
+    "La Cité engloutie, le royaume oublié"
+  ],
+  "La Planète au trésor": [
+    "1 vaisseau, 1 carte, 1 cyborg, 1 astre lointain",
+    "Ado cherche butin légendaire dans l'espace.",
+    "L'Astre au magot"
+  ],
+  "Frère des ours": [
+    "1 Inuit, 1 grizzli, 1 ourson, 1 montagne",
+    "Jeune Inuit transformé en grizzli cherche montagne.",
+    "Le Frangin des grizzlis"
+  ],
+  "La Ferme se rebelle": [
+    "3 vaches, 1 bandit, 1 yodel, 1 exploitation agricole",
+    "Trois vaches cherchent bandit pour sauver leur exploitation.",
+    "La Basse-cour en révolte"
+  ],
+  "Chicken Little": [
+    "1 poulet, 1 ciel, 1 extraterrestre, 1 baseball",
+    "Petit poulet cherche à prouver que le ciel tombe.",
+    "Le Petit Poulet"
+  ],
+  "Volt, star malgré lui": [
+    "1 chien vedette, 1 chat, 1 hamster, 1 New York",
+    "Chien vedette cherche maîtresse. Super-pouvoirs à prouver.",
+    "L'Éclair, vedette sans le vouloir"
+  ],
+  "La Princesse et la Grenouille": [
+    "1 Nouvelle-Orléans, 1 restaurant, 1 prince batracien, 1 vaudou",
+    "Jeune serveuse cherche restaurant. Prince batracien.",
+    "L'Héritière et le Crapaud"
+  ],
+  "Winnie l'ourson": [
+    "1 ours, 1 pot de miel, 1 queue perdue, 1 monstre imaginaire",
+    "Ours cherche miel. Âne cherche queue.",
+    "Le Petit Ours"
+  ],
+  "Ralph 2.0": [
+    "1 Internet, 1 borne, 1 princesses, 1 virus",
+    "Méchant de jeu vidéo cherche pièce sur Internet.",
+    "Le Démolisseur 2.0"
+  ],
+  "Avalonia : L'Étrange Voyage": [
+    "1 famille, 1 plante, 1 monde souterrain, 1 chien",
+    "Famille d'explorateurs cherche plante.",
+    "Le Monde bizarre"
+  ],
+  "Wish, Asha et la bonne étoile": [
+    "1 royaume, 1 astre, 1 vœu, 1 roi",
+    "Jeune femme cherche à libérer les vœux confisqués.",
+    "Le Vœu de l'astre filant"
+  ],
+  "Vaiana 2": [
+    "1 appel des ancêtres, 1 île, 1 demi-dieu, 1 malédiction",
+    "Navigatrice cherche île perdue.",
+    "La Navigatrice, le retour"
+  ],
+  "Zootopie 2": [
+    "1 lapine, 1 renard, 1 reptile, 1 secret",
+    "Lapine et renard enquêtent sur un reptile.",
+    "La Cité des animaux, le retour"
+  ],
+  "Hôtel Transylvanie": [
+    "1 vampire, 1 établissement, 1 humain, 1 fille",
+    "Vampire tient établissement pour monstres. Humain non désiré.",
+    "L'Auberge des Carpates"
+  ],
+  "Dingo et Max": [
+    "1 père, 1 fils, 1 voyage, 1 concert",
+    "Père maladroit cherche à renouer avec son fils.",
+    "Le Père et le Fils"
+  ],
+  "L'Étrange Noël de Monsieur Jack": [
+    "1 Halloween, 1 réveillon, 1 squelette, 1 chien fantôme",
+    "Roi d'Halloween cherche à fêter le 25 décembre.",
+    "Le Drôle de Réveillon du Squelette"
+  ],
+  "Shrek 2": [
+    "1 royaume Fort Fort Lointain, 1 chat botté, 1 marraine fée, 1 potion",
+    "Ogre cherche à plaire à ses beaux-parents.",
+    "L'Ogre Vert, le retour"
+  ],
+  "Shrek le Troisième": [
+    "1 trône, 1 héritier, 1 bébé ogre, 1 prince charmant",
+    "Ogre cherche héritier pour le trône.",
+    "L'Ogre Vert, le numéro trois"
+  ],
+  "Kung Fu Panda 2": [
+    "1 paon, 1 canon, 1 passé, 1 Chine",
+    "Ours guerrier cherche son passé.",
+    "L'Ours des arts martiaux, le retour"
+  ],
+  "Kung Fu Panda 3": [
+    "1 village de pandas, 1 père biologique, 1 esprit, 1 chi",
+    "Ours guerrier retrouve son père biologique.",
+    "L'Ours des arts martiaux, le troisième"
+  ],
+  "Dragons 2": [
+    "1 dresseuse, 1 armée, 1 alpha, 1 chef viking",
+    "Jeune chef viking cherche à protéger les créatures volantes.",
+    "Les Reptiles volants, le retour"
+  ],
+  "Dragons 3 : Le Monde caché": [
+    "1 terre secrète, 1 femelle blanche, 1 chasseur, 1 migration",
+    "Jeune chef viking cherche terre secrète.",
+    "Les Reptiles volants : L'Univers secret"
+  ],
+  "Moi, moche et méchant 2": [
+    "1 agence, 1 super-criminel, 1 assistants jaunes, 1 mariage",
+    "Ancien vilain recruté par une agence.",
+    "Moi, Vilain et Pas Gentil, le retour"
+  ],
+  "Moi, moche et méchant 3": [
+    "1 frère jumeau, 1 ancien enfant star, 1 années 80, 1 diamant",
+    "Ancien vilain découvre son frère jumeau.",
+    "Moi, Vilain et Pas Gentil, le troisième"
+  ],
+  "Madagascar 2": [
+    "1 avion, 1 Afrique, 1 parents lion, 1 retour",
+    "Lion retrouve ses parents en Afrique.",
+    "L'Île Rouge, le retour"
+  ],
+  "L'Âge de glace 2": [
+    "1 fonte des glaces, 1 déluge, 1 mammouth femelle, 1 gland",
+    "Mammouth cherche d'autres mammouths.",
+    "L'Époque des glaciers, le retour"
+  ],
+  "L'Âge de glace 3": [
+    "3 œufs de dinosaure, 1 monde souterrain, 1 belette, 1 gland",
+    "Paresseux adopte trois œufs.",
+    "L'Époque des glaciers, le troisième"
+  ],
+  "Les Minions": [
+    "3 petites créatures jaunes, 1 maître, 1 couronne, 1968",
+    "Petites créatures jaunes cherchent maître méchant.",
+    "Les Petits Jaunes"
+  ],
+  "Le Chat Potté": [
+    "1 félin, 1 œuf, 1 haricot magique, 1 oie",
+    "Félin hors-la-loi cherche haricots magiques.",
+    "Le Matou botté"
+  ],
+  "Super Mario Bros. le film": [
+    "2 frères plombiers, 1 royaume champignon, 1 tortue géante, 1 princesse",
+    "Deux frères plombiers cherchent royaume champignon.",
+    "Les Frangins Plombiers, le long-métrage"
+  ],
+  "Comme des bêtes": [
+    "1 chien, 1 New York, 1 lapin, 1 deuxième chien",
+    "Chien cherche maîtresse dans New York.",
+    "Comme des animaux"
+  ],
+  "Tous en scène": [
+    "1 koala, 1 théâtre, 1 concours de chant, 1 cochon",
+    "Koala organise concours de chant.",
+    "Tous sur les planches"
+  ],
+  "Rio": [
+    "1 perroquet, 1 Brésil, 1 trafiquant, 1 carnaval",
+    "Perroquet qui ne vole pas cherche femelle au Brésil.",
+    "Le Fleuve"
+  ],
+  "Les Bad Guys": [
+    "1 loup, 1 bande, 1 arrestation, 1 gentillesse",
+    "Bande d'animaux criminels cherche à devenir gentille.",
+    "Les Méchants"
+  ],
+  "Chicken Run": [
+    "1 ferme, 1 coq américain, 1 tourte, 1 évasion",
+    "Poules cherchent à s'évader de leur ferme.",
+    "La Course des Poulets"
+  ],
+  "Anastasia": [
+    "1 orpheline, 1 princesse russe, 1 sorcier, 1 Paris",
+    "Orpheline cherche famille. Princesse russe possible.",
+    "La Princesse perdue"
+  ],
+  "Persepolis": [
+    "1 Téhéran, 1 révolution, 1 Europe, 1 grand-mère",
+    "Jeune fille de Téhéran cherche liberté.",
+    "La Ville perse"
+  ],
+  "Le Château dans le ciel": [
+    "1 pierre, 1 île volante, 1 pirates, 1 armée",
+    "Jeune fille cherche île volante. Pierre qui lévite.",
+    "La Forteresse céleste"
+  ]
+}

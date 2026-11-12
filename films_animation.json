@@ -567,7 +567,7 @@
     "musique": {
       "titre": "I See the Light",
       "artiste": "Mandy Moore",
-      "extrait_audio": "assets/audio/musiques/raiponce.m4a"
+      "extrait_audio": "assets/audio/musiques/Raiponce.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/raiponce_difficile.jpg",
@@ -2408,7 +2408,7 @@
     "pays": "États-Unis",
     "duree_minutes": 74,
     "realisateur": "George Scribner",
-    "affiche": "assets/affiches/oliver_et_compagnie.jpg",
+    "affiche": "assets/affiches/oliver_et_compagnie.JPG",
     "repliques_cultes": [
       "[Ajouter replique]"
     ],

@@ -1,0 +1,807 @@
+{
+  "Walter White": [
+    "Professeur de chimie au lycée, je cherche à arrondir mes fins de mois.",
+    "Reconverti dans une production à très haute pureté, associé à un ancien élève.",
+    "Nom professionnel : Heisenberg. Chapeau noir et lunettes."
+  ],
+  "Ross Geller": [
+    "Paléontologue au musée, puis professeur d'université.",
+    "Trois divorces, et ma sœur vit en face de chez moi.",
+    "Spécialiste des dinosaures. Nous faisions une pause !"
+  ],
+  "Daenerys Targaryen": [
+    "Héritière en exil, mariée jeune à un chef nomade.",
+    "Libératrice d'esclaves, j'ai régné sur une cité de la baie.",
+    "Née du Typhon, Mère des dragons."
+  ],
+  "Eleven": [
+    "Ancienne sujette d'un laboratoire secret, en reconversion dans une petite ville.",
+    "Compétences : télékinésie, saignements de nez, gaufres.",
+    "Crâne rasé au départ, un numéro tatoué sur le poignet."
+  ],
+  "Michael Scott": [
+    "Directeur régional d'une entreprise de papier en Pennsylvanie.",
+    "Organisateur de cérémonies de récompenses pour mes employés.",
+    "Mug du meilleur patron du monde. That's what she said."
+  ],
+  "Sherlock Holmes": [
+    "Détective consultant, le seul au monde.",
+    "Colocation au 221B, un frère au gouvernement, un ennemi qui se dit consultant lui aussi.",
+    "Long manteau, écharpe bleue, palais mental."
+  ],
+  "Jesse Pinkman": [
+    "Auto-entrepreneur à Albuquerque, ancien élève peu assidu.",
+    "Associé à mon ancien prof de chimie dans un camping-car.",
+    "Je ponctue mes phrases d'un mot qui commence par « bitch »."
+  ],
+  "Rachel Green": [
+    "Responsable des achats chez Ralph Lauren, après une carrière de serveuse.",
+    "J'ai fui mon propre mariage, en robe, sous la pluie.",
+    "Ma coupe de cheveux a fait le tour du monde."
+  ],
+  "Tyrion Lannister": [
+    "Conseiller politique, Main de deux souverains.",
+    "Héritier d'une riche famille qui ne m'a jamais aimé.",
+    "Je bois et je sais des choses."
+  ],
+  "Mike Wheeler": [
+    "Collégien, maître du jeu dans ma cave.",
+    "Mon meilleur ami a disparu, j'ai recueilli une fille mystérieuse.",
+    "Talkie-walkie, vélo et parties de Donjons et Dragons."
+  ],
+  "Dwight Schrute": [
+    "Vendeur de papier et assistant du directeur régional.",
+    "Je gère aussi une ferme de betteraves avec mon cousin.",
+    "Shérif adjoint volontaire, expert des ours, des betteraves et de Battlestar Galactica."
+  ],
+  "John Watson": [
+    "Médecin militaire de retour d'Afghanistan.",
+    "Blogueur, colocataire d'un génie impossible à vivre.",
+    "Je boite un peu, mais c'est dans ma tête."
+  ],
+  "Thomas Shelby": [
+    "Gérant d'une entreprise de paris à Birmingham.",
+    "Vétéran de la Grande Guerre, élu au Parlement par la suite.",
+    "Casquette à lames de rasoir, cheval et whisky."
+  ],
+  "Saul Goodman": [
+    "Avocat à Albuquerque, spécialisé dans les dossiers difficiles.",
+    "Ancien escroc à la petite semaine, mon frère est un grand avocat.",
+    "Mon vrai nom est Jimmy McGill. Appelez-moi plutôt sur ma publicité."
+  ],
+  "Elizabeth II": [
+    "Cheffe d'État depuis mes 25 ans.",
+    "J'ai connu plus d'une dizaine de Premiers ministres.",
+    "Couronne, corgis et discours de Noël."
+  ],
+  "Jonas Kahnwald": [
+    "Lycéen dans une petite ville allemande, mon père s'est suicidé.",
+    "Je voyage entre 1953, 1986 et 2019.",
+    "Ciré jaune, grotte, et tout est lié."
+  ],
+  "Tokyo": [
+    "Braqueuse en fuite, recrutée par un professeur.",
+    "Narratrice de notre grand casse à Madrid.",
+    "Surnom de ville, combinaison rouge et masque de Dalí."
+  ],
+  "El Profesor": [
+    "Cerveau d'un braquage historique en Espagne.",
+    "Je n'aime pas la violence, je préfère les plans parfaits.",
+    "Lunettes, costume trop sage, et je tombe amoureux de l'inspectrice."
+  ],
+  "Valery Legasov": [
+    "Chimiste soviétique, membre de l'Académie des sciences.",
+    "Chargé de l'enquête sur une catastrophe nucléaire en 1986.",
+    "Quel est le coût des mensonges ?"
+  ],
+  "Lorne Malvo": [
+    "Tueur à gages en transit dans le Minnesota.",
+    "Je pousse les gens ordinaires à révéler le pire d'eux-mêmes.",
+    "Coupe au bol et sourire carnassier."
+  ],
+  "Rustin Cohle": [
+    "Inspecteur de la brigade criminelle en Louisiane.",
+    "Philosophe pessimiste, je bois beaucoup de bière en canette.",
+    "Le temps est un cercle plat."
+  ],
+  "Dolores Abernathy": [
+    "Fermière dans un parc d'attractions western.",
+    "J'ai répété les mêmes journées pendant des années.",
+    "Je vois de la beauté partout, puis je me réveille."
+  ],
+  "Din Djarin": [
+    "Chasseur de primes indépendant.",
+    "Recueilli par une tribu, je ne retire jamais mon casque.",
+    "Je protège un petit enfant vert. C'est la voie."
+  ],
+  "Frank Underwood": [
+    "Whip de la majorité au Congrès, puis plus haut encore.",
+    "Le pouvoir, c'est l'immobilier : emplacement, emplacement.",
+    "Je parle à la caméra, et ma femme est aussi impitoyable que moi."
+  ],
+  "Pablo Escobar": [
+    "Entrepreneur colombien, élu député, philanthrope à Medellín.",
+    "Plata o plomo.",
+    "J'ai fait construire ma propre prison."
+  ],
+  "Michael Scofield": [
+    "Ingénieur en structure à Chicago.",
+    "Je me suis fait incarcérer exprès pour sauver mon frère.",
+    "Plans tatoués sur tout le haut du corps."
+  ],
+  "Ted Mosby": [
+    "Architecte, puis professeur d'architecture à New York.",
+    "Je raconte à mes enfants, très longuement, ma vie amoureuse.",
+    "Un cor bleu volé et un parapluie jaune."
+  ],
+  "Sheldon Cooper": [
+    "Physicien théoricien à Caltech, QI de 187.",
+    "Accord de colocation, place réservée sur le canapé.",
+    "Toc toc toc, Penny. Bazinga !"
+  ],
+  "Dexter Morgan": [
+    "Expert en analyse de traces de sang à la police de Miami.",
+    "Mon père adoptif m'a appris un code très strict.",
+    "Je ne m'en prends qu'aux tueurs. Lames de microscope en souvenir."
+  ],
+  "Jack Shephard": [
+    "Chirurgien de la colonne vertébrale à Los Angeles.",
+    "Rescapé d'un crash, je suis devenu le chef des survivants.",
+    "On doit y retourner !"
+  ],
+  "Rick Grimes": [
+    "Shérif adjoint d'une petite ville de Géorgie.",
+    "Je me suis réveillé du coma dans un monde de morts-vivants.",
+    "Chapeau de shérif, revolver, et je hurle le nom de mon fils."
+  ],
+  "Ragnar Lothbrok": [
+    "Fermier devenu jarl, puis roi.",
+    "J'ai traversé la mer vers l'ouest et pillé un monastère anglais.",
+    "Crâne rasé tatoué, je deviens une légende du Nord."
+  ],
+  "Omar Little": [
+    "Indépendant, je braque uniquement les dealers.",
+    "Je respecte un code : jamais de civils.",
+    "Long manteau, fusil à pompe, et je siffle une comptine."
+  ],
+  "Nucky Thompson": [
+    "Trésorier du comté d'Atlantic, très populaire.",
+    "Pendant la Prohibition, j'ai fait de l'alcool ma deuxième entreprise.",
+    "Œillet rouge à la boutonnière, promenade sur les planches."
+  ],
+  "Don Draper": [
+    "Directeur créatif d'une agence de publicité de Madison Avenue.",
+    "J'ai volé l'identité d'un soldat mort en Corée.",
+    "Costume impeccable, cigarette, verre de whisky."
+  ],
+  "Tony Soprano": [
+    "Gestionnaire de déchets dans le New Jersey.",
+    "Je vois une psychiatre pour mes crises d'angoisse.",
+    "Les canards dans ma piscine me rendent sentimental."
+  ],
+  "Carrie Mathison": [
+    "Agente de la CIA spécialiste du Moyen-Orient.",
+    "Je soupçonne un héros de guerre d'avoir été retourné.",
+    "Bipolaire, je couvre mes murs de fils et de photos."
+  ],
+  "Jack Bauer": [
+    "Agent de la cellule antiterroriste de Los Angeles.",
+    "J'ai sauvé plusieurs présidents, toujours en une seule journée.",
+    "Damn it ! L'horloge défile pendant que je parle."
+  ],
+  "Meredith Grey": [
+    "Chirurgienne à Seattle, fille d'une chirurgienne célèbre.",
+    "Je suis tombée amoureuse d'un neurochirurgien surnommé McDreamy.",
+    "C'est une journée magnifique pour sauver des vies."
+  ],
+  "Le Dixième Docteur": [
+    "Voyageur temporel, je change de visage de temps en temps.",
+    "Je voyage avec des compagnes humaines dans une cabine bleue.",
+    "Costume, converse, tournevis sonique. Allons-y !"
+  ],
+  "Lady Mary Crawley": [
+    "Fille aînée d'un comte du Yorkshire.",
+    "Je cherche un mari capable de sauver le domaine.",
+    "Robe élégante et sourire froid. J'ai épousé mon cousin éloigné."
+  ],
+  "Harvey Specter": [
+    "Meilleur avocat d'affaires de New York.",
+    "J'ai embauché un génie sans diplôme comme associé.",
+    "Je ne joue pas les chances, je joue l'homme."
+  ],
+  "Phil Dunphy": [
+    "Agent immobilier, magicien amateur.",
+    "Je me considère comme un père cool.",
+    "J'ai mon propre manuel de paternité, la Philosophie."
+  ],
+  "Michael Bluth": [
+    "Seul membre responsable d'une famille de promoteurs ruinée.",
+    "Mon père est en prison, ma mère boit, mon frère fait de la magie.",
+    "Il y a toujours de l'argent dans le stand de bananes."
+  ],
+  "June Osborne": [
+    "Éditrice avant que tout ne bascule.",
+    "Je suis réduite à porter des enfants pour une famille puissante.",
+    "Cape rouge et bonnet blanc. Nolite te bastardes carborundorum."
+  ],
+  "Logan Roy": [
+    "Fondateur et PDG d'un empire médiatique.",
+    "Mes quatre enfants se disputent ma place à la tête du groupe.",
+    "J'ai tendance à envoyer tout le monde se faire voir."
+  ],
+  "Rue Bennett": [
+    "Lycéenne tout juste sortie de désintox.",
+    "Je narre la vie de mes amis, souvent avec des paillettes.",
+    "Je rechute, et je suis amoureuse de la nouvelle."
+  ],
+  "Dale Cooper": [
+    "Agent spécial du FBI venu enquêter dans une petite ville.",
+    "Je dicte mes notes à une certaine Diane.",
+    "Grand amateur de café noir et de tarte aux cerises."
+  ],
+  "Fox Mulder": [
+    "Agent du FBI au sous-sol, dans un service qui gêne.",
+    "Ma sœur a été enlevée quand j'étais enfant.",
+    "Je veux y croire. La vérité est ailleurs."
+  ],
+  "William Adama": [
+    "Commandant d'un vieux vaisseau de guerre.",
+    "Je protège les derniers humains après l'attaque des machines.",
+    "So say we all."
+  ],
+  "Buffy Summers": [
+    "Lycéenne en Californie, je fais du sport la nuit.",
+    "Mon observateur est bibliothécaire.",
+    "Je suis l'Élue. Pieu en bois dans la poche."
+  ],
+  "Dean Winchester": [
+    "Chasseur de monstres itinérant, en Impala 1967.",
+    "Mon frère et moi suivons les traces de notre père.",
+    "Tarte, classic rock, et j'ai déjà été en enfer."
+  ],
+  "J.D. Dorian": [
+    "Médecin à l'hôpital du Sacré-Cœur.",
+    "Mon mentor ne m'appelle jamais par mon nom.",
+    "Je rêve éveillé toutes les cinq minutes, et mon meilleur ami est chirurgien."
+  ],
+  "Jeff Winger": [
+    "Ancien avocat radié, en reprise d'études.",
+    "J'ai monté un faux groupe d'espagnol pour séduire.",
+    "Discours inspirants garantis à la fin de chaque épisode."
+  ],
+  "Leslie Knope": [
+    "Directrice adjointe du service des parcs à Pawnee.",
+    "Je veux transformer une fosse en jardin public.",
+    "Je fête le Galentine's Day et j'adore les gaufres."
+  ],
+  "Jake Peralta": [
+    "Inspecteur au 99e commissariat de New York.",
+    "Mon capitaine est impassible, mais je l'adore.",
+    "Farceur, fan de Die Hard, et je dis cool cool cool cool."
+  ],
+  "Homelander": [
+    "Leader de la plus grande équipe de super-héros.",
+    "Employé de Vought, très attaché à l'image.",
+    "Cape aux couleurs du drapeau, lait au biberon."
+  ],
+  "Marty Byrde": [
+    "Conseiller financier de Chicago, déménagé dans le Missouri.",
+    "Je blanchis l'argent d'un cartel mexicain.",
+    "Je calcule tout, et je négocie ma vie à chaque épisode."
+  ],
+  "Holden Ford": [
+    "Agent du FBI à l'unité des sciences comportementales.",
+    "Je fais des entretiens avec des tueurs en série en prison.",
+    "J'ai contribué à créer le mot pour les désigner."
+  ],
+  "Rick Sanchez": [
+    "Scientifique alcoolique, le plus intelligent de l'univers.",
+    "J'embarque mon petit-fils dans mes voyages.",
+    "Je me suis transformé en cornichon."
+  ],
+  "BoJack Horseman": [
+    "Ancienne star d'une sitcom des années 90.",
+    "J'essaie d'écrire mes mémoires à Hollywoo.",
+    "Cheval dépressif, je bois trop."
+  ],
+  "Eric Cartman": [
+    "Écolier du Colorado, très manipulateur.",
+    "J'ai fait manger à un camarade ses propres parents.",
+    "Respectez mon autorité !"
+  ],
+  "Homer Simpson": [
+    "Inspecteur de la sécurité dans une centrale nucléaire.",
+    "Marié, trois enfants, amateur de donuts et de bière Duff.",
+    "D'oh !"
+  ],
+  "Peter Griffin": [
+    "Employé d'une brasserie à Quahog.",
+    "Marié, trois enfants, un chien qui parle.",
+    "Je me bats souvent avec un poulet géant."
+  ],
+  "Fleabag": [
+    "Gérante d'un café à Londres, avec un cochon d'Inde.",
+    "Ma sœur et moi avons perdu notre mère, et ma marraine est très passive-agressive.",
+    "Je regarde la caméra, et je suis tombée amoureuse d'un prêtre."
+  ],
+  "Klaus Hargreeves": [
+    "Adopté par un milliardaire, je fais partie d'une fratrie spéciale.",
+    "Je communique avec les morts, surtout sous substance.",
+    "J'ai fait la guerre du Vietnam en voyageant dans le temps."
+  ],
+  "Matt Murdock": [
+    "Avocat à Hell's Kitchen.",
+    "Aveugle depuis l'enfance, mes autres sens sont surdéveloppés.",
+    "Le soir, je me bats en costume rouge."
+  ],
+  "Luke Cage": [
+    "Ancien détenu, je travaille dans un salon de coiffure.",
+    "Une expérience m'a donné une peau impénétrable.",
+    "Je protège Harlem, sweat troué par les balles."
+  ],
+  "Jax Teller": [
+    "Vice-président d'un club de motards en Californie.",
+    "Mon père a fondé le club, j'ai trouvé son manuscrit.",
+    "Gilet en cuir, cheveux blonds, Charming."
+  ],
+  "Lucas Hood": [
+    "Ancien détenu, je suis devenu shérif d'une petite ville.",
+    "J'ai volé l'identité du vrai shérif, mort à son arrivée.",
+    "Je me bats beaucoup, en Pennsylvanie, près des Amish."
+  ],
+  "John Dutton": [
+    "Propriétaire du plus grand ranch du Montana.",
+    "Je me bats contre les promoteurs et la réserve voisine.",
+    "Je marque mes hommes au fer rouge."
+  ],
+  "James Dutton": [
+    "Vétéran de la guerre de Sécession.",
+    "Je mène ma famille vers l'ouest, en convoi, au XIXe siècle.",
+    "Je suis l'ancêtre d'un grand ranch du Montana."
+  ],
+  "Carmen Berzatto": [
+    "Chef d'un restaurant étoilé, revenu à Chicago.",
+    "J'ai hérité de la sandwicherie de mon frère.",
+    "Oui, chef ! Sandwich au bœuf italien."
+  ],
+  "Mark Scout": [
+    "Employé chez Lumon Industries.",
+    "Ma mémoire est coupée en deux : travail d'un côté, vie de l'autre.",
+    "Je trie des chiffres qui me font peur."
+  ],
+  "Cassian Andor": [
+    "Voleur sur Ferrix, je cherche ma sœur.",
+    "J'ai rejoint une rébellion naissante.",
+    "J'ai fini par voler les plans de l'Étoile de la Mort."
+  ],
+  "Loki": [
+    "Dieu de la malice, frère adoptif d'un dieu du tonnerre.",
+    "Arrêté par une agence qui surveille le temps.",
+    "Corne dorée, et des variantes de moi partout."
+  ],
+  "Wanda Maximoff": [
+    "Ancienne Avenger, je vis dans une petite ville.",
+    "Ma vie ressemble étrangement à une sitcom.",
+    "Pouvoirs rouges, et je ne supporte pas de perdre ma Vision."
+  ],
+  "Joel Miller": [
+    "Contrebandier à Boston, après l'apocalypse.",
+    "J'ai perdu ma fille le premier jour.",
+    "Je dois escorter une adolescente immunisée."
+  ],
+  "Rhaenyra Targaryen": [
+    "Héritière désignée du Trône de fer.",
+    "Mon père a choisi une nouvelle reine, mon ancienne amie.",
+    "Dragonnière, ma rivalité a déclenché une guerre civile."
+  ],
+  "Geralt de Riv": [
+    "Chasseur de monstres itinérant.",
+    "Mutant aux yeux jaunes, je suis lié par le destin à une princesse.",
+    "Cheveux blancs, deux épées, et un barde qui me chante."
+  ],
+  "Ted Lasso": [
+    "Entraîneur de football américain au Kansas.",
+    "Recruté à Londres pour entraîner un club de football anglais.",
+    "Moustache, biscuits, et un panneau Believe."
+  ],
+  "Piper Chapman": [
+    "Créatrice de savons de luxe à Manhattan.",
+    "Condamnée pour avoir transporté de l'argent pour une ex il y a dix ans.",
+    "Combinaison couleur agrume, et mon ex est dans la même prison."
+  ],
+  "Tate Langdon": [
+    "Adolescent suivi par un psy, dans une maison de Los Angeles.",
+    "Je hante la maison où je suis mort en 1994.",
+    "Je suis tombé amoureux de la fille du nouveau propriétaire."
+  ],
+  "Arthur": [
+    "Roi de Bretagne, je dirige une table ronde.",
+    "Mes chevaliers ne comprennent rien à rien.",
+    "Excalibur au fourreau, je cherche le Graal."
+  ],
+  "Perceval": [
+    "Chevalier de la Table ronde, originaire du pays de Galles.",
+    "Mon fidèle compagnon est un grand gourmand.",
+    "C'est pas faux."
+  ],
+  "Karadoc": [
+    "Chevalier de Vannes, très attaché à la nourriture.",
+    "Mon compagnon de quête est aussi peu doué que moi.",
+    "Le gras, c'est la vie."
+  ],
+  "Léodagan": [
+    "Roi de Carmélide, beau-père du roi.",
+    "Je défends ma frontière avec des catapultes.",
+    "Tortures, colère et je déteste les Bretons."
+  ],
+  "Guenièvre": [
+    "Reine de Bretagne, épouse du roi.",
+    "Mon mari ne s'intéresse pas à moi.",
+    "Très naïve, je pose beaucoup de questions."
+  ],
+  "Andréa Martel": [
+    "Agente artistique dans une grande agence parisienne.",
+    "Je gère les caprices des stars du cinéma français.",
+    "Pas de temps à perdre, et beaucoup de femmes dans ma vie."
+  ],
+  "Assane Diop": [
+    "Agent d'entretien au Louvre, ou peut-être pas.",
+    "Mon père a été accusé à tort du vol d'un collier.",
+    "Je m'inspire d'un livre de gentleman cambrioleur."
+  ],
+  "Guillaume Debailly « Malotru »": [
+    "Officier de renseignement de retour de Syrie.",
+    "J'ai vécu six ans à Damas sous une fausse identité.",
+    "Clandestin à la DGSE, je ne parviens pas à quitter ma légende."
+  ],
+  "Philippe Rickwaert": [
+    "Député-maire du Nord, socialiste.",
+    "J'ai fait élire un président, puis il m'a trahi.",
+    "Je suis prêt à tout pour la gauche et pour moi."
+  ],
+  "Seong Gi-hun": [
+    "Chauffeur endetté, accro aux paris hippiques.",
+    "On m'a proposé de jouer à des jeux d'enfants pour de l'argent.",
+    "Je porte le numéro 456."
+  ],
+  "Mercredi Addams": [
+    "Élève à l'académie Nevermore.",
+    "Je joue du violoncelle et je déteste les gens.",
+    "Tresses noires, une main pour compagnie, et une danse célèbre."
+  ],
+  "Jinx": [
+    "Jeune criminelle de Zaun, cheveux bleus.",
+    "Ma sœur aînée m'a abandonnée, du moins je le crois.",
+    "Je n'arrête pas de faire tout sauter."
+  ],
+  "Gregory House": [
+    "Chef du service de diagnostic à Princeton-Plainsboro.",
+    "Canne, Vicodin et misanthropie.",
+    "Tout le monde ment. Ce n'est jamais le lupus."
+  ],
+  "Hannibal Lecter": [
+    "Psychiatre réputé à Baltimore.",
+    "Je conseille un profileur du FBI très sensible.",
+    "Je prépare des dîners très raffinés."
+  ],
+  "Elliot Alderson": [
+    "Ingénieur en cybersécurité à New York.",
+    "Je pirate la nuit, et je parle à mon ami imaginaire.",
+    "Je veux effacer toutes les dettes du monde."
+  ],
+  "Serena van der Woodsen": [
+    "Star de la jeunesse dorée de l'Upper East Side.",
+    "Je suis revenue d'internat, et tout le monde parle de moi.",
+    "Ma meilleure amie est aussi ma pire rivale."
+  ],
+  "Johnny Lawrence": [
+    "Homme à tout faire, je bois de la bière en canette.",
+    "Ancien champion de karaté de 1984, j'ai perdu en finale.",
+    "J'ai rouvert un dojo nommé d'après un serpent."
+  ],
+  "Yoshii Toranaga": [
+    "Grand seigneur, membre du conseil des régents.",
+    "Mes rivaux veulent m'éliminer.",
+    "Je joue avec un navigateur anglais venu de loin."
+  ],
+  "Lucy MacLean": [
+    "Habitante d'un abri antiatomique.",
+    "Mon père a été enlevé, je remonte à la surface.",
+    "Je reste polie dans un monde de goules."
+  ],
+  "Jackson Lamb": [
+    "Chef d'un service d'espions déchus.",
+    "Ancien agent de terrain, je ne me lave pas souvent.",
+    "Je pète en réunion, mais je suis brillant."
+  ],
+  "Tanya McQuoid": [
+    "Héritière très riche, je voyage pour oublier ma mère.",
+    "Je me fais masser dans un hôtel de luxe à Hawaï.",
+    "Je ne supporte pas d'être seule."
+  ],
+  "Charles-Haden Savage": [
+    "Ancien acteur d'une série policière à succès.",
+    "J'ai lancé un podcast avec deux voisins de l'Arconia.",
+    "Je fais des omelettes et je vis seul."
+  ],
+  "Daphne Bridgerton": [
+    "Jeune débutante de la haute société londonienne.",
+    "Je fais semblant d'être courtisée par un duc.",
+    "Je suis la fille aînée d'une grande fratrie."
+  ],
+  "Sookie Stackhouse": [
+    "Serveuse dans un bar en Louisiane.",
+    "Je lis dans les pensées des gens.",
+    "Je sors avec un vampire de 173 ans."
+  ],
+  "Miguel Ángel Félix Gallardo": [
+    "Ancien policier, entrepreneur à Guadalajara.",
+    "J'ai fédéré les trafiquants mexicains.",
+    "Je suis le parrain des parrains."
+  ],
+  "Ciro Di Marzio": [
+    "Soldat d'un clan napolitain, très ambitieux.",
+    "Je survis à tout, on m'appelle l'Immortel.",
+    "Je trahis mon parrain pour prendre sa place."
+  ],
+  "Tom Loftis": [
+    "Maire d'une petite île de Nouvelle-Angleterre.",
+    "Je veux en faire une destination touristique.",
+    "Les habitants parlent de malédiction, je n'y crois pas."
+  ],
+  "Juliette Nichols": [
+    "Mécanicienne dans les étages du bas.",
+    "J'ai été nommée shérif après la mort du précédent.",
+    "Je veux savoir ce qu'il y a dehors."
+  ],
+  "Malcolm": [
+    "Collégien surdoué, j'ai un QI de 165.",
+    "Je suis le troisième de cinq garçons.",
+    "Je parle à la caméra et ma mère crie beaucoup."
+  ],
+  "Reese": [
+    "Collégien brutal, pas très malin.",
+    "Je suis le grand frère d'un surdoué.",
+    "Je cuisine très bien."
+  ],
+  "Hal": [
+    "Père de famille de cinq garçons, très émotif.",
+    "Je travaille dans un bureau, et j'ai beaucoup de passions.",
+    "Ma femme dirige la maison, et j'ai peur d'elle."
+  ],
+  "Lois": [
+    "Mère de cinq garçons, très stricte.",
+    "Je travaille dans une pharmacie.",
+    "Je hurle sur tout le monde, et j'ai toujours raison."
+  ],
+  "Claire Dunphy": [
+    "Mère de trois enfants, très organisée.",
+    "Je reprends l'entreprise de placards de mon père.",
+    "Mon mari se prend pour un père cool."
+  ],
+  "Jay Pritchett": [
+    "Patriarche d'une famille recomposée.",
+    "J'ai épousé une Colombienne bien plus jeune.",
+    "Je vends des placards."
+  ],
+  "Gloria Pritchett": [
+    "Colombienne pleine d'énergie, mère d'un garçon très mûr.",
+    "J'ai épousé un homme bien plus âgé.",
+    "Mon accent est inimitable."
+  ],
+  "Mitchell Pritchett": [
+    "Avocat, très anxieux.",
+    "J'ai adopté une petite fille vietnamienne avec mon mari.",
+    "Mon compagnon est très théâtral."
+  ],
+  "Tony Stonem": [
+    "Lycéen de Bristol, très manipulateur.",
+    "Je fais tourner la tête de tout le monde.",
+    "J'ai été renversé par un bus."
+  ],
+  "Effy Stonem": [
+    "Lycéenne très mystérieuse de Bristol.",
+    "Je ne parle presque pas au début.",
+    "Mon grand frère a été renversé par un bus."
+  ],
+  "Nathan Young": [
+    "Délinquant en travaux d'intérêt général.",
+    "Je fais beaucoup de blagues lourdes.",
+    "Mon pouvoir : je suis immortel."
+  ],
+  "Rachel Berry": [
+    "Lycéenne, je rêve de Broadway.",
+    "Membre d'une chorale de lycée, je veux tous les solos.",
+    "Je me prends pour Barbra Streisand."
+  ],
+  "Kurt Hummel": [
+    "Lycéen de l'Ohio, passionné de mode.",
+    "Membre d'une chorale de lycée, contre-ténor.",
+    "Je fais mon coming out, et mon père me soutient."
+  ],
+  "Gus Fring": [
+    "Gérant d'une chaîne de poulet frit au Nouveau-Mexique.",
+    "Très discret, je distribue aussi autre chose.",
+    "Lunettes, costume impeccable, et je finis le visage à moitié arraché."
+  ],
+  "Skyler White": [
+    "Comptable, mère de deux enfants.",
+    "J'ai découvert ce que faisait mon mari.",
+    "J'ai blanchi son argent dans une station de lavage."
+  ],
+  "Jon Snow": [
+    "Bâtard d'un seigneur du Nord, membre de la Garde de Nuit.",
+    "Je suis mort et revenu.",
+    "Tu ne sais rien."
+  ],
+  "Cersei Lannister": [
+    "Reine, mère de trois enfants.",
+    "Je suis très attachée à mon frère jumeau.",
+    "Honte ! Honte ! Honte !"
+  ],
+  "Arya Stark": [
+    "Fille cadette d'un seigneur du Nord.",
+    "J'ai une liste de noms à rayer.",
+    "Une fille n'a pas de nom."
+  ],
+  "Jaime Lannister": [
+    "Garde royal, frère jumeau de la reine.",
+    "On m'appelle le Régicide.",
+    "J'ai perdu ma main d'épéiste."
+  ],
+  "Joffrey Baratheon": [
+    "Jeune roi, très cruel.",
+    "Ma mère est la reine, mon père n'est pas mon père.",
+    "Je meurs empoisonné à mon mariage."
+  ],
+  "Ned Stark": [
+    "Seigneur de Winterfell, devenu Main du roi.",
+    "J'ai découvert un secret sur les enfants du roi.",
+    "L'hiver vient. Je perds la tête."
+  ],
+  "Sansa Stark": [
+    "Fille aînée d'un seigneur du Nord.",
+    "Je voulais épouser un roi, mais je suis devenue otage.",
+    "Je finis reine du Nord."
+  ],
+  "Chandler Bing": [
+    "Analyste statistique, puis publicitaire.",
+    "Colocataire avec un acteur, puis marié à ma meilleure amie.",
+    "Je fais des blagues quand je suis mal à l'aise. Could I be any more...?"
+  ],
+  "Joey Tribbiani": [
+    "Acteur, connu pour un rôle de médecin dans un soap.",
+    "Je ne partage pas ma nourriture.",
+    "How you doin' ?"
+  ],
+  "Monica Geller": [
+    "Cheffe cuisinière à New York.",
+    "Maniaque du ménage, je vivais avec ma meilleure amie.",
+    "Mon frère est paléontologue."
+  ],
+  "Phoebe Buffay": [
+    "Masseuse, et chanteuse dans un café.",
+    "J'ai une sœur jumelle et j'ai porté les triplés de mon demi-frère.",
+    "Smelly Cat, smelly cat !"
+  ],
+  "Dustin Henderson": [
+    "Collégien passionné de sciences.",
+    "J'ai adopté une étrange créature.",
+    "Je n'ai pas toutes mes dents, et j'ai une copine dans l'Utah."
+  ],
+  "Steve Harrington": [
+    "Ancien roi du lycée.",
+    "Je suis devenu baby-sitter pour une bande de gamins.",
+    "Batte cloutée et coiffure impeccable."
+  ],
+  "Jim Halpert": [
+    "Vendeur de papier, farceur.",
+    "Je fais des blagues à mon collègue de bureau.",
+    "Je suis amoureux de la réceptionniste. Je regarde la caméra."
+  ],
+  "Pam Beesly": [
+    "Réceptionniste dans une entreprise de papier.",
+    "Je rêve de devenir artiste.",
+    "Je suis fiancée, mais j'aime mon collègue."
+  ],
+  "Bart Simpson": [
+    "Écolier de Springfield, roi des farces.",
+    "Je passe beaucoup de temps au coin.",
+    "Ay caramba ! Mange mon short !"
+  ],
+  "Lisa Simpson": [
+    "Élève très brillante de Springfield.",
+    "Je joue du saxophone et je suis végétarienne.",
+    "Mon frère est un cancre."
+  ],
+  "Daryl Dixon": [
+    "Chasseur solitaire, après l'apocalypse.",
+    "Arbalète et moto.",
+    "Mon frère a été laissé menotté sur un toit."
+  ],
+  "Negan": [
+    "Chef d'une communauté appelée les Sauveurs.",
+    "Je règne par la peur.",
+    "Batte de baseball barbelée nommée Lucille."
+  ],
+  "Hervé Dumont": [
+    "Commercial dans une entreprise, toujours près du distributeur de boissons.",
+    "Je fais des blagues lourdes à mes collègues.",
+    "Je drague toutes les filles de la boîte."
+  ],
+  "Jamel Driddi": [
+    "Employé d'hôpital, plus doué pour la tchatche que pour le travail.",
+    "Toujours une combine en cours avec mes collègues.",
+    "J'ai le même prénom que mon interprète."
+  ],
+  "Susan Mayer": [
+    "Illustratrice de livres pour enfants, divorcée.",
+    "J'ai brûlé la maison d'une voisine par accident.",
+    "Je suis tombée amoureuse du plombier."
+  ],
+  "Carrie Bradshaw": [
+    "Chroniqueuse au New York Star.",
+    "J'écris sur le sexe et l'amour.",
+    "Je me ruine en chaussures."
+  ],
+  "Patrick Jane": [
+    "Consultant pour le CBI en Californie.",
+    "Ancien faux médium, je traque le tueur de ma famille.",
+    "Je bois du thé et je lis dans les gens."
+  ],
+  "Piper Halliwell": [
+    "Cheffe de cuisine, puis gérante d'une boîte de nuit.",
+    "Sorcière, je peux figer le temps.",
+    "Je suis la sœur du milieu d'un trio de sorcières."
+  ],
+  "Vanessa Ives": [
+    "Médium dans le Londres victorien.",
+    "Je suis possédée par un démon.",
+    "Je joue aux cartes avec des créatures légendaires."
+  ],
+  "Sarah Manning": [
+    "Arnaqueuse londonienne, j'ai une fille.",
+    "J'ai vu mon sosie se jeter sous un train.",
+    "Je découvre que je suis un clone."
+  ],
+  "Peter Petrelli": [
+    "Infirmier à domicile à New York.",
+    "Mon frère est candidat au Congrès.",
+    "Je copie les pouvoirs des autres."
+  ],
+  "Carol Sturka": [
+    "Romancière à succès à Albuquerque.",
+    "Le monde entier est devenu heureux, sauf moi.",
+    "Je suis l'une des rares personnes immunisées."
+  ],
+  "Jesse Custer": [
+    "Pasteur d'une petite ville du Texas.",
+    "Une entité a fusionné avec moi.",
+    "Quand je donne un ordre, tout le monde obéit."
+  ],
+  "Nell Crain": [
+    "La plus jeune d'une fratrie de cinq.",
+    "Je vois une dame au cou tordu.",
+    "Je suis retournée dans la maison de mon enfance."
+  ],
+  "Beth Harmon": [
+    "Orpheline du Kentucky, prodige des échecs.",
+    "J'ai appris les échecs avec le concierge de l'orphelinat.",
+    "Je vois l'échiquier au plafond, et je vais jouer à Moscou."
+  ],
+  "Philip J. Fry": [
+    "Livreur de pizzas cryogénisé.",
+    "Réveillé en l'an 3000, livreur dans une société de livraison.",
+    "Mon meilleur ami est un robot fumeur."
+  ],
+  "James T. Kirk": [
+    "Capitaine d'un vaisseau spatial.",
+    "J'explore de nouveaux mondes.",
+    "Mon second a les oreilles pointues."
+  ],
+  "Spock": [
+    "Premier officier d'un vaisseau spatial.",
+    "Mi-humain, mi-vulcain, très logique.",
+    "Longue vie et prospérité."
+  ]
+}

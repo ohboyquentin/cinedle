@@ -1,0 +1,717 @@
+{
+  "Blanche-Neige et les Sept Nains": [
+    "Chant de marche joyeux, rythmé par les pioches",
+    "Une petite troupe de mineurs, en chœur",
+    "Ils rentrent du travail en file indienne à travers la forêt"
+  ],
+  "Pinocchio": [
+    "Ballade douce et rêveuse, devenue l'hymne d'un grand studio",
+    "Un petit insecte en chapeau haut de forme",
+    "Un vieil artisan fait un vœu à sa fenêtre en regardant le ciel"
+  ],
+  "Dumbo": [
+    "Berceuse tendre et mélancolique",
+    "Une voix de femme, pour une maman enfermée",
+    "Une mère enchaînée berce son petit avec sa trompe à travers les barreaux"
+  ],
+  "Bambi": [
+    "Chanson printanière légère, accompagnée par la pluie",
+    "Un chœur, sans personnage à l'écran",
+    "Une averse de printemps tombe sur la forêt et ses habitants"
+  ],
+  "Cendrillon": [
+    "Comptine magique aux paroles absurdes",
+    "Une gentille fée marraine",
+    "Une citrouille devient carrosse et des souris deviennent chevaux"
+  ],
+  "Alice au pays des merveilles": [
+    "Chanson de fête loufoque et désordonnée",
+    "Un chapelier fou et un lièvre de mars",
+    "Un goûter interminable autour d'une longue table pleine de théières"
+  ],
+  "Peter Pan": [
+    "Chanson aérienne et entraînante",
+    "Un garçon qui ne veut pas grandir et une petite fée",
+    "Trois enfants s'envolent par la fenêtre au-dessus de Londres"
+  ],
+  "La Belle au bois dormant": [
+    "Valse romantique inspirée de Tchaïkovski",
+    "Une princesse cachée dans la forêt, puis son prince",
+    "Elle chante dans la forêt avec les animaux et rencontre un inconnu"
+  ],
+  "Les 101 Dalmatiens": [
+    "Air de jazz moqueur au piano",
+    "Un compositeur londonien, à son clavier",
+    "Il se moque de la femme qui vient d'entrer, avec son grand manteau de fourrure"
+  ],
+  "Le Livre de la jungle": [
+    "Jazz swing endiablé",
+    "Un grand singe qui se prend pour un roi",
+    "Dans un temple en ruine, il veut qu'on lui apprenne à faire le feu"
+  ],
+  "Les Aristochats": [
+    "Jazz très swing, avec des trompettes",
+    "Un chat de gouttière et sa bande de musiciens",
+    "Une fête endiablée dans un grenier parisien, jusqu'à faire tomber le plancher"
+  ],
+  "Les Aventures de Bernard et Bianca": [
+    "Ballade douce et pleine d'espoir",
+    "Une voix féminine, hors de l'écran",
+    "Une orpheline attend qu'on vienne la chercher dans un marais"
+  ],
+  "La Petite Sirène": [
+    "Calypso festif aux percussions",
+    "Un crabe musicien de la cour",
+    "Il essaie de convaincre une princesse de rester sous la mer"
+  ],
+  "La Belle et la Bête": [
+    "Ballade romantique et douce",
+    "Une théière, pour son fils tasse",
+    "Un couple danse seul dans une immense salle de bal dorée"
+  ],
+  "Aladdin": [
+    "Duo romantique et planant",
+    "Un voleur devenu prince et une princesse",
+    "Ils survolent le monde la nuit sur un tapis volant"
+  ],
+  "Le Roi Lion": [
+    "Chant d'ouverture solennel avec des chœurs africains",
+    "Une voix qui accompagne le lever du soleil sur la savane",
+    "Tous les animaux se rassemblent au pied d'un rocher pour voir un nouveau-né"
+  ],
+  "Pocahontas, une légende indienne": [
+    "Ballade écologique et majestueuse",
+    "Une jeune fille amérindienne",
+    "Elle explique à un capitaine anglais que la nature est vivante"
+  ],
+  "Le Bossu de Notre-Dame": [
+    "Ouverture grandiose avec chœurs et cloches",
+    "Un saltimbanque qui raconte une histoire",
+    "Un marionnettiste raconte aux enfants l'histoire d'un sonneur caché"
+  ],
+  "Hercule": [
+    "Gospel très rythmé",
+    "Cinq muses",
+    "Un héros devient une star, avec ses produits dérivés partout en Grèce"
+  ],
+  "Mulan": [
+    "Ballade intime et mélancolique",
+    "Une jeune femme seule devant son reflet",
+    "Après un rendez-vous raté avec une marieuse, elle se regarde dans l'eau"
+  ],
+  "Les Nouvelles Aventures de l'empereur": [
+    "Grande chanson à la gloire d'un égoïste",
+    "Un célèbre crooner gallois, pour présenter le héros",
+    "Un jeune souverain se fait acclamer au début du film"
+  ],
+  "Lilo & Stitch": [
+    "Chanson hawaïenne joyeuse au ukulélé",
+    "Une chorale d'enfants hawaïens",
+    "Une petite fille, sa sœur et une créature bleue font du surf"
+  ],
+  "Bienvenue chez les Robinson": [
+    "Pop-rock douce et nostalgique",
+    "Le chanteur d'un groupe américain des années 90",
+    "Un jeune inventeur découvre une famille du futur"
+  ],
+  "Raiponce": [
+    "Duo romantique tout en douceur",
+    "Une jeune fille aux longs cheveux et un voleur",
+    "Ils regardent les lanternes s'envoler depuis une barque"
+  ],
+  "Les Mondes de Ralph": [
+    "Chanson pop rétro des années 80",
+    "Un groupe américain connu pour une chanson sur Pac-Man",
+    "On découvre l'univers d'un jeu d'arcade"
+  ],
+  "La Reine des neiges": [
+    "Grande ballade d'émancipation",
+    "Une jeune souveraine qui se libère enfin",
+    "Elle construit un palais de glace au sommet d'une montagne"
+  ],
+  "Les Nouveaux Héros": [
+    "Rock énergique",
+    "Un groupe de rock américain",
+    "Une équipe de jeunes génies devient une équipe de justiciers"
+  ],
+  "Zootopie": [
+    "Pop dansante et motivante",
+    "Une pop star gazelle",
+    "Une lapine arrive dans la grande ville pleine d'espoir"
+  ],
+  "Vaiana, la légende du bout du monde": [
+    "Ballade polynésienne pleine d'élan",
+    "Une fille de chef attirée par l'océan",
+    "Elle hésite entre son île et l'appel de la mer"
+  ],
+  "La Reine des neiges II": [
+    "Power ballad dramatique",
+    "Une souveraine appelée par une voix mystérieuse",
+    "Elle entend un chant que personne d'autre n'entend"
+  ],
+  "Raya et le Dernier Dragon": [
+    "R&B doux et inspirant",
+    "Une chanteuse de R&B, au générique",
+    "Un royaume divisé se réunit enfin"
+  ],
+  "Encanto, la fantastique famille Madrigal": [
+    "Chanson rythmée sur la pression",
+    "Une grande sœur très musclée",
+    "Elle soulève des maisons et des ânes, mais elle est épuisée"
+  ],
+  "Toy Story": [
+    "Chanson country décontractée",
+    "Un auteur-compositeur américain, au piano",
+    "Un cow-boy et son propriétaire jouent ensemble"
+  ],
+  "Toy Story 2": [
+    "Ballade triste et nostalgique",
+    "Une chanteuse canadienne",
+    "Une cow-girl se souvient de la fillette qui l'a abandonnée"
+  ],
+  "Monstres & Cie": [
+    "Duo jazzy et amusant",
+    "Deux collègues de travail, un grand et un petit",
+    "Le générique de fin, sur leur amitié"
+  ],
+  "Le Monde de Nemo": [
+    "Standard swing des années 60",
+    "Un chanteur britannique, au générique",
+    "Le générique de fin, sous l'eau"
+  ],
+  "Les Indestructibles": [
+    "Jazz d'espionnage façon années 60",
+    "Un orchestre, au générique",
+    "Le générique de fin, très rétro"
+  ],
+  "Cars": [
+    "Rock country énergique",
+    "Une chanteuse de rock américaine",
+    "Une voiture rouge fonce vers sa course"
+  ],
+  "Ratatouille": [
+    "Chanson française légère et entraînante",
+    "Une chanteuse française",
+    "Un rat rêve de cuisiner à Paris"
+  ],
+  "WALL-E": [
+    "Grand classique français en version jazz",
+    "Un trompettiste américain légendaire",
+    "Un petit robot nettoie une Terre abandonnée"
+  ],
+  "Là-haut": [
+    "Valse instrumentale douce",
+    "Un compositeur, au piano et à l'orchestre",
+    "Toute une vie de couple défile en quelques minutes"
+  ],
+  "Toy Story 3": [
+    "Chanson entraînante sur l'amitié",
+    "Un auteur-compositeur américain",
+    "Le générique de fin, avec des jouets réunis"
+  ],
+  "Rebelle": [
+    "Chanson celtique aérienne",
+    "Une chanteuse écossaise",
+    "Une princesse rousse galope à cheval dans la lande"
+  ],
+  "Vice-versa": [
+    "Thème instrumental doux et joyeux",
+    "Un compositeur, au piano",
+    "On découvre la tête d'une petite fille"
+  ],
+  "Le Monde de Dory": [
+    "Grand standard romantique",
+    "Une chanteuse australienne",
+    "Le générique de fin, sur l'importance de ne pas oublier"
+  ],
+  "Coco": [
+    "Ballade mexicaine émouvante",
+    "Un célèbre chanteur, puis un grand-père",
+    "Un garçon chante pour une très vieille femme qui oublie tout"
+  ],
+  "Toy Story 4": [
+    "Chanson country amusante",
+    "Un auteur-compositeur américain",
+    "Un cow-boy empêche un jouet fait maison de sauter dans la poubelle"
+  ],
+  "Luca": [
+    "Chanson italienne des années 80",
+    "Une chanteuse italienne",
+    "Deux garçons découvrent l'été au bord de la mer"
+  ],
+  "Élémentaire": [
+    "Pop douce et romantique",
+    "Un chanteur pop américain",
+    "Le feu et l'eau tombent amoureux"
+  ],
+  "Fievel et le Nouveau Monde": [
+    "Ballade pleine d'espoir",
+    "Une petite souris séparée de sa famille, sous la lune",
+    "Deux membres d'une famille séparée chantent chacun de leur côté"
+  ],
+  "Mon voisin Totoro": [
+    "Chanson enfantine joyeuse",
+    "Une chanteuse japonaise, au générique",
+    "Deux sœurs et un gros esprit gris attendent le bus sous la pluie"
+  ],
+  "Le Tombeau des lucioles": [
+    "Vieille chanson anglaise douce et nostalgique",
+    "Une voix de soprano sur un disque ancien",
+    "Des filles riches rentrent chez elles et découvrent un abri abandonné"
+  ],
+  "Akira": [
+    "Thème tribal aux percussions et aux chœurs",
+    "Un collectif musical japonais",
+    "Une bande de motards traverse Neo-Tokyo la nuit"
+  ],
+  "Kiki la petite sorcière": [
+    "Pop japonaise des années 70",
+    "Une chanteuse japonaise",
+    "Une apprentie magicienne s'envole de chez elle sur un balai"
+  ],
+  "Porco Rosso": [
+    "Chanson française de 1866",
+    "Une chanteuse japonaise",
+    "Un aviateur au visage de cochon écoute la radio"
+  ],
+  "Princesse Mononoké": [
+    "Chanson lyrique très aiguë",
+    "Un contre-ténor japonais",
+    "Un prince rencontre une fille élevée par des loups"
+  ],
+  "Perfect Blue": [
+    "Thème électronique angoissant",
+    "Un compositeur japonais",
+    "Une chanteuse devenue actrice perd pied"
+  ],
+  "Le Prince d'Égypte": [
+    "Duo gospel majestueux",
+    "Deux grandes divas américaines",
+    "Un peuple libéré traverse le désert"
+  ],
+  "Shrek": [
+    "Reprise pop-rock des années 60",
+    "Un groupe de rock californien",
+    "Le générique de fin, avec tout le monde qui danse"
+  ],
+  "Le Voyage de Chihiro": [
+    "Ballade douce au piano",
+    "Une chanteuse japonaise, à la lyre",
+    "Le générique de fin, après une aventure chez les esprits"
+  ],
+  "L'Âge de glace": [
+    "Rock folk entraînant",
+    "Un groupe de rock américain",
+    "Trois animaux traversent la banquise avec un bébé humain"
+  ],
+  "Le Château ambulant": [
+    "Valse instrumentale tournoyante",
+    "Un compositeur japonais, au piano et à l'orchestre",
+    "Une maison de fer avance à travers les collines"
+  ],
+  "Madagascar": [
+    "Dance music très rythmée",
+    "Un roi lémurien",
+    "Une grande fête de lémuriens sur une île"
+  ],
+  "Wallace & Gromit : Le Mystère du lapin-garou": [
+    "Thème instrumental joyeux et britannique",
+    "Un compositeur anglais, avec une fanfare",
+    "Un inventeur et son chien s'occupent de leurs inventions"
+  ],
+  "Kung Fu Panda": [
+    "Musique orchestrale aux accents chinois",
+    "Deux compositeurs hollywoodiens",
+    "Un vieux maître tortue disparaît dans une pluie de pétales"
+  ],
+  "Ponyo sur la falaise": [
+    "Chanson enfantine joyeuse",
+    "Un duo japonais et une petite fille",
+    "Le générique de fin, après un raz-de-marée"
+  ],
+  "Coraline": [
+    "Comptine douce et inquiétante",
+    "Une autre mère aux boutons, au piano",
+    "Une fillette découvre un monde parallèle trop beau pour être vrai"
+  ],
+  "Dragons": [
+    "Thème orchestral aérien",
+    "Un compositeur britannique",
+    "Un jeune viking et un dragon noir volent au-dessus des nuages"
+  ],
+  "Moi, moche et méchant": [
+    "Chanson funk rétro",
+    "Un chanteur-producteur américain",
+    "Un vilain chauve prépare un plan diabolique"
+  ],
+  "Arrietty, le petit monde des chapardeurs": [
+    "Chanson folk celtique à la harpe",
+    "Une harpiste française",
+    "Une petite fille se faufile dans une maison humaine"
+  ],
+  "Megamind": [
+    "Rock blues des années 80",
+    "Un guitariste américain",
+    "Un génie du mal fait son entrée sur scène"
+  ],
+  "1001 pattes": [
+    "Chanson country entraînante",
+    "Un auteur-compositeur américain",
+    "Le générique de fin, avec les insectes"
+  ],
+  "Les Croods": [
+    "Pop électronique joyeuse",
+    "Un groupe pop américain",
+    "Une famille préhistorique découvre le monde"
+  ],
+  "Le vent se lève": [
+    "Pop japonaise nostalgique",
+    "Une chanteuse japonaise",
+    "Le générique de fin, après une histoire d'amour et d'avions"
+  ],
+  "La Grande Aventure Lego": [
+    "Pop électro très joyeuse",
+    "Un duo pop canadien",
+    "Un ouvrier ordinaire commence sa journée"
+  ],
+  "Le Petit Prince": [
+    "Chanson française douce",
+    "Une chanteuse française",
+    "Une fillette découvre le monde d'un vieil aviateur"
+  ],
+  "Soul": [
+    "Jazz douce",
+    "Un pianiste de jazz américain",
+    "Un professeur de musique trouve un sens à la vie"
+  ],
+  "Trolls": [
+    "Pop dansante et joyeuse",
+    "Un chanteur pop américain",
+    "Des petites créatures colorées font la fête"
+  ],
+  "Le Grinch": [
+    "Reprise rap d'un classique de Noël",
+    "Un rappeur américain",
+    "Une créature verte prépare un mauvais coup"
+  ],
+  "Spider-Man : New Generation": [
+    "Pop-rap douce et mélancolique",
+    "Un rappeur américain et un duo",
+    "Un adolescent chante dans sa chambre avec ses écouteurs"
+  ],
+  "Le Garçon et le Héron": [
+    "Ballade pop japonaise",
+    "Un chanteur japonais",
+    "Le générique de fin, après un monde parallèle"
+  ],
+  "Spider-Man : Across the Spider-Verse": [
+    "Rap mélancolique",
+    "Un producteur américain et deux chanteurs",
+    "Un adolescent traverse d'autres dimensions"
+  ],
+  "Le Robot sauvage": [
+    "Pop country inspirante",
+    "Une chanteuse country américaine",
+    "Une machine apprend à un oison à voler"
+  ],
+  "Cars 2": [
+    "Pop country énergique",
+    "Un chanteur country et un chanteur britannique",
+    "Une voiture de course voyage à l'étranger"
+  ],
+  "Monstres Academy": [
+    "Thème orchestral joyeux",
+    "Un compositeur américain",
+    "Deux créatures arrivent à l'université"
+  ],
+  "Le Voyage d'Arlo": [
+    "Thème orchestral western",
+    "Deux frères compositeurs",
+    "Un jeune dinosaure traverse les grandes plaines"
+  ],
+  "Cars 3": [
+    "Rock bluesy",
+    "Un musicien américain",
+    "Une vieille voiture de course s'entraîne à nouveau"
+  ],
+  "Les Indestructibles 2": [
+    "Jazz d'espionnage façon années 60",
+    "Un compositeur américain",
+    "Le générique de fin, très rétro"
+  ],
+  "En avant": [
+    "Ballade country émouvante",
+    "Une chanteuse country américaine",
+    "Deux frères elfes partent en quête"
+  ],
+  "Alerte rouge": [
+    "Pop de boys band des années 2000",
+    "Un boys band de cinq garçons",
+    "Quatre copines rêvent de les voir en concert"
+  ],
+  "Buzz l'Éclair": [
+    "Thème orchestral de science-fiction",
+    "Un compositeur américain",
+    "Un ranger de l'espace décolle"
+  ],
+  "Vice-versa 2": [
+    "Thème instrumental doux",
+    "Une compositrice américaine",
+    "On retrouve la tête d'une adolescente"
+  ],
+  "Fantasia": [
+    "Poème symphonique de 1897",
+    "Un grand orchestre",
+    "Une souris met le chapeau de son maître et anime un balai"
+  ],
+  "La Belle et le Clochard": [
+    "Sérénade italienne romantique",
+    "Deux cuisiniers italiens",
+    "Deux chiens partagent un plat de spaghettis"
+  ],
+  "Merlin l'enchanteur": [
+    "Formule magique chantée",
+    "Un vieux magicien barbu",
+    "Il fait ses valises en rétrécissant tous ses meubles"
+  ],
+  "Robin des Bois": [
+    "Chanson folk sifflée et joyeuse",
+    "Un coq ménestrel",
+    "Il raconte l'histoire d'un renard et d'un ours dans la forêt"
+  ],
+  "Les Aventures de Winnie l'ourson": [
+    "Générique doux et enfantin",
+    "Un chœur",
+    "On ouvre le livre d'une chambre d'enfant"
+  ],
+  "Rox et Rouky": [
+    "Ballade douce sur l'amitié",
+    "Une vieille dame chouette",
+    "Un renardeau et un chiot jouent ensemble"
+  ],
+  "Taram et le Chaudron magique": [
+    "Musique orchestrale sombre et épique",
+    "Un grand compositeur de films",
+    "Un roi cornu veut lever une armée de squelettes"
+  ],
+  "Basil, détective privé": [
+    "Chanson de music-hall exubérante",
+    "Un grand méchant rat",
+    "Il se vante de ses crimes devant ses hommes de main"
+  ],
+  "Oliver et Compagnie": [
+    "Pop rock new-yorkais",
+    "Un chien des rues très cool",
+    "Il se promène dans les rues de New York"
+  ],
+  "Les Aventures de Bernard et Bianca au pays des kangourous": [
+    "Musique orchestrale aventureuse",
+    "Un compositeur de films",
+    "Deux souris s'envolent vers l'Australie à dos d'oiseau"
+  ],
+  "Tarzan": [
+    "Ballade pop douce",
+    "Un chanteur-batteur britannique",
+    "Une gorille berce un bébé humain"
+  ],
+  "Fantasia 2000": [
+    "Jazz symphonique de 1924",
+    "Un pianiste et un orchestre",
+    "New York dans les années 30, en dessin animé"
+  ],
+  "Dinosaure": [
+    "Musique orchestrale épique",
+    "Un compositeur de films",
+    "Un œuf traverse le monde porté par un ptérosaure"
+  ],
+  "Atlantide, l'empire perdu": [
+    "R&B pop",
+    "Une chanteuse de R&B",
+    "Le générique de fin, après une cité perdue"
+  ],
+  "La Planète au trésor": [
+    "Rock pop-rock",
+    "Le chanteur d'un groupe de rock américain",
+    "Un adolescent rebelle grandit"
+  ],
+  "Frère des ours": [
+    "Chanson pop joyeuse",
+    "Un chanteur-batteur britannique",
+    "Un grizzli et un petit voyagent ensemble"
+  ],
+  "La Ferme se rebelle": [
+    "Western comique",
+    "Un compositeur de films",
+    "Trois vaches partent en mission"
+  ],
+  "Chicken Little": [
+    "Pop rock",
+    "Un groupe pop rock canadien",
+    "Un petit poulet essaie de se faire oublier"
+  ],
+  "Volt, star malgré lui": [
+    "Folk douce",
+    "Une chanteuse américaine",
+    "Un chien et un chat traversent l'Amérique"
+  ],
+  "La Princesse et la Grenouille": [
+    "Jazz soul",
+    "Une serveuse qui rêve d'un restaurant",
+    "Elle imagine son restaurant dans un vieux bâtiment"
+  ],
+  "Winnie l'ourson": [
+    "Chanson douce et légère",
+    "Une actrice et chanteuse américaine",
+    "On ouvre le livre d'une chambre d'enfant"
+  ],
+  "Ralph 2.0": [
+    "Comédie musicale parodique",
+    "Une pilote d'un jeu de course en ligne",
+    "Une petite fille rêve de vivre dans un jeu violent"
+  ],
+  "Avalonia : L'Étrange Voyage": [
+    "Musique orchestrale d'aventure",
+    "Un compositeur de films",
+    "Une famille d'explorateurs découvre un monde souterrain"
+  ],
+  "Wish, Asha et la bonne étoile": [
+    "Grande ballade",
+    "Une jeune femme",
+    "Elle fait un vœu à un astre"
+  ],
+  "Vaiana 2": [
+    "Chanson festive",
+    "Un demi-dieu tatoué",
+    "Il revient pour une nouvelle aventure"
+  ],
+  "Zootopie 2": [
+    "Pop dansante",
+    "Une pop star gazelle",
+    "On retrouve la grande ville des animaux"
+  ],
+  "Hôtel Transylvanie": [
+    "Pop festive",
+    "Un jeune humain",
+    "Une grande fête dans un établissement pour vampires et loups-garous"
+  ],
+  "Dingo et Max": [
+    "Pop R&B des années 90",
+    "Une pop star fictive",
+    "Un adolescent se déguise en chanteur à l'école"
+  ],
+  "L'Étrange Noël de Monsieur Jack": [
+    "Chanson émerveillée",
+    "Un squelette roi d'Halloween",
+    "Il découvre une ville où tout est blanc et rouge"
+  ],
+  "Shrek 2": [
+    "Reprise pop-rock des années 80",
+    "Une marraine fée",
+    "Une course-poursuite vers le château"
+  ],
+  "Shrek le Troisième": [
+    "Rock britannique",
+    "Un groupe de rock",
+    "Un ogre part chercher un héritier"
+  ],
+  "Kung Fu Panda 2": [
+    "Musique orchestrale aux accents chinois",
+    "Deux compositeurs hollywoodiens",
+    "Un ours guerrier découvre son passé"
+  ],
+  "Kung Fu Panda 3": [
+    "Musique orchestrale aux accents chinois",
+    "Un compositeur hollywoodien",
+    "Un ours guerrier découvre un village caché"
+  ],
+  "Dragons 2": [
+    "Chanson folk celtique",
+    "Un chef viking et sa femme",
+    "Un couple de vikings se retrouve après vingt ans"
+  ],
+  "Dragons 3 : Le Monde caché": [
+    "Ballade folk",
+    "Un chanteur islandais",
+    "Le générique de fin, après la découverte d'une terre secrète"
+  ],
+  "Moi, moche et méchant 2": [
+    "Chanson soul joyeuse",
+    "Un chanteur-producteur américain",
+    "Un ancien vilain tombe amoureux"
+  ],
+  "Moi, moche et méchant 3": [
+    "Chanson pop",
+    "Un chanteur-producteur américain",
+    "Un ancien vilain retrouve son frère jumeau"
+  ],
+  "Madagascar 2": [
+    "Dance music",
+    "Un roi lémurien",
+    "Des animaux s'écrasent en Afrique"
+  ],
+  "L'Âge de glace 2": [
+    "Musique orchestrale",
+    "Un compositeur de films",
+    "La banquise fond et un déluge approche"
+  ],
+  "L'Âge de glace 3": [
+    "Musique orchestrale",
+    "Un compositeur de films",
+    "Les amis découvrent un monde souterrain"
+  ],
+  "Les Minions": [
+    "Rock des années 60",
+    "Des petites créatures jaunes",
+    "Elles cherchent un maître à New York"
+  ],
+  "Le Chat Potté": [
+    "Musique latine",
+    "Un félin hors-la-loi",
+    "Il danse le flamenco"
+  ],
+  "Super Mario Bros. le film": [
+    "Ballade rock amoureuse",
+    "Une tortue géante au piano",
+    "Il chante son amour pour une princesse"
+  ],
+  "Comme des bêtes": [
+    "Pop entraînante",
+    "Un chien",
+    "Des animaux de compagnie font la fête quand leurs maîtres sont partis"
+  ],
+  "Tous en scène": [
+    "Pop de concours de chant",
+    "Plusieurs animaux",
+    "Un koala organise un concours de chant"
+  ],
+  "Rio": [
+    "Samba brésilienne",
+    "Un chanteur brésilien",
+    "Un perroquet bleu découvre le carnaval au Brésil"
+  ],
+  "Les Bad Guys": [
+    "Funk",
+    "Une bande de méchants",
+    "Un loup prépare un braquage"
+  ],
+  "Chicken Run": [
+    "Musique orchestrale entraînante",
+    "Un compositeur de films",
+    "Des poules préparent leur évasion"
+  ],
+  "Anastasia": [
+    "Valse mélancolique",
+    "Une jeune orpheline",
+    "Elle danse avec des fantômes dans un palais abandonné"
+  ],
+  "Persepolis": [
+    "Rock des années 80",
+    "Un groupe de rock américain",
+    "Une adolescente iranienne chante dans sa chambre"
+  ],
+  "Le Château dans le ciel": [
+    "Ballade douce",
+    "Une chanteuse japonaise",
+    "Le générique de fin, après une île volante"
+  ]
+}

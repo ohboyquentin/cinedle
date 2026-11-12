@@ -996,7 +996,7 @@
     "nombre_episodes": 30,
     "statut": "Terminée",
     "acteur_principal": "Wagner Moura",
-    "lieu_culte": "assets/lieux/narcos.jpg",
+    "lieu_culte": "assets/lieux/narcos.JPG",
     "titre_episode_culte": "Descenso ( Tomber )",
     "generique": {
       "titre": "Tuyo",
@@ -1460,7 +1460,7 @@
     "nombre_episodes": 60,
     "statut": "Terminée",
     "acteur_principal": "Dominic West",
-    "lieu_culte": "assets/lieux/the_wire.jpg",
+    "lieu_culte": "assets/lieux/the_wire.JPG",
     "titre_episode_culte": "Middle Ground",
     "generique": {
       "titre": "Way Down in the Hole",
@@ -1634,7 +1634,7 @@
     "nombre_episodes": 86,
     "statut": "Terminée",
     "acteur_principal": "James Gandolfini",
-    "lieu_culte": "assets/lieux/les_soprano.jpg",
+    "lieu_culte": "assets/lieux/les_soprano.JPG",
     "titre_episode_culte": "Whitecaps",
     "generique": {
       "titre": "Woke Up This Morning",
@@ -1982,7 +1982,7 @@
     "nombre_episodes": 134,
     "statut": "Terminée",
     "acteur_principal": "Gabriel Macht",
-    "lieu_culte": "assets/lieux/suits.jpg",
+    "lieu_culte": "assets/lieux/suits.jpeg",
     "titre_episode_culte": "Sucker Punch",
     "generique": {
       "titre": "Greenback Boogie",
@@ -3200,7 +3200,7 @@
     "nombre_episodes": 71,
     "statut": "En cours",
     "acteur_principal": "Justin Roiland",
-    "lieu_culte": "assets/lieux/rick_and_morty.jpg",
+    "lieu_culte": "assets/lieux/rick_and_morty.jpeg",
     "titre_episode_culte": "Pickle Rick",
     "generique": {
       "titre": "Rick and Morty Theme",
@@ -3490,7 +3490,7 @@
     "nombre_episodes": 71,
     "statut": "Terminée",
     "acteur_principal": "Jamel Debbouze",
-    "lieu_culte": "assets/lieux/h.jpg",
+    "lieu_culte": "assets/lieux/h.jpeg",
     "titre_episode_culte": "Une histoire de poste",
     "generique": {
       "titre": "[Ajouter generique]",
@@ -3548,7 +3548,7 @@
     "nombre_episodes": 12,
     "statut": "Terminée",
     "acteur_principal": "Phoebe Waller-Bridge",
-    "lieu_culte": "assets/lieux/fleabag.jpg",
+    "lieu_culte": "assets/lieux/fleabag.jpeg",
     "titre_episode_culte": "Le Dîner de Famille",
     "generique": {
       "titre": "Fleabag Theme",
@@ -4360,7 +4360,7 @@
     "nombre_episodes": 55,
     "statut": "Terminée",
     "acteur_principal": "Kevin Costner",
-    "lieu_culte": "assets/lieux/yellowstone.jpg",
+    "lieu_culte": "assets/lieux/yellowstone.jpeg",
     "titre_episode_culte": "Daybreak",
     "generique": {
       "titre": "Yellowstone Theme",
@@ -4650,7 +4650,7 @@
     "nombre_episodes": 24,
     "statut": "Terminée",
     "acteur_principal": "Diego Luna",
-    "lieu_culte": "assets/lieux/andor.jpg",
+    "lieu_culte": "assets/lieux/andor.jpeg",
     "titre_episode_culte": "One Way Out",
     "generique": {
       "titre": "Andor Theme",
@@ -5752,7 +5752,7 @@
     "nombre_episodes": 22,
     "statut": "Terminée",
     "acteur_principal": "Lee Jung-jae",
-    "lieu_culte": "assets/lieux/squid_game.jpg",
+    "lieu_culte": "assets/lieux/squid_game.jpeg",
     "titre_episode_culte": "Un, deux, trois, soleil",
     "generique": {
       "titre": "Way Back Then",
@@ -5810,7 +5810,7 @@
     "nombre_episodes": 33,
     "statut": "En cours",
     "acteur_principal": "Distribution variable",
-    "lieu_culte": "assets/lieux/black_mirror.jpg",
+    "lieu_culte": "assets/lieux/black_mirror.jpeg",
     "titre_episode_culte": "Hang the DJ",
     "generique": {
       "titre": "[Ajouter generique]",

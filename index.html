@@ -358,14 +358,18 @@ const HINTS_PERSO = makeHints('nom', 'nom');   // défi 2 : on devine un nom
 const PROFIL_SECOURS = [
   t => `Le nom commence par « ${t.nom.trim()[0].toUpperCase()} »`,
   HINTS_PERSO[0].html,
-  t => `Il est incarné par <strong>${t.acteur}</strong>`,
+  t => t.acteur ? `Il est incarné par <strong>${t.acteur}</strong>` : `Il vient de <strong>${t.film_origine}</strong>`,
 ];
-const HINTS_PERSO_CINEMA = [
+// Séries, défi 2 : même principe avec un « profil LinkedIn »
+const makeProfilHints = label => [
   ...[3, 5, 7].map((after, i) => ({ after, html: t => {
       const ligne = t.profil && t.profil[i];
-      return ligne ? `<span class="hint-sub" style="margin-bottom:4px">💌 Profil de rencontre — ${i+1}/3</span>${ligne}` : PROFIL_SECOURS[i](t); } })),
+      return ligne ? `<span class="hint-sub" style="margin-bottom:4px">${label} — ${i+1}/3</span>${ligne}` : PROFIL_SECOURS[i](t); } })),
   { ...HINTS_PERSO[2], after:10 },
 ];
+const HINTS_PERSO_CINEMA = makeProfilHints('💌 Profil de rencontre');
+const HINTS_PERSO_SERIE = makeProfilHints('💼 Profil LinkedIn');
+const HINTS_PERSO_ANIM = makeProfilHints("🪪 Carte d'identité");
 // Cinéma, défi 1 : « synopsis codé » — une phrase de plus à chaque palier (essais), puis la réponse cachée
 const SYNOPSIS_PALIERS = [3, 6, 9];   // essais à partir desquels la phrase 1, 2, 3 apparaît
 const SYNOPSIS_REVEAL = 12;           // essais à partir desquels la réponse cachée apparaît
@@ -376,16 +380,22 @@ const HINTS_FILM_CINEMA = [
   { ...makeHints('titre', 'titre')[2], after:SYNOPSIS_REVEAL },
 ];
 const HINTS_TITRE = makeHints('titre', 'titre'); // défi 1 : on devine un titre (mêmes indices)
-// Cinéma, défi 4 : le film en chiffres après 3 essais, petite annonce après 5, titre déformé après 7, réponse cachée après 10
+// Défi 4 (Cinéma et Séries) : « en chiffres » après 3 essais, petite annonce après 5, titre déformé après 7, réponse cachée après 10
 // (sans indices écrits : début du titre, pendu, puis premier mot, comme indices de secours)
-const REPLIQUE_SECOURS = [titleHint, HINTS_TITRE[0].html, HINTS_TITRE[1].html];
-const REPLIQUE_LABELS = ['🔢 Le film en chiffres', '📰 Petite annonce', '✏️ Titre déformé'];
-const HINTS_REPLIQUE_CINEMA = [
-  ...[3, 5, 7].map((after, i) => ({ after, html: t => {
-      const texte = t.indices_replique && t.indices_replique[i];
-      return texte ? `<span class="hint-sub" style="margin-bottom:4px">${REPLIQUE_LABELS[i]}</span>${texte}` : REPLIQUE_SECOURS[i](t); } })),
-  { ...HINTS_TITRE[2], after:10 },
-];
+const INDICES4_SECOURS = [titleHint, HINTS_TITRE[0].html, HINTS_TITRE[1].html];
+const makeIndices4 = (key, labelChiffres, autresLabels = ['📰 Petite annonce', '✏️ Titre déformé']) => {
+  const labels = [labelChiffres, ...autresLabels];
+  return [
+    ...[3, 5, 7].map((after, i) => ({ after, html: t => {
+        const texte = t[key] && t[key][i];
+        return texte ? `<span class="hint-sub" style="margin-bottom:4px">${labels[i]}</span>${texte}` : INDICES4_SECOURS[i](t); } })),
+    { ...HINTS_TITRE[2], after:10 },
+  ];
+};
+const HINTS_REPLIQUE_CINEMA = makeIndices4('indices_replique', '🔢 Le film en chiffres');
+const HINTS_EPISODE_SERIE = makeIndices4('indices_episode', '🔢 La série en chiffres');
+// Animation, défi 5 : « fiche du morceau » — style après 3, interprète après 5, scène après 7, réponse cachée après 10
+const HINTS_MUSIQUE_ANIM = makeIndices4('fiche_musique', '🎼 Le style', ["🎭 Qui l'interprète", '🎬 La scène']);
 
 // Réplique en VO puis en VF, sur 2 lignes (une seule ligne si le film n'a pas de VF distincte, ex. films français)
 function repliqueHtml(film){
@@ -433,7 +443,7 @@ const THEMES = {
           placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi1, columns:COLS_SERIE,
           resultMeta:t=>`${t.createur} · ${t.annee_debut} · ${t.genre}`, completionName:'Série' }) },
       { n:2, icon:'🧑', name:'Personnage', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', yesterday: yesterdayPersoHtml(), hints: HINTS_PERSO, itemLabel:'Perso', labelKey:'nom',
+        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', yesterday: yesterdayPersoHtml(), hints: HINTS_PERSO_SERIE, itemLabel:'Perso', labelKey:'nom',
           placeholder:"Tape le nom d'un personnage...", pool:PERSONNAGES_SERIES, target:DAILY_SERIES.defi2, columns:COLS_PERSO_SERIE,
           resultMeta:t=>`${t.serie_origine} · ${t.acteur}`, completionName:'Personnage' }) },
       { n:3, icon:'📍', name:'Lieu culte', desc:'Floutage',
@@ -450,13 +460,14 @@ const THEMES = {
         render: () => renderClueGuessDefi({ eyebrow:'Défi 4', title:"Devine la série", labelKey:'titre',
           placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi4,
           clueHtml: `<div class="replique-box">📺 Titre d'épisode culte :<br><strong>« ${DAILY_SERIES.defi4.titre_episode_culte} »</strong></div>`,
-          emojiHints:{ every:2, max:5 }, revealAfter:10,   // 1 emoji toutes les 2 échecs (5 max), réponse cachée après 10 échecs
+          hints: HINTS_EPISODE_SERIE,   // chiffres, petite annonce, titre déformé, puis réponse cachée après 10 échecs
           resultMeta:t=>`${t.createur} · ${t.annee_debut}`, completionName:"Titre d'épisode" }) },
       { n:5, icon:'🎵', name:'Générique', desc:'Extrait audio',
         render: () => renderClueGuessDefi({ eyebrow:'Défi 5', title:'Devine le générique', labelKey:'titre',
           placeholder:"Tape le titre d'une série...", pool:SERIES, target:DAILY_SERIES.defi5,
-          clueHtml: '',   // lecteur audio seul, aucun indice
-          audioSrc: DAILY_SERIES.defi5.generique.extrait_audio, revealAfter:10,
+          clueHtml: '',   // lecteur audio, puis les emojis comme indices
+          audioSrc: DAILY_SERIES.defi5.generique.extrait_audio,
+          emojiHints:{ every:2, max:5 }, revealAfter:10,   // 1 emoji toutes les 2 échecs (5 max), réponse cachée après 10 échecs
           resultMeta:t=>`${t.generique.titre} · ${t.generique.artiste}`, completionName:'Générique' }) },
       { n:6, icon:'🎭', name:'Casting', desc:'Photos des acteurs',
         render: () => renderCastingDefi({ eyebrow:'Défi 6', title:'Devine la série grâce à son casting', labelKey:'titre',
@@ -501,27 +512,27 @@ const THEMES = {
     label: 'Animation',
     defis: [
       { n:1, icon:'🎞️', name:'Film', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine le film', yesterday: yesterdayHtml(), hints: HINTS_TITRE, itemLabel:'Film', labelKey:'titre',
+        render: () => renderGridDefi({ eyebrow:'Défi 1', title:'Devine le film', yesterday: yesterdayHtml(), hints: HINTS_FILM_CINEMA, itemLabel:'Film', labelKey:'titre',
           placeholder:"Tape le titre d'un film d'animation...", pool:FILMS_ANIM, target:DAILY_ANIM.defi1, columns:COLS_FILM_ANIM,
           resultMeta:t=>`${t.studio} · ${t.annee} · ${t.genre}`, completionName:'Film' }) },
       { n:2, icon:'🧸', name:'Personnage', desc:'Grille de comparaison',
-        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', yesterday: yesterdayPersoHtml(), hints: HINTS_PERSO, itemLabel:'Perso', labelKey:'nom',
+        render: () => renderGridDefi({ eyebrow:'Défi 2', title:'Devine le personnage', yesterday: yesterdayPersoHtml(), hints: HINTS_PERSO_ANIM, itemLabel:'Perso', labelKey:'nom',
           placeholder:"Tape le nom d'un personnage...", pool:PERSONNAGES_ANIM, target:DAILY_ANIM.defi2, columns:COLS_PERSO_ANIM,
           resultMeta:t=>`${t.film_origine} · ${t.studio}`, completionName:'Personnage' }) },
       { n:3, icon:'🖼️', name:'Affiche', desc:'Floutage',
         render: () => renderBlurDefi({ eyebrow:'Défi 3', title:"Devine l'affiche", labelKey:'titre',
           placeholder:"Tape le titre d'un film d'animation...", pool:FILMS_ANIM, target:DAILY_ANIM.defi3,
-          resultMeta:t=>`${t.studio} · ${t.annee}`, completionName:'Affiche', imageKey:'affiche' }) },
+          resultMeta:t=>`${t.studio} · ${t.annee}`, completionName:'Affiche', imageKey:'affiche', revealAfter:10 }) },
       { n:4, icon:'💬', name:'Réplique', desc:'Indice écrit',
         render: () => renderClueGuessDefi({ eyebrow:'Défi 4', title:'Devine la réplique', labelKey:'titre',
           placeholder:"Tape le titre d'un film d'animation...", pool:FILMS_ANIM, target:DAILY_ANIM.defi4,
-          clueHtml: `<div class="replique-box">« ${DAILY_ANIM.defi4.repliques_cultes[0]} »</div>`,
+          clueHtml: `<div class="replique-box">« ${DAILY_ANIM.defi4.repliques_cultes[0]} »</div>`, hints: HINTS_REPLIQUE_CINEMA,
           resultMeta:t=>`${t.studio} · ${t.annee}`, completionName:'Réplique' }) },
       { n:5, icon:'🎵', name:'Musique', desc:'Extrait audio',
         render: () => renderClueGuessDefi({ eyebrow:'Défi 5', title:'Devine la musique', labelKey:'titre',
           placeholder:"Tape le titre d'un film d'animation...", pool:FILMS_ANIM, target:DAILY_ANIM.defi5,
           clueHtml: '',   // lecteur audio seul, aucun indice
-          audioSrc: DAILY_ANIM.defi5.musique.extrait_audio,
+          audioSrc: DAILY_ANIM.defi5.musique.extrait_audio, hints: HINTS_MUSIQUE_ANIM,
           resultMeta:t=>`${t.musique.titre} · ${t.musique.artiste}`, completionName:'Musique' }) },
       { n:6, icon:'🎭', name:'Film en emojis', desc:'Le film en emojis',
         render: () => renderEmojiDefi({ eyebrow:'Défi 6', title:'Devine le film en emojis', labelKey:'titre',
@@ -1342,12 +1353,28 @@ async function boot(){
     // Indices du défi 4 (Cinéma) : fichier optionnel, rattaché aux films par leur titre
     const indicesRepliques = await fetch('indices_repliques.json').then(r => r.json()).catch(() => ({}));
     films.forEach(f => { if(indicesRepliques[f.titre]) f.indices_replique = indicesRepliques[f.titre]; });
+    // Indices du défi 4 (Séries) : fichier optionnel, rattaché aux séries par leur titre
+    const indicesSeries = await fetch('indices_series.json').then(r => r.json()).catch(() => ({}));
+    series.forEach(s => { if(indicesSeries[s.titre]) s.indices_episode = indicesSeries[s.titre]; });
     // Emojis du défi 6 (Animation) : fichier rattaché aux films d'animation par leur titre
     const emojisAnim = await fetch('emojis_animation.json').then(r => r.json()).catch(() => ({}));
     filmsAnim.forEach(f => { if(emojisAnim[f.titre]) f.emojis = emojisAnim[f.titre]; });
+    // Synopsis codés (défi 1) et indices (défi 4) de l'Animation : fichiers optionnels, rattachés par le titre
+    const synopsisAnim = await fetch('synopsis_animation.json').then(r => r.json()).catch(() => ({}));
+    const indicesAnim = await fetch('indices_animation.json').then(r => r.json()).catch(() => ({}));
+    filmsAnim.forEach(f => { if(synopsisAnim[f.titre]) f.synopsis_code = synopsisAnim[f.titre]; if(indicesAnim[f.titre]) f.indices_replique = indicesAnim[f.titre]; });
+    // Fiches du morceau (défi 5 Animation) : fichier optionnel, rattaché par le titre
+    const fichesMusique = await fetch('fiches_musique_animation.json').then(r => r.json()).catch(() => ({}));
+    filmsAnim.forEach(f => { if(fichesMusique[f.titre]) f.fiche_musique = fichesMusique[f.titre]; });
     // Profils de rencontre du défi 2 (Cinéma) : fichier optionnel, rattaché aux personnages par leur nom
     const profils = await fetch('profils_personnages.json').then(r => r.json()).catch(() => ({}));
     persos.forEach(p => { if(profils[p.nom]) p.profil = profils[p.nom]; });
+    // Profils LinkedIn du défi 2 (Séries) : fichier optionnel, rattaché aux personnages par leur nom
+    const profilsSeries = await fetch('profils_series.json').then(r => r.json()).catch(() => ({}));
+    persosSeries.forEach(p => { if(profilsSeries[p.nom]) p.profil = profilsSeries[p.nom]; });
+    // Cartes d'identité du défi 2 (Animation) : fichier optionnel, rattaché aux personnages par leur nom
+    const cartesAnim = await fetch('cartes_animation.json').then(r => r.json()).catch(() => ({}));
+    persosAnim.forEach(p => { if(cartesAnim[p.nom]) p.profil = cartesAnim[p.nom]; });
     FILMS = films; PERSONNAGES = persos; SERIES = series; PERSONNAGES_SERIES = persosSeries; ANIMES = animes; PERSONNAGES_ANIMES = persosAnimes; FILMS_ANIM = filmsAnim; PERSONNAGES_ANIM = persosAnim;
 
     DAILY_CINEMA = pickDistinct(FILMS, ['defi1','defi3','defi4','defi5','defi6'], 'cinema', TODAY_SEED);
