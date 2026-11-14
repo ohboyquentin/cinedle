@@ -2509,7 +2509,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
-      "extrait_audio": "assets/audio/generiques/camera_cafe.mp3"
+      "extrait_audio": "assets/audio/generiques/camera_cafe.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/camera_cafe_difficile.jpg",
@@ -2915,7 +2915,7 @@
     "generique": {
       "titre": "Wolfgang Amadeus Mozart",
       "artiste": "Cut Copy",
-      "extrait_audio": "assets/audio/generiques/skins.mp3"
+      "extrait_audio": "assets/audio/generiques/skins.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/skins_difficile.jpg",
@@ -3495,7 +3495,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "DJ Abdel",
-      "extrait_audio": "assets/audio/generiques/h.mp3"
+      "extrait_audio": "assets/audio/generiques/h.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/h_difficile.jpg",
@@ -3553,7 +3553,7 @@
     "generique": {
       "titre": "Fleabag Theme",
       "artiste": "Isobel Waller-Bridge",
-      "extrait_audio": "assets/audio/generiques/fleabag.mp3"
+      "extrait_audio": "assets/audio/generiques/fleabag.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/fleabag_difficile.jpg",
@@ -3611,7 +3611,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "Danny Elfman",
-      "extrait_audio": "assets/audio/generiques/desperate_housewives.mp3"
+      "extrait_audio": "assets/audio/generiques/desperate_housewives.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/desperate_housewives_difficile.jpg",
@@ -3727,7 +3727,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "Blake Neely",
-      "extrait_audio": "assets/audio/generiques/the_mentalist.mp3"
+      "extrait_audio": "assets/audio/generiques/the_mentalist.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/the_mentalist_difficile.jpg",
@@ -4191,7 +4191,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "Two Fingers",
-      "extrait_audio": "assets/audio/generiques/orphan_black.mp3"
+      "extrait_audio": "assets/audio/generiques/orphan_black.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/orphan_black_difficile.jpg",
@@ -4249,7 +4249,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "Wendy Melvoin et Lisa Coleman",
-      "extrait_audio": "assets/audio/generiques/heroes.mp3"
+      "extrait_audio": "assets/audio/generiques/heroes.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/heroes_difficile.jpg",
@@ -4307,7 +4307,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "Dave Porter",
-      "extrait_audio": "assets/audio/generiques/pluribus.mp3"
+      "extrait_audio": "assets/audio/generiques/pluribus.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/pluribus_difficile.jpg",
@@ -4481,7 +4481,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "Dave Porter",
-      "extrait_audio": "assets/audio/generiques/preacher.mp3"
+      "extrait_audio": "assets/audio/generiques/preacher.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/preacher_difficile.jpg",
@@ -5061,7 +5061,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "The Newton Brothers",
-      "extrait_audio": "assets/audio/generiques/the_haunting_of_hill_house.mp3"
+      "extrait_audio": "assets/audio/generiques/the_haunting_of_hill_house.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/the_haunting_of_hill_house_difficile.jpg",
@@ -5119,7 +5119,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "Carlos Rafael Rivera",
-      "extrait_audio": "assets/audio/generiques/le_jeu_de_la_dame.mp3"
+      "extrait_audio": "assets/audio/generiques/le_jeu_de_la_dame.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/le_jeu_de_la_dame_difficile.jpg",
@@ -5467,7 +5467,7 @@
     "generique": {
       "titre": "Kaamelott (générique)",
       "artiste": "Alexandre Astier",
-      "extrait_audio": "assets/audio/generiques/kaamelott.mp3"
+      "extrait_audio": "assets/audio/generiques/kaamelott.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/kaamelott_difficile.jpg",
@@ -5525,7 +5525,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
-      "extrait_audio": "assets/audio/generiques/dix_pour_cent.mp3"
+      "extrait_audio": "assets/audio/generiques/dix_pour_cent.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/dix_pour_cent_difficile.jpg",
@@ -5583,7 +5583,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
-      "extrait_audio": "assets/audio/generiques/lupin.mp3"
+      "extrait_audio": "assets/audio/generiques/lupin.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/lupin_difficile.jpg",
@@ -5641,7 +5641,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
-      "extrait_audio": "assets/audio/generiques/le_bureau_des_legendes.mp3"
+      "extrait_audio": "assets/audio/generiques/le_bureau_des_legendes.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/le_bureau_des_legendes_difficile.jpg",
@@ -5699,7 +5699,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
-      "extrait_audio": "assets/audio/generiques/baron_noir.mp3"
+      "extrait_audio": "assets/audio/generiques/baron_noir.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/baron_noir_difficile.jpg",
@@ -5815,7 +5815,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
-      "extrait_audio": "assets/audio/generiques/black_mirror.mp3"
+      "extrait_audio": "assets/audio/generiques/black_mirror.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/black_mirror_difficile.jpg",
@@ -6047,7 +6047,7 @@
     "generique": {
       "titre": "Hannibal Main Title",
       "artiste": "Brian Reitzell",
-      "extrait_audio": "assets/audio/generiques/hannibal.mp3"
+      "extrait_audio": "assets/audio/generiques/hannibal.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/hannibal_difficile.jpg",
@@ -6163,7 +6163,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
-      "extrait_audio": "assets/audio/generiques/gossip_girl.mp3"
+      "extrait_audio": "assets/audio/generiques/gossip_girl.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/gossip_girl_difficile.jpg",
@@ -6221,7 +6221,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
-      "extrait_audio": "assets/audio/generiques/cobra_kai.mp3"
+      "extrait_audio": "assets/audio/generiques/cobra_kai.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/cobra_kai_difficile.jpg",
@@ -6511,7 +6511,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "Siddhartha Khosla",
-      "extrait_audio": "assets/audio/generiques/only_murders_in_the_building.mp3"
+      "extrait_audio": "assets/audio/generiques/only_murders_in_the_building.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/only_murders_in_the_building_difficile.jpg",
@@ -6569,7 +6569,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
-      "extrait_audio": "assets/audio/generiques/bridgerton.mp3"
+      "extrait_audio": "assets/audio/generiques/bridgerton.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/bridgerton_difficile.jpg",
@@ -6743,7 +6743,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
-      "extrait_audio": "assets/audio/generiques/gomorra.mp3"
+      "extrait_audio": "assets/audio/generiques/gomorra.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/gomorra_difficile.jpg",
@@ -6801,7 +6801,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "David Fleming",
-      "extrait_audio": "assets/audio/generiques/widow_s_bay.mp3"
+      "extrait_audio": "assets/audio/generiques/widow_s_bay.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/widow_s_bay_difficile.jpg",
@@ -6859,7 +6859,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "Atli Örvarsson",
-      "extrait_audio": "assets/audio/generiques/silo.mp3"
+      "extrait_audio": "assets/audio/generiques/silo.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/silo_difficile.jpg",

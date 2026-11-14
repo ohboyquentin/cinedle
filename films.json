@@ -11949,9 +11949,9 @@
     "acteur_principal": "Daniel Radcliffe",
     "affiche": "assets/affiches/harry_potter_et_l_ordre_du_phenix.jpg",
     "repliques_cultes": [
-      "You’re the weak one. You’ll never know love, or friendship. And I feel sorry for you."
+      "We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are."
     ],
-    "replique_vf": "Tu es le faible, car tu ne connaîtras jamais l'amour ou l'amitié.",
+    "replique_vf": "Dans le monde, il n'y a pas d'un côté le bien et le mal, il y a une part de lumière et d'ombre en chacun de nous. Ce qui compte c'est celle que l'on choisit de montrer dans nos actes, ça c'est ce que l'on est vraiment. ",
     "audio_replique": "assets/audio/repliques/harry_potter_et_l_ordre_du_phenix.mp3",
     "images_defi6": {
       "difficile": "assets/images/harry_potter_et_l_ordre_du_phenix_difficile.jpg",
@@ -12001,9 +12001,9 @@
     "acteur_principal": "Daniel Radcliffe",
     "affiche": "assets/affiches/harry_potter_et_le_prince_de_sang_mele.jpg",
     "repliques_cultes": [
-      "Sectumsempra !"
+      "Why is it, when something happens, it is always you three?"
     ],
-    "replique_vf": "Sectumsempra !",
+    "replique_vf": "Pourquoi est-ce que, dès qu'il se passe quelque chose, c'est toujours vous trois ?",
     "audio_replique": "assets/audio/repliques/harry_potter_et_le_prince_de_sang_mele.mp3",
     "images_defi6": {
       "difficile": "assets/images/harry_potter_et_le_prince_de_sang_mele_difficile.jpg",
