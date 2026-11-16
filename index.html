@@ -533,7 +533,7 @@ const THEMES = {
           placeholder:"Tape le titre d'un film d'animation...", pool:FILMS_ANIM, target:DAILY_ANIM.defi5,
           clueHtml: '',   // lecteur audio seul, aucun indice
           audioSrc: DAILY_ANIM.defi5.musique.extrait_audio, hints: HINTS_MUSIQUE_ANIM,
-          resultMeta:t=>`${t.musique.titre} · ${t.musique.artiste}`, completionName:'Musique' }) },
+          resultMeta:t=>`${t.annee}`, completionName:'Musique' }) },
       { n:6, icon:'🎭', name:'Film en emojis', desc:'Le film en emojis',
         render: () => renderEmojiDefi({ eyebrow:'Défi 6', title:'Devine le film en emojis', labelKey:'titre',
           placeholder:"Tape le titre d'un film d'animation...", pool:FILMS_ANIM, target:DAILY_ANIM.defi6,

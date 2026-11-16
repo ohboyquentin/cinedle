@@ -6105,7 +6105,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
-      "extrait_audio": "assets/audio/generiques/mr_robot.mp3"
+      "extrait_audio": "assets/audio/generiques/mr_robot.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/mr_robot_difficile.jpg",
@@ -6279,7 +6279,7 @@
     "generique": {
       "titre": "[Ajouter generique]",
       "artiste": "[Ajouter artiste]",
-      "extrait_audio": "assets/audio/generiques/shogun.mp3"
+      "extrait_audio": "assets/audio/generiques/shogun.m4a"
     },
     "images_defi6": {
       "difficile": "assets/images/shogun_difficile.jpg",
@@ -6816,9 +6816,9 @@
       "⚓"
     ],
     "synopsis_code": [
-      "[Ajouter synopsis]",
-      "[Ajouter synopsis]",
-      "[Ajouter synopsis]"
+      "Le maire d'une petite île au large de la Nouvelle-Angleterre rêve d'attirer enfin les touristes.",
+      "Les habitants, très superstitieux, refusent de sortir après la tombée de la nuit.",
+      "Il découvre que les vieilles légendes de l'île ne sont peut-être pas que des histoires."
     ],
     "casting": [
       {
